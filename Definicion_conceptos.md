@@ -157,6 +157,9 @@ Herurístico:
 4)Ejecutar un plan
 5)Revisar
 
+![](/Users/juanaespinosa/Documents/Tesis Git_esquema/Esquemas/Untitled Diagram.png)
+
 Buenas prácticas: Utilizar las representaciones visuales que favorezcan la compresión de conceptos. Diagramas de flujo, mapas conceptuales, diagramas de venn. 
+
 
 Algorítimitco
