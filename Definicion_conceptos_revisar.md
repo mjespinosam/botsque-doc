@@ -210,6 +210,7 @@ Procesos necesarios para convertir los datos disponibles en la información requ
 
 ##### Pensamiento Algorítimitco
 
+
 Desarrollo y uso de algoritmos  que pueden ayudar a resolver un tipo especídico de problemas o a realizar un tipo específico de tarea. 
 
 el Pensamiento
