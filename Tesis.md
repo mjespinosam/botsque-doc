@@ -9,28 +9,31 @@ I
 
 Introducción
 
-II
+Plantar la discusión: Las plantas como agentes (abordajes interdisciplinarios perspectivas teóricas)
+
+¿Cómo pensamos las plantas?
 
 Las raíces del problema: ¿Qué es de la planta la planta digital?
 
-III 
-Plantar la discusión: Las plantas como agentes, (abordajes interdisciplinarios perspectivas teóricas)
+¿Qué ocurre cuando pensamos las plantas en infraestructuras digitales ? 
 
-IV  
 Metodologías injertas: prespectivas del diseño para las humanidades
 
-V  
+¿De que manera podemos abordar este problema desde las humanidades digitales? 
+
 De la Extracción a la siembra de datos colaborativa: rutas y prototipos
 
-VI 
+¿Cuál fue el recorrido, cuáles los modos y cuáles los hallazgos?
+
+
 El lenguaje del botsque : prototipo para pensar la agencia de lo no humano en entornos colaborativos
 
-VII  
+¿De qué manera podemos diseñar un entorno colaborativo en la que las plantas sean agentes? 
+
 Conclusiones
 
-VIII 
 Referencias
-IX  
+
 Anexos
 
 
