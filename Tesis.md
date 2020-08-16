@@ -3,20 +3,31 @@
 
 ### Índice
 
+[TOC]
+
 I
+
 Introducción
+
 II
+
 Las raíces del problema: ¿Qué es de la planta la planta digital?
+
 III 
 Plantar la discusión: Las plantas como agentes, (abordajes interdisciplinarios perspectivas teóricas)
+
 IV  
 Metodologías injertas: prespectivas del diseño para las humanidades
+
 V  
 De la Extracción a la siembra de datos colaborativa: rutas y prototipos
+
 VI 
 El lenguaje del botsque : prototipo para pensar la agencia de lo no humano en entornos colaborativos
+
 VII  
 Conclusiones
+
 VIII 
 Referencias
 IX  
@@ -25,13 +36,13 @@ Anexos
 
 ##  I Introducción
 
-AL menos son dos los objetos de las humanidades digitales: 1) implementar y desarrollar herramientas digitales para la investigación y transferencia de conocimiento de las disciplinas y 2) dialogar con las herramientas para dar discusiones conceptuales y teóricas.[^1]. La primera perspectiva se desarrolla a partir de conocimientos de las ciencias de la información, bibliotecología, archivística, ingenierías de sistemas, informática, electrónica, desarrollo de software, etc. Estas disciplinas disponen de metodologías que permiten a los humanistas organizar corpus de datos, hacer análisis de los mismos, visualizarlos, crear y gestionar colecciones o desarrollar software específico para analizar, comprender o resolver sus problemas particulares. A este modelo de implementación o desarrollo de herramientas desde perspectivas y necesidades humanistas se suma la posibilidad de hacer investigación sobre el diálogo entre los diversos campos de las humanidades y las tecnologías y herramientas digitales[^2]. Aunque una perspectiva no excluye a la otra, es claro que la primera busca implementar o validar un prototipo para resolver un problema. La segunda perspectiva por su parte busca mediante la implementación y el prototipo experimentar para dar cuenta de las tensiones y posibilidades que se dan entre herramientas y conocimientos disciplinares [^3].
+Al menos son dos los objetos de las humanidades digitales: 1) implementar y desarrollar herramientas digitales para la investigación y transferencia de conocimiento de las disciplinas y 2) dialogar con las herramientas para dar discusiones conceptuales y teóricas.[^1]. La primera perspectiva se desarrolla a partir de conocimientos de las ciencias de la información, bibliotecología, archivística, ingenierías de sistemas, informática, electrónica, desarrollo de software, etc. Estas disciplinas disponen de metodologías que permiten a los humanistas organizar corpus de datos, hacer análisis de los mismos, visualizarlos, crear y gestionar colecciones o desarrollar software específico para analizar, comprender o resolver sus problemas particulares. A este modelo de implementación o desarrollo de herramientas desde perspectivas y necesidades humanistas se suma la posibilidad de hacer investigación sobre el diálogo entre los diversos campos de las humanidades y las tecnologías y herramientas digitales[^2]. Aunque una perspectiva no excluye a la otra, es claro que la primera busca implementar o validar un prototipo para resolver un problema. La segunda perspectiva por su parte busca mediante la implementación y el prototipo experimentar para dar cuenta de las tensiones y posibilidades que se dan entre herramientas y conocimientos disciplinares [^3].
 
 En este sentido, esta tesis, explora la segunda perspectiva, al discutir cómo la implementación de herramientas colaborativas, en particular una wiki semántica etnobotánica (relaciones seres humanos-plantas), me permitió reconocer en el prototipo un dispositivo experimental para pensar tanto el problema de las herramientas colaborativas como las relaciones seres humanos-plantas. Es decir, las tensiones y diálogos entre herramientas digitales y conocimiento etnobotánico. Durante la investigación el prototipado de las herramientas, en sus diferentes fases e iteraciones, pasaron de metodologías de diseño participativo o centrado en usuarios a una metodología de diseño centrado en conceptos problema. De ahí que en el proceso emergieron todos los actores humanos y no humanos involucrados en dar cuenta de las relaciones plantas-seres humanos. A esta altura de la experimentación se refinó el problema, se precisaron los actantes y emergió la pregunta de qué condiciones son necesarias para que las herramientas colaborativas se configuren como un espacio en el que humanos y no humanos -en este caso plantas- se integren como actores del conocimiento colaborativo. Esta pregunta, que parte del reconocimiento de las plantas como actantes en la construcción de conocimiento sobre ellas y cuya relación con los seres humanos puede modelarse mediante herramientas digitales colaborativas, solo fue posible una vez recorrí la perspectiva de implementación de herramientas colaborativas para una necesidad de una comunidad y me encontré con una perspectiva crítica del diseño para analizar el software mismo. Un problema que emergió al poner a prueba el problema inicial mediante diversos prototipos. 
 
 Abordar la agencia de la plantas como actores en la construcción del conocimiento colaborativo en herramientas digitales, introduce en las humanidades digitales las discusiones sobre lo no humano que abordan las pos humanidades desde la filosofía, la antropología y estudios de la ciencia en diálogo a la biología y la etnografía [^3]. Si bien la manera como las plantas se pueden comunicar está en campos experimentales aún, ya se reconoce que tienen memoria y por lo tanto aprenden. Igualmente es claro que producen signos que comunican a los humanos, a los entornos y que, a través de sistemas más complejos, les permiten comunicarse entre sí. En diferentes latitudes del planeta las comunidades no solo reconocen la agencia de las plantas como parte de sus culturas sino que, describen las maneras como seres humanos y plantas entran en comunicación para reportar sus usos, por ejemplo a tavés de los sueños (Terangpi et al., 2015). De ahí que dar esta discusión desde las humanidades digitales me permite construir un diálogo interdisciplinario para hacer una aproximación crítica tanto a una software existente que es modelo de los entornos colaborativos, el Media wiki, como una modesta proposición de un modelo posible para una herramienta colaborativa hipotética, en la que se reconozca y active la agencia de las plantas con la mediación de agentes virtuales. 
 
-En el capítulo 1 "Las raíces del problema" presento el recorrido en el refinamiento de la pregunta y el problema durante la investigación. Este proceso documentado a través de el control de versiones Git me permite ver como el tema de las relaciones seres humanos y plantas requirió de un refinamiento de las preguntas y los problemas mediante procesos de prototipado y como se desprendieron ramas de discusiones que daban paso a nuevas investigaciones o desarrollos. Así, en este trayecto hago el seguimiento a las preguntas iniciales, emergentes, el refinamiento del problema, los prototipos realizados, los referentes encontrados, los conceptos integrados y las ideas emergentes. Este apartado integra una metodología de seguimiento a los procesos investigativos mediante una herramienta de control de versiones para software -GIT- que en este caso particular permite ver -gráficamente-  mediante puntos en una línea del tiempo, los cambios en el desarrollo de la investigación y las ramas que se desprenden.
+En el capítulo 1 "Las raíces del problema" presento el recorrido en el refinamiento de la pregunta y el problema durante la investigación. Este proceso es documentado a través de el control de versiones Git. Este software me permite ver como el tema de las relaciones seres humanos y plantas requirió de un refinamiento de las preguntas y los problemas mediante procesos de prototipado y como se desprendieron ramas de discusiones que daban paso a nuevas investigaciones o desarrollos. Así, en este trayecto hago el seguimiento a las preguntas iniciales, emergentes, el refinamiento del problema, los prototipos realizados, los referentes encontrados, los conceptos integrados y las ideas emergentes. 
 
 
  En el capítulo 2: "Plantar la discusión" abordaré el marco teórico y conceptual que permiten comprender a las plantas como agentes/actantes en la integración de sistemas de construcción de conocimiento. En este capítulo me concentro en el abordaje de la Teoría Actor Red de Latour y la Semiótica de Peirce como marcos teóricos que permiten abordar lo no humano como agentes productores de signos y por lo tanto de información y conocimiento en diversos  contextos. Estas dos teorías tienen claras perspectivas metodológicas por ello abordaré simultáneamente discusiones filosóficas y biológicas que discuten en la actualidad el lugar ontológico y la inteligencias de las plantas respectivamente. 
@@ -43,43 +54,118 @@ En el capítulo 1 "Las raíces del problema" presento el recorrido en el refinam
  En el 5 capítulo: "El lenguaje del botsque", elaboro un esquema para una herramienta colaborativa que integre la agencia de las plantas con el uso de un agente virtual "botsque" en un entorno colaborativo. Prootipo con el que concluyo este trabajo y que me permite recomendar elementos para el desarrollo de herramientas ágiles, incluyentes, biocéntricas que impliquen un diseño centrado en lo vegetal para aboradar las relaciones plantas-seres humanos.
 
 
- [^1]: Las relaciones entre tecnologías digitales y humanidades han trasegado desde la computación humanista, la informática comunitaria, la informática educativa y las humanidades digitales. Si bien en ninguna de estos campos existen definiciones disciplinares con programas teóricos y metodológicos claros, todas emergen dentro de la cultura digital o cibercultura. Los abordajes para su definición presentan un campo múltiple de aproximaciones en las que prima lo heterogéneo, interdisciplinario. Ver: del Rio Riande, M. G., & González Garcí Blanco, B. (2015). Introducción a las Humanidades Digitales. Material Didáctico Sistematizado. 103. https://www.aacademica.org/gimena.delrio.riande/115 Cuartas-Restrepo, J. M. (2017). Humanidades digitales, dejarlas ser. Revista Colombiana de Educación, 72(1), 65-78. https://doi.org/10.17227/01203916.72rce65.78 Galina Russell, I. (s. f.). ¿Qué son las humanidades digitales? 1 Julio de 2012, 12(7). Recuperado 4 de diciembre de 2016, de http://132.248.9.34/hevila/Revistadigitaluniversitaria/2011/vol12/no7/5.pdf Rueda Ortiz, R. (Ed.). (2013). Ciberciudadanías, cultura política y creatividad social (Primera edición). Universidad Pedagógica Nacional. 
+[^1]: Las relaciones entre tecnologías digitales y humanidades han trasegado desde la computación humanista, la informática comunitaria, la informática educativa y las humanidades digitales. Si bien en ninguna de estos campos existen definiciones disciplinares con programas teóricos y metodológicos claros, todas emergen dentro de la cultura digital o cibercultura. Los abordajes para su definición presentan un campo múltiple de aproximaciones en las que prima lo heterogéneo, interdisciplinario. Ver: del Rio Riande, M. G., & González Garcí Blanco, B. (2015). Introducción a las Humanidades Digitales. Material Didáctico Sistematizado. 103. https://www.aacademica.org/gimena.delrio.riande/115 Cuartas-Restrepo, J. M. (2017). Humanidades digitales, dejarlas ser. Revista Colombiana de Educación, 72(1), 65-78. https://doi.org/10.17227/01203916.72rce65.78 Galina Russell, I. (s. f.). ¿Qué son las humanidades digitales? 1 Julio de 2012, 12(7). Recuperado 4 de diciembre de 2016, de http://132.248.9.34/hevila/Revistadigitaluniversitaria/2011/vol12/no7/5.pdf Rueda Ortiz, R. (Ed.). (2013). Ciberciudadanías, cultura política y creatividad social (Primera edición). Universidad Pedagógica Nacional. 
 
 [^2]: Los estudios de las tecnologías o la antropología de la ciencia tienen por objeto de estudio la tecnología y si bien dan cuenta de las relaciones de los actores humano y no humano su objetivo no es pensar el problema mismo desde el uso o experimentación con la tecnología. Esta manera de investigar por medio del hacer con una tecnología está más cerca de las metodoogías del diseño. 
 [^3]: Como elaboraré en la metodología esta perspectiva coincide con lo que los diseñadores han llamado "Investigación como diseño" (Simon, 2015).
 [^4]: Lo no humano en las humanidades se desarrollará en el III capítulo. La filosofía permite un marco para el reconocimiento ontológico a lo vegetal (Ver: Michael Marder),  la antropología un abordaje de la construcción de realidad, sentido y comunicación con lo no humano (Ver :Latour (2014), Kohn (2013)) y la biología una expansión de sus preguntas sobre inteligencia y comunicación vegetal (Ver Gagliano (2017), Mancuso (2015)
 
+## II Las raíces del problema: ¿Qué es de la planta la planta digital?  
 
-####  Las raíces del problema: ¿Qué es de la planta la planta digital?  
+#### Preguntas, problemas y referentes 
 
-  * Preguntas, problemas y referentes 
+¿Qué es de la planta lo que una base de datos dice que es la planta? ¿Cuál es la participación de la planta en lo que sobre ella se dice en una plataforma colaborativa? ¿Puede ella colaborar en lo que de sí se dice y se construye en una plataforma que quiere poner de manifiesto las relaciones que tiene ella con los seres humanos? ¿Las plataformas colaborativas pueden dar cuenta de las relaciones plantas-seres humanos? La aparición de cada una de estas preguntas en esta tesis no fue un asunto a priori, si no el resultado de un proceso de investigación a partir de la consulta y estudio de referentes y el prototipado de plataformas colaborativas. Así, las preguntas fueron develando el problema subyacente al problema inicial. Pero, ¿es posible hacer una investigación sin un problema acotado? 
 
-¿Qué es de la planta lo que una base de datos dice que es la planta? ¿Cuál es la participación de la planta en lo que sobre ella se dice en una plataforma colaborativa? ¿Puede ella colaborar en lo que de sí se dice y se construye en una plataforma que quiere poner de manifiesto las relaciones que tiene ella con los seres humanos? ¿Las plataformas colaborativas pueden dar cuenta de las relaciones plantas seres humanos? La aparición de cada una de estas preguntas en esta tesis no fue un asunto a priori, si no el resultado de un proceso de investigación a partir del prototipado de plataformas colaborativas. Así, el problema se fue refinando en el tiempo.
+En las humanidades es usual que nuevas categorías metodológicas o conceptuales aparezcan en el curso del desarrollo de la investigación. Generalmente se parte con unas categorías predeterminadas y aparecen nuevas categorías metodológicas o conceptuales en la medida que se expande el corpus teórico y se analizan datos (Rico de Alonso, 2005). Sin embargo, no es usual, ni metodológicamente deseable, que el problema cambie en el transcurso de la investigación. El problema responde a la identificación de un vacios del conocimiento y su investigación tiene por objeto comprender, explicar y ampliar los conocimientos que allí se discuten. Sin embargo, en esta investigación desde las Humanidades Digitales  el problema fue un problema. Las rutas metodológicas de diseño de investigación de las humanidades, excepto los estudios culturales o la etnohistoria [5^], no piensan en la confluencia de disciplinas para el abordaje de los problemas si bien en muchas investigaciones confluyen varias disciplinas. Por ello es usual que las investigadoras encontremos tensiones metodológicas antes los vacios del saber y el saber hacer en diversas disciplinas. Así, en esta investigación, como suele suceder en el diseño como en las artes, el problema tomó diversas materialidades -prototipos- y la investigación misma se encaminó a construir el problema interdisciplinariamente [6^]. Por lo tanto, el acotamiento del problema es el resultado de la investigación misma. Un recorrido que de paso posiciona la investigación como diseño (Grand, 2010; Jonas, 2010).
 
- ¿Es posible hacer una investigación sin un problema acotado? En las humanidades es usual que nuevas categorías metodológicas o conceptuales aparezcan en el curso del desarrollo de la investigación. Generalmente se parte con unas categorías predeterminadas y aparecen nuevas categorías metodológicas o conceptuales en la medida que se expande el corpus teórico y se analizan datos ((Rico de Alonso, s. f.). Sin embargo, no es usual, ni metodológicamente deseable, que el problema cambie en el transcurso de la investigación. EL problema responde a una revisión de vacios del conocimiento y la investigación tiene por objeto comprender, explicar y ampliar ese conocimiento. En esta investigación desde las Humanidades Digitales sin embargo, el problema fue un problema. Las rutas metodológicas de diseño de investigación de las humanidades -me formé en la antropología- no están pensados para abordar problemas en los que confluyen varias áreas del conocimiento entre ellas el diseño y las artes. Se presentan tensiones entre los vacios del conocimiento, el diseño de prototipos, los procesos de aprendizaje de la investigadora y las relaciones con las comunidades. De esta manera esta investigación, como suele suceder en el diseño como en las artes, el problema toma diversas materialidades y la investigación misma puede estar encaminada a identificar el problema no a "resolverlo". Por lo tanto el acotamiento del problema en esta investigación es el resultado de la investigación misma apoyada en la perspectiva de la investigación como diseño (Grand, 2010; Jonas, 2010).
-
-El problema desde el inicio se formuló como la necesidad de contar con herramientas colaborativas que democratizaran el acceso al conocimiento sobre las plantas y dieran cuenta de las relaciones con los seres humanos [5^]. Todo ese esfuerzo recaía en elegir una herramienta, adaptarla e implementarla para un ejercicio de ciencia ciudadana. Sin embargo, a medida que se desplegaron los elementos a tener en cuenta en una implementación: aspectos legales, éticos, filosóficos y hasta económicos, el problema de la democratización y la implementación de la herramienta se problematizaron. en particular cuando empecé a indagar sobre cómo se captura y da forma al conocimiento sobre la naturaleza en las herramientas y cómo damos forma a las plantas, personas, etc., cuando queremos representarlas digitalmente. ¿Pueden las herramientas colaborativas tipo wiki dar cuenta de las relaciones seres humanos plantas? y además ¿Pueden dar cuenta de múltiples maneras de relación?  
-
-La primera vez que noté las dificultades para definir las plantas en un entorno digital estaba frente al dilema de cómo crear una  "planta" en Omeka, un software libre creado para hacer colecciones de objetos digitales [6^]. ¿Podía capturar o crear digitalmente una planta como se hace en un proceso de digitalización desde un soporte análogo o en la creación de un libro, imagen, sonido digital? Para poder hacer un proceso análogo debía en principio crear la planta como un item en Omeka. Los items types en este software se corresponden a las entidades en las bases de datos. Es decir "cualquier objeto (real o abstracto) sobre el cual queremos tener información en la base de datos" (Conabio, s.f). En esta plataforma las entidades estan pensadas por tipos (types) que se corresponden a tipos de documentos digitales (textos, sonidos, imágenes, representaciones visuales) o digitalizados (libros, fotografías, música, etc.), recursos (páginas web, historia oral, eventos), individuos (personas), entre otras entidades. Fue así que creé "Planta" como un item que además decribí como "individuo" [Ver: Tesis_item_planta.jpg]
-
- Toda entidad en una base de datos se describe a partir de unos atributos. ¿Cuáles los atributos de las plantas? 
+![Esquema problema de investigación](/Users/juanaespinosa/Tesis/001_Tesis Git_esquema/Esquemas/esqu_problema_V2.png)
 
 
- Al estar dentro de un entorno prefigurado los atributos corresponden La planta en este entorno pasó a ser una descripción a partir de unos metadatos, es decir información estructurada de objetos digitales [7^]. Entonces ¿qué son de la planta los metadados? Empecemos por su identidad. Toda planta al construirse como una entidad en una base de datos debe ser identificada de manera única (llave primaria) para poder establecer relaciones con otras entidades (Lugar, usos, etc). Principio universal de las Bases de Datos: cada entidad debe tener una llave única.Pero ¿cuál era ese identificador único de una planta? El nombre, pensé. El nombre científico. Aún así, conozco muchas plantas de los jardines que he habitado y de ninguna se su nombre si bien se que a unas llegan abejas, a otras mosquitos blancos, que otras nunca florecen en el encierro y que las ventanas es el lugar preferidas de esas otras que mi amiga llama Anturios. Pero además, sabía en ese entonces que existían cientos de nombres comunes para referierse a una planta ¿Qué había de la alegría, el amaranto, los quelites en ese _Amaranthus hybridus_? El desarrollador nuevamente me miró con sospecha. Estaba la pantalla y el cuaderno garabateado: Ese amaranto del que hablo tiene muchas maneras de ser nombrado -Camilo- y, cómo hacer para que todas esas maneras ¿sean la misma planta, de semillas milagrosas y penachos fuccias, un poco rastreras, salvajes y malezas ellas? 
-  
+
+#### En el principio
+
+El problema inicial se formuló como la necesidad de implementar una herramienta colaborativa -tipo wiki-  que mejorara la recuperación de conocimiento sobre las relaciones seres humanos-plantas a la vez que democratizara el acceso y producción de dicho conocimiento[7^]. Todo ese esfuerzo recaía en elegir una herramienta, adaptarla a un sistema curatorial, implementarla para un ejercicio de ciencia ciudadana. Sin embargo, a medida que se desplegaron los elementos a tener en cuenta en una implementación de esta naturaleza: aspectos legales, éticos, filosóficos y hasta económicos, el problema descubrió aspectos subyacentes a todo proceso de implemetación: la aparente objetividad de las herramientas y la ingenuidad frente a su incidencia -interferencia- en modos de pensar y organizar el significado y la experiencia. De ahí que me preguntara ¿Cómo se captura y da forma al conocimiento sobre la naturaleza en las herramientas informáticas? ¿Cómo damos forma a las plantas, personas, etc., cuando queremos representarlas digitalmente? ¿Pueden las herramientas colaborativas tipo wiki dar cuenta de las relaciones seres humanos plantas? y además, ¿pueden dar cuenta de múltiples maneras de relacionamiento?  
+
+La primera vez que noté las dificultades para definir las plantas en un entorno digital estaba frente al dilema de cómo crear una "planta" en Omeka, un software libre creado para hacer colecciones de objetos digitales [6^]. ¿Podía capturar o crear digitalmente una planta como se hace en un proceso de digitalización desde un soporte análogo o en la creación de un libro, imagen, sonido digital? Para poder hacer un proceso análogo debía en principio crear la planta como un item en Omeka. Los items types en este software se corresponden a las entidades en las bases de datos. Es decir "cualquier objeto (real o abstracto) sobre el cual queremos tener información en la base de datos" (Conabio, s.f). En esta plataforma las entidades estan pensadas por tipos -types- que se corresponden a tipos de documentos digitales (textos, sonidos, imágenes, representaciones visuales) o digitalizados (libros, fotografías, música, etc.), recursos (páginas web, historia oral, eventos), individuos (personas), entre otras entidades. Fue así que creé "Planta" como un item que además decribí como "individuo" [Ver: Tesis_item_planta.jpg] Si bien esto era un proceso que pasaba por una acción técnica, al crear una entidad es preciso establecer los atributos ¿Cuáles los atributos de una planta? ¿Nombre? ¿Forma? ¿Componentes?. En este software los atributos de todo objeto digital están estandarizados por un conjunto de metadados denominados dublin core. Este estandar de metadatos "datos que estructuran un dato" [7^]. están pensados para objetos digitales más que para individuos: personas o plantas. Es decir que allí existía una segunda dificultad. Al tomar una fotografía de una planta y subirla a la plataforma no era el "objeto digital imagen" lo que sería descrito sino el objeto retratado. ¿Cómo adecuarme a esos metadatos o encontrar algunos alternos? Pero más allá del uso de uno y otro metadato ¿Qué son de la planta los metadados? 
+
 En este punto el problema era cómo hacer el modelado de datos como prerequisito para poder hacer prototipos en diferentes software. Pero este problema que era en apariencia un asunto técnico devino en una exploración sobre los tipos de bases de datos, la creación de las mismas y los conceptos subyacentes. De ahí que la pregunta de cómo dar cuenta de las relaciones seres humanos plantas en una plataforma colaborativo tipo wiki, desecandenó en una serie de preguntas sobre la naturaleza de diferentes software, los presupuestos sobre las relaciones seres humanos plantas, los aspectos éticos y jurídicos a tener en cuenta y las discusiones conceptuales sobre las plantas. ¿Qué es al final de cuentas una planta y cuáles las relaciones que ella tiene con nosotros? Si la entidad planta se describía como un individuo ¿Q
 ué implica definirla como individuo? ¿Cómo se puede evidenciar la agencia que tiene la planta en la construcción de conocimiento que sobre ella se trasnfiere a un entorno digital? 
 
+Pero no solo en el hacer con las herramientas surgieron las preguntas. La revisión de los referentes y un estudio por menorizado de ellas me llevó a establecer requerimientos antes no tenidos en cuenta. Inicialmente el proyecto quería aportar a la estructuración e implementación en las comunidades de la Base de Datos del Centro de Estudios en Medicina Intercultura CEMI, organización que viene adelantando con la Universidad del Rosario un trabajo exhaustivo y riguroso en los sistemas de medicina tradicional en Cota Cundinamarca y en el Vaupés. Esta base de datos tenía la infraestructura para ser colaborativa pero tenía al menos dos problemas: no tenía quien la alimentara y no contaban con un sistema de curaduría que permitiera verificar la calidad y pertinencia de la información dispuesta allí.   En conversaciones con quien en su momento era el gerente de proyectos establecí algunos compromisos frente al proyecto que en principio establecían claramente que mis intereses no eran económicos, que toda la información e incluso la base de datos era propiedad de la organización y que mi aporte estaría en el marco de una recomendación. El análisis de esta Base de Datos requirió de la lectura de los términos y condiciones y a la conversación con la abogada experta en propiedad intelectual y conocimientos tradicionales. A partir de allí empecé a reconocer las bibliotecas digitales que trabajaban temas etnobotánicos, las aplicaciones que en colombia abordaban este tema, desarrollos tipo wiki y otros sistemas colaborativos.  Inicialmente buscaba responder los siguientes temas:
+
+1. Plataformas etnobotánicas
+2. Plataformas colaborativas
+3. Sistemas de estructuración y recuperación de la información
+4. Tipo de vinculación de las personas y las comunidades en las plataformas
+5. Vocbularios controlados sobre etnobotánica
+6. Catalogación de conocimientos etnobotánicos
+
+
+
+![](/Users/juanaespinosa/Tesis/001_Tesis Git_esquema/Esquemas/esqu_Referentes_V4.png)
+
+
+
+Plataformas etnobotánicas como tal encontré tan solo 1 año y medio después de empezar la investigación tras muchas búsquedas. El desarrollo llamado TAMI es un proyecto liderado por investigadores de la Universidad Charles Darwin de Australia. Este desarrollo es el resultado de una reflexión sonbre el desarrollo colaborativo de software con comunidades y la discusión del desarrollo mismo. El resultado es un software adminsitrador de archivos digitales que no preestablece un sistema de captura del conocimiento mediante formularios sino que es estructurado por la comunidad misma. Est o introduce en la investigación el concepto de ontologías planas. Una discusión que cuestionó todos los procesos de catalogación del conocimientos tradicionales recomendados por la OMPI y la configuración misma de los formularios de la wiki semántica. 
+
+Cada una de los referentes fue descrito a partir de los siguientes categorías
+
+
+
+* Nombre
+* Descripción
+* Objeto
+* Antecedentes
+* Catalogación
+* Búsqueda
+* Términos y condiciones*
+* Protección saberes tradicionales
+* Búsqueda
+* Usabilidad
+* Documentación
+* Autores
+* Aportes al proyecto  
+
+En github pueden revisar la Wiki donde está cada una de las descripciones.
+
+**¿Qué aportaron cada una de estos referentes?**
+
+ESQUEMA 
+
+
+
+CEMI: discusión sobre los terminos y condiciones e inclusión de la necesidad de un protocolo curatorial.
+
+Biblitoecas digitales: estructuración de la información y necesidad de trabajar con 
+
+
+
+
+
+ En Colombia tuve noticia de un desarrollo tipo wiki que había desarrollado el Humbold llamado Yoscua que por asuntos legales no continuó. Ya desde el inicio del proyecto tenía algunas alertas sobre las dificultades de las plataforma
+
+
+
+
+
+
+
 Como grafico en el esquema siguiente los referentes consultados para ver modelos de sistemas colaborativos o no de conocimiento etnobotánico me permitieron ir pensando el problema. Que inicialmente se formuló como una la identificación, adecuación e implementación de un software colaborativo a pensar el problema mediante los prototipos y pensar un softawre que problematizara los problemas encontrados. 
 
+![](/Users/juanaespinosa/Tesis/001_Tesis Git_esquema/Esquemas/esqu_Giro_metodol_V1.png)
 
-
-
+Los prototipos 
 
 Las pruebas empezaron con sistemas de relaciones entre metadatos, esa información que describe un objeto digital bajo aspectos comunes y generales a todos los de su mismo tipo. De base, ese software, permite activar el Dublin Core Extended, un estandarización de metadatos que permite construir colecciones estructuradas para que la máquina recupere mejor la información, intercambie con otras plataformas y en resumidas haga de la web una sola cosa, interdependiente. Los item relations, la red posible de relaciones entre items que son fragmentos, derivados o parte de un mismo objeto, me permitían decir que **amaranto** is version of/ is part of/ _Amaranthus hibridus_ . Así era posible vincular uno y todos los nombres comunes con ese identificador único de una planta. La plataforma lo podría hacer no sin un trabajo desmedido. Tocaba para cada nombre común hacer una entrada única y vincularla a esa planta "maestra". El trabajo no era colaborativo. Una tarea que además ya había adelantado la Universidad Nacional con su paltaforma de [Nombres comunes de plantas de Colombia] (http://www.biovirtual.unal.edu.co/nombrescomunes/es/). Si ya existía, abría que buscar interoperabilidad. Pero más allá de que existiera el "nombre científico" asignado al metadato "título" ¿era este metadato de la planta, su identificador?. Por más que vinculara nombres comunes a un nombre científico ¿Cuál era la autoridad para decir que ese nombre es la planta? Esta es entonces la historia del trasegar de la reflexión  materializacion de la representación digital de las plantas y sus relaciones con los seres humanos. De cómo las plantas entraron a esta tesis vistas como objetos y se volcaron a ser sujetos, actantes que están en relación con los seres humanos para dar cuenta de sus beneficios, preferencias y dinámicas. Recorramos el diagrama
 
 
-### Documentar
+
+
+
+![](/Users/juanaespinosa/Tesis/001_Tesis Git_esquema/Esquemas/esqu_Referentes_V4.png)
+
+
+
+**Prototipos**
+
+
+
+Empecemos por su identidad. Toda planta al construirse como una entidad en una base de datos debe ser identificada de manera única (llave primaria) para poder establecer relaciones con otras entidades (Lugar, usos, etc). Principio universal de las Bases de Datos: cada entidad debe tener una llave única. Pero ¿cuál era ese identificador único de una planta? El nombre, pensé. El nombre científico. Aún así, conozco muchas plantas de los jardines que he habitado y de ninguna se su nombre si bien se que a unas llegan abejas, a otras mosquitos blancos, que otras nunca florecen en el encierro y que las ventanas es el lugar preferidas de esas otras que mi amiga llama Anturios. Pero además, sabía en ese entonces que existían cientos de nombres comunes para referierse a una planta ¿Qué había de la alegría, el amaranto, los quelites en ese _Amaranthus hybridus_? El desarrollador nuevamente me miró con sospecha. Estaba la pantalla y el cuaderno garabateado: Ese amaranto del que hablo tiene muchas maneras de ser nombrado -Camilo- y, cómo hacer para que todas esas maneras ¿sean la misma planta, de semillas milagrosas y penachos fuccias, un poco rastreras, salvajes y malezas ellas? La identidad de la planta tiene un código de identificación: el o los nombres científicos. Pero esta es una asignación que se establece desde la biologia. ¿Podría existir una llave primaria más cercana a la planta como planta? ¿Su imagen? 
+
+#### Documentar
+
+![](/Users/juanaespinosa/Tesis/001_Tesis Git_esquema/Esquemas/esqu_git_v1.png)
+
 
 
 Tanto la retrospección como la prospección son acciones involucradas en la
@@ -129,24 +215,21 @@ definición misma del problema. Lo limita, lo expande, lo aprisiona. El vinculo
 con la investigadora permite observar lo que allí sucede y seguir alguno de los
 caminos dispuestos.
 
+[5^]: La emergencia de las interdisciplians en las humanidades ha permitido explorar metodologías y métodos mixtos para poder encarar problemas. La etnohistoria por ejemplo ha recurrido tanto a la historia como la antropología y la arqueología para establecer diálogos transtemporales. Por su cuenta los estudios culturales son la intersección de prácticas investigativas de la economía, los mass media y disciplinas como la antropología, sociología. Por lo tanto un objeto de investigación es observado y construido por métodos mixtos. 
 
-[5^]: La etnobotánica es la disciplina en la que confluyen la botánica y la antropología para aboradar las perspctivas de uso y aprovechamiento del entorno vegetal por parte de comunidades indígenas. Como disciplina nación en el siglo XIX y ha estado vinculada desde un inicio con la etnofarmacología. El interés como disciplina se ha enfocado en la capitalización de los saberes tradicionales por parte de farmacéuticas e industrias quienes la mayor parte se benefician de estos saberes para emprender investigaciones, crear fármacos. Una perspectiva más humanista de estas disciplinas busca descentran la nocion de la naturaleza como un objeto suceptible de explotación para pensarlo como una participante de la vida de las comunidades. Ver Zuluaga 2008 **Verificar definiciones y buscar la bibliografía**
-
-[6^]: Se entiende por objeto digital el producto intelectual cuya materialidad digital-codificación numérica de la información- permite que sea publicado y acedido en tecnologías informáticas. "Frente a los DLOs están los no-DLOs, entendiendo como tales, por ejemplo, experiencias virtuales, bases de datos que generan "documentos como resultados" (Document-Like Outputs), o aplicaciones interactivas que pueden tener un contenido diferente según qué usuarios las utilicen". (96) Este concepto permite establecer sistemas de recuperación de información a partir de metadtos
-
-
-[7^]: Metadatos Informaciones que hacen útiles los datos. Están destinados a ordenar y describir la información contenida en un documento entendido como objeto (DLO), de tal forma que se erigen como reveladores tanto de la descripción formal, como del análisis de contenido, en aras a mejorar el acceso a los objetos de información de la Red
+[6^]:  En las Humanidades digitales confluyen discusiones, metodologías y métodos de las ciencias de la información, la bibliotecología, el diseño, las artes, la comunicación, las ingenierías de desarrollo de software y las humanidades, entre otros campos. 
 
 
 
+[7^]: La etnobotánica es la disciplina en la que confluyen la botánica y la antropología para aboradar las perspctivas de uso y aprovechamiento del entorno vegetal por parte de comunidades indígenas. Como disciplina nación en el siglo XIX y ha estado vinculada desde un inicio con la etnofarmacología. El interés como disciplina se ha enfocado en la capitalización de los saberes tradicionales por parte de farmacéuticas e industrias quienes la mayor parte se benefician de estos saberes para emprender investigaciones, crear fármacos. Una perspectiva más humanista de estas disciplinas busca descentran la nocion de la naturaleza como un objeto suceptible de explotación para pensarlo como una participante de la vida de las comunidades. Ver Zuluaga 2008 **Verificar definiciones y buscar la bibliografía**
 
+[8^]: Se entiende por objeto digital el producto intelectual cuya materialidad digital-codificación numérica de la información- permite que sea publicado y acedido en tecnologías informáticas. "Frente a los DLOs están los no-DLOs, entendiendo como tales, por ejemplo, experiencias virtuales, bases de datos que generan "documentos como resultados" (Document-Like Outputs), o aplicaciones interactivas que pueden tener un contenido diferente según qué usuarios las utilicen". (96) Este concepto permite establecer sistemas de recuperación de información a partir de metadtos
 
+[9^]: Metadatos Informaciones que hacen útiles los datos. Están destinados a ordenar y describir la información contenida en un documento entendido como objeto (DLO), de tal forma que se erigen como reveladores tanto de la descripción formal, como del análisis de contenido, en aras a mejorar el acceso a los objetos de información de la Red
 
+## III Plantar la discusión: Las plantas como agentes, (abordajes interdisciplinarios perspectivas teóricas)
 
-
-####  III Plantar la discusión: Las plantas como agentes, (abordajes interdisciplinarios perspectivas teóricas)
-
-####  IV  Metodologías injertas: prespectivas del diseño para las humanidades
+## IV  Metodologías injertas: prespectivas del diseño para las humanidades
 
 Cuando el prototipo no es el resultado sino el detonante
 
@@ -190,7 +273,7 @@ En muchos sentidos queda la sensación que el problema y el proyecto aparece del
 
 En este sentido quisiera solicitarles la posibilidad de “prototipar” un modelo de informe de tesis que me permita mediante el ensayo y apoyada en esquemas, dar cuenta de este proceso. Es decir narrar las rutas en las que el problema fue iterando, los experimentos y los hitos que permitieron refinar el problema y finalmente la manera como las infraestructuras fueron abordadas desde la antropología para cuestionar su “objetividad” y “adecuación” a la hora de dar cuenta de una relación como las de seres humanos plantas cuya ocurrencia cultural desborda la relación “ descriptiva” “utilitarista” y “extractiva” que predomina en los modelos de archivo y enciclopedismo occidental. Igualmente es de mi interés el poder establecer las rutas desde las cuales me posicioné como investigadora. Si bien fue posterior a muchos de los ejercicios y fue mediante la lectura de diversa literatura, quisiera dejar huella de la manera como se transformó mi rol y lo que ello significa profesionalmente. 
 
-Metodologías injertas
+#### Metodologías injertas
 
 >  En el capítulo 1 "Las raíces del problema" desarrollaré los cambios de pregunta y la refinación del problema a partir de una reflexión sobre el giro metodológico, los referentes y el lugar de la investigadora. Este trayecto visualizado en un esquema presenta los referentes que se relacionaron con los prototipos desarrollados. En el capítulo 2: "Metodologías injertas", presento las rutas metodológicas que abordé en el proyecto según las diferentes fases y donde apunto a ver cómo la investigación en tanto diseño es una perspectiva metodológica del diseño especulativo y crítico, que ofrece a las humanidades digitales la posibilidad de ampliar diálogos y discusiones teóricas a través de los prototipos. En el capítulo 3  "De la extracción a la siembra de datos" presento cada uno de los prototipos bajo un modelo de informe de laboratorio para determinar las cuestiones emergentes que me llevaron a nuevas iteraciones en las que se refinaba el problema a partir de los hallazgos, hasta un punto final en el que se planea un prototipo acorde a un estado de la cuestión, desde una perspectiva crítica de las herramientas y la construcción de los sujetos-objetos de estudio-investigación-croeación.
 
@@ -211,25 +294,18 @@ escenarios posibles para realidades alternas, utópicas o distópicas. En este a
 
 Este giro metodológico -como lo nombro- 
 
-
-
- 
-
 Estas metodologías, junto al ejercicio de prototipado pusieron en juicio las propias formulaciones de la investigacióm 
 
 [1] El proyecto recibió una financiación de la Facultad de Artes y Humanidades de los Andes a partir de la cual se desarrolló el trabajo de campo en la comunidad de ARAC 
 
 [2] La perspectiva metodológica aquí expuesta debería ser parte de los hallazgos, sin embargo, la metodología misma requiere de una ruta narrativa que de cuenta de cómo mediante el hacer fui pensando. 
 
+## V  De la Extracción a la siembra de datos colaborativa: rutas y prototipos
 
+## VI  El lenguaje del botsque : prototipo para pensar la agencia de lo no humano en entornos colaborativos
 
+## VII  Conclusiones
 
-V  De la Extracción a la siembra de datos colaborativa: rutas y prototipos
-VI  El lenguaje del botsque : prototipo para pensar la agencia de lo no humano en entornos colaborativos
-VII  ConclusionesVIII  Referencias
- IX  Anexos
-####  V  De la Extracción a la siembra de datos colaborativa: rutas y prototipos
-####  VI  El lenguaje del botsque : prototipo para pensar la agencia de lo no humano en entornos colaborativos
-####  VII  Conclusiones
-####  VIII  Referencias
-####  IX  Anexos
+## VIII  Referencias
+
+## IX  Anexos
