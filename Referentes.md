@@ -91,7 +91,7 @@ Las búsquedas son
  Todos los resultados están con colores. 
 
  La búsqueda alfabética organiza las palvaras claves de las 4 obras. 
- 
+
  La búsqueda temática se organiza en 6 campos
 
  1. Causas de demanda de atención: ¿Por qué recurren las personas a la medicina tradiconal? 
@@ -191,11 +191,15 @@ Consejo de investigación científica industruial de la indica y el Departamento
 
 **Aportes al proyecto** 
 
+Problematización de la exposición del conocimiento etnobotánico en la web  y los riesgos de la apropación indeboda de conocimientos. 
+
+Identificación de modelos de estructuracion de información etnobotánica con posibles adpataciones a otros sistemas culturales. 
+
+Discusiones de la Organización mundial de la propiedad intelecual respecto a los saberes tradicionales. 
+
 **Observaciones sobre la relación seres humanos- plantas**
 
-
-
-
+Relación direccional que reconoce en todo caso la participación de las plantas en la construcción de identidades culturales y sistemas de medicina y salud. 
 
 
 ### Nombres comunes de plantas de Colombia
@@ -490,8 +494,6 @@ VER: tipos de conocimientos tradicionales
 **Términos y condiciones**
 
 **Protección saberes tradicionales**
-
-**Búsqueda**
 
 **Usabilidad**
 
