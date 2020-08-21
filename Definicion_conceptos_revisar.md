@@ -48,7 +48,10 @@ De los metadatos pensados desde el contexto de la bibliotecología ocmo estrateg
 
 1\. Etapa de creación: Los documentos entendidos como objetos, entran en un sistema de información digital, bien creándose originalmente de forma digital (v. gr., escribir un texto en formato HTML, o realizar una fotografía con una cámara digital), bien convirtiendo a formatos digitales objetos preexistentes en forma de átomos (por ejemplo, escanear un texto y almacenarlo en formato electrónico con la ayuda de un programa de reconocimiento óptico de caracteres —OCR— o digitalizar una imagen con ayuda de un escáner). Incluso, en muchas ocasiones, se crean múltiples versiones de un mismo objeto con finalidades de conservación, investigación o de difusión. En cualquier caso, el creador del objeto digital debe incluir metadatos de tipo descriptivo para identificar los recursos de información, así como metadatos para su gestión y administración. 2. Fase de organización: los objetos se organizan manual o automáticamente en la estructura del sistema de información digital y pueden introducirse metadatos adicionales a través de un proceso de indización, catalogación o registro. 3. Etapa de búsqueda: en esta fase los documentos como objetos de información, están sujetos a un proceso de búsqueda y recuperación por parte de los usuarios potenciales. Por ello, el sistema informático crea metadatos para producir algoritmos de búsqueda, y proporcionar la eficacia del sistema en términos de almacenamiento y recuperación. 4. Fase de uso: los recursos de información (DLOs), una vez recuperados, se utilizarán, reproducirán y modificarán. Así, se pueden crear metadatos como notas de uso, derechos de autor o control de versiones de los datos. 5. En la última fase, de conservación y disposición, los objetos de información se someten a procesos como actualización, migración, comprobación de la integridad para asegurar su disponibilidad en el futuro, de igual forma que se pueden eliminar los DLOs que están inactivos o que ya no son necesarios. En este sentido, los metadatos pueden documentar ambas actividades de conservación y de disposición o disponibilidad.
 
-99 **Definición Metadatos** Los metadatos son Capítulo 3 100 pues, informaciones que hacen útiles los datos. Están destinados a ordenar y describir la información contenida en un documento entendido como objeto (DLO), de tal forma que se erigen como reveladores tanto de la descripción formal, como del análisis de contenido, en aras a mejorar el acceso a los objetos de información de la Red. Desde nuestro punto de vista, no son más que estructuras de organización de la información, legibles por máquina como señala Berners-Lee, cuya finalidad es incrementar la relevancia en los resultados de búsqueda en Internet, o sea, hacer útiles los datos. Y esa forma de hacer útiles los datos será diferente según las necesidades concretas y por ende, según la aplicación que se les otorgue
+99 **Definición Metadatos** 
+Los metadatos son Capítulo 3 100 pues, 
+
+Informaciones que hacen útiles los datos. Están destinados a ordenar y describir la información contenida en un documento entendido como objeto (DLO), de tal forma que se erigen como reveladores tanto de la descripción formal, como del análisis de contenido, en aras a mejorar el acceso a los objetos de información de la Red. Desde nuestro punto de vista, no son más que estructuras de organización de la información, legibles por máquina como señala Berners-Lee, cuya finalidad es incrementar la relevancia en los resultados de búsqueda en Internet, o sea, hacer útiles los datos. Y esa forma de hacer útiles los datos será diferente según las necesidades concretas y por ende, según la aplicación que se les otorgue
 
 
 101 las funciones de los metadatos pueden enfocarse desde el punto de vista del sistema y desde el punto de vista del usuario. A nivel sistema, los metadatos pueden utilizarse para facilitar la interoperabilidad y la posibilidad de compartir datos entre las distintas herramientas de búsqueda, o incluso para facilitar una búsqueda híbrida e integral, tanto entre recursos de Internet, como en los materiales impresos previamente representados en MARC o en otro formato legible por máquina.
@@ -121,8 +124,40 @@ Inicialmente eran preguntas de caracter utilitario. ¿Qué planta sirve para x p
 ### Conceptos metodología
 #####  Git
 [https://www.youtube.com/watch?v=PBRmtABqC9U](https://www.youtube.com/watch?v=PBRmtABqC9U)
-                                                                
+                                                              
+
+#### Metodología en las artes y el diseño 
+
+
+
+_“El único principio que no inhibe el progreso es: todo vale…Sin caos no hay conocimiento. Sin un abandono frecuente de la razón no hay progreso… Lo que tiene la apariencia de ‘desorden’, ‘caos’ u ‘oportunismo’… tiene una función de la mayor importancia en el desarrollo de aquellas mismas teorías que vemos hoy como partes esenciales de nuestro conocimiento… Estas ‘desviaciones’, estos ‘errores’,son precondiciones del progreso”._ Feyerabend
+
+
+
+The ‘bricoleur’: collage and construction
+
+Brewer and Hunter (1989) suggest that qualitative research essentially employs a multimethod
+
+approach. By adopting a multi-method approach, the qualitative researcher
+
+uses a set of interpretative practices, and has been described as a ‘bricoleur’ – a kind of
+
+professional ‘do-it-yourself’ researcher!
+
+Toda disciplina debe identificar una estrategia (metodología) para adquirir conocimiento. ¿Cómo conocemos? 
+
+En artes y diseño por mucho tiempo se han utilizado las metodologís de las ciencias sociales.
+
+Procesos de creatividad:
+
+"En términos de investigación, especialmente si el proyecto está guiado por la práctica, el procedimiento debería ser configurado en respuesta a las características y estructura de la práctica." 
+
+¿Cuál es el marco de trabajo?
+
+
+
 ##### Informática comunitaria
+
 ##### Informática educativa
 ##### Diseño crítico
 ##### Diseño especulativo
@@ -133,9 +168,9 @@ Cada disciplina dispone de estrategias específicas para resolver problemas de s
 * Iluminación: Según wllas ( 1921) es la súbita concinecia de una solución posible a partir de cuatro momentos: preparación, incubación, iluminación y verificación. Se le conoce como proceso creativo. " Cuando en el periodo de incubación se incluye una interrupciónen el trabajo sobre un problema se logran mejores resultades desde el punto de vista de la creatividad"
 * Heurística: utilización de reglas empíricas para llegar a una solución. Según brasndford y Stein (1984) en su método IDEAl son5 pasos: Identificar el problema; explorar estrategias viables; avanzar en las estrategias; y lograr la solución y volver para evaluar los efectos de las actividades
      Método de Polya 
- 
+
  * Algortimos: Consiste en aplicar adecuadamete una serie de pasos   detallados que aseguran una solución correcta. Por lo general, cada algoritmo es específico de un dominio del  conocimiento. La  programación  de computadoras se apoya en este método. 
-         
+   
   * Modelo de procesamiento de información: se basa en plantear varios momentos para un problema ( estado inicial, estado final y vias de solución) Las posibles soluciones avanzan por subtemas y requieren que se realicen operaciones en cada uno de ellos. 
    
    * Análisis de medios y de fines: Se funda en la comparación del estado unicial con la meta y se establecen las subetas. Se establece cada operación por submeta. Se puede proceder en retrospectiva o en prospectiva
@@ -146,7 +181,7 @@ Cada disciplina dispone de estrategias específicas para resolver problemas de s
 
 ¿Qué estrategias se pueden usar? 
 
-Ver: REsolución de problemas desde laperspectiva taoista: [https://scholar.lib.vt.edu/ejournals/JTE/v10n1/flowers.html](https://scholar.lib.vt.edu/ejournals/JTE/v10n1/flowers.html)
+Ver: Resolución de problemas desde laperspectiva taoista: [https://scholar.lib.vt.edu/ejournals/JTE/v10n1/flowers.html](https://scholar.lib.vt.edu/ejournals/JTE/v10n1/flowers.html)
 
 Pensamiento lateral: Me permitió percatarme del problema que había en el problema inicial expuesto a partir de la exploración de múltiples alternativas en relación al tema. 
 
