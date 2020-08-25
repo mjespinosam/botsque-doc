@@ -101,7 +101,92 @@ Inicialmente eran preguntas de caracter utilitario. ¿Qué planta sirve para x p
 
 "Una ontología es un modelo de la realidad del mundo y los conceptos en la ontología deben reflejar esta realidad" (7) **Idea problemática** ¿Cómo te asegutas que refleje la realidad?
 
+
+
+### * **Bricoleur**
+
+Es una aproximación plural en la que se hace uso del multi método adaptado al proyecto individual. Denzin y Lincon (1994) citados por Gray denominan bricoleur a .una clase de profesional investigador "do it your self".
+
+### * **Investigación acción**
+
+Un tipo de investigación aplicada a diferentes contextos y especialmente en el diseño para investigar el uso de ciertos desarrollos. EN el modelo Acción participativa involucrado con procesos de trabajo con comunidades se desarrolla desde un modelo ontológioco constructivista en la que la relacion epistémica es inter subjetiva y se llega al conocimiento por métodos dialéctivso y hermeneúticos.
+
+El diseño especulativo y crítico puede estar dentro de este tipo de invesitgación pues además de propiciar la particiación demotrácigca también se enfoca en la imaginación y la innovación usando el modelo de los 4 pasos
+
+Descubiri
+
+Soñar
+
+Diseñar
+
+Discutir
+
+VEr: Coperrrider and Whiteney
+
+Action research has been applied in many different contexts, for example social
+reform, occupational therapy, urban planning, and also in Art and Design – specifically
+product design, human-computer interface design, space planning (ref. ARIAD search
+using the term ‘action research’). ‘Participatory action research’ (PAR), as the name
+suggests, values and uses the ‘lived experience of people’ (Reason, 1994, p. 328) as a way
+of democratizing inquiry and in some cases empowering marginalized groups. In Art
+and Design research, this kind of approach has been used to investigate the use of new
+media to explore issues of inclusivity (Hall, 2000). Similarly, community development
+strategies (stemming from ‘appreciative inquiry’) have been used in research on the remapping
+of post-colonial land ownership and use (Renwick, 2003). Appreciative inquiry
+is an optimistic strategy for change that identifies the best of ‘what is’ to imagine ‘what
+could be’. In early forms of action research, intervention might have been considered
+threatening or condescending, whereas appreciative inquiry encourages democratic
+participation, imagination and innovation, using a four-stage model of discovering,
+dreaming, designing and delivering (Cooperrider and Whitney, 1999).
+
+ 
+
+### * **Soft systems**
+
+Soft Systems methodologies(SSM) Provienen de el domino de los sietemas de ingormación "dura" como son los sitemas basados en computadores. Desarrollado por Checkland ( 1981). Consite en traer situaciones probñe,icas y aprneder del proceso de resolución del problema. Es un proceso colaborativo y envielve miembros y usuarios en la exploración y solución debate del ausnot. . Se busca tener un entendimiento holístico del todo. Un asunto que ocurre viendo el todo y no sus partes. El SSM utiliza varias téncias para mapear y comunicar por ejemplo diagramas, gráficos, pinturas, dibujos, cartas y así. Estas visulizaciones se conocen como " rich pictures" 
+
+ 
+
+ 
+
+## **Extracted Annotations (18/8/2020 7:33:34)**
+
+"practice-based methodologies are emergent, that is the research strategy grows and unfolds from the practitioner's interaction with the research question and context, and the research is grounded;" ([Gray and Malins 2004:89](zotero://open-pdf/library/items/GL9D93DZ?page=89))
+
+"Action research: designed to make a difference" ([Gray and Malins 2004:91](zotero://open-pdf/library/items/GL9D93DZ?page=91))
+
+## **Inevestigación acción**:
+
+ 
+
+"Some kinds of research in Art and Design have been called 'action research', or an interpretation of it. Originating in group dynamics and educational research, the definition of action research varies with time, place and setting; however, action research is situational - intervening, diagnosing and solving a problem in a specific real-world context, for example a school (McKernan, 1998). It requires the co-operation of the 'inhabitants'/participants of the potential action context, and is self-evaluative with modifications ongoing, where the application of the results is part of the methodology. Its aim is ultimately to improve practice in some way." ([Gray and Malins 2004:91](zotero://open-pdf/library/items/GL9D93DZ?page=91))
+
+## **Soft Systems**
+
+"Soft systems: understanding the complex whole 'Soft' systems methodologies (SSM) is derived from the domain of 'hard' information systems (usually computer-based) and was developed by Checkland (1981). SSM is concerned with improving problem situations and learning from the problem-solving process. It is a collaborative process that involves 'system' members/users in explorations of, and debate about, their system, which could be any kind of complex, changing situation or context. Taking a 'systems view' of something involves gaining a holistic understanding of the whole, as well as an understanding of the parts, and how these integrate into a whole. As a whole, properties of the system emerge which may not be obvious in examining the parts. SSM uses various visual techniques for mapping and communication, for example diagrams, graphs, pictures, animation, charts, and so on. These visualizations are known as 'rich pictures' (see Jayaratna, 1994, Chapter 10, p. 186). Cornock's (1978) research, 'The concept of systems as a paradigm in the domain of the artist', was probably the first in Art and Design to involve a systems methodology. The study involved two commissioned interventions to explore the organization of the art world and people's 'tacit knowledge' of it. Other research projects in Art and Design have used 'soft' systems ideas, for example considering a bilingual publishing context and culture as a system; considering a 'framework' of safer practice for the printmaker as an integrated system, especially in relation to risk assessment." ([Gray and Malins 2004:92](zotero://open-pdf/library/items/GL9D93DZ?page=92))
+
+## **Investigación como diseño:**
+
+ 
+
+"sees the design inquiry process as having a spiral structure, in which empirical knowledge is developed as a result of 'imaging', 'presenting', 'testing' and 'reimaging'." ([Gray and Malins 2004:93](zotero://open-pdf/library/items/GL9D93DZ?page=93))
+
+"This cycle might be likened to the research process of raising a research question and developing a working proposition; developing and presenting an argument; testing and evaluating it; and using feedback to develop further the thesis or revise it." ([Gray and Malins 2004:93](zotero://open-pdf/library/items/GL9D93DZ?page=93))
+
+"The commonalties are obvious in that both go through a process of identifying a problem, undertaking a series of steps to investigate that problem and provide a useful solution. Each step involves research or a process of searching for knowledge, which will inform all those stages of the creation process. Indeed for designers engaged in practice, design research is primarily about the process of searching in the three following areas. Searching for understanding ... ideas ... solutions. (Press and Cooper, 2003, p. 102)" ([Gray and Malins 2004:93](zotero://open-pdf/library/items/GL9D93DZ?page=93))
+
+*Investigación como diseño ([note on p.93](zotero://open-pdf/library/items/GL9D93DZ?page=93))*
+
+ 
+
+## **Iteración:**
+
+"Research, the designer's activity of searching and the design process are therefore interrelated and iterative, a constant process of learning and knowledge management. (Press and Cooper, 2003, p. 107)" ([Gray and Malins 2004:93](zotero://open-pdf/library/items/GL9D93DZ?page=93))
+
+*Iteración ([note on p.93](zotero://open-pdf/library/items/GL9D93DZ?page=93))*
+
 ##### Interoperabilidad"
+
 ##### Catalogación de los CCT 
 ##### Propiedad intelectual y CCTT  
 ##### Obfuscation 
