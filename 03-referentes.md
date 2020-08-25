@@ -266,13 +266,47 @@ VER: tipos de conocimientos tradicionales
 
 **Descripción**
 
+Inaturalist es una aplicación que ayuda a identificar plantas y animales. Además al registral y comaprtir observaciones las y los usuarios cran datos de calidad de investigacion sobre biodiversidad. Inaturalist es una iniciativa en la que participan la Academia de ciencias de california y National Geographic. 
+
 **Objeto**
 
 **Antecedentes**
 
+Intauralist comenzó como el trabajo final de maestría en ciencias de la información de UC Berkely. Nate Agrin, Jessica Kline y Kenichi Ueda. El proyecto continuó y en 2014 se convirtió en iniciativa de la Academia de ciencias de California y en 2017 de la Sociedad de National Geographic. 
+
 **Catalogación**
 
-**Búsqueda**
+Darwin core metadata https://dwc.tdwg.org/
+
+Términos de uso común para aplicaciones sobre biodiversidad
+
+https://dwc.tdwg.org/simple/
+
+No teien restricciones de campo por lo que al usarlo cualquier información inicia la estructurración de ese conocimiento.
+
+Un registro sin campos no sería muy interesante, pero hay una diferencia entre requerir que haya un campo en un registro y requerir que un campo particular esté en todos los registros. Al no tener una restricción de campo requerida, Simple Darwin Core se puede usar para compartir cualquier combinación significativa de campos, por ejemplo, para compartir "solo nombres", o "solo lugares", u observaciones de individuos detectados en la naturaleza en un lugar determinado y tiempo siguiendo un método (una ocurrencia). Esta flexibilidad promueve la reutilización de los términos y los mecanismos de intercambio para una amplia variedad de servicios.
+
+Debido a su principio de simplicidad y flexibilidad este estandar no está pensado para relaciones muchos a muchos.
+
+Organizado en clases
+
+Cada clase términos identificador definición comentario
+
+Country
+
+Vocabularios controlados mejoran la búsqued y recuperación de información
+
+El estandar Darwin Core teien 169 elementos asociados a vocabularios controlados. 
+
+De las siete cataorías de este estandar:      
+
+Es claro es este estandar de metadatos es para dar cuenta de la biodiversidad biológica pero no cultural. Campo indispensable para ver las relacione seres humanos -plantas. 
+
+Los vocabularios controlados también permiten estandarizar las descripciones. La pregunta es ¿Las partes que yo defino de una planta son las mismas partes en las que todas las culturas las definen? 
+
+https://github.com/inaturalist/inaturalist
+
+Búsqueda**
 
 **Términos y condiciones**
 
@@ -288,7 +322,29 @@ VER: tipos de conocimientos tradicionales
 
 **Aportes al proyecto** 
 
+1. ##### What is geoprivacy? What does it mean for an observation to be obscured?
 
+   Geoprivacy is a manual setting you can select on your observations that controls how the spatial coordinates (latitude and longitude) are displayed. *Taxon* geoprivacy is an automatic setting applied to taxa that may be threatened by collection/harvesting or otherwise disturbed due to the public's knowledge of its location. Here are the options for each:
+
+   - open
+
+     Everyone can see the coordinates, unless the taxon geoprivacy is "obscured" or "private". Appears as a teardrop-shaped marker.
+
+   - obscured
+
+     Public coordinates are shown as a random point within a 0.2 by 0.2 degree area that contains the true coordinates. This area works out to about a 22 by 22 kilometer area at the equator, decreasing in size and narrowing as you approach the poles. The randomized public coordinates appear within the rectangle as a circular marker without a stem. True coordinates are only visible to you, [trusted users](https://www.inaturalist.org/relationships), and trusted project curators. [iNaturalist Network organizations](https://www.inaturalist.org/pages/network), in their respective countries, can view true coordinates for taxa set to automatically obscure, but they can only view your manually obscured coordinates if you choose to [affiliate with the network in your account settings](https://www.inaturalist.org/user/settings).
+
+   - private
+
+     Coordinates are completely hidden from public maps. True coordinates are only visible to you, trusted users, and trusted project curators. iNaturalist Network organizations, in their respective countries, can view true coordinates for taxa set to automatically display as private, but they can only view the coordinates of observations you have manually set to private if you choose to affiliate with the network in your account settings.
+
+   Again, note that some users and organizations may be able to see your private or obscured coordinates depending on your project settings, account settings, and the taxon geoprivacy.
+
+   An illustrated explanation of geoprivacy settings can be found [here](https://www.inaturalist.org/pages/geoprivacy).
+
+   **Example of geoprivacy settings** (as viewed by other iNaturalist users and the public): [![img](https://static.inaturalist.org/wiki_page_attachments/889-original.png)](https://static.inaturalist.org/wiki_page_attachments/889-original.png)
+
+2. 
 
 
 

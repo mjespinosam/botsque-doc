@@ -69,7 +69,24 @@ Metadatos de un dominio específico. Son aquellos que adoptan una forma especial
 Elementos principalmente relacionados con el contenido del DLO. A este grupo pertenecen: título, materia, descripción, fuente, lengua, relación y cobertura/alcance. - Elementos relacionados con la propiedad intelectual del recurso. Son las etiquetas relativas al creador/autor, editor, otros autores/colaboradores y derechos de autor. - Elementos relacionados con la temporalidad del documento. Estos elementos son: fecha, tipo de recurso, formato e identificador del recurso
 ##### Dublin core
 ##### Relation items                                                                   
+##### Vocabularios controlados
+
+Qué es un vocabulario controlado?
+
+Un vocabulario controlado es una estructura organizada de palabras y frases usadas para indexar contenido y/o para recuperar contenido a través de la navegación o búsqueda. Típicamente, incluye términos preferidos y sus variantes y describe un dominio específico o tiene un alcance específico
+
+¿Por qué es importante?
+
+ 01 La utilización de vocabularios controlados para describir los metadatos bibliográficos asegura que todos utilicen el mismo término para significar lo mismo. Mejora la interoperabilidad entre repositorios y con otros sistemas relacionados tales como cosechadores, sistemas CRIS, repositorios de datos y editores. Los vocabularios capturan la riqueza de las variantes terminológicas y promueven la consistencia a través de la elección de términos preferidos y la asignación de un mismo término para significar un contenido similar
+
+¿Por qué usar vocabularios controlados?
+
+Ayudan con la búsqueda y descubrimiento de contenidos. Los vocabularios son beneficiosos durante el proceso de indexación de manera que los proveedores de datos y los repositorios pueden, de manera consistente, aplicar el mismo término para referirse al mismo concepto (por ejemplo, persona, lugar o cosa). Es posible consolidar sinónimos al utilizar un término controlado, aumentando así el número de hits relevantes devueltos por las búsquedas
+
+https://www.coar-repositories.org/files/coar-cv-infog-f_27051415-2.pdf
+
 ##### Lenguajes documentales      
+
 ##### Ontología
 Una ontología define un vocabulario común para invertigadores que necesitan compartir información en un dominio. Ella contiene definiciones de conceptos básicos y sus relaciones que pueden ser interpretadas por una máquina. (3) Las ontologías se hacen para compartir "entendimiento común" entre personas y máquinas (agentes de software). Si varias páginas web utilizan una misma ontología subyacente los agentes de software pueden extaer y agregar información para responder solicitudes de los usuarios o sevir como datos de entrada a otras aplicaciones
 
