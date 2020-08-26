@@ -96,13 +96,33 @@ Posicionar a los prototipos como instrumentos con funciones epistémicas y que p
 
 ##### Git: software de control de cambios
 
- Apoyada en una herramienta digital de control de cambios denominada Git, ampliamente utilizada en el mundo del desarrollo del software, ideé una estrategia para organizar, categorizar y narrar los cambios que ocurriendo entre la creación de un prototipo y la revisión de los referentes. Esta narrativa grafica la persistencia de un tema y la emergencia de preguntas, problemas, ideas así como la integración de conceptos y referentes. Como se muestra en la gráfica 1,  cuatro fueron los prototipos: wiki semántica, app cofechas, mesa huerta y finalmente el lenguaje del botsque. En los primeros dos prototipos como se discutirá ampliamente en el capítulo "plantar el problema",  las plantas no fueron asumidas como actores  en la contrucción del conocimiento sobre sí mismas pese a intuir su agencia. El giro metodológico se concretó en un artefacto "La mesa huerta" que implicó la discusión de las infraestructuras, herramientas y postulador del proyecto. ¿Que son las plantas? ¿Como se representan en sistemas informáticos? ¿Cómo se dan y cuáles son las relaciones plantas-seres humanos?  Esto me permitió problematizar las herramientas y metodologías mismas los presupuestos que subyacen a ellas. 
+ Apoyada en una herramienta digital de control de cambios denominada Git, ampliamente utilizada en el mundo del desarrollo del software, ideé una estrategia para organizar, categorizar y narrar los cambios que ocurrieron entre la creación de los prototipos y la revisión de los referentes. Esta narrativa grafica la persistencia de un tema y la emergencia de preguntas, problemas e ideas así como, la integración de conceptos y referentes como se puede ver en el grafico 1.
+
+![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu_git_v1.png)
+
+Gráfico 1: Esquema control de versiones. Proceso investigativo y de prototipado. María Juana Espinosa.
+
+El control de versiones git permite registrar momentos en el tiempo de un proceso. Cada momento referenciado se registra a partir de un commit que es un comentario textual que resumen el avance, cambio, edición, adición etc. Esto permite que quien desarrolla un software pueda regresar a momentos del desarrollo anteriores al presente. Otro elemento que se destaca son las ramas. Desarrollos paralelos que no interfieren con la rama principal y que pueden volver a la rama princial una vez se resuelvan los problemas o desarrollen las funciones. Esta acción se denomina merge. Para el caso del control de cambios de un proceso de investigación académica estimé necesario definir:
+
+1. La rama principal o Master. 
+2. Los temas para hacer el seguimiento.
+3. Las ramas que se desprenden.
+4. Los puntos de cambio en la rama principal.
+5. Los momentos donde hay merge con la rama principal.
+
+Como se puede observar en el gráfico 2,  cuatro fueron los prototipos: wiki semántica, app cofechas, mesa huerta y finalmente el lenguaje del botsque. En los primeros dos prototipos como se discutirá ampliamente en el capítulo "plantar el problema",  las plantas no fueron asumidas como actores  en la contrucción del conocimiento sobre sí mismas pese a intuir su agencia. El giro metodológico se concretó en un artefacto "La mesa huerta" que implicó la discusión de las infraestructuras, herramientas y postulados ontológicos de los dos prototipos anteriores. ¿Que son las plantas? ¿Como se representan en sistemas informáticos? ¿Cómo se dan y cuáles son las relaciones plantas-seres humanos?  Esas preguntas me permitieron problematizar las herramientas y metodologías así como los presupuestos que subyacen a ellas.
 
 <img src="/Users/juanaespinosa/tesis/001-tesis- git/esquemas/esqu-rutainvestiva-v2.png" style="zoom:300%;" />
 
-El sistema git funciona a partir de 
 
 
+
+
+El seguimiento en Git se realiza desde la terminal en el computador el cual se conecta remotamente con una copia de respaldo en Github. Github es un servidor que visualiza los procesos de control de versiones y permite además trabajar colaborativamente en un proyecto de software o en este caso, para la discusión y refinamiento de ideas y problemas. Desde Github entonces, se completa la documentación de los prototipos y la escritura de la tesis. En el repositorio [Botsque-documento](https://github.com/mjespinosam/botsque-doc) está el control de versioens de la escritura de la tesis y como un submódulo anidado está el repositorio [ruta-metodológica](https://github.com/mjespinosam/ruta-metodologia). Los submódulos es una función de Git para tener en un repositorio otro repositorio de referencia conservando control de versiones separados.  En el repositorio principal se pueden consultar los "issues" un espacio en el que trabajamos las discusiones del proceso concpetual, técnico y de escritura. En el submódulo se trabaja con la Wiki, espacio en el que quedan detallados cada uno de los referentes del proyecto según unas categorías de análisis (gráfico 3). Finalmente en el readme.md se presenta el proyecto y en la pestaña insights/Networks se registran las rutas de los commits. Todo esto permite simular en la plataforma un trabajo de desarrollo de código pero con un desarrollo de la tesis. 
+
+![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-marcoreferentes-v1.png)
+
+Gráfico 3. Marco analítico de referentes para los prototipos de la investigación. María 
 
 #### Preguntas, problemas y referentes 
 
