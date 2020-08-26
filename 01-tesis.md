@@ -3,7 +3,7 @@
 
 ### Índice
 
-[TOC]
+
 
 I
 
@@ -84,65 +84,103 @@ Para la comprensión argumentativa de este trabajo hay que  tener claros los sig
 
 
 
-## I  Metodologías injertas: prespectivas del diseño para las humanidades
+## I  Metodologías injertas: perspectivas del diseño para las humanidades
 
 
 
 Técnicamente esta tesis se logró a un año de presentar este trabajo. Implementé una wiki semántica etnobotánica (relaciones seres humanos -plantas) por medio de formularios estructurados con estándares de metadatos (Dublin core, Foaf), en una interfaz amigable. La wiki alimentaba colabortivamente una base de datos relacional a la vez que respondía a los requerimientos del proyecto:  eficiencia en la estructuración, recuperación, migración e inter-operabilidad de la información y principios democráticos a la hora de construir el conocimiento de un campo específico (etnobotánica), mediante una estrategia colaborativa con comunidades. Sin embargo, aparecieron problemas de carácter conceptual, legal, ético y de diseño que reformularon el proyecto y sobre todo mi rol como humanista digital en formación. ¿Qué hacer cuando una vez logrado el objetivo inicial de una investigación emergen aspectos problémicos? ¿Es posible que una tesis refute la tesis que la originó? ¿De qué manera se relata, construye, discute y se comparte las vicisitudes de un proyecto? Pero sobre todo, ¿cómo llegué a saber más cosas sobre el problema de las relaciones seres humanos-plantas mediante la obervación, análisis y reflexión del prototipo logrado en ese momento? 
 
-La pregunta de cómo investigué lo que investigué y sobre todo cómo llegué a refinar el problema me llevó a observar un modo particular en el hacer: investigar como diseño, investigar con diseño. La investigación como diseño es una propuesta que tiene sus orígenes en los años ochentas con las reflexiones que hizo en su momento Zeisel. El autor aborda  los puntos en común entre diseñadores e investigadores a la hora de afrontar una situación a indagar o investigar. Allí, dice Zeisel (1984), ambos crean conceptos o imágenes, formulan hipótesis o presentan los conceptos y luegos los ponen a prueba. La investigación como diseño es en todo caso más que un paralelismo en los pasos o procesos para investigar. Es una ruta para pensar los problemas desde la creación de artefactos, prototipos (Dunne y Raby 2013). Es una manera de resolver los problemas (Gray y Malins 2004) o, una ruta para encontrarlos. Es una manera de involucrar el pensamiento visual y práctico al pensamiento conceptual, del modo que lo hace la ingeniería, por ejemplo. (Grand & Wiedmer, s. f.). Los prototipos por lo tanto, vendrían a ser la representación de las hipótesis que permiten desde sí mismos, comprender o -simular- las maneras como se comportan los problemas en un entorno. Es decir, pensamos con los prototipos y por ello, podemos hablar de las funciones epistémicas del prototipo.
+La pregunta de cómo investigué lo que investigué y sobre todo cómo llegué a refinar el problema me llevó a observar un modo particular en el hacer: investigar como diseño, investigar con diseño. La investigación como diseño es una propuesta que tiene sus orígenes en los años ochentas con las reflexiones que hizo en su momento Zeisel. El autor aborda los puntos en común entre diseñadores e investigadores a la hora de afrontar una situación a indagar o investigar. Allí, dice Zeisel (1984), ambos crean conceptos o imágenes, formulan hipótesis o presentan los conceptos y luegos los ponen a prueba. La investigación como diseño es en todo caso más que un paralelismo en los pasos o procesos para investigar. Es una ruta para pensar los problemas desde la creación de artefactos, prototipos (Dunne y Raby 2013). Es una manera de resolver los problemas (Gray y Malins 2004) o, una ruta para encontrarlos. Es una manera de involucrar el pensamiento visual y práctico al pensamiento conceptual, del modo que lo hace la ingeniería, por ejemplo. (Grand & Wiedmer, s. f.). Los prototipos por lo tanto, vendrían a ser la representación de las hipótesis que permiten desde sí mismos, comprender o -simular- las maneras como se comportan los problemas en un entorno. Es decir, pensamos con los prototipos y por ello, podemos hablar de las funciones epistémicas del prototipo.
 
-Posicionar a los prototipos como instrumentos con funciones epistémicas y que por ello nos ayuda a pensar y desarrollar el pensamiento, nos lleva a la pregunta de cómo ocurre ello. Si bien esta pregunta tendría que ser respondida desde las ciencias cognitivas, o los estudios de la creatividad, la etnografía de los procesos creativos también nos permite precisar algunas vías para comprender este asunto.  **Latour en sus célebres etnografías de laboratorio introdujo varios elementos a tener en cuenta en la configuración de la ciencia y el conocimiento científico** en la que los objetos implícitos en los diseños experimentales no eran ajenos a lo hallado. Por ellos y a través de ellos el científico observa y comprende su objeto de estudio. Así, además de la acción humana sobre el hecho a investigar, los dispositivos, artefactos y experimentos son actores que determinan el conocimiento mismo. Identificarlos como actores implica entender que los objetos inanimados tienen agencia en las relaciones que establecen con los seres humanos, por ejemplo. Si bien esa tesis es objeto de múltiples controversias, como se tratará en el capítulo teórico, tanto la discusión de Latour como la perspectivas semiótica de Peirce nos permite indagar sobre dicha agencia. En el artículo  Developing Things: Notes toward an Epistemology of Building in the Digital Humanities Stephen Ramsay and Geoffrey Rockwell postulan las herramientas digitales como "telescopios para la mente" instrumentos hermeneúticos  a través de los cuales  -y con los cuales- interpretamos fenómenos. Esta analogía, utilizada originalmente por la linguista computacional Margaret Masterman, no solo es provocativa sino polémica. ¿Pueden las herramientas ser en el ejercicio investigativo parte de la discusión y de la explicación por que en sí mismas tienen elementos que discuten, problematizan, explican lo que se está  investigando?  Aunque su integración como argumento esté mediado por un discurso -pensemos en la mediación del curador de arte y la obra de arte- las herramientas, artefactos y obras cuentan con los elementos que pueden ser leídos solo por quienes dominan su lenguaje. De ahí que se requieran procesos de traducción. Pero, ¿cómo contar estas historias, traducirlas? ¿Cuál el esquema de una tesis que quiere dar cuenta de estos procesos? 
+Posicionar a los prototipos como instrumentos con funciones epistémicas y que por ello nos ayuda a pensar y desarrollar el pensamiento, nos lleva a la pregunta de cómo ocurre ello. Si bien esta pregunta tendría que ser respondida desde las ciencias cognitivas, o los estudios de la creatividad, la etnografía de los procesos creativos también nos permite precisar algunas vías para comprender este asunto.  **Latour en sus célebres etnografías de laboratorio introdujo varios elementos a tener en cuenta en la configuración de la ciencia y el conocimiento científico** en la que los objetos implícitos en los diseños experimentales no eran ajenos a lo hallado. Por ellos y a través de ellos el científico observa y comprende su objeto de estudio. Así, además de la acción humana sobre el hecho a investigar, los dispositivos, artefactos y experimentos son actores que determinan el conocimiento mismo. Identificarlos como actores implica entender que los objetos inanimados tienen agencia en las relaciones que establecen con los seres humanos, por ejemplo. Si bien esa tesis es objeto de múltiples controversias, como se tratará en el capítulo teórico, tanto la discusión de Latour como la perspectivas semiótica de Peirce nos permite indagar sobre dicha agencia. En el artículo  Developing Things: Notes toward an Epistemology of Building in the Digital Humanities Stephen Ramsay and Geoffrey Rockwell (2012) postulan las herramientas digitales como "telescopios para la mente", instrumentos hermeneúticos a través de los cuales  -y con los cuales- interpretamos fenómenos. Esta analogía, utilizada originalmente por la lingüista computacional Margaret Masterman, no solo es provocativa sino polémica. ¿Pueden las herramientas ser en el ejercicio investigativo parte de la discusión y de la explicación por que en sí mismas tienen elementos que discuten, problematizan, explican lo que se está  investigando?  Aunque su integración como argumento esté mediado por un discurso -pensemos en la mediación del curador de arte y la obra de arte- las herramientas, artefactos y obras cuentan con argumentoss que pueden ser leídos  por quienes dominan su lenguaje. De ahí que se requieran procesos de traducción. Pero, ¿cómo contar estas historias, traducirlas? ¿Cuál el esquema narrativo de una tesis que quiere dar cuenta de estos procesos? 
 
-##### Git: software de control de cambios
+##### Git: software de control de versiones
 
- Apoyada en una herramienta digital de control de cambios denominada Git, ampliamente utilizada en el mundo del desarrollo del software, ideé una estrategia para organizar, categorizar y narrar los cambios que ocurrieron entre la creación de los prototipos y la revisión de los referentes. Esta narrativa grafica la persistencia de un tema y la emergencia de preguntas, problemas e ideas así como, la integración de conceptos y referentes como se puede ver en el grafico 1.
+ Apoyada en la herramientas de control de versiones Git creada por Linus Torvals (2005) y ampliamente utilizada en el mundo del desarrollo del software, ideé una estrategia para organizar, categorizar y narrar los cambios que ocurrieron entre la creación de los prototipos y la revisión de los referentes. Esta narrativa grafica la persistencia del tema investigado -relaciones plantas-seres humanos- y la emergencia de preguntas, problemas e ideas así como, la integración de conceptos y referentes. Ver grafico 1.
 
 ![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu_git_v1.png)
 
 Gráfico 1: Esquema control de versiones. Proceso investigativo y de prototipado. María Juana Espinosa.
 
-El control de versiones git permite registrar momentos en el tiempo de un proceso. Cada momento referenciado se registra a partir de un commit que es un comentario textual que resumen el avance, cambio, edición, adición etc. Esto permite que quien desarrolla un software pueda regresar a momentos del desarrollo anteriores al presente. Otro elemento que se destaca son las ramas. Desarrollos paralelos que no interfieren con la rama principal y que pueden volver a la rama princial una vez se resuelvan los problemas o desarrollen las funciones. Esta acción se denomina merge. Para el caso del control de cambios de un proceso de investigación académica estimé necesario definir:
+El control de versiones Git permite registrar momentos en el tiempo de un proceso. Cada momento referenciado se registra a partir de un commit que es un comentario textual que resumen el avance, cambio, edición, adición etc., sobre el proyecto. Esto permite que quien desarrolla un software pueda regresar a momentos del desarrollo anteriores al presente. Otro elemento que se destaca son las ramas. Desarrollos paralelos que se desprenden del desarrollo principal pero que no interfieren y que pueden volver a la rama princial una vez se resuelvan los problemas o desarrollen las funciones. Esta acción de unión de una rama se denomina merge. Si bien todo el flujo de trabajo en git está pensado para desarrollo de software, para el caso del control de cambios de un proyecto de investigación académica estimé necesario definir:
 
-1. La rama principal o Master. 
-2. Los temas para hacer el seguimiento.
-3. Las ramas que se desprenden.
-4. Los puntos de cambio en la rama principal.
-5. Los momentos donde hay merge con la rama principal.
+1. La rama principal o Master / Tema transversal del proyecto.
+2. Los temas para hacer el seguimiento / Pregunta, Problema, Conceptos integrados, Ideas Integradas, Prototipos.
+3. Las ramas que se desprenden / Cada tema de seguimiento es una rama que se une a la rama principal en un prototipo del que a su vez se desprenden los nuevos temas de seguimiento.
+4. Los puntos de cambio en la rama principal / Cada prototipo es un punto de control de versiones donde se unen - o merge en términos de git- los temas a los que se les hace seguimiento. 
+5. Merge final / una vez el problema está refinado y la pregunta del proyecto se desarrolla en un prototipo se realiza el merge. 
 
-Como se puede observar en el gráfico 2,  cuatro fueron los prototipos: wiki semántica, app cofechas, mesa huerta y finalmente el lenguaje del botsque. En los primeros dos prototipos como se discutirá ampliamente en el capítulo "plantar el problema",  las plantas no fueron asumidas como actores  en la contrucción del conocimiento sobre sí mismas pese a intuir su agencia. El giro metodológico se concretó en un artefacto "La mesa huerta" que implicó la discusión de las infraestructuras, herramientas y postulados ontológicos de los dos prototipos anteriores. ¿Que son las plantas? ¿Como se representan en sistemas informáticos? ¿Cómo se dan y cuáles son las relaciones plantas-seres humanos?  Esas preguntas me permitieron problematizar las herramientas y metodologías así como los presupuestos que subyacen a ellas.
+Como se puede observar en el gráfico 2,  cuatro fueron los prototipos del proyecto: wiki semántica, app cofechas, mesa huerta y finalmente el lenguaje del botsque. En los primeros dos prototipos como se discutirá  en el capítulo "plantar el problema",  las plantas no fueron asumidas como actores en la contrucción del conocimiento sobre sí mismas pese a intuir su agencia. El giro metodológico se concretó en un artefacto "La mesa huerta" que implicó la discusión de las infraestructuras, herramientas y postulados ontológicos de los dos prototipos anteriores. ¿Que son las plantas? ¿Como se representan en sistemas informáticos? ¿Cómo se dan y cuáles son las relaciones plantas-seres humanos?  Esas preguntas me permitieron problematizar las herramientas y metodologías así como los presupuestos que subyacen a ellas.
 
 <img src="/Users/juanaespinosa/tesis/001-tesis- git/esquemas/esqu-rutainvestiva-v2.png" style="zoom:300%;" />
 
 
 
-
-
-El seguimiento en Git se realiza desde la terminal en el computador el cual se conecta remotamente con una copia de respaldo en Github. Github es un servidor que visualiza los procesos de control de versiones y permite además trabajar colaborativamente en un proyecto de software o en este caso, para la discusión y refinamiento de ideas y problemas. Desde Github entonces, se completa la documentación de los prototipos y la escritura de la tesis. En el repositorio [Botsque-documento](https://github.com/mjespinosam/botsque-doc) está el control de versioens de la escritura de la tesis y como un submódulo anidado está el repositorio [ruta-metodológica](https://github.com/mjespinosam/ruta-metodologia). Los submódulos es una función de Git para tener en un repositorio otro repositorio de referencia conservando control de versiones separados.  En el repositorio principal se pueden consultar los "issues" un espacio en el que trabajamos las discusiones del proceso concpetual, técnico y de escritura. En el submódulo se trabaja con la Wiki, espacio en el que quedan detallados cada uno de los referentes del proyecto según unas categorías de análisis (gráfico 3). Finalmente en el readme.md se presenta el proyecto y en la pestaña insights/Networks se registran las rutas de los commits. Todo esto permite simular en la plataforma un trabajo de desarrollo de código pero con un desarrollo de la tesis. 
+El seguimiento en Git se realiza desde la terminal en el computador el cual se conecta remotamente con una copia de respaldo en Github. Github es un repositorio remoto que visualiza los procesos de control de versiones y permite además trabajar colaborativamente en un proyecto de software o en este caso, para la discusión y refinamiento de ideas y problemas de un proyecto de investigación. Desde Github entonces, se completa la documentación de los prototipos y la escritura de la tesis. En el repositorio [Botsque-documento](https://github.com/mjespinosam/botsque-doc) está el control de versiones de la escritura de la tesis y como un submódulo anidado está el repositorio [ruta-metodológica](https://github.com/mjespinosam/ruta-metodologia). Los submódulos es una función de Git para tener en un repositorio otro repositorio de referencia conservando control de versiones separados. En el repositorio principal se pueden consultar los "issues" un espacio en el que trabajamos las discusiones del proceso concpetual, técnico y de escritura. En el submódulo se trabaja con la Wiki, espacio en el que quedan detallados cada uno de los referentes del proyecto según unas categorías de análisis. Ver: gráfico 3. Finalmente en el readme.md se presenta el proyecto y en la pestaña insights/networks se registran las rutas de los commits. Todo esto permite simular en la plataforma un trabajo de desarrollo de código pero con un desarrollo de la tesis. 
 
 ![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-marcoreferentes-v1.png)
 
 Gráfico 3. Marco analítico de referentes para los prototipos de la investigación. María 
 
-#### Preguntas, problemas y referentes 
+Ahora bien, el uso de Git como experimento narrativo no responde solo a una necesdiad de control de versiones de un documento sino también a el registro de un proceso de construcción de pensamiento. Elq e durante más de dos años las preguntas hayan detonado nuevos experimentos y el que el problema después de todo ese tiempo se hubiese refinado al punto de llegar a intuiciones para un sistema comunicativo seres humanos-plantas es resultado del proceso. Este tipo de encuentros y discusiones quedan obscurecidas en versiones de preproyectos y correcciones sin documentar. Pareciera que todo proyecto fuera el desarrollo de una idea ya clara que tiende a reafirmar lo que allí se establece como hipótesis. Cuando lo que sucede es que dicha hipótesis ya fue refinada en múltiples discusiones y hallazgos. En campos como las Humanidades Digitales en particular, las hipotesis tienen uan serie de problemas conexos. Y es que al ser un área multi e interdisciplinaria, los aspectos a tener en cuenta emergen en el proceso mismo e inciden en los prototipos. Así que, ¿cuáles fieron las preguntas, los problemas y las metodologías que me permitieron hacer el recorrido hasta el problema refinado y el lenguaje del bosque? 
+
+####  Metodologías  para aborada y refinar preguntas y problemas
 
 ¿Qué es de la planta lo que una base de datos dice que es la planta? ¿Cuál es la participación de la planta en lo que sobre ella se dice en una plataforma colaborativa? ¿Puede ella colaborar en lo que de sí se dice y se construye en una plataforma que quiere poner de manifiesto las relaciones que tiene ella con los seres humanos? ¿Las plataformas colaborativas pueden dar cuenta de las relaciones plantas-seres humanos? La aparición de cada una de estas preguntas en esta tesis no fue un asunto a priori, si no el resultado de un proceso de investigación a partir de la consulta y estudio de referentes y el prototipado de plataformas colaborativas. Así, las preguntas fueron develando el problema subyacente al problema inicial. Pero, ¿es posible hacer una investigación sin un problema acotado? 
 
-En las humanidades es usual que nuevas categorías metodológicas o conceptuales aparezcan en el curso del desarrollo de la investigación. Generalmente se parte con unas categorías predeterminadas y aparecen nuevas categorías metodológicas o conceptuales en la medida que se expande el corpus teórico y se analizan datos (Rico de Alonso, 2005). Sin embargo, no es usual, ni metodológicamente deseable, que el problema cambie en el transcurso de la investigación. El problema responde a la identificación de un vacios del conocimiento y su investigación tiene por objeto comprender, explicar y ampliar los conocimientos que allí se discuten. Sin embargo, en esta investigación desde las Humanidades Digitales  el problema fue un problema. Las rutas metodológicas de diseño de investigación de las humanidades, excepto los estudios culturales o la etnohistoria [5^], no piensan en la confluencia de disciplinas para el abordaje de los problemas si bien en muchas investigaciones confluyen varias disciplinas. Por ello es usual que las investigadoras encontremos tensiones metodológicas antes los vacios del saber y el saber hacer en diversas disciplinas. Así, en esta investigación, como suele suceder en el diseño como en las artes, el problema tomó diversas materialidades -prototipos- y la investigación misma se encaminó a construir el problema interdisciplinariamente [6^]. Por lo tanto, el acotamiento del problema es el resultado de la investigación misma. Un recorrido que de paso posiciona la investigación como diseño (Grand, 2010; Jonas, 2010).
+En las humanidades es usual que nuevas categorías metodológicas o conceptuales aparezcan en el curso del desarrollo de la investigación. Generalmente se parte con unas categorías predeterminadas y aparecen nuevas categorías metodológicas o conceptuales en la medida que se expande el corpus teórico y se analizan datos (Rico de Alonso, 2005). Sin embargo, no es usual, ni metodológicamente deseable, que el problema cambie en el transcurso de la investigación. El problema responde a la identificación de un vacios del conocimiento y su investigación tiene por objeto comprender, explicar y ampliar los conocimientos que allí se discuten. Sin embargo, en esta investigación desde las Humanidades Digitales  el problema fue un problema. Las rutas metodológicas de diseño de investigación de las humanidades, excepto los estudios culturales o la etnohistoria [5^], no piensan en la confluencia de disciplinas para el abordaje de los problemas si bien en muchas investigaciones confluyen varias disciplinas. Por ello es usual que las investigadoras encontremos tensiones metodológicas antes los vacios del saber y el saber hacer en diversas disciplinas. Así, en esta investigación, como suele suceder en el diseño como en las artes, el problema tomó diversas materialidades -prototipos- y la investigación misma se encaminó a construir el problema interdisciplinariamente [6^]. Por lo tanto, el acotamiento del problema y su matertialización en un prototipo es el resultado de la investigación misma. Un recorrido que de paso posiciona la investigación como diseño (Grand, 2010; Jonas, 2010), una metodología que fue determinante para todo el proceso. Ver figura 4.
 
 ![Esquema problema de investigación](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu_problema_21.png)
 
- 
+Gráfico 4. Los prototipos en la investigación en Humanidades Digitales 
+
+#### La investigación como diseño
+
+El diseño como investigación se ha abordado desde la antropología de las ciencias ampliamente desarrollada por Latour pero también por las investigaciones propias del diseño como disciplina. Simon (2017) marca la diferencia entre la investigación en diseño y el diseño como investigación. La investigación en diseño hace uso de métodos mixtos para responder una pregunta problema comunmente relacionada con el desarrrollo de un producto. La investigación como diseño, por el contrario, piensa en las maneras como se investiga y las conexiones con el pensamiento en diseño: representación gráfica y prototipado. En este punto es donde se presenta la función epistémica de los prototipos pues a través de ellos, desde el diseño, se piensa el problema en si. 
+
+ La observación del proceso de esta tesis me permitió reconocer una manera de abordar un problema de conocimiento en el cual la investigación como diseño (Grand, 2017) permite refinar el problema y generar al menos dos situaciones:
+
+1) Mientras el tema general se mantiene (construcción de conocimiento colaborativo-relaciones seres humanos-plantas-plataforma digital) el problema y por consecuencia la pregunta de investigación y los objetivos empiezan a iterar, alimentados por abordajes conceptuales y experimentos técnicos nuevos.
+
+ 2) Los prototipos en tanto objetos observables se presentan como medios para refinar el mismo problema.  
+
+Al respecto hago una diferencia entre metodologías que desarrollan infraestructuras para la investigación en humanidades digitales (gráfico 5), metodologías que integran en un objetivo diferentes áreas de conocimiento para el desarrollo integro de un prototipo digital (gráfico 6)  y las metodologías que hacen del prototipo una ruta para pensar el problema de las relaciones humanidades-infraestructuras digitales (gráfico 7)
+
+￼
+
+![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-metodologia-007.jpeg)
+
+￼
+Grafíco 5. Creación  propia.
+
+![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-metodologia-001.jpeg)￼
+
+Gráfico 6. Creación propia.
+
+![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-metodologia-002.jpeg)
+
+Gráfico 7. creación propia.
+
+Los tres  esquemas de las metodologías responden a proyectos de diferente naturaleza. EL primero nos remite a los proyectos que desarrollan o implementan herramientas digitales para poder explorar campos difícilmente abordables por las y los investigadores. Arqueología, lingüística (computacional) estudios literarios entre otras áreas, han impulsado el desarrollo o la implementación de herramientas digitales que permiten trabajar con un corpus considerable y así, reconocer hipótesis de trabajo, hacer hallazgos. Bases de datos, exposiciones virtuales, visualización, geo-referenciación, mapeo, corpus lingüísticos, ocurrencia de palabras y contextos de uso, referencias textuales, análisis figurativos-semióticos de pictogramas, jeroglíficos, etc, son algunas de los resultados de estas implementaciones que son en alguna manera herramientas de recolección, organización y análisis de datos. Desde allí es claro emergen hipótesis y es posible hacer lecturas que dificilmente se podrían hacer por metodologías fenomenológicas. Esta perspectiva tiende más a el racionalismo y dialoga con los métodos de las ciencias duras. Trabajo e laboratorio, prueba de hipótesis y experimentaciones con protocolos. 
+
+El segundo modelo de metodología responde más a proyectos que trabajan factual o hipotéticamente con una comunidad de usuarios que pueden necesitar o serles útil una herramienta en particular.  Al reconocer una comunidad usuaria eso implica un abordaje en el cual el problema a resolver debe necesariamente dialogar e incluir claridades legales, éticas y de gestión (sobre todo sostenibilidad) del proyecto. Redes sociales temáticas, diseño de video juegos, proyectos transmedia, páginas interactivas, wikis, blogs, son algunos de los proyectos que resultan de estas metodologías. En este modelo tanto la informática comunitaria como la informática educativa tienen un papel importante pues están enfocadas en resolver problemas mediante la tecnología. Es por así decirlo una solución técnica a un problema social. La falencia de este modelo es su determinismo tecnológico y la ausencia crítica de las tecnologías en sí. Está estrechamente relacionado con el diseño centrado en el usuario y metodologías participativas de diseño, investigación acción y métodos etnográficos.  
+
+ Poner la atención en tecnologías o sistemas informáticas al servicio o para la resolución de un problema de índole social es una tendencia que desde los años 80´s congrega a aficionados y profesionales de la computación, u otras áreas. Cuando Grunstein publicó *Community Informatics: Enabling Communities with Information and Communications Technologies* (Idea Group, 2000) ya existían al menos 20 años de experiencias localizadas de informática comunitaria (IC). Este campo que no cuenta con unas metodologías propias para ser definido como disciplina, "se preocupa por mejorar la sociedad civil y fortalecer comunidades para la autogestión y para el medio ambiente y el sostenimiento económico,poder, desarrollo, asegurando que muchos que de otro modo quedarían excluidos puedan aprovechar las enormes oportunidades que presentan las nuevas tecnologías" (Gurstein, 2000, pág.2). Por lo tanto, allí discurren los conceptos de comunidad e implementación y diseño de tecnologías y aplicaciones. 
+
+Si bien el acceso a las tecnologías y las herramientas implican que las sociedades salgan de lo que se denomina brecha digital, su implementación no necesariamente implica la apropiación y la comprensión de lo que implica la tecnología misma. La informática comunitaria siguiendo a Gurstein (2000)  incluye el acceso al hardware, el software, la conectividad y la información en contextos dondela tecnología sea aplicada a comunidades "físicas" [x^].  Esto implica que los usuarios como las comunidades deben ser parte del proceso de diseño de las implementaciones que se van a realizar. Pero, ¿incluye el diseño la dicusión de las implicaciones de las tecnologías en las comunidades? No necesariamente y por ello el tercer modelo metodológico.
+
+El tercer modelo permite salir de la lista de requerimientos a cuestionar las instancias fundacionales de las herramientas desde la experimentación con ellas mismas. Probar las diferentes plataforma e indagar críticamente las maneras como han sido diseñadas y las maneras como presentan el problema del o la investigadora. Este modelo permite relacionar tanto el diseño o uso de una herramienta ( gráfico 5) con la implementación comunitaria del mismo ( gráfico 6) en un marco de observación más amplio que el simple determinismo tecnológico. Así, se parte del posible diseño, uso y apropiación de una herramienta pero se cuestiona el cómo, para qué, entre quienes se va a diseñar esta herramienta. Es preciso señalar que aquí el prototipo no es solo el resultado sino un elemento que permite refinar el proceso y por lo tanto el problema de manera crítica (Ver: gráfico 8). Este modelo es muy cercano a las vertientes del diseño crítico y el especulativo los cuales se proponen ser dispositivos de reflexión sobre las “posibilidades de ser” en nuestro planeta y mediados muchas veces por tecnologías. 
+
+￼![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-metodologia-003.jpeg)
+Figura 8. Creación propia
+
+**El diseño crítico formulado en  por  el diseño especulativo para**
 
 
 
-Para dar cuenta de cómo pensé mediante el diseño de prototipos, o cómo estos fueron  "telescopios para mi mente" este capitulo se organiza en tres partes. 
+Resolver problemas
 
-En la primera narro - en lo que puede denominarse una acción auto etnográfica- lo que llamo el giro metodológico. Allí se concentra la discusión de las perspectivas disciplinares y metodológicas que definieron el lugar de las herramientas e infraestructuras en  la investigación. ¿Son las herramientas e infraestructuras un fin o un medio? Las perspectivas detalladas son la informática comunitaria, la informática educativa, el diseño participativo y finalmente el diseño crítico. 
 
-En la segunda parte presento la discusión sobre lo que implicó investigar como diseño y desde el diseño en las Humanidades Digitales. Finalmente, en la tercera parte integro la reflexión sobre la documentación como parte de la resolución de problemas en Humanidades Digitales.  
-
-En particular situo el uso de Git, un software de control de versiones para mapear la trayectoria del proyecto en relación a las preguntas e ideas emergentes, la refinación del problema, la integración de conceptos y su relación en el tiempo con los prototipos. Igualmente presento el uso de la visualización mediante diagramas y el diseño de dos instrumentos en particular: los marcos analíticos para abordar los referentes y el protocolo -análogo al de un laboratorio- para sistematizar los prototipos. 
 
 ## 
 
@@ -184,34 +222,24 @@ Hasta aquí  Inaturalis se presentaba como el software que podría estructurar u
 
 La Wiki semántica 
 
+Una intención que ya estaba clara en la pregunta del proyecto de la wiki etnobotánica "Mil país"
 
+> ¿De qué manera se puede articular ciencia y conciencia ciudana bajo principios éticos, en comunidades que usan, ivestigan, producen y defienden saberes etnobotánicos mediante la implementación de una wiki semántica pensada para diversas comunidades que permita la apropiación de la tecnología, el acceso recuperación del conocimiento y verificación de la información?
 
 Estas rutas me llevaron darle forma a un wiki semántica llamada "Mil País"  y a la aparición de una posible app "Cofechas". Pese a que ambos respondían  o a los requerimientos propuestos en el preproyecto, o a los requerimientos emergentes de una comunidad de productores agroecológicos, los prototipos no evidenciaban la "construcción de conocimiento colaborativo seres humanos plantas", ni resolvían los asuntos éticos y legales del conocimiento etnobotánico en entornos digitales. Estos dos aspectos reformularon la coherencia del proyecto. 
 
 Y así ocurrió en el primer año [5^]. La investigación acción como una metodología de investigación centrada en las relaciones de las personas con el problema,  me permitió mediante el diseño de instrumentos y consulta a comunidades y expertos construir un prototipo inicial. La realización de entrevistas a tres expertos en etnobotánica, propiedad intelectual y ciencia ciudadana, la participación en las reuniones de la comunidad ARAC (productores agroecológicos de Subachoque), la realización de un grupos focal con ellos, la observación participante, las conversaciones, más las matrices de análisis de referentes y exploración conceptual permitieron consolidar un prototipo bajo incipientes metodologías ágiles. Pero ¿Cuáles habían sido los referentes (software) para consolidar este prototipo?
 
+ Al respecto en Milpas pude notar dos aspectos:
 
+1. En ningún momento había pensado en la manera como se estructuraba el conocimiento para el modelado de una base de datos
+2. Tenía la plena convicción de que las wikis al ser colaborativas ya eran herramientas suficientes para democratizar la construcción y recuperación del conocimiento además de mapear las relaciones seres humanos plantas. 
 
 
 
 En cuanto a los aspectos legales emergió la vulnerabilidad de los conocimientos tradicionales sobre plantas ante el riesgo de ser patentados. Esta cuestión que parece impensable es el motivo por el que paises como la  India. Como se puede consultar en el referentes Biblioteca Digital de Medicinas tradicionales de la India por sus siglas en inglés TKDL (Ver: wiki en GitHub), existen escazos pero importantes rmodelos de bibliotecas digitales que previenen la bioperiatería o apropiación indebida de conocimientos tradicionales vinculados a recursos biológicos. Este asunto que no es menor cuestiona la procedencia ética de una plataforma etnobotánica. En tanto no exista una legislación nacional, toda informacion que circule en internet está en riesgo de ser apropiada indebidamente. Y esto implica un riesgo para la existencia de las plantas como para las comunidades donde habitan y comparten sus beneficios. Para aclarar el tema: quien patente un  
 
 Frente al asunto de las relaciones de las plantas con los seres humanos, mi perspectiva, como los preceptos ontológicos de los modelos subyacentes a los prototipos: modelado de bases de datos e infraestructuras, no consideraban ni integraban a las plantas como agentes en el sistema mismo. Sin embargo, la oportunidad de desarrollar un laboratorio de micro huertas [x^] me permitió explorar la intuición de dichas relaciones. Intuiciones que más adelante identificaría como metodologías del diseño crítico y  especulativo. Desde allí, como desarrollaré más adelante, me pregunté sobre la agencia de las plantas, su relación -de amistad- con los seres humanos, su estatuto ontológico y la experiencia que teníamos los participantes con ellas. Aquí, el diseño crítico es el detonante del giro de esta investigación pues me permitió reconocer perspectivas multidisciplinarias para abordar un problema de investigación desde las Humanidades Digitales y ver en el prototipo un artefacto para pensar [2]. 
-
-
-
-![](/Users/juanaespinosa/Tesis/001_Tesis Git_esquema/Esquemas/esqu_Giro_metodol_V2.png)
-
-¿Pero qué decían estos cambios metodológicos del lugar de las herramientas, las tecnologías y las infraestructuras? Poner la atención en tecnologías o sistemas informáticas al servicio o para la resolución de un problema de índole social es una tendencia que desde los años 80´s congrega a aficionados y profesionales de la computación, u otras áreas. Cuando Grunstein publica *Community Informatics: Enabling Communities with Information and Communications Technologies* (Idea Group, 2000) ya existían al menos 20 años de experiencias localizadas de informática comunitaria (IC). Este campo que no cuenta con unas metodologías propias para ser definido como disciplina, "se preocupa por mejorar la sociedad civil y fortalecer comunidades para la autogestión y para el medio ambiente y el sostenimiento económico
-poder, desarrollo, asegurando que muchos que de otro modo quedarían excluidos puedan 
-aprovechar las enormes oportunidades que presentan las nuevas tecnologías" (Gurstein, 2000, pág.2). Por lo tanto allí discurren los conceptos de comunidad e implementación y diseño de tecnologías y aplicaciones. Una intención que ya estaba clara en la pregunta del proyecto de la wiki etnobotánica "Mil país"
-
-> ¿De qué manera se puede articular ciencia y conciencia ciudana bajo principios éticos, en comunidades que usan, ivestigan, producen y defienden saberes etnobotánicos mediante la implementación de una wiki semántica pensada para diversas comunidades que permita la apropiación de la tecnología, el acceso recuperación del conocimiento y verificación de la información?
-
-Si bien el acceso a las tecnologías y las herramientas implican que las sociedades salgan de lo que se denomina brecha digital, su implementación no necesariamente implica la apropiación y la comprensión de lo que implica la tecnología misma. La informática comunitaria siguiendo a Gurstein (2000)  incluye el acceso al hardware, el software, la conectividad y la información en contextos dondela tecnología sea aplicada a comunidades "físicas" [x^].  Esto implica que los usuarios como las comunidades deben ser parte del proceso de diseño de las implementaciones que se van a realizar. Pero ¿Incluye el diseño la dicusión de las implicaciones de las tecnologías en las comunidades? Al respecto en Milpas pude notar dos aspectos:
-
-1. En ningún momento había pensado en la manera como se estructuraba el conocimiento para el modelado de una base de datos
-2. Tenía la plena convicción de que las wikis al ser colaborativas ya eran herramientas suficientes para democratizar la construcción y recuperación del conocimiento además de mapear las relaciones seres humanos plantas. 
 
 
 
@@ -252,58 +280,6 @@ Por lo tanto pensar las representaciones de las plantas u otros elementos de los
 [x^] Tanto las aplicaciones de la IC como los modelos de servicios, tienen una clara vinculación con los procesos que se han adelantado o se pueden adelantar en las Bibliotecas Públicas. Y es claro que en este marco las tecnologias son las mediadoras de procesos para las comunidades. Pero ¿cuál es la incidencia de las tecnologías en las mismas comunidades?
 
 *****
-
-
-
-#### La investigación como diseño
-
-**Resolver problemas**
-
-###### Pensar visualmente
-
-###### Pensar con prototipos
-
-Cuando el prototipo no es el resultado sino el detonante
-
-Pensar desde los prototipos retoma dos ideas: el diseño como investigación y la función epistémica de los prototipos. El diseño como investigación se ha abordado desde la antropología de las ciencias ampliamente desarrollada por Latour pero también por las investigaciones propias del diseño como disciplina. Simon (2017) marca la diferencia entre la investigación en diseño y el diseño como investigación. La investigación como diseño hace uso de métodos mixtos para responder una pregunta problema comunmente relacionada con un producto. La investigación como diseño, por el contrario, piensa es las maneras como se investiga y las conexiones con el pensamiento en diseño relacionado con el representar gráficamente y el hacer. En este punto es donde se presenta la función epistémica de los prototipos pues a través de ellos, desde el diseño, se piensa el problema en si. 
-
-Quisiera señalar que si bien es posible hablar de fracaso, la observación del proceso me permitió reconocer una manera de abordar un problema de conocimiento en el cual la investigación como diseño (Grand, 2017) permite refinar el problema y generar al menos dos situaciones: 1) mientras el tema general se mantiene ( construcción de conocimiento colaborativo-relaciones seres humanos-plantas-plataforma digital) el problema y por consecuencia la pregunta de investigación y los objetivos empiezan a iterar alimentados de abordajes conceptuales y experimentos técnicos nuevos y 2) los prototipos en tanto objetos observables se presentan como medios para refinar el mismo problema.  Este modo de proceder me permitió hacer procesos exploratorios para la definición de un problema en un campo como las humanidades digitales el cual al ser interdisciplinario implica en muchos casos la observación e inclusión de aspectos emergentes. Al respecto hago una diferencia entre un modelo que desarrolla infraestructuras para la investigación en humanidades digitales (figura 1), un modelo que integra en un objetivo diferentes áreas de conocimiento para el desarrollo integro de un prototipo digital (figura 2)  y un modelo que hace del prototipo una ruta para pensar el problema  de las relaciones humanidades-infraestructuras digitales 
-
-
-
-
-
-(figura 3). 
-
-
-￼
-Figura 1. Creación propia
-
-
-￼
-Figura 2. Creación  propia.
-
-￼
-
-
-Figura 3. Creación propia.
-
-Los tres modelos responden a proyectos de diferente naturaleza. EL primero nos remite a los proyectos que desarrollan o implementan tecnologías digitales para poder explorar campos difícilmente abordables por las y los investigadores. Arqueología, lingüística (computacional) estudios literarios entre otras áreas, han impulsado el desarrollo o la implementación de herramientas digitales que permiten trabajar con un corpus considerable y así, reconocer hipótesis de trabajo, hacer hallazgos. Bases de datos, exposiciones virtuales, visualización, geo-referenciación, mapeo, corpus lingüísticos, ocurrencia de palabras y contextos de uso, referencias textuales, análisis figurativos-semióticos de pictogramas, jeroglíficos, etc, son algunas de los resultados de estos modelos que son en alguna manera herramientas de recolección, organización y análisis de datos. 
-
-El segundo modelo responde más a proyectos que trabajan factual o hipotéticamente con una comunidad de usuarios que pueden necesitar o serles útil una herramienta en particular.  Al reconocer una comunidad usuaria eso implica un abordaje en el cual el problema a resolver debe necesariamente dialogar e incluir claridades legales, éticas y de gestión (sobre todo sostenibilidad) del proyecto. Redes sociales temáticas, diseño de video juegos, proyectos transmedia, páginas interactivas, wikis, blogs, son algunos de los proyectos que resultan. En este modelo tanto la informática comunitaria como la informática social han tenido un papel importante pues están enfocadas en resolver problemas mediante la tecnología. Es por así decirlo una solución técnica a un problema social. La falencia de este modelo es su determinismo tecnológico y la ausencia crítica de las tecnologías en sí. Está estrechamente relacionado con el diseño centrado en el usuario.
-
-El tercer modelo permite salir de la lista de requerimientos a cuestionar las instancias fundacionales de las herramientas desde la experimentación con ellas mismas. Probar las diferentes plataforma e indagar críticamente las maneras como han sido diseñadas y las maneras como presentan el problema del o la investigadora. Este modelo permite relacionar tanto el diseño de una herramienta ( modelo 1) con la implementación del mismo ( modelo 2 ) en un marco de observación más amplio que el simple determinismo. Se parte del posible diseño, uso y apropiación de una herramienta pero se cuestiona el cómo, para qué, entre quienes se va a diseñar esta herramienta. Es preciso señalar que aquí el prototipo no es solo el resultado sino un elemento que permite refinar el proceso de manera crítica ( figura 4) Este modelo es muy cercano a las vertientes del diseño crítico y el especulativo los cuales se proponen ser dispositivos de reflexión sobre las “posibilidades de ser” en nuestro planeta y mediados muchas veces por tecnologías. 
-
-
-￼
-Figura 4. Creación propia
-
-Prototipos para pensar las relaciones humanidades infraestructuras digitales
-
-
-En muchos sentidos queda la sensación que el problema y el proyecto aparece delimitado y claro después de varios experimentos y debería ser este el punto de partida y el caso a narrar en la tesis. Pero como Latour ha insistido ( xxxx), es poco o nulo el conocimiento que desde la ciencia misma se produce sobre cómo se llega al conocimiento y en este caso al problema. 
-
-En este sentido quisiera solicitarles la posibilidad de “prototipar” un modelo de informe de tesis que me permita mediante el ensayo y apoyada en esquemas, dar cuenta de este proceso. Es decir narrar las rutas en las que el problema fue iterando, los experimentos y los hitos que permitieron refinar el problema y finalmente la manera como las infraestructuras fueron abordadas desde la antropología para cuestionar su “objetividad” y “adecuación” a la hora de dar cuenta de una relación como las de seres humanos plantas cuya ocurrencia cultural desborda la relación “ descriptiva” “utilitarista” y “extractiva” que predomina en los modelos de archivo y enciclopedismo occidental. Igualmente es de mi interés el poder establecer las rutas desde las cuales me posicioné como investigadora. Si bien fue posterior a muchos de los ejercicios y fue mediante la lectura de diversa literatura, quisiera dejar huella de la manera como se transformó mi rol y lo que ello significa profesionalmente. 
 
 
 
@@ -503,6 +479,8 @@ caminos dispuestos.
 ## VI  El lenguaje del botsque : prototipo para pensar la agencia de lo no humano en entornos colaborativos
 
 ## VII  Conclusiones
+
+Explorar las maneras como los seres humanos resolvemos problemas de manera algoritmica, heurística, etc.  es fundamental para abordar los problemas en las humanidades digitales donde confluyen disciplinas y metodologías. Hay aspectos de los problemas que se resuelven algoritmicamente pero hay otros que requieren de pensamiento paralelo o enfoques heurísticos. En esta tesis en particular el pensamiento paralelo entendido como la confluencia de múltiples soluciones a un problema me permitieron explorar el problema e identificar todos los aspectos relacionados. Sin embargo, hice uso del pensamiento algoritmico para solucionar problemas de las herramientas y diseñar experimentos. 
 
 ## VIII  Referencias
 
