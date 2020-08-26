@@ -100,6 +100,9 @@ Posicionar a los prototipos como instrumentos con funciones epistémicas y que p
 
 ![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu_git_v1.png)
 
+
+![](001_esqu_cap_tesis-Cap_I_Git.png)
+
 Gráfico 1: Esquema control de versiones. Proceso investigativo y de prototipado. María Juana Espinosa.
 
 El control de versiones git permite registrar momentos en el tiempo de un proceso. Cada momento referenciado se registra a partir de un commit que es un comentario textual que resumen el avance, cambio, edición, adición etc. Esto permite que quien desarrolla un software pueda regresar a momentos del desarrollo anteriores al presente. Otro elemento que se destaca son las ramas. Desarrollos paralelos que no interfieren con la rama principal y que pueden volver a la rama princial una vez se resuelvan los problemas o desarrollen las funciones. Esta acción se denomina merge. Para el caso del control de cambios de un proceso de investigación académica estimé necesario definir:
