@@ -459,6 +459,32 @@ Búsqueda**
 
 ****Descripción**
 
+The technology industry does have its own tradition of conceptual
+
+design in the form of Vision of the Future video scenarios setting out future
+
+directions or promoting new corporate values but they are often very limited
+
+in their scope and vision. They usually feature perfect worlds for perfect
+
+people interacting perfectly with perfect technologies. Whirlpool, and
+
+especially Philips Design, are two companies that have consistently gone
+
+beyond this and successfully used conceptual projects to explore alternative
+
+visions for everyday life, which with Philips’s design probes pushed the
+
+medium itself forward. Their Microbial Home (2011) is a proposal for
+
+integrating domestic activities such as cooking, energy usage, human waste
+
+management, food preparation, and storage, as well as lighting into one
+
+sustainable ecosystem in which each function’s output is another’s input.
+
+At the heart of the project is a view of the home as a biological machine.
+
 **Objeto**
 
 **Antecedentes**
