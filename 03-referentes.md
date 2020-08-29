@@ -35,7 +35,317 @@ Literatura asociada
 
 **Usabilidad**
 
-**Documentación**
+**Documentación 1**
+
+Memoria de requerimientos para el diseño de una 
+
+**Base de datos de plantas medicinales, conocimientos asociados y** 
+
+**aplicación para el cuidado de la salud**
+
+
+
+1. **Concepción general de la base de datos.**
+
+El proyecto de establecer una base de datos sobre plantas medicinales busca tres objetivos:
+
+\1. Recopilar y documentar la información disponible sobre plantas medicinales, en especial los conocimientos tradicionales que existen sobre ellas y las consideraciones sobre su aplicación para el cuidado de la salud.
+
+\2. Permitir el acopio incremental de información, su alimentación colaborativa y el fácil acceso de personas interesadas a través de Internet.
+
+\3. Integrar a las personas interesadas en las plantas medicinales a través de una red de colaboración.
+
+
+
+**Antecedentes**
+
+La OMS ha sugerido que para incorporar las plantas medicinales en el cuidado de la salud es necesario un ejercicio prudente para establecer su eficacia, inocuidad y adecuada calidad. Como respuesta a estas necesidades se ha propuesto adelantar investigaciones monográficas exhaustivas para acopiar la mayor cantidad de información científica disponible sobre las plantas y contribuir también al acopio de evidencia sobre las terapias tradicionales, como lo ha solicitado la estrategia de medicina tradicional de la OMS. El Grupo de Estudios en Sistemas Tradicionales de Salud (GESTS) adelanta un trabajo de investigación en este tema desde hace varios años y ha constatado la necesidad de conceptualizar y sistematizar los resultados obtenidos. 
+
+Dos de los primeros productos de investigación obtenidos en Cota para el trabajo con plantas medicinales buscaban consolidar una aproximación académica y científica a este tema: *El legado de las plantas medicinales en la Sabana de Bogotá*, de 1995, y *Botánica Médica. Contribución al estudio científico de las plantas medicinales*, de 1992. Más tarde, en 2005, el GESTS publicaría un volumen con nueve monografías, siguiendo las pautas de la OMS.
+
+En el plano internacional la principal referencia para este tema son cinco volúmenes publicados por la OMS sobre 129 especies de plantas medicinales seleccionadas con dos criterios: a) ser de uso común en al menos dos regionales de la OMS y b) disponer de suficiente información científica para cumplimentar las secciones de los formatos de monografías. A partir de estos trabajos 46 países habían adelantado sus propias monografías de plantas medicinales para 2005 y al menos 16 reportaron tenerlos como referencia para sustentar sus sistemas de regulación. En Colombia el Ministerio de Protección Social publicó en 2008 el *Vademecum de Plantas Medicinales Colombiano* que fue adoptado como referencia obligatoria para expedir el registro sanitario de los productos fitoterapéuticos tradicionales y cubrió un total de 119 especies.
+
+En 2009 la OMS anunció su decisión de suspender la redacción de nuevas monografías debido a la inmensa diversidad de especies y de información disponible. Más aún, la recomendación dictada por el panel de expertos fue actualizar las investigaciones que ya se habían adelantado en los volúmenes anteriores. Dos recomendaciones adicionales acompañaron esta decisión: fortalecer la capacidad local para continuar generando evidencia científica y fortalecer la colaboración de redes de investigación. 
+
+Una dificultad adicional con la publicación de este tipo de trabajos radica en su formato. En la medida que la información disponible sobre cada planta tiene una tendencia incremental, los documentos impresos se hacen obsoletos, costosos de producir y de difícil divulgación fuera de escenarios locales.
+
+Finalmente, es pertinente aclarar que, tal como lo reiteraba la OMS, el propósito de hacer estas revisiones exhaustivas no es el de proponer un vademécum para el uso de plantas o una lista de recetas para el cuidado de la salud. Esta base no pretende aprobar el uso de las plantas que se consignen en ella ni servirá como argumento para su uso indiscriminado, más bien servirá como un aporte para un conocimiento más profundo de sus alcances y para fortalecer el conocimiento tradicional que las acompaña.
+
+El valor de las bases de datos para el seguimiento de las colecciones de jardines botánicos ha sido reconocido por su impacto en los objetivos de conservación, protección y recuperación de especies en riesgo de extinción, según se explica ampliamente en un número especial del *Journal of Botanic Gardens Conservation International* dedicado a este tema y publicado en julio de 2012 (Vol 11, No 2). Este documento también llama la atención sobre la necesidad de establecer redes de cooperación entre diferente bases de datos para fortalecer los intercambios de información entre jardines a lo largo del mundo y presenta experiencias significativas desarrolladas por BGCI para este fin. Incluso se ha propuesto que este puede llegar a ser un camino para lograr el objetivo formulado por la COP 10 en Japón que busca construir una Flora online de todas las plantas conocidas, como parte de la estrategia global para la conversación de plantas. Finalmente, otra de las características sobresalientes de estos sistemas de manejo de información es el uso de herramientas para georeferenciar los datos y poder así implementar análisis espaciales.
+
+Sin embargo, vale señalar que el alcance de estos desarrollos aún permanece enfocado exclusivamente en la dimensión biológica de los recursos botánicos y no ha incorporado la dimensión cultural, es decir los conocimientos asociados, que es el interés principal de nuestro proyecto. Uno de los requerimientos importantes para nuestra base de datos será, por lo tanto, poder establecer canales de comunicación o referencia con otras bases de datos desarrolladas con fines complementarios de manera que no se repita información innecesaria y que la comunidad interesada pueda compartir más fácilmente su trabajo. Si bien por años “los jardines botánicos han sido reconocidos como los guardianes del conocimiento sobre plantas” en el Cemi consideramos que las comunidades tradicionales han sido por mucho más tiempo los responsables de importantes conocimientos asociados con los recursos biológicos y por esta razón nuestro esfuerzo está dirigido a que ellas puedan hacerse protagonistas de este ejercicio de sistematización gracias a un adecuado diálogo con científicos que les sirvan de puente con este tipo de herramientas.  
+
+El Cemi y el GESTS han propuesto lineamientos éticos para el manejo de información concerniente al conocimiento tradicional en ellos reiteran su compromiso por el respeto del patrimonio material e inmaterial de las comunidades. La defensa de los derechos de propiedad intelectual en este campo es compleja y muchas veces enfrenta cuestiones que no tienen una respuesta clara. La documentación del conocimiento tradicional por sí misma no es una garantía de su protección y puede incluso llegar a ser una amenaza para su supervivencia. Es necesario avanzar aún en esta discusión. Para la propuesta de la base de datos hemos establecido unos criterios básicos que esperamos aseguren una correcta aproximación a esta materia:
+
+\- Asumimos que la investigación con pueblos indígenas debe respetar la legislación vigente, acogemos los principios propuestos por el GESTS y en particular resaltamos dos:
+
+«Principio de derechos de propiedad: se reconoce que las comunidades indígenas involucradas son poseedoras de los conocimientos adquiridos de manera colectiva y transgeneracional, y forman parte de su patrimonio inmaterial, en el marco del Convenio de Salvaguarda del Patrimonio Inmaterial de la UNESCO. Por consiguiente, son los únicos titulares de los derechos de propiedad intelectual que se deriven de ellos.»
+
+«Principio de confidencialidad: se reconoce que los indígenas tienen el derecho a la privacidad y al anonimato. Este principio reconoce que los indígenas, en su sola discreción, tienen el derecho de excluir de publicación y/o mantener confidencialidad sobre cualquier información concerniente a su cultura, tradiciones, mitologías o creencias espirituales. Además, tal confidencialidad será garantizada por los investigadores y otros usuarios potenciales.»
+
+\- A los ya citados principios sumamos dos que fueron propuestos específicamente para estudios etnobotánicos en 2004: 
+
+«Investigación al servicio de la planta y su papel en la cultura: […] el objetivo final, más allá de una posible investigación farmacológica y clínica, es conseguir que su empleo, en el contexto tradicional y cultural, no desaparezca. No se trata de buscar una planta al servicio de la investigación. Es investigar como un servicio a la planta y su reincorporación plena en la dimensión ambiental, cultural y humana de los pueblos indígenas.»
+
+«La conservación como parte integral de la investigación: resulta contradictorio que la investigación de plantas medicinales […] continúe, al tiempo que somos testigos de la severa deforestación y del drama ambiental que vive la selva y los genuinos habitantes de ella. No se trata de investigar antes que se acaben las selvas y las culturas. Se trata de una investigación comprometida, ante todo, con acciones efectivas de conservación de la diversidad biológica y cultural.»
+
+\- Consideramos que estos principios deben aplicarse tanto a las comunidades indígenas como a las comunidades de campesinos y afrodescendientes.
+
+\- La información que se publique en la base de datos debe ser el resultado de un trabajo respetuoso de diálogo con las comunidades poseedoras del conocimiento tradicional, por tanto es responsabilidad de los colaboradores que la incorporen garantizar que se ha cumplido con los procedimientos adecuados para la obtención de permisos y autorizaciones concernientes con su divulgación.
+
+\- Toda información incluida en la base de datos debe estar vinculada con una referencia que permita rastrear su origen, bien sea una publicación anterior o una investigación de fuentes primarias.
+
+\- La información contenida en la base de datos no podrá ser aprovechada con fines comerciales o de lucro personal. Su utilización es libre siempre que se respeten las normas sobre referencia de fuentes y citación.
+
+\- Invitamos a los usuarios de la base de datos a reconocer el valor intrínseco de las plantas medicinales y no ambicionar la producción de riqueza a costa de ellas.
+
+**Documentación** 2
+
+*Memoria de requerimientos para el diseño de una 
+
+**Base de datos de plantas medicinales, conocimientos asociados y** 
+
+**aplicación para el cuidado de la salud**
+
+
+
+1. **Concepción general de la base de datos.**
+
+   Ver RequerimientosBD_C1.doc
+
+1. **Consideración jurídica**
+
+En etapa de construcción, a cargo de Cristina Matiz Mejía.
+
+1. **Guía de lectura**
+
+La base de datos funcionará en una plataforma compatible con Internet, su interface será una sección abierta al público dentro de una la página más amplia diseñada para dar información sobre el Jardín Botánico Medicinal de Cota (2).
+
+*Interfaces:*
+
+Para cada planta habrá dos interfaces: 
+
+1) La de presentación o carátula, que tendrá un diseño asimilando a una infografía con los siguientes datos:
+
+Nombre científico
+
+Sinónimos
+
+Nombres comunes 
+
+Localidades en las que se ha reportado (mapa)
+
+Autores
+
+Fotografías
+
+Resumen: espacio de texto en el que se presenta la información más importante de cada planta medicinal.
+
+Vínculo al resto del contenido, ordenado en tres capítulos: naturaleza, cultura y salud
+
+Informe del estado de la base de datos*
+
+2) El resto de la información de la base estará diagramada de manera que pueda ser impresa en un documento tamaño carta o exportada en PDF, siguiendo la estructura de tres capítulos que se explica más adelante.
+
+*Usuarios:*
+
+Todo usuario de la página web debe leer y aceptar la sección de “términos y condiciones de uso de esta página web” en la que se presentarán además los criterios éticos establecidos para ingresar o consultar información. Hay tres tipos de usuarios:
+
+
+
+*Lectores*: cualquier persona que, sin necesidad de registrarse, tiene acceso a la información disponible al público para consulta, más no para modificación.
+
+*Colaboradores*: personas que han surtido un proceso de registro de su información personal y que además de tener acceso a la información abierta al público pueden proponer contenidos adicionales para las diferentes secciones de la base de datos. Estas personas serán consideradas coautores de la sección en la que registren información y deberán aceptar los términos y condiciones establecidos para la base de datos, particularmente en lo que se refiere a propiedad intelectual y patrimonial, así como al respeto de los derechos de autor, los derechos colectivos de las comunidades y la protección al patrimonio material e inmaterial.
+
+*Administradores*: son usuarios con acceso pleno a la información y manejo de los registros de la base de datos, sus funciones pueden ser restringidas por familia o género. Tienen los privilegios de las dos categorías precedentes, así como los requisitos de acceso, y cuentan con el privilegio adicional de aceptar o rechazar el ingreso de nuevos aportes recibidos por usuarios del tipo *colaboradores*.
+
+Los aportes de los colaboradores y administradores para cada capítulo serán bloques de información original en los que se consignan los datos más relevantes sobre la planta así como las referencias (fuentes primarias o fuentes secundarias) sobre las que se sustenta. En cada bloque debe identificarse: los autores que participaron en su elaboración, la fecha de publicación en la base, las referencias y la localidad. Los aportes subsecuentes pueden pertenecer a un bloque nuevo si se tratan de temas diferentes o ser comentarios al bloque original si se tratan de adiciones al mismo tema.
+
+Se publicará un listado de los colaboradores y administradores que estén interesados en hacer públicos sus datos (#) con el fin de generar red e interacción entre personas interesadas en el tema.
+
+*Datos necesarios para el registro de usuarios (\* obligatorios):*
+
+- Nombres y apellidos # *
+- Identificación *
+- Profesión # *
+- Institución #
+- Forma de citar como autor # *
+- País *
+- Ciudad *
+- Correo electrónico (1 y 2) # *
+- Teléfono (país+área+número)
+- Dirección de correspondencia
+- Interés personal (texto libre de 250 palabras)
+- Foto #
+- Interés de hacer público su perfil, datos marcados con # (sí o no) *
+- Aceptar los términos legales de uso de la base de datos*
+- Aceptar las condiciones de manejo de información de datos personales*
+
+
+
+*Estructura de la información:*
+
+El objeto principal de la base de datos son las plantas medicinales. Por lo tanto, se usará la variedad o especie, según disponibilidad, como la clave para el registro de toda la información asociada. Los datos estarán organizados teóricamente en tres grandes capítulos: naturaleza, cultura y salud.
+
+Los campos con la información sobre cada planta se catalogarán en dos conjuntos de acuerdo con su dimensión espacial: a) locales (@) y b) generales. Los campos locales tienen una coordenada espacial que los vincula con un lugar en el cual se encuentran las plantas o que le brinda un contexto particular a los datos, por otro lado los generales están asociados a la especie o variedad sin depender de un contexto espacial concreto.
+
+Por lo tanto, se establece un tercer conjunto de datos que corresponde a las coordenadas con las que se vincularán los datos locales, utilizando una interface de mapas digitales.
+
+*Datos para registro de las localidades (\* obligatorios):*
+
+- Nombre de la localidad*
+- Coordenadas / Ubicación en el mapa *
+- Municipio*
+- Departamento*
+- País*
+- Descripción (texto libre de 250 palabras)
+- Autor *
+- Fecha de publicación * 
+
+
+
+*Imágenes:*
+
+Los colaboradores podrán subir imágenes a la base de datos para ser compartidas, de acuerdo con los términos y condiciones. Estas imágenes se almacenarán en el servidor de la base y estarán disponibles en las secciones con las que se vinculen. Las imágenes almacenadas tendrán la resolución original del archivo cargado por el colaborador aunque se creará un segundo archivo para la divulgación en las interface de la base de datos con unas dimensiones de X,Y y una resolución de XXXppp. Por motivos de espacio es posible limitar el tamaño de los archivos de subida a X,Y y una resolución de XXXppp (¿qué dices Diego?). Todas las imágenes de divulgación tendrán impreso un texto que indique la dirección electrónica de la base de datos.
+
+*Datos para cargar imágenes:*
+
+
+
+- Autor *
+- Fecha
+- Localidad
+- Descripción * (texto libre de 250 palabras)
+- Colaborador que la sube*
+- Aceptar términos y condiciones para compartir la imagen *
+
+Los capítulos de información están organizados con un formato de bloques de texto en los que se puede incluir referencia a imágenes (todas las ayudas para presentar información, como tablas o infogramas, serán editadas para aparecer en formato de imagen. En cada sección habrá dos botones para enviar aportes adicionales, uno para extender o completar la información contenida en una sección ya diligenciada y otro para aportes de temas nuevos (Quizás esto pueda cambiar según el papel del usuario Administrador).
+
+*Capítulo 1. Naturaleza*
+
+
+
+Comprende toda la información relacionada con la planta desde una perspectiva biológica y botánica.
+
+
+
+*Taxonomía*: incluye la clasificación vigente y actualizada, de acuerdo con los criterios de la sistemática internacional. Se ofrece información sobre la familia, el género, la especie y variedades en caso de existir.
+
+
+
+*Descripción botánica de la planta*
+
+*Fenología @*
+
+*Ecología:* 
+
+*Origen y distribución*
+
+*Hábitat*
+
+*Cultivo*
+
+*Relaciones ecosistémicas*
+
+*Endemismo*
+
+
+
+*Capítulo 2. Cultura*
+
+Es la sección en la que se consigna la información sobre la relación que ha establecido el hombre con las plantas y las consideraciones sociales, económicas o culturales que hay detrás de su uso actual.
+
+Nombres comunes @ 
+
+Usos no medicinales @
+
+Conocimientos tradicionales sobre la planta @
+
+Referencias históricas
+
+Riesgo de extinción @
+
+
+
+*Capítulo 3. Salud*
+
+Reúne los temas específicos la planta y sus conocimientos asociados, aplicados al cuidado de la salud.
+
+Fitoquímica
+
+Toxicidad
+
+Usos medicinales
+
+Vínculos con otras bases de datos:*
+
+Otras bases de datos con las que es necesario establecer vínculos según la planta. Inicialmente puede simplemente dejarse un enlace para que se pueda navegar desde la base de datos hacia la página de inicio, más adelante puede intentarse una vinculación más directa usando como clave la especie.
+
+
+
+1) BGCI two free, online databases to support plant conservation in botanic gardens:
+
+GardenSearch (http://www.bgci.org/garden_search.php)
+
+PlantSearch (http://www.bgci.org/plant_search.php)
+
+
+
+2) The Plant List was created in response to Target 1 of the Global Strategy for Plant Conservation (GSPC), which called for a widely accessible working list of known plant species to be created by 2010 
+
+The Plant List (www.theplantlist.org)
+
+
+
+3) Base de datos de nombres comunes de la Universidad Nacional
+
+4) Tropicos® «All of the nomenclatural, bibliographic, and specimen data accumulated in Missouri Botanical Garden’s electronic databases during the past 25 years are publicly available here».
+
+​	Tropicos (http://www.tropicos.org)
+
+5) Floratheca es auspiciada por el Jardín Botánico de la Universidad de Varsovia, ofrece imágenes de alta resolución con nombres científicos y comunes, junto con descripciones históricas.
+
+Floratheca (http://www.ogrod.uw.edu.pl/floratheca?locale=en)
+
+6) El Germplasm Resources Information Network's (GRIN) tiene como misión apoyar proyectos para la documentación del plasma germinal de plantas, animales, microbios e invertebrados.
+
+GRIN (http://www.ars-grin.gov/npgs/aboutgrin.html)
+
+*Formato de las referencias:*
+
+*Referencias primarias*. Para datos que han sido recolectados directamente. 
+
+Nombre de la persona responsable de la información*
+
+Localidad*
+
+Fecha en la que se obtuvo la información*
+
+Metodología con la que se obtuvo la información*
+
+Autorización de la comunidad o poseedor de la información*
+
+Declaración de los derechos patrimoniales* 
+
+
+
+*Referencias secundarias*. Usar un formato para el manejo de citas como el de Mendeley.
+
+*Herramientas de la base de datos:*
+
+Sistema para inscribir el correo electrónico y recibir alertas de actualizaciones por especies, géneros, familias o todo el catálogo.
+
+*Sección de créditos:*
+
+Se abrirá una sección para dar crédito a los proyectos o apoyos recibidos de terceros para el soporte técnico o financiero de la base de datos.
+
+
+
+1. **Diseño de una página Web para el Jardín Botánico Medicinal de Cota**
+
+En etapa de construcción, a cargo de Ana María Zuluaga y Ananay Arango.**
+
+
 
 **Autores**
 
@@ -206,11 +516,43 @@ Relación direccional que reconoce en todo caso la participación de las plantas
 
 **Descripción**
 
+La base de datos de nombres comunes de plantas de Colombia es una obra que reúne 18 mil nombres ocmunes que se usan en español para nombrar plantas de Colombia. También hay nombres en inglés raizal de San Andrés y Providencia. No cuenta con nombres en lenguas indígenas tanto por asunto lingüísticos ocmo por la escazes de conocimiento sobre designacion de nombres en dichas lengias. 
+
+El 62% de las especies que reciben nombre, tienen dos o más nombres comunes; el 38% restante tienen un único nombre. De otro lado, alrededor del 76% de los nombres se aplican a una sola especie (nombres unívocos), en tanto que cerca del 24% se aplican a dos o más especies (nombres equívocos). Sólo el 3.5% de los nombres son biunívocos, es decir, se aplican a una sola especie, y para esa especie ése es el único nombre que se ha documentado. La tabla 1 muestra los nombres que se aplican a mayor número de especies en Colombia.
+
+http://www.biovirtual.unal.edu.co/nombrescomunes/es/acerca-de-esta-obra/la-obra-en-cifras/
+
+**Enlace** http://www.biovirtual.unal.edu.co/nombrescomunes/es/acerca-de-esta-obra/presentacion/
+
 **Objeto**
+
+Facilitar la difusión del conocimiento sobre las plantas a lo largo y ancho del país, a la vez que se destaca la diversidad de apelativos que cada especie recibe. La obra está basada en un extenso trabajo de campo, en numerosas fuentes bibliográficas y en ejemplares de herbario, y reúne la mayor colección de nombres comunes colombianos que se haya documentado jamás.
+
+http://www.biovirtual.unal.edu.co/nombrescomunes/es/acerca-de-esta-obra/presentacion/
 
 **Antecedentes**
 
+¿Cómo se recopilan los nombres?
+
+Los nombres registrados en esta obra provienen de diversas fuentes: la literatura botánica, los especímenes que se conservan en los herbarios y la información que hemos tomado nosotros mismos directamente en el campo. Toda esta información se guarda en una base de datos, en la que cada registro corresponde a un nombre aplicado a una especie en un área determinada. En muchos casos hay varios registros que documentan el uso de un nombre para una especie. Estos múltiples registros de un mismo nombre sirven para confirmar la veracidad del uso de ese nombre y para establecer la distribución geográfica del mismo.
+
+ La búsqueda de nombres en la literatura botánica ha incluido la mayoría de las obras botánicas referentes a Colombia, al igual que diversas obras de cronistas que han viajado por el país. Los especímenes de herbario han incluido colecciones realizadas por los botánicos en los últimos 220 años, y conservadas en los principales herbarios del país. Estos especímenes, cuidadosamente guardados, a menudo llevan en su etiqueta información sobre los nombres comunes que la planta recibía en el lugar donde fue recolectada.
+
+El trabajo de campo, por su parte, es la fuente más confiable para la obtención de nombres, siempre que la información tomada esté respaldada por una correcta identificación de la planta en cuestión, lo cual se asegura mediante la recolección de un ejemplar y su conservación en un herbario. Nuestro trabajo de campo con agricultores, aserradores, curanderos, artesanos y amas de casa, entre otros, ha sido una invaluable fuente de información sobre los nombres y los usos de las plantas.
+
 **Catalogación**
+
+Nombres documentados para cada espeice
+
+Nombre referente ( nombre referente para la especie)
+
+Información de origen de nombre
+
+Regiones donde se usa
+
+Descripción de la planta 
+
+Fotos ilustrativas
 
 **Búsqueda**
 
@@ -220,11 +562,28 @@ Relación direccional que reconoce en todo caso la participación de las plantas
 
 **Búsqueda**
 
+Copyright © Universidad Nacional de Colombia
+Publicado por Instituto de Ciencias Naturales, Universidad Nacional de Colombia,
+Bogotá, Colombia – www.icn.unal.edu.co
+2011-en adelante
+
 **Usabilidad**
+
+
 
 **Documentación**
 
+Sin documentación
+
 **Autores**
+
+Rodrigo Bernal - Ph.D., Universidad de Aarhus, 1996. Instituto de Ciencias Naturales, Universidad Nacional de Colombia.
+
+Gloria Galeano - Ph.D., Universidad de Aarhus, 1997. Profesora Asociada, Instituto de Ciencias Naturales, Universidad Nacional de Colombia.
+
+Ángela Rodríguez - Bióloga, Universidad Nacional de Colombia, 2005
+
+Helena Sarmiento - Bióloga, Universidad Nacional de Colombia, 2005
 
 **Aportes al proyecto** 
 
