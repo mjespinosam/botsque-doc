@@ -23,6 +23,25 @@ Georeferenciación
 Usos tradicionales
 Farmacología
 Literatura asociada
+
+Nombre científico
+
+Sinónimos
+
+Nombres comunes 
+
+Localidades en las que se ha reportado (mapa)
+
+Autores
+
+Fotografías
+
+Resumen: espacio de texto en el que se presenta la información más importante de cada planta medicinal.
+
+Vínculo al resto del contenido, ordenado en tres capítulos: naturaleza, cultura y salud
+
+Informe del estado de la base de datos*
+
 **Descripción**
 
 **Búsqueda**
@@ -37,7 +56,45 @@ Literatura asociada
 
 **Documentación 1**
 
-Memoria de requerimientos para el diseño de una 
+Todo usuario de la página web debe leer y aceptar la sección de “términos y condiciones de uso de esta página web” en la que se presentarán además los criterios éticos establecidos para ingresar o consultar información. Hay tres tipos de usuarios:
+
+
+
+*Lectores*: cualquier persona que, sin necesidad de registrarse, tiene acceso a la información disponible al público para consulta, más no para modificación.
+
+
+
+*Colaboradores*: personas que han surtido un proceso de registro de su información personal y que además de tener acceso a la información abierta al público pueden proponer contenidos adicionales para las diferentes secciones de la base de datos. Estas personas serán consideradas coautores de la sección en la que registren información y deberán aceptar los términos y condiciones establecidos para la base de datos, particularmente en lo que se refiere a propiedad intelectual y patrimonial, así como al respeto de los derechos de autor, los derechos colectivos de las comunidades y la protección al patrimonio material e inmaterial.
+
+
+
+*Administradores*: son usuarios con acceso pleno a la información y manejo de los registros de la base de datos, sus funciones pueden ser restringidas por familia o género. Tienen los privilegios de las dos categorías precedentes, así como los requisitos de acceso, y cuentan con el privilegio adicional de aceptar o rechazar el ingreso de nuevos aportes recibidos por usuarios del tipo *colaboradores*.
+
+
+
+Los aportes de los colaboradores y administradores para cada capítulo serán bloques de información original en los que se consignan los datos más relevantes sobre la planta así como las referencias (fuentes primarias o fuentes secundarias) sobre las que se sustenta. En cada bloque debe identificarse: los autores que participaron en su elaboración, la fecha de publicación en la base, las referencias y la localidad. Los aportes subsecuentes pueden pertenecer a un bloque nuevo si se tratan de temas diferentes o ser comentarios al bloque original si se tratan de adiciones al mismo tema.
+
+
+
+Se publicará un listado de los colaboradores y administradores que estén interesados en hacer públicos sus datos (#) con el fin de generar red e interacción entre personas interesadas en el tema.
+
+- Nombres y apellidos # *
+- Identificación *
+- Profesión # *
+- Institución #
+- Forma de citar como autor # *
+- País *
+- Ciudad *
+- Correo electrónico (1 y 2) # *
+- Teléfono (país+área+número)
+- Dirección de correspondencia
+- Interés personal (texto libre de 250 palabras)
+- Foto #
+- Interés de hacer público su perfil, datos marcados con # (sí o no) *
+- Aceptar los términos legales de uso de la base de datos*
+- Aceptar las condiciones de manejo de información de datos personales*
+
+##### Memoria de requerimientos para el diseño de una 
 
 **Base de datos de plantas medicinales, conocimientos asociados y** 
 
