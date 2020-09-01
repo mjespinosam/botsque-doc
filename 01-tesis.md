@@ -446,10 +446,46 @@ Como parte del resultado del primer laboratorio de creación colectiva de Microh
 
  ## Conclusiones
 
-
+[PROCESO DE ESCRITURA]
 
 Explorar las maneras como los seres humanos resolvemos problemas de manera algoritmica, heurística, etc.  es fundamental para abordar los problemas en las humanidades digitales donde confluyen disciplinas y metodologías. Hay aspectos de los problemas que se resuelven algoritmicamente pero hay otros que requieren de pensamiento paralelo o enfoques heurísticos. En esta tesis en particular el pensamiento paralelo entendido como la confluencia de múltiples soluciones a un problema me permitieron explorar el problema e identificar todos los aspectos relacionados. Sin embargo, hice uso del pensamiento algoritmico para solucionar problemas de las herramientas y diseñar experimentos. 
 
 ## Referencias
+
+Dunne, A., & Raby, F. (2013). *Speculative everything: Design, fiction, and social dreaming*. The MIT Press.
+
+García Díaz, P. (2008). *Bruno Latour y los límites de la descripción en el estudio de la ciencia* [Http://purl.org/dc/dcmitype/Text, Universidad de Granada]. https://dialnet.unirioja.es/servlet/tesis?codigo=71660
+
+Gray, C., & Malins, J. (s. f.). *Procedimientos/Metodologías de investigación para artistas y diseñadores*. Recuperado 16 de agosto de 2020, de [http://carolegray.net/Papers%20PDFs/EPGAD%20Spanish%20translation.pdf](http://carolegray.net/Papers PDFs/EPGAD Spanish translation.pdf)
+
+Gray, C., & Malins, J. (2004). *Visualizing research: A guide to the research process in art and design*. Ashgate.
+
+Grand, S., & Wiedmer, M. (2010). *Design Fiction: A Method Toolbox for Design Research in a Complex World*. 16.
+
+Gurstein, M. (2000). *Community Informatics: Enabling Community Uses of Information and Communications Technology*. https://pdfs.semanticscholar.org/4c5a/6b7c0885415791e12ac0c000132358461582.pdf
+
+Jonas, W. (2007). Design Research and its Meaning to the Methodological Development of the Discipline. En R. Michel (Ed.), *Design Research Now* (pp. 187-206). Birkhäuser Basel. https://doi.org/10.1007/978-3-7643-8472-2_11
+
+Latour, B. (1983). Dadme un laboratorio y moveré el mundo. En M. I. González García. (Trad.), *Science Observed: Perspectives on the Social Study of Science* (Ciencia, Tecnología y Sociedad CTS-OEI). https://www.oei.es/historico/salactsi/latour.htm
+
+Lafuente, A., Gómez, D., & Freire, J. (2018). *El Arte De Documentar*. https://doi.org/10.5281/ZENODO.1195211
+
+Lafuente, A. (2007). Los cuatro entornos del procomún. *Archipiélago: Cuadernos de crítica de la cultura*, *77*, 15-22.
+
+Moreira, G. M. C. (2012). *El concepto de mediación técnica en Bruno Latour*. 26.
+
+Organización Mundial de la Propiedad Intelectual. (2015, noviembre 19). *¿Qué significa proteger los conocimientos tradicionales y las expresiones culturales tradicionales desde la perspectiva de la propiedad intelectual?* http://www.wipo.int/edocs/mdocs/tk/es/ompi_iptk_pan_15/ompi_iptk_pan_15_presentation.pdf
+
+Rodríguez Méndez, M. E. (2001). *Metadatos y recuperación de información: Estándares, problemas y aplicabilidad en bibliotecas digitales*. https://e-archivo.uc3m.es/handle/10016/26863
+
+Ramsey, S., & Rockwell, G. (2012). Developing Things: Notes toward an Epistemology of Building in the Digital Humanities | Stephen Ramsay and Geoffrey Rockwell” in “Debates in the Digital Humanities” on Manifold. En *Debates in the Digital Humanities*. https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/c733786e-5787-454e-8f12-e1b7a85cac72#ch05
+
+Rico de Alonso, A. (2005). Las categorías de investigación. En *La investigación social: Diseños, componentes y experiencias*. Pontificia Universidad Javeriana. [https://www.javeriana.edu.co/blogs/mlgutierrez/files/Rico-de-Alonso-Et-al-CAP%C3%8DTULO-4-Categor%C3%ADas1.pdf](https://www.javeriana.edu.co/blogs/mlgutierrez/files/Rico-de-Alonso-Et-al-CAPÍTULO-4-Categorías1.pdf)
+
+Srinivasan, R. (2007). Ethnomethodological architectures: Information systems driven by cultural and community visions. *Journal of the American Society for Information Science and Technology*, *58*(5), 723-733. https://doi.org/10.1002/asi.20544
+
+Zeisel, J. (1984). *Inquiry by Design. Tools for enviromente-behavior research.* (Harvard University). http://staff.washington.edu/villegas/BerlinSyllabus2008/zeisel_inquirybydesign.pdf
+
+
 
 ## Anexos
