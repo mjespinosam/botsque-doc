@@ -436,6 +436,16 @@ Como parte del resultado del primer laboratorio de creación colectiva de Microh
 
 ### Plantar la discusión: Las plantas como agentes, (abordajes interdisciplinarios perspectivas teóricas)
 
+Bajo la premisa de una naturaleza que comunica y es parte de la creación de conocimiento sobre ella misma ¿Qué es la naturaleza? La respuesta es un problema que ha ocupado y ocupa tantas disciplinas como a la teología. 
+
+"la naturaleza como símbolo, desde el paradigma ser-hablar-pensar, se explicó que si la naturaleza habla, no quiere decir que posea lenguaje, sino que el hombre participa de su habla, escuchándola y siendo su intérprete, si sabe escuchar. Como señala Panikkar (2011a) la relación entre escuchar y hablar es de tipo a-dual: “No hablaríamos si primero no hubiéramos escuchado, y no escucharíamos si nuestro ser no participara del Ser que habla”202 
+
+La historia de la naturaleza desde la configuración de la ciencia excluye las preguntas sobre la divinidad y de paso, sobre la participación de ella en la trascendencia. Una naturaleza regida por leyes, observable y predecible abrió las puertas a una ciencia determinista. Una ciencia que con sus métodos nos entrega una realidad que se conoce a través de acciones controladas, observables, repetibles. En muchos casos a tavés de la disección y el escudriñamiento de las partes ínfimas. Una visión atomista, que si bien retrata la naturaleza, es un retrato limitado. De ahí que la pregunta sea un asunto que nos conduce a preguntas sobre su propia divinidad.
+
+Así, abordar la naturaleza desde una perspectiva teológica y como una pregunta filosófica, sin ser este el objeto de esta investigación, es la declaración de principios sobre realidad de las que parto al hacerme las preguntas sobre ella. Declaración que se transfiere a cada una de las acciones que he realizado para acercarme, para pensarla, para recrearla. En este caso,
+
+
+
 ### De la extracción a la siembra de datos 
 
 ### Sistema de comunicación plantas sere humanos. Prototipo.

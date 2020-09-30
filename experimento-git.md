@@ -1,4 +1,4 @@
-> Nombre del experimento: Control de versiones del proceso de investigación. 
+> lkNombre del experimento: Control de versiones del proceso de investigación. 
 >
 > Número de experimento: 1
 >
@@ -8,7 +8,7 @@
 >
 > Asignatura: Proyecto de grado
 >
-> Fecha de realización: 1 septiembre 2020  Fecha de entrega: 2 septiembre 2020
+> Fecha de realización: 1 septiembre 2020  Fecha de entrega: 7 septiembre 2020
 
 _____
 
@@ -62,9 +62,12 @@ Pasos
 
 Procedimiento
 
-1. Borrar último commit "actualicé gitignore" sin borrar la acción para poder empezar desde cero el control de versiones. El objetivo es no tener información no necesaria en el control. Intenté hacer dos acciones. Git reset mixed y Git reset hard. Sin embargo al tenerlo ya en un repositorio remoto y darle push esos cambios no se pueden deshacer. Por lo tanto tuve que volver a hacer el repositorio para empezar.
-2. También decidí tener un repositorio para hacer ensayos y otro para hacer el experimento final. En el de ensayos voy a ir mirando asuntos como subir imágenes de esquemas, infografías, flujos, etc. No hacer push sino hasta tener todo el flujo concluído. 
+1. Borrar último commit "actualicé gitignore" sin borrar la acción para poder empezar desde cero el control de versiones. El objetivo es no tener información no necesaria en el control. Intenté hacer dos acciones. Git reset mixed y Git reset hard. Sin embargo al tenerlo ya en un repositorio remoto y darle push esos cambios no se pueden deshacer. Por lo tanto tuve que volver a hacer el repositorio para empezar de ceros. Creé el repositorio ruta-metodología. 
+2. Dejé un repositorio para hacer ensayos y otro para hacer el experimento final. En el de ensayos voy a ir mirando asuntos como subir imágenes de esquemas, infografías, flujos, etc. No hacer push sino hasta tener todo el flujo concluído. 
 3. Para subir imágenes debo editarlas en diagramas.drawio.net. Luego guardarlas como Github. Esto me permite hacer un commit, guardarla allí localmente y poder enlazarla a los documentos. 
+4. Una vez realizado el experiemento de prueba procederé a subir una versión completa. 
+
+5. 
 
 
 
