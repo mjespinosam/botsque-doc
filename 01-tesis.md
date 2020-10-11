@@ -11,31 +11,110 @@
 
 ##   Introducción
 
-Al menos son dos los objetos de las humanidades digitales: 1) implementar y desarrollar herramientas digitales para la investigación y transferencia de conocimiento de las disciplinas y 2) dialogar con las herramientas para dar discusiones conceptuales y teóricas.[^1]. La primera perspectiva se desarrolla a partir de conocimientos de las ciencias de la información, bibliotecología, archivística, ingenierías de sistemas, informática, electrónica, desarrollo de software, etc. Estas disciplinas disponen de metodologías que permiten a los humanistas organizar corpus de datos, hacer análisis de los mismos, visualizarlos, crear y gestionar colecciones o desarrollar software específico para analizar, comprender o resolver sus problemas particulares. A este modelo de implementación o desarrollo de herramientas desde perspectivas y necesidades humanistas se suma la posibilidad de hacer investigación sobre el diálogo entre los diversos campos de las humanidades y las tecnologías y herramientas digitales[^2]. Aunque una perspectiva no excluye a la otra, es claro que la primera busca implementar o validar un prototipo para resolver un problema. La segunda perspectiva por su parte, busca mediante la implementación y el prototipo experimentar para dar cuenta de las tensiones y posibilidades que se dan entre herramientas y conocimientos disciplinares [^3].
+Al menos son dos los objetos de las humanidades digitales: 1) implementar y desarrollar herramientas digitales para la investigación y transferencia de conocimiento de las disciplinas y 2) dialogar con las herramientas para dar discusiones conceptuales y teóricas.[^1]. La primera perspectiva se desarrolla a partir de conocimientos de las ciencias de la información, bibliotecología, archivística, ingenierías de sistemas, informática, electrónica, desarrollo de software, etc. Estas disciplinas disponen de metodologías que permiten a los humanistas organizar corpus de datos, hacer análisis de los mismos, visualizarlos, crear y gestionar colecciones o desarrollar software específico para analizar, comprender o resolver sus problemas particulares. A este modelo de implementación o desarrollo de herramientas desde perspectivas y necesidades humanistas se suma la posibilidad de hacer investigación sobre el diálogo entre los diversos campos de las humanidades y las tecnologías o herramientas digitales[^2]. Aunque una perspectiva no excluye a la otra, es claro que la primera busca implementar o validar un prototipo para resolver un problema. La segunda perspectiva por su parte, busca mediante la implementación y el prototipado experimentar para dar cuenta de las tensiones y posibilidades entre herramientas y conocimientos disciplinares [^3].
 
-En este sentido, esta tesis explora la segunda perspectiva, al discutir cómo la implementación de herramientas colaborativas, en particular una wiki semántica etnobotánica (relaciones seres humanos-plantas) [^4] , me permitió reconocer en el prototipo un dispositivo experimental para pensar tanto el problema de las herramientas colaborativas como las relaciones seres humanos-plantas. Es decir, las tensiones y diálogos entre herramientas digitales y conocimiento etnobotánico. Durante la investigación el prototipado de las herramientas, en sus diferentes fases e iteraciones, pasaron de metodologías de diseño participativo o centrado en usuarios a una metodología de diseño centrado en conceptos problema. De ahí que en el proceso emergieron todos los actores humanos y no humanos involucrados en dar cuenta de las relaciones plantas-seres humanos. A esta altura de la experimentación se refinó el problema, se precisaron los actantes y emergió la pregunta de qué condiciones son necesarias para que las herramientas colaborativas se configuren como un espacio en el que humanos y no humanos -en este caso plantas- se integren como actores del conocimiento colaborativo. Esta pregunta, que parte del reconocimiento de las plantas como actantes en la construcción de conocimiento sobre ellas y cuya relación con los seres humanos puede modelarse mediante herramientas digitales colaborativas, solo fue posible una vez recorrí la perspectiva de implementación de herramientas colaborativas para una necesidad de una comunidad y me encontré con una perspectiva crítica del diseño para analizar categorías como "planta" y el software mismo. Un problema que emergió al poner a prueba el problema inicial mediante diversos prototipos. 
+En este sentido, esta tesis explora la segunda perspectiva, al discutir cómo la implementación de herramientas colaborativas, en particular una wiki semántica etnobotánica (relaciones seres humanos-plantas) [^4] , me permitió reconocer en el prototipo un dispositivo experimental para pensar tanto el problema de las herramientas colaborativas, como las relaciones seres humanos-plantas. Es decir, las tensiones y diálogos entre herramientas digitales y conocimiento etnobotánico. Durante la investigación el prototipado de las herramientas, en sus diferentes fases e iteraciones, pasaron de metodologías de diseño participativo o centrado en usuarios a una metodología de diseño centrado en conceptos problema. De ahí que en el proceso emergieron todos los actores humanos y no humanos involucrados en dar cuenta de las relaciones plantas-seres humanos. A esta altura de la experimentación se refinó el problema, se precisaron los actores involucrados y emergió la pregunta de qué condiciones son necesarias para que las herramientas colaborativas se configuren como un espacio en el que humanos y no humanos -en este caso plantas- se integren como actores del conocimiento colaborativo. Esta pregunta, que parte del reconocimiento de las plantas como partícipes en la construcción de conocimiento sobre ellas mismas y cuya relación con los seres humanos puede modelarse mediante herramientas digitales colaborativas, solo fue posible una vez recorrí la perspectiva de implementación de herramientas colaborativas para una necesidad de una comunidad y me encontré con una perspectiva crítica del diseño, que replanteó los dos elementos transversales a la tesis: las plantas, el software colaborativo e introdujo -sin saberlo- la experiencia como eje articulador. 
 
-Abordar la agencia de la plantas como actores en la construcción del conocimiento colaborativo en herramientas digitales introduce en las humanidades digitales las discusiones sobre lo no humano que abordan las pos humanidades desde la filosofía, la antropología y estudios de la ciencia en diálogo a la biología y la etnografía [^5]. Si bien la manera como las plantas se pueden comunicar está en campos experimentales aún, ya se reconoce que tienen memoria y por lo tanto aprenden. Igualmente es claro que producen signos que comunican a los humanos, a los entornos y que, a través de sistemas más complejos, les permiten comunicarse entre sí. En diferentes latitudes del planeta las comunidades no solo reconocen la agencia de las plantas como parte de sus culturas sino que, describen las maneras como seres humanos y plantas entran en comunicación para reportar sus usos, por ejemplo a tavés de los sueños (Terangpi et al., 2015). De ahí que dar esta discusión desde las humanidades digitales me permite construir un diálogo interdisciplinario para hacer una aproximación crítica tanto a una software existente que es modelo de los entornos colaborativos, el Media wiki, como una modesta proposición de un modelo posible para una herramienta colaborativa hipotética, en la que se reconozca y active la agencia de las plantas con la mediación de agentes virtuales. 
+Abordar la agencia de la plantas como actores en la construcción del conocimiento colaborativo en herramientas digitales introduce en las humanidades digitales las discusiones sobre lo no humano que abordan las pos humanidades desde la filosofía, la antropología y estudios de la ciencia en diálogo a la biología, la teología y la etnografía [^5]. Si bien la manera como las plantas "hablan" [^x].está en campos experimentales aún, ya se reconoce que tienen memoria y por lo tanto aprenden. La noción de una naturaleza que habla y un ser humano que escucha e interpreta lo aborda la ecosofía y en particular el pensamiento de Raimond Pannikar para quien el hablar es una cualidad del universo al comprenderlo teológicamente. Esta propuesta dialoga con la perspectiva semiótica de Peirce para quien nuestra realidad es semiótica y la capacidad de producción signica no recae en una mente humana. Estas posturas, que vinculo a referentes en el campo de proyectos digitales, serán abordadas en el apartado **Plantar** En este apartado, a mode de marco teórico, conceptual y de referentes, establezco los parámetros para la comprensión de las plantas como seres no humanos que siguiendo a Pannikar (**año** ) nos "hablan"  y a quienes "conocemos mientras nos conocen". Bajo este presupuesto el conocer ya no es el resultado de una experiencia de los sentidos y por lo tanto observable supeditado a leyes, si no, por el contrario, una experiencia interdependiente en la que no hay sujeto y objeto. Este modo de aproximarse al conocimiento y a la vida se contraponen al paradigma cinetífico heredado de Descartes que introdujo en la epistemología el uso del experimento controlado como la vía de conocimiento del universo. Para entender este cambio de punto de vista abordo en este capítulo la experiencia, concepto que nos permite trascender a la noción de experimento cómo vía de acceso al conocimiento. La experiencia por lo tanto, vincula en términos de Pánikkar tanto "lo divino, el logos, el pneuma". Es decir que pensamiento cuerpo y espíritu son vías de conocimiento dependientes y presentes en todo camino al conocer.  Estos modos de conocer han sido reportados por la Antropología, al indicar que hay modos no científicos de conocer la vida, las plantas -por ejemplo-. Ante las preguntas de ¿Cómo saben las comunidades que una planta es alimento, veneno, puede serles útil para una u otra cosa? Este saber es parte de una relación en la que las plantas, como indican las comunidades, dan información y el ser humano lo recibe de diversas maneras: por los sentidos, por la escucha, por los sueños (Terangpi et al., 2015). De ahí que dar esta discusión desde las humanidades digitales me permite construir un diálogo interdisciplinario de los retos que hay en la implementación o diseño de software que quiera integrar otras ontologías en las que las plantas son miembros y participes de las realidades, en las que las plantas hablan y los seres humanos escuchamos.  
 
-Ya que la tesis quiere hacer explícitas las rutas metodológicas y por lo tanto los presupuestos como los métodos utilizados en relación al saber y el hacer en las Humanidades Digitales, la ruta argumentativa arranca por allí. ¿De qué manera llegué al problema de esta tesis luego de varios prototipos? Es decir ¿Cómo investigué en tanto humansita digital? ¿De qué manera conocí lo que conocí? ¿ De qué manera organicé el material y cómo decidí comunicarlo?  Preguntas de carácter ontológico, epistemológico y metodológico que abordo en la primera parte: "Metodologías injertas", que hace referencia a la acción de juntar dos yemas de plantas para que brote una con características de ambas. Allí presento la discusión sobre la investigación como diseño, una discusión que desde los años ochentas valida el diseño cómo una vía de conocimiento. Discusión que me permite el prototipo en las humanidades digitales como una herramienta argumentativa. En este sentido hago una propuesta de documentación utilizando Git, el sistema de control de versiones y Git hub como una plataforma en la cual acopiar datos textuales y visuales. En cuanto a la investigación misma realizo un recorrido por las metodologías de diseño abordadas -de manera más intuitiva que predefinida- en los diferentes momentos de la investigación junto a los referentes y prototipos que fui desarrollando Un recorrido que implica un giro metodológico que coincide con la incongruencia del prototipo final de una wiki semántica, la oportunidad de hacer un laboratorio de electrónica y plantas y la apertura a las discusiones del diseño crítico y especulativo. Este recorrido me permite afirmar que las perspectivas críticas y especulativas del diseño involucran metodologías de diseño que permiten expandir las relaciones entre los artefactosm, herramientas y humanidades. Desde allí es posible pensar los problemas que emergen de la vida y las disciplinas. 
+En un segundo capítulo "Metodologías injertas" hago las rutas metodológicas y por lo tanto los presupuestos como los métodos utilizados en relación con el saber y el hacer en las Humanidades Digitales para poder llegar al problema. Por que para "plantar el problema" fue preciso recorrer un camino en el que la experiencia se vinculó al prototipado. ¿De qué manera llegué al problema de esta tesis luego de varios prototipos? Es decir, ¿cómo investigué en tanto humanista digital? ¿De qué manera conocí lo que conocí? ¿ De qué manera organicé el material y cómo decidí comunicarlo?  Preguntas de carácter ontológico, epistemológico y metodológico que abordan la discusión sobre la investigación como diseño, una discusión que desde los años ochentas valida el diseño como una vía de conocimiento. Discusión que me permite situar el prototipo en las humanidades digitales como una herramienta argumentativa. En este sentido, hago una propuesta de documentación utilizando Git, el sistema de control de versiones y Git hub como una plataforma en la cual acopiar datos textuales y visuales. En cuanto a la investigación misma realizo un recorrido por las metodologías de diseño abordadas -de manera más intuitiva que predefinida- en los diferentes momentos de la investigación junto a los referentes y prototipos que fui desarrollando. Un recorrido que implica un giro metodológico que coincide con la incongruencia del prototipo final de una wiki semántica, la oportunidad de hacer un laboratorio de electrónica y plantas y la apertura a las discusiones del diseño crítico y especulativo. Este recorrido me permite afirmar que las perspectivas críticas y especulativas del diseño involucran metodologías que permiten expandir las relaciones entre los artefactos, herramientas y humanidades. Desde allí es posible pensar los problemas que emergen de la vida y las disciplinas.
 
-En la segunda parte  presento "El lenguaje del botsque", el esquema para una herramienta colaborativa que integre la agencia de las plantas con el uso de un agente virtual "botsque" en un entorno colaborativo. Prototipo con el que concluyo este trabajo y que me permite "plantar el problema de las relaciones seres humanos- plantas", pensar " la siembra de datos antes que su extracción" e idear una herramienta desde un prospecto especulativo. Así, abordo el estatuto filosófico, antropológico y biológico de las plantas como un punto indispensable para pensar cualquier desarrollo de software o adecuación de uno ya existente. Aquí dialogo con la Teoría Actor Red de Latour, la Semiótica de Peirce como marcos teóricos que permiten abordar lo no humano como agentes productores de signos y por lo tanto de información y conocimiento en diversos  contextos. Estas dos teorías tienen claras perspectivas metodológicas que fueron indispensables para abrir preguntas y pensar en los prototipos. 
+En el tercer capítulo: Mil país: Una wiki etnobotánica presento el prototipo realizado que detonó el problema subyacente. En la implementación de esta wiki emergieron al menos tres discusiones: el modelo extractivista que impera en la relación con la vida, con la naturaleza y por lo tanto los riesgos que implica la gestión de conocimientos etnobotánicos tanto por ausencia de legislación como por asuntos éticos; las implicaciones de las bases de datos relacionales en la organización de saberes interdependientes en tanto preestructuran el saber y finalmente, el marco conceptual y las posibilidades de desarrollar herramientas digitales que vinculen en el acto de conocimiento de la naturaleza la escucha de lo que "hablan" las plantas. 
+
+**Como conclusión presento "El lenguaje del botsque", el esquema para una herramienta colaborativa que integre la agencia de las plantas con el uso de un agente virtual "botsque" en un entorno colaborativo. Este proyecto de prototipo y con el que concluyo este trabajo me permite "plantar el problema de las relaciones seres humanos- plantas", pensar " la siembra de datos antes que su extracción" e idear una herramienta desde un prospecto especulativo. Así, abordo el estatuto filosófico, telógico antropológico y biológico de la discusión de las plantas como un punto indispensable para pensar cualquier desarrollo de software o adecuación de uno ya existente. Aquí dialogo tanto con la ecosofía del filósofo y teólogo Reimond Pannikar, la Teoría Actor Red de Latour y la Semiótica de Peirce. Marcos teóricos que permiten abordar las plantas en tanto lo no humano que está en relación con los humano y que crea el conocimiento sobre sí mismas. Estas tres teorías tienen claras perspectivas metodológicas que fueron indispensables para abrir preguntas y pensar el prototipo**
 
 
 
 
 [^1]: Las relaciones entre tecnologías digitales y humanidades han trasegado desde la computación humanista, la informática comunitaria, la informática educativa y las humanidades digitales. Si bien en ninguna de estos campos existen definiciones disciplinares con programas teóricos y metodológicos claros, todas emergen dentro de la cultura digital o cibercultura. Los abordajes para su definición presentan un campo múltiple de aproximaciones en las que prima lo heterogéneo, interdisciplinario. Ver: del Rio Riande, M. G., & González Garcí Blanco, B. (2015). Introducción a las Humanidades Digitales. Material Didáctico Sistematizado. 103. https://www.aacademica.org/gimena.delrio.riande/115 Cuartas-Restrepo, J. M. (2017). Humanidades digitales, dejarlas ser. Revista Colombiana de Educación, 72(1), 65-78. https://doi.org/10.17227/01203916.72rce65.78 Galina Russell, I. (s. f.). ¿Qué son las humanidades digitales? 1 Julio de 2012, 12(7). Recuperado 4 de diciembre de 2016, de http://132.248.9.34/hevila/Revistadigitaluniversitaria/2011/vol12/no7/5.pdf Rueda Ortiz, R. (Ed.). (2013). Ciberciudadanías, cultura política y creatividad social (Primera edición). Universidad Pedagógica Nacional. 
 
-[^2]: Los estudios de las tecnologías o la antropología de la ciencia tienen por objeto de estudio la tecnología y si bien dan cuenta de las relaciones de los actores humano y no humano su objetivo no es pensar el problema mismo desde el uso o experimentación con la tecnología. Esta manera de investigar por medio del hacer con una tecnología está más cerca de las metodoogías del diseño. 
+[^2]: Los estudios de las tecnologías tiene por objeto de estudio la tecnología y si bien da cuenta de las relaciones de los actores humanos y no humanos su objetivo no es pensar el problema mismo desde el uso o experimentación con la tecnología. Esta manera de investigar por medio del hacer con una tecnología está más cerca de las metodologías del diseño. 
 [^3]: Como elaboraré en la metodología esta perspectiva coincide con lo que los diseñadores han llamado "Investigación como diseño" (Simon, 2015).
+[^4]: En el 
 [^4]:La etnobotánica es la disciplina en la que confluyen la botánica y la antropología para aboradar las perspctivas de uso y aprovechamiento del entorno vegetal por parte de comunidades indígenas. Como disciplina nación en el siglo XIX y ha estado vinculada desde un inicio con la etnofarmacología. El interés como disciplina se ha enfocado en la capitalización de los saberes tradicionales por parte de farmacéuticas e industrias quienes la mayor parte se benefician de estos saberes para emprender investigaciones, crear fármacos. Una perspectiva más humanista de estas disciplinas busca descentran la nocion de la naturaleza como un objeto suceptible de explotación para pensarlo como una participante de la vida de las comunidades. Ver Zuluaga 2008 **Verificar definiciones y buscar la bibliografía
 [^5]:  Lo no humano en las humanidades se desarrollará en el apartado II. La filosofía permite un marco para el reconocimiento ontológico a lo vegetal (Ver: Michael Marder),  la antropología un abordaje de la construcción de realidad, sentido y comunicación con lo no humano (Ver :Latour (2014), Kohn (2013)) y la biología una expansión de sus preguntas sobre inteligencia y comunicación vegetal (Ver Gagliano (2017), Mancuso (2015) ↩
 
 
 
-## I parte
 
-##   Metodologías injertas: perspectivas del diseño para las humanidades digitales
+
+## I. Plantar 
+
+-Problema, marco teórico y referentes- 
+
+Ante la pregunta de qué manera dar cuenta de las relaciones plantas seres humanos de tal modo que las plantas sean consideradas actores de ese conocimiento y por lo tanto partícipes del conocimiento que se hace sobre sí mismas, en una plataforma colaborativa, es preciso establecer un marco teórico y conceptual que nos permita partir de una perspectiva de la realidad no objetivamente que supere las nociones sujeto objeto y que integre lo no humano en la constitución del conocimiento. Esto, como argumentaré en es este capítulo, implica reconocer y hacer participe de la experiencia del conocimiento a todo lo que no sea humano pero sobre todo reformular la manera como entendemos y conocemos lo no humano, en este caso las plantas. Pero, ¿cómo abordar la participación de lo no humano en la construcción de conocimiento colaborativo? En lo que sigue, me gustaría recoger tres reflexiones que cuestionan el paradigma científico dominante que desconoce lo no humano: la Ecosofía desde la perspectiva de Raimon Pannikar, la Teoría Actor Red de Latour y la Semiótica de Pierce. El primero, Panikkar, como marco teórico y los dos siguientes, Latour y Peirce, a la vez que marcos teóricos también metodológicos. A partir de estos tres autores construyo el principio de realidad desde el cual abordo esta investigación, que implica superar tanto el antropocentrismo como el biocentrismo para indagar en una experiencia de la realidad de manera tripartita o como nombra Panikkar, cosmoteándrica. Realidad que integra lo inefable, divino, el pneuma;  el cosmos, lo terrenal, el cuerpo y, el logos, el pensamiento, la razón. Estos autores sirven de marco para las discusiones que se establece en la filosofía sobre las plantas sobre todo lo referente a Michael Marder y su "Pensamiento de las Plantas", el manifiesto Cybor de Haraway y la aproximación de la bióloga Gagliano sobre el pensamiento de las plantas. Finalmente,  presento el abordaje de las plataformas colaborativas en relación a las plantas y presento una serie de referentes que permiten pensar lo no humano a  con las herramientas digitales.
+
+¿Es posible integrar lo inefable, lo divino, como principio vinculado a lo terreno, a nuestra referencia material y al pensamiento o razón? Este es sin duda, el primer alejamiento que hay que hacer del aparato teórico conceptual heredado de la modernidad de occidente. Habituados a concebir la realidad como la expresión aprehendida por los sentidos, que opera bajo leyes universales determinadas por la razón y verificables a través de la experimentación, nuestra epistemología de entrada erradica toda posibilidad de conocer que no sea a través de la razón. No por ello la misma ciencia, sobre todo las humanidades, han venido desmontando esta historia del pensamiento y a la vez trayendo a la escena otras epistemologías. Pensemos por ejemplo, en la naturaleza en occidente. La ecología crítica como la ecocrítica, señala Heefer (2014), han llegado por varias rutas a dar cuenta de la constante representación de la naturaleza en la modernidad desde una relación dualista que la opone a la cultura y la cual está expuesta a relaciones de explotación. Bajo categorías de raza, género, clase y lugar, ya sea el ecofeminismo, la ecología social, la ecología profunda, el ecomarxismo todas dicen en una sola voz lo mismo: el antropocentrismos es causa de la crisis ambiental. Perspectivas latinoamericanas reivindican modelos de comprensión que instalan visiones plurales que pueden ser o no indígenas, que coinciden en una particularidad: hay formas de vida, de conocer y ser,  presentes y pasadas que no aportan a esa crisis. Reivindicación que parte en principio por el reconocimiento de lo humano y no humano como parte de la vida en todas sus dimensiones y de la vida como un misterio no es explicable racionalmente. Pero ¿es posible vincular perspectivas no occidentales para hacer análisis desde una academia cuyo punto de partida es precisamente que la realidad se conoce a través de la razón? 
+
+Pero ¿por qué hacerme esta pregunta en esta investigación? Porque para poder abordar lo no humano en el marco de la agencia se requiere un desplazamiento epistemológico y ontológico de las propias maneras como se piensa y se siente la naturaleza. Cada sistema, cuyos esquemas concpetuales son implícitos, establece unos límites de lo que es posible preguntar y solo dentro de ese sistema se puede dar la verificación, la justificación, la búsqueda de evidencia. Es decir es como dice Panikkar un mythos, un mito englobante que direcciona nuestro pensar y nuestra acción, 
+
+> Aquello en que creemos de tal manera a pie juntillas que ni siquiera nos damos cuenta de que creemos en ello (…) El horizonte de inteligibilidad en el que tenemos necesidad de colocar no importa cuál idea, convicción o acto de conciencia para que pueda ser captado por nuestro espíritu (…) Aquello que hace plausible, esto es, creíble el mundo en el que vivimos o estamos (…) Una galaxia que segrega su autocomprensión y, con ella, los criterios de verdad, bondad, y belleza de todas las acciones humanas14.
+>
+> 
+
+
+
+**La recuperación de la noción de naturaleza en tanto componente principal para establecer las bases necesarias de una existencia co- munitaria entre humanos y no humanos, puede relacionarse en cier- ta medida con algunas formulaciones propias de los estudios post- coloniales: tanto el cuestionamiento de una postura antropocêntrica -o, dentro del ecofeminismo, de una postura androcéntrica- como la propuesta, en su lugar, de una posición ecocéntrica conllevan, ya sea de manera implícita o explícita, el cuestionamiento de toda una ideología imperial, colonizadora y subyugadora.**
+
+**Tomando como punto de partida la reevaluación del lugar central que ocupa la naturaleza en la articulación tanto económica como ideológica durante el proceso de colonización, este volumen consi- dera la acumulación de riquezas por medio de la explotación de los recursos naturales como motor de la expansión imperial, por una parte, y la forma en que la noción misma de lo natural fue, y conti- núa siendo, instrumental para justificar la intervención imperial co- mo así también la autodefinición de Occidente en general, en oposi- ción a sus Otros. Esta lectura postcolonial dialoga, de hecho, con la perspectiva ecocrítica, en cuanto prevalece un cuestionamiento de la postura hegemónica occidental de subyugación de lo nautural que, por extensión, objetiviza tanto a esta última como a todo Otro. reducinedo a este último a través de categorías como bárbaro o salvaje, e insertándolo en una definición irreductivle de naturaleza, por la cual devienen objetos aptos de dominación, domesticación y explotació**
+
+El pensamiento de Raimond Pannikar (1918-2010) con su propuesta de la hermeneútica intercultural permite introducir el desplazamiento hacia otras epistemologías en función no solo de la comprensión sino del esclarecimiento de los presupuestos de realidad.  En la revisión de este concepto el filósofo de las religiones Carlos Miguel Gómez (2015) revisa las nociones de hermeneútica de la escuela alemana es claro que la hermeneútica rediseña la tradición a medida que una  comunidad de sentido " cuestiona sus prejuciios, valida e incorpora otros nuevos". Pero, se pregunta este autor 
+
+> ¿Qué ocurre cuando la interpretación no se orienta hacia la reconstrucción del sentido de aquello que habla ya en la propia tradición, sino hacia la comprensión de otro con el cual no compartimos una comunidad de sentido garantizada por la pertenencia a un horizonte de inteligibilidad común? ¿Es posible comprender una obra, entendida en el sentido amplio del término, a la que no estamos vinculados mediante la historia efectual, y que no nos interpela desde la intemporalidad, a la vez lejana y familiar,
+> de lo clásico? 25
+
+Panikkar elabora el pluralismo radical en el cual si bien se reconoce que hay sistemas racionales que son ininteligibles porque no comparten la tradición de una comunidad de sentido, esto no implica que no puedan comuncarse. Primero porque cada sistema no está cerrado y segundo por que en el encuentro dice Pannikar se da un intercambio en el que  además de generar sentido  vuelven símbolos a la vida pero también emergen nuevos símbolos»20
+
+Esto ocurre en tres momentos. La hermeneútica morfológica que implica iniciarse en el segnificado de una tradición particular por medio de la lectura comentada textos clásicos. Aquí todo ocurre mediante el análisis, comparación y argumentación. La hermeneútica diacrónica que implica conocer la visión de mundo desde la cual una obra es generada y finalmente la hermeneútica diatópica. Esta hermeneútica no busca superar una distancia ni de que exista un horizonte de inteligibilidad común sino un movimiento constante entre dos universos de inteligibilidad heterogéneos. Esto solo es posible si se hacen visibles los presupuestos desde los que hablamos. Estos principios se contrastan con los principios fundamentales de otra visión del mundo no para establecer algo como "más verdadero" sino al descubrimiento " en el encuentro con el otro, de ciertos elementos que se hallan en una realción de equivalencia homeomórfica en las dos tradiciones" (Gómez,). Equivalencia que hay que anotar no es conceptual sino la reconstrucción contextual que da el significado una aproximación a la tradicción que, " requiere  transplantar el cotnexto que les da significado y que les confiere el horozonte en el cual puede sre comprendidos" (Panikkar)
+
+Para que esto pueda ocurrir es preciso que se de la actitud imperativa, un principio fundamental de la hermeneútica intercultural desde la cual es precisa una " suerte de conversión". Pannikar lo denomina "comprensión por convencimitnos: no podemos comrpender las convicciones de alguien a menos que de algún modo las compartamos". Para Gómez esta es una suerte de comunidad de sentido en términos de Gadamer si bien no es un saber presupuesto si no convertirse a la verdad que se comprende. Es aprender otra manera en clave dialógicamente y transformadora. Una comunicación que ocurre dice ¡ñ ……
+±* por fuera de "un logos común", se da entre personas, con un tu. "El otro es fuente autónoma de autocomprensión que no puedo asimilar desde mi perspectiva". Debe ocurrir una comunión transformadora a partir de un diálogo dialógico que llama Panikkar. Un diálogo que " tiene profundo significado religioso"
+
+En este escenario ya la realidad no es objetivable en tanto " soy parte de ella, soy en ella y no puedo separarme de ella"
+
+> El diálogo dialógico asume un radical dinamismo de la realidad,
+> esto es, que la realidad no es dada de una vez para siempre, sino es
+> real justamente por el hecho de que está continuamente creándose a sí
+> misma y no simplemente desarrollándose a partir de premisas y puntos
+> de partida preexistentes38.
+
+
+
+Ante la pregunta por la comprensión y el diálogo con la naturaleza, las plantas, la imposibilidad es que los aparatos teóricos y conceptuales llegan a develar pero aún no revelan lo que implican esas experiencias de escucha, una experiencia que en el marco amplio de lo religioso representa una comunión con la planta con la naturaleza. Pero ¿Cómo pensar como ellas? Es posible desde la hermeneútica de Panikkar, aproximarse a una hermeneútica vegetal en tanto la naturaleza es un tu, cuyo contexto es ininteligible pero posible de ser escuchado, como lo citan yerbateras, campesinos, indígenas y personas que se relacionan con ellas? Michael Marder aborda esta pregunta que si bien no desde la antropología si lo hace desde la filosofía. ¿Qué es el pensamiento de las plantas se pregunta Marder? ¿Cuáles sus maneras de comunicarse con nosotros? 
+
+
+
+
+
+Michael Marder indaga precisamente por esto que nombraré hermeneútica vegetal. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abordar la agencia de la plantas como actores en la construcción del conocimiento colaborativo en herramientas digitales introduce en las humanidades digitales las discusiones sobre lo no humano que vienen estableciendo la filosofía, la antropología y estudios de la ciencia en diálogo a la biología, la teología y la etnografía. Y cuál es precisamente esos marcos téoricos y conceptuales que nos permiten 
+
+
+
+
+
+
+
+ Si bien la manera como las plantas "hablan" [^x].está en campos experimentales aún, ya se reconoce que tienen memoria y por lo tanto aprenden. La noción de una naturaleza que habla y un ser humano que escucha e interpreta lo aborda la ecosofía y en particular el pensamiento de Raimond Pannikar para quien el hablar es una cualidad del universo al comprenderlo teológicamente. Esta propuesta dialoga con la perspectiva semiótica de Peirce para quien nuestra realidad es semiótica y la capacidad de producción signica no recae en una mente humana. Estas posturas, que vinculo a referentes en el campo de proyectos digitales, serán abordadas en el apartado **Plantar el problema**. En este apartado que es el marco teórico, conceptual y de referentes establezco los parámetros para la comprensión de las plantas como seres no humanos que siguiendo a Pannikar (**año** ) nos "hablan"  y a quienes "conocemos mientras nos conocen". Bajo este presupuesto el conocer ya no es el resultado de una experiencia de los sentidos y por lo tanto observable supeditado a leyes, si no, por el contrario, una experiencia interdependiente en la que no hay sujeto y objeto. Este modo de aproximarse al conocimiento y a la vida se contraponen al paradigma cinetífico heredado de Descartes que introdujo en la epistemología el uso del experimento controlado como la vía de conocimiento del universo. Para entender este cambio de punto de vista abordo en este capítulo la experiencia, concepto que nos permite trascender a la noción de experimento cómo vía de acceso al conocimiento. La experiencia por lo tanto, vincula en términos de Pánikkar tanto "lo divino, el logos, el pneuma". Es decir que pensamiento cuerpo y espíritu son vías de conocimiento dependientes y presentes en todo camino al conocer.  Estos modos de conocer han sido reportados por la Antropología, al indicar que hay modos no científicos de conocer la vida, las plantas -por ejemplo-. Ante las preguntas de ¿Cómo saben las comunidades que una planta es alimento, veneno, puede serles útil para una u otra cosa? Este saber es parte de una relación en la que las plantas, como indican las comunidades, dan información y el ser humano lo recibe de diversas maneras: por los sentidos, por la escucha, por los sueños (Terangpi et al., 2015). De ahí que dar esta discusión desde las humanidades digitales me permite construir un diálogo interdisciplinario de los retos que hay en la implementación o diseño de software que quiera integrar otras ontologías en las que las plantas son miembros y participes de las realidades, en las que las plantas hablan y los seres humanos escuchamos.
+
+
+
+##   II. Metodologías injertas: perspectivas del diseño para las humanidades digitales
 
 
 
@@ -53,7 +132,7 @@ Posicionar a los prototipos como instrumentos con funciones epistémicas y que p
 
 En el artículo  Developing Things: Notes toward an Epistemology of Building in the Digital Humanities Stephen Ramsay and Geoffrey Rockwell (2012) postulan las herramientas digitales como "telescopios para la mente", instrumentos hermeneúticos a través de los cuales  -y con los cuales- interpretamos fenómenos. Esta analogía, utilizada originalmente por la lingüista computacional Margaret Masterman, no solo es provocativa sino polémica. ¿Pueden las herramientas ser en el ejercicio investigativo parte de la discusión y de la explicación por que en sí mismas tienen elementos que discuten, problematizan, explican lo que se está  investigando?  Aunque su integración como argumento esté mediado por un discurso -pensemos en la mediación del curador de arte y la obra de arte- las herramientas, artefactos, modelos y obras cuentan con argumentoss que pueden ser leídos  por quienes dominan su lenguaje. De ahí que se requieran procesos de traducción. Pero, ¿cómo contar estas historias, como traducirlas? ¿Cuál el esquema narrativo de una tesis que quiere dar cuenta de estos procesos? 
 
-La traducción en la TAR proviene de la conceptulización de Callón. Para este autor la traducción se basa en "describir las acciones de los humanos y no humanos que intervienen en la fabricación de un hecho científico"(García Díaz, 2008, pág. 59). Estas acciones emergen para la comprensión y experimentación de un problema. Allí, en el encuentro con otros actores humanos o no, el problema toma nuevas formas. Por lo anterior, en esta tesis emprendí una búsqueda -podría decir que fui a las raíces- para dar cuenta de las tecnologías de inscripción mediante las cualés refiné, comprendí y expliqué las preguntas y los problemas. 
+La traducción en la TAR proviene de la conceptulización de Callón. Para este autor la traducción se basa en "describir las acciones de los humanos y no humanos que intervienen en la fabricación de un hecho científico"(García Díaz, 2008, pág. 59). Estas acciones emergen para la comprensión y experimentación de un problema. Allí, en el encuentro con otros actores humanos o no, el problema toma nuevas formas. Por lo anterior, en esta tesis emprendí una búsqueda -podría decir que fui a las raíces- para dar cuenta de las tecnologías de inscripción mediante las cualés refiné, comprendí y expliqué las preguntas y los problemas para llegar a una formulación del problema final. 
 
 ##### Las raíces del problema: refinar preguntas y problemas
 
@@ -65,9 +144,9 @@ En las humanidades es usual que nuevas categorías aparezcan en el curso del des
 
 Gráfico 4. Los prototipos en la investigación en Humanidades Digitales 
 
-[5^]: La emergencia de las interdisciplinas en las humanidades ha permitido explorar metodologías y métodos mixtos para poder observar y dar cuenta de problemas desde diversas ópticas. La etnohistoria por ejemplo ha recurrido tanto a la historia como la antropología y la arqueología para establecer diálogos transtemporales. Por su cuenta los estudios culturales son la intersección de prácticas investigativas de la economía, los mass media y disciplinas como la antropología, la sociología, el psicoanálisis. 
+[5^]: La emergencia de las interdisciplinas en las humanidades ha permitido explorar metodologías y métodos mixtos para poder observar y dar cuenta de problemas desde diversas ópticas. La etnohistoria por ejemplo, ha recurrido tanto a la historia como la antropología y la arqueología para establecer diálogos transtemporales. Por su cuenta los estudios culturales son la intersección de prácticas investigativas de la economía, los mass media y disciplinas como la antropología, la sociología, el psicoanálisis. 
 
-[6^]:  En las Humanidades Ddigitales confluyen discusiones, metodologías y métodos de las ciencias de la información, la bibliotecología, el diseño, las artes, la comunicación, las ingenierías de desarrollo de software y las humanidades, entre otros campos. 
+[6^]:  En las Humanidades Digitales confluyen discusiones, metodologías y métodos de las ciencias de la información, la bibliotecología, el diseño, las artes, la comunicación, las ingenierías de desarrollo de software y las humanidades, entre otros campos. 
 
 ##### La investigación como diseño
 
@@ -104,7 +183,37 @@ Finalmente estos modelos de resolución de problemas también se traducen en la 
 
 [^7]: usualmente el diseño se concentra en el desarrollo de productos más no es el único interés del diseño. Como se aborda más adelante hay diseño centrado en creación de productos pero también diseño centrado en conceptos.  Como trabajaré en el apartado de diseño crítico y especulativo poara las humanidades digitales y siguiendo a Dunne y Raby (2013) el diseño conceptual trasgrede la idea de utilidad y mercado desde la creación de artefactos especulativos para pensar el presente. 
 
+##### La experiencia en la investigación
 
+ "En este sentido, Hegel no pretendió nunca plantear la losofía como una doctrina abstracta, extraña a la vida, sino que buscó involucrarla siempre en el amplio mundo de la experiencia humana corriente." ([Gama :26](zotero://open-pdf/library/items/RFPVEIC5?page=3))
+
+"La describe, en Fenomenología efecto, el tránsito de la experiencia humana a través de diversas conguraciones de sentido o acepciones de mundo, que no son meros constructos teóricos, sino que tienen un correlato real en formas sociales de vida histórico-concretas, pero al mismo tiempo muestra que este camino de la experiencia sigue una estructura racional determinada por el absoluto, con lo que se hace posible conceptualizar la experiencia real de la conciencia en los términos especulativos del sistema." ([Gama :28](zotero://open-pdf/library/items/RFPVEIC5?page=5))
+
+El propósito de poner en consonancia una razón universal absoluta con las formas concretas de la experiencia humana encuentra muy pronto serios obstáculos para su cumplimiento. En primera instancia, una interrelación tal parece ir en contravía con la experiencia más inmediata del sentido común, para la que no hay una única dimensión de la experiencia, sino múltiples ámbitos de realización de la misma, y para la que dichos ámbitos parecen" ([Gama :28](zotero://open-pdf/library/items/RFPVEIC5?page=5))
+
+"Así, espontáneamente tendemos a considerar como cualitativamente distintos los tipos de experiencia que hacemos frente al arte del tipo de experiencia cientíca, religiosa o de la experiencia intersubjetiva. Si esto es así, ¿cómo, entonces, defender que es una y la misma razón la que en todos estos campos se hace presente?" ([Gama :29](zotero://open-pdf/library/items/RFPVEIC5?page=6))
+
+"Además, esta variedad de las formas de experiencia se complica aún más si se introduce la dimensión de la historia, pues resulta evidente que, aun en el interior de un mismo ámbito de la realidad, la experiencia humana ha asumido conguraciones diferentes en distintas épocas." ([Gama :29](zotero://open-pdf/library/items/RFPVEIC5?page=6))
+
+"Pero el absoluto hegeliano no es solo sustancia en este sentido, sino que es sustancia viva o sujeto, es decir, no un fundamento estático ya acabado, sino un principio en desarrollo que va determinándose progresivamente en un movimiento de mediaciones internas, similar al que realiza un sujeto -el sujeto individual o el yo trascendental de Fichteen su proceso de autoapropiación. La" ([Gama :30](zotero://open-pdf/library/items/RFPVEIC5?page=7))
+
+"De modo que cuando Hegel arma que «el absoluto ya está en nosotros», no se trata de algo así como una armación mística según la cual podemos buscar en nuestra interioridad, mediante alguna suerte de intuición mágica, el contacto con una esfera trascendente. Todo lo que arma es que en nuestras experiencias de mundo, aun en las más elementales, se hace presente una forma de racionalidad, que no debe ser vista en oposición a otras formas histórico-culturales distintas con las que ella sería irreconciliable ni tampoco como la racionalidad ya denitiva y suprema, sino, al contrario, como un estadio más en el desarrollo progresivo del absoluto" ([Gama :30](zotero://open-pdf/library/items/RFPVEIC5?page=7))
+
+"El absoluto se presenta, pues, en cada conguración histórica de la experiencia humana encarnado en la racionalidad que es inherente a cada una de ellas y que determina sus particulares criterios de conocimiento y de acción." ([Gama :31](zotero://open-pdf/library/items/RFPVEIC5?page=8))
+
+Quienes arman que la verdad se descubre a través del método cientíco no están en mejor posición, ya que, como hoy bien sabemos, todo el instruy los procedimientos de la ciencia no dejan inalterado mentarium el objeto, sino que buscan más bien ajustarlo a modelos explicativos preconcebidos." ([Gama :38](zotero://open-pdf/library/items/RFPVEIC5?page=15))
+
+"Se verá ya claro cómo esta idea de experiencia dista mucho de las concepciones empiristas o cientícas que equiparan la experiencia con la percepción sensible o la normativizan en procedimientos metódicos." ([Gama :40](zotero://open-pdf/library/items/RFPVEIC5?page=17))
+
+Lo que sucede es que en el lenguaje corriente solemos llamar experiencia tanto a la posesión de un saber como al proceso por el cual se ganó ese saber." ([Gama :41](zotero://open-pdf/library/items/RFPVEIC5?page=18))
+
+"Hegel quiere llamar la atención sobre el proceso de la realización de la experiencia" ([Gama :41](zotero://open-pdf/library/items/RFPVEIC5?page=18))
+
+"El verdadero hombre con experiencia no es aquel que por haber vivido mucho sabe de todo, sino justamente aquel que por haber vivido mucho sabe que su saber siempre es falible y susceptible de derrumbarse, del mismo modo que el hombre que tiene experiencia con las mujeres es quizás también aquel que ha sufrido más decepciones con ellas." ([Gama :41](zotero://open-pdf/library/items/RFPVEIC5?page=18))
+
+"Frente al esquema instrumentalista, la estructura hegeliana del movimiento de la experiencia, o, lo que es igual, del proceso del conocimiento (esto es, la experiencia como inversión de la conciencia o negación determinada), no resulta una invención arti- ciosa, sino que, si bien solemos olvidarlo, se encuentra a la base de nuestras vivencias cotidianas, porque el conocimiento es metódico o instrumental solo en situaciones y ante objetos muy especícos, pero las experiencias corrientes, donde advertimos que ganamos en conocimiento, no funcionan aplicando un procedimiento externo, sino que surgen del convencimiento interior de que ahora vemos con claridad donde antes solo veíamos a medias." ([Gama :44](zotero://open-pdf/library/items/RFPVEIC5?page=21))
+
+"El verdadero conocimiento de otro ser humano, para poner otro ejemplo, no se da al modo como uno acumula informaciones sobre un extraño, sino en tanto que, partiendo de los prejuicios que sobre él tengo, voy reformulando y precisando mi imagen de él a medida que hacemos experiencias comunes." ([Gama :45](zotero://open-pdf/library/items/RFPVEIC5?page=22)
 
 ##### Documentar los procesos de pensamiento
 
@@ -260,11 +369,19 @@ Por lo que con el trabajo de la TDK se establecieron 207 subgrupos nuevos ademá
 
 Hasta aquí  Inaturalis se presentaba como el software que podría incluir aspectos culturales a la taxonomía vegetal y presentar así una mixtura entre enciclopedia y red social. Allí se podría integrar los saberes etnobotánicos a partir de la estructuración de los datos al modo de la TDK que pudiesen servir para la protección preventiva del conocimiento. Para ello procedimos con Camilo Martínez [^11] a la instalación de este software y prototipar desde allí el entorno colaborativo. Dos aspectos se interpusieron para poder llevarlo a cabo: el software, según comunicó via email el desarrollador del software Ken-*ichi* Ueda, no estaba documentado en sus últimas versiones y según reportaba Karen Socha, encargada de ciencia ciudadana y referente de inaturalist desde el Instituto Humbold en su momento, implementar esta plataforma era demandante y costoso. Al respecto la investigadora comentó sobre la experiencia de España en donde decidieron hacer un Fork  -bifurcación- de inaturalist llamada [Natusfera](https://natusfera.gbif.es/pages/about), que integra además la wikipedia. Este proyecto -reiteró- ha sobrepasado las capacidades humanas y los recursos del equipo. Lo mejor en todos los casos dijo la investigadora - es trabajar desde la que ya existe implementada- . Pero esto era inviable: inaturalist no contempla información etnobotánica, ni a la información sobre biodiversidad le interesa los cruces con lo cultural. Al estar conectada con sistemas de data de biodiversidad, incluir reportes de caracter cultural como pueden ser imágenes de plantas en códices, cuadros, canciones, etc, pasaría a ser notificado pues interfiere en la estructuración conceptual de la Base de Datos. En cierta medida es posible hacerlo a riesgo de ser censurado. Fue así, que tras la imposibilidad técnica de poder hacer un prototipo con este software nación Milpaís, una wiki semántica etnobotánica. 
 
-##### Milpaís: una wiki semántica para recuperar, compartir y construir colaborativamente las relaciones entre plantas, seres humanos, comunidades y entornos
+##  Milpaís: una wiki semántica para recuperar, compartir y construir colaborativamente las relaciones entre plantas, seres humanos, comunidades y entornos
+
+
 
 <img src="/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/poster-mipais-v2.png" style="zoom:10%;" />
 
 Milpaís [^12]
+
+##### Lecturas
+
+
+
+
 
 
 
@@ -418,25 +535,19 @@ Como parte del resultado del primer laboratorio de creación colectiva de Microh
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## II Parte
 
 ## El lenguaje del botsque : prototipo para pensar la agencia de lo no humano en entornos colaborativos
 
-### Plantar la discusión: Las plantas como agentes, (abordajes interdisciplinarios perspectivas teóricas)
 
-Bajo la premisa de una naturaleza que comunica y es parte de la creación de conocimiento sobre ella misma ¿Qué es la naturaleza? La respuesta es un problema que ha ocupado y ocupa tantas disciplinas como a la teología. 
+
+"R.W.Emerson (2008a): "Debes preguntar de otro modo, debes sentirlo y quererlo" p.163)." ([Sepúlveda Pizarro 2015:20](zotero://open-pdf/library/items/FD4XPIM8?page=20))
+
+ 
+
+### Marco conceptual: Plantar la discusión: Las plantas como agentes, (abordajes interdisciplinarios perspectivas teóricas)
+
+Bajo la premisa de una naturaleza que comunica y es parte de la creación de conocimiento sobre ella misma ¿Qué es la naturaleza? ¿De qué manera conocemos la naturaleza? ¿Es posible conocerla? Es más, ¿Qué somos nosotros con relación a  ella? 
 
 "la naturaleza como símbolo, desde el paradigma ser-hablar-pensar, se explicó que si la naturaleza habla, no quiere decir que posea lenguaje, sino que el hombre participa de su habla, escuchándola y siendo su intérprete, si sabe escuchar. Como señala Panikkar (2011a) la relación entre escuchar y hablar es de tipo a-dual: “No hablaríamos si primero no hubiéramos escuchado, y no escucharíamos si nuestro ser no participara del Ser que habla”202 
 
@@ -446,11 +557,171 @@ Así, abordar la naturaleza desde una perspectiva teológica y como una pregunta
 
 
 
-### De la extracción a la siembra de datos 
+##### La experiencia mística
 
-### Sistema de comunicación plantas sere humanos. Prototipo.
+¿Es posible conocer más allá del conocimiento conceptual? 
+
+"El mythos sólo es real en la intersubjetividad, es comunitario." ([Sepúlveda Pizarro 2015:69](zotero://open-pdf/library/items/FD4XPIM8?page=69))
+
+ El mismo ejercicio filosófico de nuestro autor sugiere este triple don de la vida: aceptar el logos (lo pensado, lo dicho), desenterrar el mythos (lo no pensado) y acoger el pneuma (lo impensable)." ([Sepúlveda Pizarro 2015:70](zotero://open-pdf/library/items/FD4XPIM8?page=70))
+
+"No quisiera terminar este tema, sin hacer una alusión al logos, por temor a que sólo se le reduzca al aspecto reflexivo conceptual. El logos tiene una mayor riqueza que la simple inteligibilidad, de ahí su complicidad y participación con el mythos y pneuma: si el logos es palabra escuchada es porque no existe sin el pneuma. Para Panikkar, (2007a) nos recuerda que logos es "vāc sonido, contenido; pero también icono, εἳδος, gesto, expresión, forma" (p.359).
+
+"Mi experiencia con la naturaleza hizo que surgiera una idea algo difusa pero de gran complejidad en términos filosóficos: La experiencia con la naturaleza es una experiencia mística." ([Sepúlveda Pizarro 2015:14](zotero://open-pdf/library/items/FD4XPIM8?page=14))
+
+De esta manera, a la filosofía no sólo le compite aceptar el logos, sino también recuperar el mythos, lo no dicho, lo no pensado." ([Sepúlveda Pizarro 2015:63](zotero://open-pdf/library/items/FD4XPIM8?page=63))
+
+"Con el término experiencia, la presente investigación se apoya más en un discurso antropológico que en un discurso cosmológico, e incluso ecológico de la realidad." ([Sepúlveda Pizarro 2015:14](zotero://open-pdf/library/items/FD4XPIM8?page=14)) "Por otra parte, la concepción de la experiencia en Panikkar hace referencia a un dato inmediato sin reflexión." ([Sepúlveda Pizarro 2015:54](zotero://open-pdf/library/items/FD4XPIM8?page=54))
+
+"El lenguaje del mythos es la narrativa que apunta al sentido de las cosas en relación al todo sin estar constreñido a un lenguaje conceptual. El sentido - a diferencia de la categoría epistemológica de significado - siempre se refiere a la totalidad de la experiencia, y por lo tanto no se deja dividir ni analizar, tan solo conocer en relación al contexto." ([Sepúlveda Pizarro 2015:64](zotero://open-pdf/library/items/FD4XPIM8?page=64))
+
+**"La consciencia es el lugar donde algo se nos rinde presente, pero ¿qué es esta presencialidad?. Lo más corriente es llamar evidencia a esta presencialidad, la que además asociamos con inteligibilidad y a ésta con racionalidad. El rasgo común de toda inteligibilidad es la presencia inmediata (de lo inteligible) en nuestra consciencia y que excluye toda duda de esta presencia. Pero si el Ser habla, para Panikkar (2007b) existe una evidencia acústica de una presencia no directamente inteligible:" ([Sepúlveda Pizarro 2015:65](zotero://open-pdf/library/items/FD4XPIM8?page=65))**
+
+**"Somos conscientes de que algo esté presente en nuestro espíritu y que no nos exige interpretación; no nos es inteligible; lo aceptamos como un dato; no lo cuestionamos; ni su resistencia a la interpretación se nos hace problema a no ser que alguien nos lo cuestione. (p.107)" ([Sepúlveda Pizarro 2015:66](zotero://open-pdf/library/items/FD4XPIM8?page=66))**
+
+**"Esta consciencia de una presencia en cuanto presencia y no en cuanto inteligible, sería la presencia de "algo" sin saber lo que es. Esta presencia es el mythos. Pero no debemos confundir esta presencia como un objeto, el mythos es la aparición misma, no lo que aparece, es el horizonte de presencialidad que se nos hace consciente. Es por esta razón, que es el primer peldaño de la consciencia, nos apoyamos en él para los demás pasos. El mythos como el horizonte de presencialidad nos deja quietos, lo vemos presente, entero, aún no escindido por la razón:" ([Sepúlveda Pizarro 2015:66](zotero://open-pdf/library/items/FD4XPIM8?page=66))**
+
+**"El movimiento del espíritu por el cual aceptamos el mythos no es la pura racionalidad, sino algo mucho más profundo que nos convence de que ello es así, con visos de una verdad que no es lógica sino precisamente mítica. (Panikkar, 2007b, p.109)" ([Sepúlveda Pizarro 2015:66](zotero://open-pdf/library/items/FD4XPIM8?page=66))**
+
+""Junto al conocimiento conceptual, para el cual el amor no es absolutamente necesario, se da, sin embargo, el conocimiento simbólico, que exige la salida del cognoscente ( y por tanto amor) para participar en el símbolo - esto es, amarlo" (Ibid)." ([Sepúlveda Pizarro 2015:69](zotero://open-pdf/library/items/FD4XPIM8?page=69))
+
+"Es por esta razón que para nuestro autor afirmar que la realidad se nos manifiesta en forma de mythos, quiere explicitar que la experiencia integral ve lo concreto encarnando lo universal, como una epifanía real del Todo." ([Sepúlveda Pizarro 2015:64](zotero://open-pdf/library/items/FD4XPIM8?page=64))
+
+ "En este sentido, cabe hacerse la pregunta por una "experiencia consciente" y no una "consciencia reflexiva". Al respecto, Panikkar se plantea las siguientes preguntas: "¿Es posible una experiencia que excluya esta autoconsciencia destructiva? ¿Puede existir una experiencia en la cual el sí-mismo que experimenta sea el mismo que la experiencia misma?" (Panikkar, 2007a, p. 320)." ([Sepúlveda Pizarro 2015:54](zotero://open-pdf/library/items/FD4XPIM8?page=54))
+
+La mística es más cauta: ni afirma ni niega. Por eso no dice que la flor sea una parte de la realidad ni que sea toda la realidad. Diría más bien que la flor es símbolo del Todo, que en la flor "está" toda la realidad. No es, evidentemente, un conocimiento (conceptual) absoluto, sino una experiencia (integral) concreta. (Ibid, p.76)" ([Sepúlveda Pizarro 2015:55](zotero://open-pdf/library/items/FD4XPIM8?page=55))
+
+"81 Considerando los desafíos que plantea su pensamiento no objetivante, Panikkar desarrollará la hermeneútica diatópica, la que define: "en cuanto la distancia a superar no es meramente temporal, dentro de una única y amplia tradición, sino que la distancia que existe entre dos topoi humanos, "lugares" de comprensión y autocomprensión, entre dos (o más) culturas que no han elaborado sus modelos de inteligibilidad o sus premisas fundamentales a partir de una tradición histórica común o mediante una influencia recíproca" (Panikkar, 2007a, p.33). La hermenéutica diatópica no es objetivable en cuanto que considera al otro como una fuente de conocimiento igualmente original." ([Sepúlveda Pizarro 2015:62](zotero://open-pdf/library/items/FD4XPIM8?page=62))
+
+"La misma experiencia indica más que simple inmediatez; indica com-penetración, haber penetrado en el mismo interior de la cosa "experienciada". Procede del griego περάω, peraô, pasar a través; entrar, penetrar, y del sánscrito pi-piparmi, conducir (cf. perito, peligro, experto, puerta y, naturalmente, experimento, etcétera). La experiencia se reconoce en aquel "interior intimo meo" ("más interior que lo mío más íntimo") de san Augustín. (Panikkar, 1007b, p.82)" ([Sepúlveda Pizarro 2015:54](zotero://open-pdf/library/items/FD4XPIM8?page=54))
+
+"El último recurso en el hombre está en su experiencia. Por eso para nuestro autor comprender el dato, la cosa, la Vida como lo dado exige una actitud más receptiva." ([Sepúlveda Pizarro 2015:54](zotero://open-pdf/library/items/FD4XPIM8?page=54))
+
+"Como veremos más adelante, la metáfora índica de la śruti (audición) es más cercana a la experiencia de la Vida que la metáfora griega del ve" ([Sepúlveda Pizarro 2015:54](zotero://open-pdf/library/items/FD4XPIM8?page=54))
+
+""La experiencia es don - el don de la Vida (...) Hay algo que se nos da - y que por tanto se recibe" (Ibid, p.83)." ([Sepúlveda Pizarro 2015:54](zotero://open-pdf/library/items/FD4XPIM8?page=54))
+
+"Panikkar hace referencia a la experiencia de la plenitud, del "toque" consciente con toda la realidad desde un ángulo concreto. Es la intuición totum in parte. Es decir, le da un fundamento antropológico a la experiencia del Todo en la unicidad de cada ser. Por eso, nuestro autor define a la experiencia como el "toque consciente con la realidad" (Ibid, p.82)," ([Sepúlveda Pizarro 2015:54](zotero://open-pdf/library/items/FD4XPIM8?page=54)) donde toda experiencia es corporal, consciente y divina. Esta concepción implica superar la visión tradicional de experiencia como consciencia reflexiva." ([Sepúlveda Pizarro 2015:54](zotero://open-pdf/library/items/FD4XPIM8?page=54)
+
+"La delimitación conceptual del tema de estudio implica una nueva forma de comprender las nociones de lo divino, naturaleza y hombre; y además superar aquellas visiones dualistas que concibe las relaciones de estas dimensiones como zonas ontológicas diferenciadas." ([Sepúlveda Pizarro 2015:15](zotero://open-pdf/library/items/FD4XPIM8?page=15))
+
+"experiencia humana; experiencia que el hombre moderno ha perdido" ([Sepúlveda Pizarro 2015:19](zotero://open-pdf/library/items/FD4XPIM8?page=19))
+
+"Diferenciándose de este paradigma, Panikkar en su pensamiento místico, destacará el criterio de libertad de la realidad, situándose en el paradigma índico ser, hablar, pensar; postura que para la investigadora es fecunda para el tema de estudio, puesto que nos asienta en la realidad simbólica" ([Sepúlveda Pizarro 2015:15](zotero://open-pdf/library/items/FD4XPIM8?page=15))
+
+Tal como se indicó al principio, esta investigación se sitúa conceptualmente desde el término experiencia, y es desde ahí donde las lecturas de los trascendentalistas, R.W.Emerson, H.D. Thoreau, el naturalista Aldo Leopold y el conocimiento ancestral de los pueblos indígenas de América ayudan a afirmar ciertas tesis que la investigadora va desarrollando, específicamente en el capítulo seis referido a la naturaleza como símbolo y al capítulo siete sobre la sabiduría de la Tierra." ([Sepúlveda Pizarro 2015:16](zotero://open-pdf/library/items/FD4XPIM8?page=16))
+
+"la relación del hombre y la naturaleza, una experiencia integral de Vida, se quiere argumentar tal como se indicó, que la experiencia con la naturaleza es una experiencia mística." ([Sepúlveda Pizarro 2015:16](zotero://open-pdf/library/items/FD4XPIM8?page=16))
+
+"la experiencia mística no es exclusiva de algunas personas privilegiadas, sino que constituye una dimensión esencial del hombre, aunque hoy se encuentra atrofiada por nuestra actual sociedad tecno-científica." ([Sepúlveda Pizarro 2015:16](zotero://open-pdf/library/items/FD4XPIM8?page=16))
+
+"Esta experiencia se desplaza de una antropología dualista (cuerpo y alma) a una antropología trinitaria: cuerpo, intelecto y espíritu, y cuyo órgano de conocimiento se funda en los tres "ojos" de apertura a la realidad: sentido, intelecto y espíritu." ([Sepúlveda Pizarro 2015:16](zotero://open-pdf/library/items/FD4XPIM8?page=16))
+
+"Panikkar denominará a la experiencia mística, "experiencia integral de la realidad" (Panikkar, 2007" ([Sepúlveda Pizarro 2015:16](zotero://open-pdf/library/items/FD4XPIM8?page=16))
+
+"Con la palabra "experiencia", Panikkar también quiere destacar la estructura trinitaria del ser humano y de la realidad. La experiencia para nuestro autor, es el "toque consciente con la realidad" (Panikkar, 2007, p.82), donde la palabra "toque" manifiesta el carácter concreto, encarnado y finito de cada ser de la realidad; la palabra "consciencia" su dimensión humana; y la palabra "realidad" la dimensión divina, puesto que en "este toque nos identificamos con toda la realidad" (Panikkar, 2007, p.88). Desde esta perspectiva, si la experiencia es un "toque consciente con la realidad" significa que es una experiencia "integral", es decir, "es aquélla no tocada por ninguna interpretación ni intermediario: es pura experiencia, íntegra, 'intocada'" (Panikkar, 2007, p.69). La experiencia "integral" es la intuición totum in parte y se funda en una consciencia simbólica:" ([Sepúlveda Pizarro 2015:17](zotero://open-pdf/library/items/FD4XPIM8?page=17))
+
+"La mística es más cauta: ni afirma ni niega. Por eso no dice que la flor sea una parte de la realidad ni que sea toda la realidad. Diría más bien que la flor es símbolo del Todo, que en la flor "está" toda la realidad. No es, evidentemente, un conocimiento (conceptual) absoluto, sino una experiencia (integral) concreta. (Panikkar, 2007, p.76)" ([Sepúlveda Pizarro 2015:17](zotero://open-pdf/library/items/FD4XPIM8?page=17))
+
+"Para Panikkar el ser humano posee tres "ojos" que le abren a la experiencia de la Vida. Estos tres ojos hace mención a los tres "órganos" que prácticamente todas las culturas identifican como mediadores en el contacto del hombre con la realidad: sentidos, razón y fe." ([Sepúlveda Pizarro 2015:56](zotero://open-pdf/library/items/FD4XPIM8?page=56)) "Esta tríada se corresponde tanto con la antropología trinitaria (cuerpo, alma y espíritu) como con la tripartición cosmoteándrica: divino, humano y kosmos." ([Sepúlveda Pizarro 2015:56](zotero://open-pdf/library/items/FD4XPIM8?page=56))
+
+"No podemos sentir, 68 pensar y experimentar sin materia, logos y espíritu" (" ([Sepúlveda Pizarro 2015:56](zotero://open-pdf/library/items/FD4XPIM8?page=56))
+
+ : "No podemos conocer la realidad en cuanto tal, puesto que ella no es ningún objeto (de conocimiento) y es la que nos permite ser conscientes de lo que el logos presenta precisamente a nuestra consciencia" (Panikkar, 2007b, p.95)." ([Sepúlveda Pizarro 2015:61](zotero://open-pdf/library/items/FD4XPIM8?page=61))
 
 
+
+"Al afirmar que la realidad es nuestro mythos se quiere indicar con ello que el mythos es nuestra presuposición fundamental que le da sentido a la pregunta por la realidad, por eso a la realidad no la podemos definir pues es el mismo mythos quien delimita los límites de la pregunta. Pero cabe señalar, que esta presuposición no es un "algo", sino más bien un horizonte de plausibilidad. Es por esta razón, que el discurso del mythos es un discurso último; a la pregunta ¿qué se entiende por el mythos?, podemos señalar que es una pregunta epistemológicamente no válida dado que es el mismo mythos quien confiere inteligibilidad a la cuestión sobre lo que es entender: entendemos algo cuando lo inscribimos en un mythos, es decir, es éste quien nos permite ver en forma "clara" sin seguir preguntando" ([Sepúlveda Pizarro 2015:61](zotero://open-pdf/library/items/FD4XPIM8?page=61))
+
+"el mythos es literalmente lo que se da por descontado, no pertenece al ámbito de la reflexión." ([Sepúlveda Pizarro 2015:61](zotero://open-pdf/library/items/FD4XPIM8?page=61))
+
+"No lo tenemos adelante, no se coloca ante nosotros, por eso que estudiarlo requiere una actitud particular: "No se puede mirar directamente a la fuente de la" ([Sepúlveda Pizarro 2015:61](zotero://open-pdf/library/items/FD4XPIM8?page=61))
+
+"luz; hay que darle la espalda, para poder ver no la luz, sino los objetos iluminados. La luz es invisible. Y lo mismo el mito (...)" (Panikkar, 2007 a, p.29)." ([Sepúlveda Pizarro 2015:62](zotero://open-pdf/library/items/FD4XPIM8?page=62))
+
+"Dentro del pensamiento trinitario de Panikkar, el mythos es símbolo del misterio de la realidad. Recordemos que el Ser para nuestro autor es una ser que habla y se le escucha antes de ser pensado: El Ser no se piensa (comprende, concibe, aprehende), sino que se es consciente de él; no se "ve", pero se "escucha", jugando con una metáfora griega y otra índica. La palabra habla, pero no es palabra si no es escuchada. "La fe viene de la audición" (Rom X, 17). (Panikkar, 2006, p.51)" ([Sepúlveda Pizarro 2015:62](zotero://open-pdf/library/items/FD4XPIM8?page=62))
+
+"Sin entrar en este momento a la especificidad del pneuma, quiero desatacar la idea de que la realidad no es sólo logos, es también espíritu, y éste no se reduce al logos." ([Sepúlveda Pizarro 2015:62](zotero://open-pdf/library/items/FD4XPIM8?page=62))
+
+"El mythos, como símbolo del misterio de la realidad, es aquella dimensión en que la filosofía deja emerger a lo no dicho, a lo no pensado, por eso para Panikkar (2007a), mythos y sabiduría van juntos:" ([Sepúlveda Pizarro 2015:62](zotero://open-pdf/library/items/FD4XPIM8?page=62))
+
+###### Conocimiento
+
+"Pese a este entusiasmo, la madurez científica no ha desembocado en un determinismo lógico causal de mente-naturaleza, puesto que también ha descubierto que la naturaleza posee grados de libertad y que por lo tanto no es esclava de la mente lógica del hombre." ([Sepúlveda Pizarro 2015:99](zotero://open-pdf/library/items/FD4XPIM8?page=99))
+
+ Con esta idea quiero destacar que Panikkar en su antropología quiere recuperar la dimensión "divina" excluida en la epistemología moderna y contemporánea" ([Sepúlveda Pizarro 2015:103](zotero://open-pdf/library/items/FD4XPIM8?page=103))
+
+"Esta investigación requiere preguntarse primero sobre una nueva antropología trinitaria que pueda responder a esta triple relación entre lo divino, lo humano y lo cósmico. Con fines heurístico, el objetivo del siguiente capítulo enfatizará la relación del hombre con lo divino para desarrollar posteriormente la relación entre el hombre el kosmos." ([Sepúlveda Pizarro 2015:99](zotero://open-pdf/library/items/FD4XPIM8?page=99))
+
+"Me interesa detenerme en la primera objeción a fin de esclarecer más la argumentación de la intuición cosmoteándrica en el orden epistemológico, principalmente al modo de conocer la identidad-en-la diferencia "" ([Sepúlveda Pizarro 2015:77](zotero://open-pdf/library/items/FD4XPIM8?page=77))
+
+"En el capítulo anterior, hemos visto la argumentación de Panikkar sobre el conocimiento trinitario y advaita en referencia al planteamiento metafísico de lo Uno y lo Múltiple. Aquí su argumento responde al problema epistemológico de identidad y diferencia: la realidad no es ni una (identidad) ni dos (diferencia), ni monismo ni dualismo. Veamos el siguiente ejemplo: "Un elefante no es un hombre, pero ambos son, aunque de forma diferentes. El elefante es y el hombre es, pero uno no es-el-otro" (Panikkar, 1999, p.90)." ([Sepúlveda Pizarro 2015:77](zotero://open-pdf/library/items/FD4XPIM8?page=77))
+
+"Ambos son distintos; sin embargo, participan en el ser, aunque éste no ha de ser entendido como substrato metafísico de cada cosa, sino como "relación". Esto quiere decir, que si el hombre es y el elefante es, no podemos decir que "el elefante no-es hombre", puesto que en esta afirmación vemos al elefante como una mónada aislada y excomulgada de la comunión de los seres. Desde este pensar regido por el principio de no contradicción, la cosas son "en sí mismas" y por ende, tienen en sí mismas su fundamento sin relacionalidad con la realidad. Distinto es decir, "el elefante es no-hombre", pues si bien le negamos humanidad al elefante (el elefante es diferente al hombre), no le negamos su identidad: el elefante es." ([Sepúlveda Pizarro 2015:78](zotero://open-pdf/library/items/FD4XPIM8?page=78))
+
+Lo que se quiere destacar es diferenciamos88, que en el "no es" no nos sino que por el contrario, es en el "es", donde nos distinguimos y a la vez nos identificamos. Es la identidad-en-la-diferencia:  ** "El es los distingue tanto como los une" (Panikkar, 1999, p.90)."**  ([Sepúlveda Pizarro 2015:78](zotero://open-pdf/library/items/FD4XPIM8?page=78))
+
+"El "es" distingue, puesto que existe una diferencia infinita entre cada ser, pero a la vez los identifica, puesto que son una relación. La radicalidad de esta afirmación quiere expresar que son "precisamente los vínculos que relacionan cada cosa con todo lo demás los que constituyen estas mismas cosas" (Panikkar, 1999, p.90). Y este vínculo el cosmoteándrica89 es, el ser como relación, es la realidad (Panikkar, 1990)." ([Sepúlveda Pizarro 2015:78](zotero://open-pdf/library/items/FD4XPIM8?page=78))
+
+###### Naturaleza habla
+
+El kosmos como símbolo; más concretamente, haciendo su respectiva aclaración conceptual, la naturaleza como símbolo. Creo que asumir esta concepción dentro del pensamiento de Raimon Panikkar nos abre a explorar esta relación de una manera muy distinta a la interpretación materialista y dualista como comúnmente se la entiende. Así podemos anticipar una primera idea de este capítulo: desde la perspectiva simbólica, la naturaleza habla." ([Sepúlveda Pizarro 2015:123](zotero://open-pdf/library/items/FD4XPIM8?page=123))
+
+"Indagar la naturaleza como símbolo significa profundizar en la relación de la consciencia humana con la naturaleza" ([Sepúlveda Pizarro 2015:123](zotero://open-pdf/library/items/FD4XPIM8?page=123))çEn la edad ecuménica, el hombre primordial (distinción que hace Panikkar del hombre "primitivo"), es el período del el hombre de la naturaleza: "Aquí naturaleza es oikos, la casa, el hábitat del hombre. Aquí lo divino está incluido en la naturaleza, que no es meramente 'natural' sino sagrada, y en última instancia una con lo divino" (Panikkar, 1999a, p.44)." ([Sepúlveda Pizarro 2015:123](zotero://open-pdf/library/items/FD4XPIM8?page=123))
+
+"En el momento económico," ([Sepúlveda Pizarro 2015:124](zotero://open-pdf/library/items/FD4XPIM8?page=124))
+
+"En este período, el oikos real del hombre es así su nomos; su hogar no es ya la tierra, a la que ahora ya explota para sus propios objetivos, sino el mundo ideal (de su mente, de un espíritudesencarnado -, o de un futuro que debe ser modelado según sus proyecciones ideales). El hombre es el señor incondicional y soberano del universo. Es superior a la naturaleza. (Panikkar, 1999a, p.56)" ([Sepúlveda Pizarro 2015:124](zotero://open-pdf/library/items/FD4XPIM8?page=124))
+
+##### Naturaleza como símbolo
+
+El viento sopla donde quiere, y oyes su sonido; pero no sabes de dónde viene ni a dónde va" (Juan 3:8)." ([Sepúlveda Pizarro 2015:97](zotero://open-pdf/library/items/FD4XPIM8?page=97))
+
+La realidad en tanto vida. Vida entendida como Zoe, no slo como bios, vida individual. 
+
+Panikkar nos abre a la experiencia del símbolo como realidad ontomítica y que constituye un postulado importante para una de las tesis de la presente investigación que concibe a la naturaleza como símbolo. Este planteamiento integra la realidad del mythos, logos y pneuma en inhabitación recíproca." ([Sepúlveda Pizarro 2015:17](zotero://open-pdf/library/items/FD4XPIM8?page=17))
+
+"la centralidad del pensamiento de Raimon Panikkar está en su concepción de la relación15 realidad como" ([Sepúlveda Pizarro 2015:18](zotero://open-pdf/library/items/FD4XPIM8?page=18))
+
+"pasar de un pensar sustancial a un pensar relacional, donde la relación tiene un status ontológico primario." ([Sepúlveda Pizarro 2015:18](zotero://open-pdf/library/items/FD4XPIM8?page=18))
+
+la centralidad del pensamiento de Raimon Panikkar está en su concepción de la relación15 realidad como" ([Sepúlveda Pizarro 2015:18](zotero://open-pdf/library/items/FD4XPIM8?page=18))
+
+"pasar de un pensar sustancial a un pensar relacional, donde la relación tiene un status ontológico primario." ([Sepúlveda Pizarro 2015:18](zotero://open-pdf/library/items/FD4XPIM8?page=18))
+
+"Cuarto, Panikkar propone un nuevo neologismo, Ecosofía, la sabiduría de la Tierra. Con kosmos16 este término, al igual que el de intuición cosmoteándrica, intenta recuperar el en la" ([Sepúlveda Pizarro 2015:18](zotero://open-pdf/library/items/FD4XPIM8?page=18))
+
+El desafío se plantea en superar aquellas visiones dominantes del conocimiento científico que disecciona y objetiviza a la naturaleza. Panikkar le otorgará un fundamento antropológico al dinamismo extático (amor) y entático (conocimiento), que hace del amor cognoscente la forma de conocer a la naturaleza." ([Sepúlveda Pizarro 2015:19](zotero://open-pdf/library/items/FD4XPIM8?page=19))
+
+"El capítulo seis, trata la relación del hombre con el kosmos (naturaleza), asumiendo que el conocimiento simbólico propuesto por nuestro autor nos lleva a comprender una relación constitutiva entre consciencia y naturaleza, muy diferente a la relación epistemológica moderna entre sujeto y objeto." ([Sepúlveda Pizarro 2015:20](zotero://open-pdf/library/items/FD4XPIM8?page=20))
+
+"Para Raimon Panikkar, el objeto del pensar filosófico en occidente ha sido la realidad, que muy a menudo se le ha identificado con el ser. En esta identificación está implícita la unidad pensar y ser, donde el pensar nos dice que es el ser y la realidad (hay una dirección del pensar al ser). No obstante, para Panikkar a la realidad se le escapa al logos." ([Sepúlveda Pizarro 2015:22](zotero://open-pdf/library/items/FD4XPIM8?page=22))
+
+"Para nuestro autor, occidente se ha acostumbrado de tal manera a la objetivación de la realidad que la pregunta siempre es formulada en tercera persona ¿qué es la realidad?, ¿qué es el ser?; a diferencia de algunas tradiciones orientales donde la pregunta se formula en primera persona ¿qué o quién soy?. La Upaniṣhad (Panikkar, 2012) pregunta: "Qué 18 es lo que, conociéndolo, permite conocerlo todo" (p.123), la respuesta es el quién conoce y no el conocedor conocido (que sería un conocedor objetivado)." ([Sepúlveda Pizarro 2015:22](zotero://open-pdf/library/items/FD4XPIM8?page=22))
+
+
+
+"En este sentido nuestra experiencia corporal nos hace ser consciente de que tocamos la realidad en un solo punto: "es la tangente de nuestra 'contingencia' (cum tangere)" (Ibid, p.89); y es "integral" si por esta palabra la entendemos en su origen etimológico: "integral proviene de in y de tangere (de la raíz teg), no tocado, intacto, no manipulado ni siquiera por la mente" (Ibid, p.40). Esto quiere decir, que en este toque nos identificamos con toda la realidad: "Por eso dijimos también 'experiencia integral', porque no la toca (in-tangere) ni por tanto necesita ningún órgano particular. No toca la realidad; somos ella, aunque en un punto tangencial sin dimensiones" (Ibid, p.88-89). Es por esta razón que no existe ni tocante ni tocado." ([Sepúlveda Pizarro 2015:55](zotero://open-pdf/library/items/FD4XPIM8?page=55))
+
+###### Ecosofía
+
+El pensamiento ecológico ha dado un avance significativo en su concepción de la realidad, dando inicio a un nuevo paradigma de la interdependencia, tal como lo describe Boff (1997): La ecología, al nivel de paradigma, implica una actitud básica: pensar siempre holísticamente, es decir, ver continuamente la totalidad, que no es la resultante de la suma de las partes, sino de la interdependencia orgánica de todos los elementos; con ello se supera el pensamiento meramente analítico, atomizado y no religado, propio de la modernidad. (p.60)" ([Sepúlveda Pizarro 2015:22](zotero://open-pdf/library/items/FD4XPIM8?page=22))
+
+Sin embargo, la dificultad del pensar la interdependencia radica en concebir la realidad como relación y no como sustancia, es decir, la relación como consciencia originaria y no como una "entidad" subsidiaria a todo ser individual." ([Sepúlveda Pizarro 2015:22](zotero://open-pdf/library/items/FD4XPIM8?page=22))
+
+"indagar en la concepción de la realidad como relación en Raimon Panikkar. Como veremos en nuestro autor, la pregunta por la realidad no sigue los caminos de investigación epistemológica de occidente. Una breve alusión a su forma de preguntar, nos ayuda a introducirnos en su pensamiento." ([Sepúlveda Pizarro 2015:22](zotero://open-pdf/library/items/FD4XPIM8?page=22))
+
+### Estado del Arte
+
+### Metodologías
+
+### Sistema de comunicación plantas sere humanos -Prototipo-
+
+"Si "Al principio existía la Palabra", el Principio es el Silencio, de donde nace la Palabra. La palabra re-vela cubriendo con su sonido al Silencio. En este sentido, el Silencio es ausencia de Palabra y desde un punto de vista lógico es "anterior", porque es lo que la hace posible" ([Sepúlveda Pizarro 2015:49](zotero://open-pdf/library/items/FD4XPIM8?page=49))
+
+"el ser verdadero es cuando deja de ser paramdarse a los demás." ([Sepúlveda Pizarro 2015:50](zotero://open-pdf/library/items/FD4XPIM8?page=50)) "Es decir, los seres son en su relación de inter-in-dependencia con los demás." ([Sepúlveda Pizarro 2015:50](zotero://open-pdf/library/items/FD4XPIM8?page=50))
+
+###  De la extracción a la siembra de datos 
 
  
 
