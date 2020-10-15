@@ -219,11 +219,7 @@ PANIKKAR, Ecosofía, o. c., 114.
 
 ###  Metodologías injertas: perspectivas del diseño para las humanidades digitales
 
-
-
-
-
-. ¿Qué hacer cuando una vez logrado el objetivo inicial de una investigación emergen aspectos problémicos? ¿Es posible que una tesis refute la tesis que la originó? ¿De qué manera relato, construyo, discuto y comparto las vicisitudes y los hallazgos de un proyecto? Pero sobre todo, ¿cómo llegué a saber más cosas sobre el problema de las relaciones seres humanos-plantas mediante la obervación, experimentación, análisis y reflexión de los prototipos logrados en el tiempo? 
+¿Qué hacer cuando una vez logrado el objetivo inicial de una investigación emergen aspectos problémicos? ¿Es posible que una tesis refute la tesis que la originó? ¿De qué manera relato, construyo, discuto y comparto las vicisitudes y los hallazgos de un proyecto? Pero sobre todo, ¿cómo llegué a saber más cosas sobre el problema de las relaciones seres humanos-plantas mediante la obervación, experimentación, análisis y reflexión de los prototipos logrados en el tiempo? 
 
 La pregunta de cómo investigué lo que investigué y sobre todo cómo llegué a refinar el problema me llevó a observar un modo particular en el hacer: investigar como diseño, investigar con diseño. La investigación como diseño es una propuesta que tiene sus orígenes en los años ochentas con las reflexiones que hizo en su momento Zeisel. El autor aborda los puntos en común entre diseñadores e investigadores a la hora de afrontar una situación a indagar o investigar. Allí, dice Zeisel (1984), ambos crean conceptos o imágenes, formulan hipótesis o presentan los conceptos y luegos los ponen a prueba. La investigación como diseño es en todo caso más que un paralelismo en los pasos o procesos para investigar de las ciencias. Es una ruta para pensar los problemas desde la creación de artefactos, prototipos (Dunne y Raby 2013). Es una manera de resolver los problemas (Gray y Malins 2004) o, una ruta para encontrarlos. Una ruta que involucra el pensamiento visual y práctico al pensamiento conceptual, del modo que lo hace la ingeniería, por ejemplo (Grand & Wiedmer, 2010). Los prototipos por lo tanto son una representación de las hipótesis que permiten desde sí mismos, comprender o -simular- las maneras como se comportan los problemas en una materialización. Es decir, pensamos con los prototipos y por ello, podemos hablar de sus funciones epistémicas.
 
@@ -366,7 +362,6 @@ El control de versiones Git permite registrar momentos en el tiempo de un proces
 
 Como se puede observar en el gráfico 8,  cuatro fueron los prototipos del proyecto: wiki semántica, app cofechas, mesa huerta y finalmente el lenguaje del botsque. En los primeros dos prototipos las plantas no fueron asumidas como actores o actantes en la contrucción del conocimiento sobre sí mismas, pese a intuir su protagonismo. El giro metodológico se concretó en un artefacto "La mesa huerta", que implicó la discusión de las infraestructuras, herramientas y postulados ontológicos de los dos prototipos anteriores. ¿Que son las plantas? ¿Como se representan en sistemas informáticos? ¿Cómo se dan y cuáles son las relaciones plantas-seres humanos? ¿De qué manera ellas contribuyen al conocimiento que de sí mismas se registra en un entorno colaborativo? Estas preguntas me permitieron problematizar las herramientas y metodologías así como los presupuestos que subyacen a ellas.
 
-<img src="https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-rutainvestiva-v2.png" style="zoom:300%;" />
 
 ![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-rutainvestiva-v2.png)
 
@@ -484,8 +479,6 @@ Hasta aquí  Inaturalis se presentaba como el software que podría incluir aspec
 ##  Milpaís: una wiki semántica para recuperar, compartir y construir colaborativamente las relaciones entre plantas, seres humanos, comunidades y entornos
 
 
-
-<img src="https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/poster-mipais-v2.png" style="zoom:10%;" />
 ![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/poster-mipais-v2.png)
 
 Milpaís [^12]
