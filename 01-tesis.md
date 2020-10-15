@@ -168,8 +168,9 @@ En este breve recorrido de la apuesta del diseño crítico y especulativo la pre
 
 No queda más que concluir con la importancia que tuvo conocer este diseño. Si bien dos de los prototipos de este proyecto están en el marco de este diseño, La mesa Huerta y El lenguaje del Botsque, el primer prototipo no estuvo dirigido conceptualmente desde este diseño. Es decir el modo de proceder nació espontáneamente en el marco del laboratorio de micro huertas en Plataforma Bogotá, dirigido por Mangle Rojo. Allí desarrollamos junto otros colegas proyecciones y posibilidades de pensar la vida vegetal y los modos de comunicación con ella. Unos meses después encontré en la oferta de la Universidad un curso de diseño especulativo que sin duda concretó y direccionó lo que habría de venir y es la reflexión misma de el diseño como investigación y la investigació como diseño en las Humaniades Digitales. 
 
-![Esquema de iteración](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-metodologia-003.jpeg)
+![Esquema de iteración](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-metodologia-003.jpeg)
 
+![]((https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-metodologia-003.jpeg)
 
 ##### Las raíces del problema
 
