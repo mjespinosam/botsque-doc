@@ -4,9 +4,17 @@
 
 
 
-Pero si Dios  es los árboles y las flores                                                                                                                             y los montes y la luz de la luna y el sol,                                                                                                                                          ¿para qué le llamo Dios?                                                                                                                                                    Le llamo flores y árboles y montes y luz de la luna;                                                                                               porque si él se hizo, para que yo lo vea,                                                                                                                          sol y luz de la luna y flores y árboles y montes,                                                                                                              si se me aparece en figura de árboles y montes                                                                                                              y luz de luna y sol y flores,                                                                                                                                                es que quiere que le conozca                                                                                                                                         como árboles y montes y flores y luz de luna y sol.
+Pero si Dios  es los árboles y las flores                                                                                                                            y los montes y la luz de la luna y el sol,                                                                                                                       ¿para qué le llamo Dios?                                                                                                                                          Le llamo flores y árboles y montes y luz de la luna;                              
+porque si él se hizo, para que yo lo vea,                                                                                                                          sol y luz de la luna y flores y árboles y montes,                        
+si se me aparece en figura de árboles y montes  
+y luz de luna y sol y flores,                                                                                                                                       es que quiere que le conozca                                                                                                                                       como árboles y montes y flores y luz de luna y sol.
 
 ​                                                                                                           _El guardador de rebaños. Fernando Pessoa_
+
+
+
+
+
 
 [TOC]
 
@@ -39,15 +47,9 @@ En el tercer capítulo: Mil país: Una wiki etnobotánica presento el prototipo 
 
 [^2]: Los estudios de las tecnologías tiene por objeto de estudio la tecnología y si bien da cuenta de las relaciones de los actores humanos y no humanos su objetivo no es pensar el problema mismo desde el uso o experimentación con la tecnología. Esta manera de investigar por medio del hacer con una tecnología está más cerca de las metodologías del diseño. 
 [^3]: Como elaboraré en la metodología esta perspectiva coincide con lo que los diseñadores han llamado "Investigación como diseño" (Simon, 2015).
-[^4]: En el 
-[^4]:La etnobotánica es la disciplina en la que confluyen la botánica y la antropología para aboradar las perspctivas de uso y aprovechamiento del entorno vegetal por parte de comunidades indígenas. Como disciplina nación en el siglo XIX y ha estado vinculada desde un inicio con la etnofarmacología. El interés como disciplina se ha enfocado en la capitalización de los saberes tradicionales por parte de farmacéuticas e industrias quienes la mayor parte se benefician de estos saberes para emprender investigaciones, crear fármacos. Una perspectiva más humanista de estas disciplinas busca descentran la nocion de la naturaleza como un objeto suceptible de explotación para pensarlo como una participante de la vida de las comunidades. Ver Zuluaga 2008 **Verificar definiciones y buscar la bibliografía
-[^5]:  Lo no humano en las humanidades se desarrollará en el apartado II. La filosofía permite un marco para el reconocimiento ontológico a lo vegetal (Ver: Michael Marder),  la antropología un abordaje de la construcción de realidad, sentido y comunicación con lo no humano (Ver :Latour (2014), Kohn (2013)) y la biología una expansión de sus preguntas sobre inteligencia y comunicación vegetal (Ver Gagliano (2017), Mancuso (2015) ↩
-
-
-
-
-
-
+[^5]: En el 
+[^6]:La etnobotánica es la disciplina en la que confluyen la botánica y la antropología para aboradar las perspctivas de uso y aprovechamiento del entorno vegetal por parte de comunidades indígenas. Como disciplina nación en el siglo XIX y ha estado vinculada desde un inicio con la etnofarmacología. El interés como disciplina se ha enfocado en la capitalización de los saberes tradicionales por parte de farmacéuticas e industrias quienes la mayor parte se benefician de estos saberes para emprender investigaciones, crear fármacos. Una perspectiva más humanista de estas disciplinas busca descentran la nocion de la naturaleza como un objeto suceptible de explotación para pensarlo como una participante de la vida de las comunidades. Ver Zuluaga 2008 **Verificar definiciones y buscar la bibliografía
+[^7]:  Lo no humano en las humanidades se desarrollará en el apartado II. La filosofía permite un marco para el reconocimiento ontológico a lo vegetal (Ver: Michael Marder),  la antropología un abordaje de la construcción de realidad, sentido y comunicación con lo no humano (Ver :Latour (2014), Kohn (2013)) y la biología una expansión de sus preguntas sobre inteligencia y comunicación vegetal (Ver Gagliano (2017), Mancuso (2015) ↩
 
 
 
@@ -112,12 +114,11 @@ La postulación de un pensamiento vegetal coincide con la teoría semiótica de 
 
 > Una de las fortalezas de la semiótica peirceana, y uno de sus mayores atractivos, es dejar la noción de "cuasi-mente" o contexto de interpretación, donde se efectúa la semiosis. Al liberar los contextos de interpretación [cuasi-mentes] de los matices sicologicistas de la mente humana,  y al permitir "cuasi mentes" arbitrarias, la semiótica peirceana adquiere un rango muy amplio de universalidad. Ya que la "cuasi-mente" puede ser medio protoplasmático ene le que la seimiosis  se constituye  en un proceso de crecimiento y asimilación de materiela en un vaivén entre licuefacción y cohesión 
 
-Para Peirce igual que para Panikkar la realidad es tripartita. Y el signo es la relación entre un representamen un objeto y un interpretan. El representamente es algo que está por algo [ un objeto que puede ser una idea, artefacto, suceso] para alguien el interpretante. Este interpretante como cuasi-mente no es necesariamente una mente humana y desde allí pueden producirse nuevos signos pues todo signo es antecedido por un signo. En palabras de Pierce "la relación triádica es genuina, esto es, sus tres miembros están vinculados por ella de una forma que no consiste en ningún complejo de relaciones diádicas" Tres son los signos segú Peirce:  íconos, índices y símbolos que serán desarrollados más adelante. 
+Para Peirce igual que para Panikkar la realidad es tripartita. Y el signo es la relación entre un representamen un objeto y un interpretan. El representamente es algo que está por algo [un objeto que puede ser una idea, artefacto, suceso] para alguien el interpretante. Este interpretante como cuasi-mente no es necesariamente una mente humana y desde allí pueden producirse nuevos signos pues todo signo es antecedido por un signo. En palabras de Pierce "la relación triádica es genuina, esto es, sus tres miembros están vinculados por ella de una forma que no consiste en ningún complejo de relaciones diádicas" Tres son los signos segú Peirce:  íconos, índices y símbolos que serán desarrollados más adelante. 
 
 Retomando la idea de las plantas como pensante Marder retoma a Husserl y su elaboración de la intención  como marca de existencia. Esta idea lo lleva a proponer que tanto humanos como plantas comparten esa intencionalidad prereflexiva y que por lo tanto, otorga a lo no humano existencia y agencia: "las existencias no humanas también tienen sus correspondientes intencionalidades, en algunos casos intersectando o subyaciendo al comportamiento inconsciente de otros cuerpos vivos".Y eso, ya lo he anotado,  es objeto de las investigaciones controladas en laboratorio y también en espacions abiertos, sobre pensamiento y comunicación en las plantas. Sabemos ya que entre plantas hay comunicación que se da tanto por vía del a emisión de compuestos orgánicos volátiles (COV) mediante las cuales advierten a otras plantas de peligros inminentes para que se preparen pese a que la distancia es limitada. Los COV son utlizados para atraer polinizadores, asegurar la reproducción y dar mensales de emergencia como solidaridad con las de su misma especie. Una acción de alerta que también ocurre cuando aparecen herbíboros y a quienes según la literatura científica las plantas escuchan a escondidas: "Para preparar una defensa contra los generalista las plantas escuchan al herbívoro" (Ueda et al., 2012, p.224). 
 
 A esta capacidad de comunicar y la de su memoria se inscribe la del aprendizaje. Las plantas nos cuenta Gagliano, una bióloga especializada en el pensamiento de las plantas que hasta hace muy poco la ciencia se  ocupó del aprendizaje asociativo vegetal. Es decir el aprendizaje que ocurre a partir de un experiencia repetida de un mismo estímulo o suceso. Las plantas aprenden asociativamente con fines ecológicos que van desde buscar comida hasta cuidarse de los peligros que por el suelo o por el aire las acechan: "un estudio de 2014 demostró que las plantas pueden detectar el sonido de las orugas que se alimanetas y las causadas por viento o por insectos cantores" (Gagliano, 2017, p.2). Señales acústicas que refuerzan la eficacia de otros sistemas de señalización de las plantas como las de los COV. Esto llevó a la investigadora a insinuar que las planas tienen conciencia y subjetividad. Todo el proceso de evaluación que realiza la planta la lleva a utilizar "sus propias experiencias y y sentimientos como estados funcionales que motivan sus elecciones". En cuanto a la conciencia la investigadora aboga por una conciencia básica que se logró a través del aprendizaje asociativo y de los sistemas de valores. Marder no aborda la conciencia en los términos de Gagliano sino que habla es de la intención  y trata de la no -indentidad de la planta, que plantea más la intersubjetividad que la subjetividad en las plantas. Sin embargo, tanto la filosofía como la biología y la semiótica coinciden en que el pensamiento no se da en una mente humana y que el aprendizaje y la comunicación también se puede dar en las plantas. 
-
 
 
  ##### ¿Hablan las plantas? ¿Escuchamos a las plantas? Apuntes para pensar la comunicación interespecie
@@ -127,8 +128,6 @@ A esta capacidad de comunicar y la de su memoria se inscribe la del aprendizaje.
 En Panikkar encontramos la alusión a la escucha como parte del encuentro con el conocimiento en la triada ser, hablar, pensar. El logos es la palabra escuchada antes que hablada. Antes de pensar se escucha. En su trabajo sobre la relación del ser humano y la naturaleza: una experiencia integral de vida Jéssica Sepúlveda elabora esta idea de Panikkar:
 
 > "si la naturaleza habla, no quiere indicar que ella tenga lenguaje propiamente como el ser humano, y que se produzca un diálogo entre ambos. La relación es de otro nivel: la naturaleza habla, es símbolo de la realidad cosmoteándrica; donde el hombre participa de su habla, escuchándola, y siendo su intérprete, si sabe escucharla. Esta afirmación requiere desentenderse de la visión causal entre hablar y escuchar. (138)
-
-
 
 Por lo tanto, la experiencia de la escucha es la puerta para el conocimiento de las plantas y para poder tener una relación con ellas:  “[...]el que habla es el hombre y la naturaleza a través del hombre cuando el hombre no se desentiende de ella y sabe ser su voz en vez de querer ser el dominador” (Pánikkar 2011 citado por Sepúlveda, p.143). Y ¿Cómo escucharla?
 
@@ -169,7 +168,8 @@ En este breve recorrido de la apuesta del diseño crítico y especulativo la pre
 
 No queda más que concluir con la importancia que tuvo conocer este diseño. Si bien dos de los prototipos de este proyecto están en el marco de este diseño, La mesa Huerta y El lenguaje del Botsque, el primer prototipo no estuvo dirigido conceptualmente desde este diseño. Es decir el modo de proceder nació espontáneamente en el marco del laboratorio de micro huertas en Plataforma Bogotá, dirigido por Mangle Rojo. Allí desarrollamos junto otros colegas proyecciones y posibilidades de pensar la vida vegetal y los modos de comunicación con ella. Unos meses después encontré en la oferta de la Universidad un curso de diseño especulativo que sin duda concretó y direccionó lo que habría de venir y es la reflexión misma de el diseño como investigación y la investigació como diseño en las Humaniades Digitales. 
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-metodologia-003.jpeg)
+![Esquema de iteración](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-metodologia-003.jpeg)
+
 
 ##### Las raíces del problema
 
@@ -245,7 +245,7 @@ La traducción en la TAR proviene de la conceptulización de Callón. Para este 
 
 En las humanidades es usual que nuevas categorías aparezcan en el curso del desarrollo de la investigación. Generalmente se parte con unas categorías predeterminadas y aparecen nuevas categorías metodológicas o conceptuales en la medida que se expande el corpus teórico y se analizan datos (Rico de Alonso, 2005). Sin embargo, no es usual, ni metodológicamente deseable, que el problema cambie en el transcurso de la investigación. El problema responde a la identificación de vacios del conocimiento y su investigación tiene por objeto comprender, explicar y ampliar los conocimientos. Sin embargo, en esta investigación desde las Humanidades Digitales (HD) el problema fue un problema. Las rutas metodológicas de diseño de investigación de las humanidades, excepto los estudios culturales o la etnohistoria [^5] , no piensan en la confluencia de disciplinas para el abordaje de los problemas si bien en muchas investigaciones confluyen varias disciplinas. Por ello es usual que las investigadoras encontremos tensiones metodológicas antes los vacios del saber y el saber hacer en diversas disciplinas. Así, en esta investigación, como suele suceder en el diseño y en las artes, el problema tomó diversas materialidades -prototipos- y la investigación misma se encaminó a construir el problema interdisciplinariamente [6^]. Por lo tanto, el acotamiento del problema y su matertialización en un prototipo es el resultado de la investigación misma. Un recorrido que aporta a las discusiones de la investigación como diseño (Grand, 2010; Jonas, 2010), una metodología que fue determinante para todo el proceso (ver gráfico 4). Pero, ¿qué es investigar como diseño?
 
-![Esquema problema de investigación](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu_problema_21.png)
+![Esquema problema de investigación](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu_problema_21.png)
 
 Gráfico 4. Los prototipos en la investigación en Humanidades Digitales 
 
@@ -270,7 +270,7 @@ Por refinar me refiero al esclarecimiento o descubirmiento de los problemas suby
 1. Resolución por pensamiento lateral. Es decir el despliegue de todas las opciones posibles para resolver el problema sin apelar a la  lógica ni a la linealidad. Y esto como procesos de ideación. 
 2. Resolución heurística de problemas es decir la utilización de reglas empíricas para llegar a una solución. Según Polya intervienen cuatro operaciones 1- entender el problema, 2- trazar el plan, 3- ejecutar el plan (resolver) 4- revisar. Este proceso, anota Juan Carlos López García  en su texto *Algoritmos y programaicón. Guía para docentes.* (2009 no es un proceso lineal sino dinámico y cíclico (Ver: gráfico 5)
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-resolucionheuristica-v1.png)
+![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-resolucionheuristica-v1.png)
 
 Gráfico 5: Interpretacion dinámica y cíclica de las etapas propuesta por Polya.
 
@@ -280,7 +280,7 @@ Gráfico 5: Interpretacion dinámica y cíclica de las etapas propuesta por Poly
 
 Cabe anotar que estos modos de resolución de problemas estuvieron muy relacionados con las metodologías de Soft System las cuales se derivan de los sistemas de información sobre todo basados en computadoras. Estos sistemas buscan mejorar una situación problémica aprendiendo del procesos de resolución del problema mismo desde una visión sistémica. Esta visión holística del problema permite ver el problema como un todo. Para ello se usan técnicas visuales de mapeo como gráficos, diagramas, ilustraciones, animaciones, etc. ([Gray and Malins 2004:92](zotero://open-pdf/library/items/GL9D93DZ?page=92)). 
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-resolucionprobl-v3.png)
+![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-resolucionprobl-v3.png)
 
 Gráfico 6: Esquema del proceso de resolución de problemas.
 
@@ -328,7 +328,8 @@ Tanto la retrospección como la prospección son acciones involucradas en la doc
 
 Como ejercicio documental revisé todos los apuntes, diagramas, esquemas e informes para dar cuenta del proceso. Este proceso descriptivo de las prácticas que realicé en las diferentes fases del proyecto lo abordo desde el enfoque “tecno-etnográfico” que resulta de la lectura de Latour y perspectiva de la Antropología de la ciencia. El abordaje “técno—auto-etnográfico” implicó ejercicios de revisión y tamizase de información. Al respecto, opté por esquematizar los momentos de manera gráfica y análoga ( Imagen 1), como ejercicio de síntesis de los diferentes momentos, actores e insumos con los que fui desarrollando cada momento de la investigación. Un ejercicio para reconocer lo que Latour denomina las masas perdidas o inviables que más adelante sería apoyada por Git el sistema de control de cambios. 
 
-<img src="/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/esque-proceso-analogo.png" style="zoom:250%;" />
+![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/esque-proceso-analogo.png)
+
 
 Imágen 1: Esquema análogo de momentos de la investigación. 
 
@@ -346,7 +347,7 @@ Imágen 1: Esquema análogo de momentos de la investigación.
 
 Ver grafico 7.
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu_git_v1.png)
+![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu_git_v1.png)
 
 
 
@@ -365,13 +366,15 @@ El control de versiones Git permite registrar momentos en el tiempo de un proces
 
 Como se puede observar en el gráfico 8,  cuatro fueron los prototipos del proyecto: wiki semántica, app cofechas, mesa huerta y finalmente el lenguaje del botsque. En los primeros dos prototipos las plantas no fueron asumidas como actores o actantes en la contrucción del conocimiento sobre sí mismas, pese a intuir su protagonismo. El giro metodológico se concretó en un artefacto "La mesa huerta", que implicó la discusión de las infraestructuras, herramientas y postulados ontológicos de los dos prototipos anteriores. ¿Que son las plantas? ¿Como se representan en sistemas informáticos? ¿Cómo se dan y cuáles son las relaciones plantas-seres humanos? ¿De qué manera ellas contribuyen al conocimiento que de sí mismas se registra en un entorno colaborativo? Estas preguntas me permitieron problematizar las herramientas y metodologías así como los presupuestos que subyacen a ellas.
 
-<img src="/Users/juanaespinosa/tesis/001-tesis- git/esquemas/esqu-rutainvestiva-v2.png" style="zoom:300%;" />
+<img src="https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-rutainvestiva-v2.png" style="zoom:300%;" />
+
+![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-rutainvestiva-v2.png)
 
 Gráfico 8: Esquema ruta investigativa.
 
 El seguimiento en Git se realiza desde la terminal, con el uso de comandos específicos que permiten además conectarse remotamente con una copia de respaldo en Github. Github es un repositorio remoto que visualiza los procesos de control de versiones y permite trabajar colaborativamente en un proyecto de software o en este caso, para la discusión y refinamiento de ideas y problemas de un proyecto de investigación. Desde Github entonces, se completa la documentación de los prototipos y la escritura de la tesis. En el repositorio [Botsque-documento](https://github.com/mjespinosam/botsque-doc) está el control de versiones de la escritura de la tesis y como un submódulo anidado está el repositorio [ruta-metodológica](https://github.com/mjespinosam/ruta-metodologia). Los submódulos es una función de Git para tener en un repositorio otro repositorio de referencia conservando control de versiones separados. En el repositorio principal se pueden consultar los "issues" un espacio en el que trabajamos las discusiones del proceso concpetual, técnico y de escritura de la tesis. En el submódulo se encuentra la [Wiki](https://github.com/mjespinosam/ruta-metodologia/wiki), espacio en el que quedan detallados cada uno de los referentes del proyecto según unas categorías de análisis y los protocolos de los prototipos (ver: gráfico 9). Finalmente en el [readme.md](https://github.com/mjespinosam/botsque-doc/blob/master/readme.md)se presenta el proyecto y en la pestaña insights/networks se registran las rutas de los commits. Todo esto permite simular en la plataforma un trabajo de desarrollo de código pero con un desarrollo de la tesis. 
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-marcoreferentes-v1.png)
+![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-marcoreferentes-v1.png)
 
 Gráfico 9. Marco analítico de referentes para los prototipos de la investigación. María 
 
@@ -387,7 +390,7 @@ Las dos primeras se dan en diálogo con las ciencias y las humanidades y fueron 
 
 Los proyectos en HD suelen desarrollar o implementar herramientas digitales para poder explorar campos difícilmente abordables a través de la estructuración y análisis manuales de la información. Arqueología, lingüística (computacional) estudios literarios, sociología, entre otras áreas, han impulsado el desarrollo o la implementación de herramientas digitales que permiten trabajar con un corpus considerable y así, reconocer hipótesis de trabajo, hacer hallazgos. Bases de datos, exposiciones virtuales, visualización, geo-referenciación, mapeo, corpus lingüísticos, ocurrencia de palabras y contextos de uso, referencias textuales, análisis figurativos-semióticos de pictogramas, jeroglíficos, etc, son algunas de los resultados de estas implementaciones o desarrollos que son en alguna manera herramientas de recolección, organización y análisis de datos. Desde allí es claro emergen hipótesis y es posible hacer lecturas que difícilmente se podrían hacer por metodologías fenomenológicas. Esta perspectiva tiende más al racionalismo y dialoga con los métodos de las ciencias duras, metodologías cuantitativas. Trabajo de laboratorio, prueba de hipótesis y experimentaciones a partir de diseño de protocolos. 
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-metodologia-007.jpeg)
+![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-metodologia-007.jpeg)
 
 ￼
 Grafíco 10. Creación  propia.
@@ -408,7 +411,9 @@ En esta investigación este modelo ha sido utilizado en diversos momentos. Sobre
 
 Estos requerimientos implicaban que debía aprender de la estructuración de información, el conocimiento de las bases de datos y las posibilidad de las plataformas wiki. En su momento este saber era rudimentario así que desde el Laboratorio de HD empecé por pequeños experimentos en Omeka, guiados por Camilo Martínez. [Omeka](https://omeka.org/about/project/) es un software libre creado por  el Centro de Historia y Nueva Media Roy Rosenzweig para la admnistración y y gestión de colecciones de objetos digitales[^8]  para museos, archivos y bibliotecas. En este software, propuesto por la maestría como herramienta para experimientos, fue la primera vez que noté las dificultades para definir las plantas en un entorno digital. En ese entonces estaba frente al dilema de cómo crear una "planta" en Omeka:  ¿Podía capturar o crear digitalmente una planta como se hace en un proceso de digitalización desde un soporte análogo o en la creación de un libro, imagen, sonido digital? Para poder hacer un proceso análogo debía en principio crear la planta como un item en Omeka. Los items types en este software se corresponden a las entidades en las bases de datos. Es decir "cualquier objeto (real o abstracto) sobre el cual queremos tener información en la base de datos" (Conabio, s.f). En esta plataforma las entidades estan pensadas por tipos -types- que se corresponden a tipos de documentos digitales (textos, sonidos, imágenes, representaciones visuales) o digitalizados (libros, fotografías, música, etc.), recursos (páginas web, historia oral, eventos), individuos (personas), entre otras entidades. Fue así que creé "Planta" como un item que además decribí como "individuo". (Ver: imagen 2)
 
-<img src="/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/img-item-planta.png" style="zoom:150%;" />
+<img src=" https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/img-item-planta.png" style="zoom:150%;"/>
+
+![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/img-item-planta.png)
 
 Imagen 2: creación de la entidad "planta" en Omeka.
 
@@ -430,7 +435,7 @@ El segundo modelo de metodología responde más a proyectos que trabajan factual
 
 
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-metodologia-001.jpeg)￼
+![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-metodologia-001.jpeg)￼
 
 Gráfico 11. Creación propia.
 
@@ -452,7 +457,7 @@ A partir de los experimentos en Omeka la necesidad de trabajar con una plataform
 
 Si bien esos eran sus propósitos era clato que aún no tenía una comunidad que la alimentara y no contaban con un sistema de curaduría que permitiera verificar la calidad y pertinencia de la información dispuesta allí. Dos de los problemas que tienen por lo general todos los sistemas colaborativos pues responsabilidad generalmente recae sobre unos cuantos. En conversaciones con quien en su momento era el gerente de proyectos de CEMI, Iván Sarmiento, establecí algunos compromisos frente al proyecto que en principio declaraban que mis intereses no eran económicos, que toda la información y  la Base de Datos era propiedad de la organización y que mi aporte estaría en el marco de una recomendación. El análisis de esta BD requirió de la lectura de los términos y condiciones y la conversación con la abogada experta en propiedad intelectual y conocimientos tradicionales Cristina Matiz Mejía. A partir de las conversaciones que tuve con ellos empecé a conocer las discusiones sobre propiedad intelectual y conocimientos tradicionales y de paso empecé a conocer  las bibliotecas digitales que trabajaban temas etnobotánicos, las aplicaciones que en colombia abordaban este tema y otros sistemas colaborativos. (Ver: gráfico 13)
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-referentes-2017/esqu-referentes-2017.001.jpeg)
+![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-referentes-2017/esqu-referentes-2017.001.jpeg)
 
 Gráfico 13. Primeros referentes y fuentes indagadas para el proyecto. Marzo de 2017.
 
@@ -460,7 +465,7 @@ Gráfico 13. Primeros referentes y fuentes indagadas para el proyecto. Marzo de 
 
 Ver [Observación inaturalist](https://www.inaturalist.org/observations/20189776)
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-referentes-v1.png)
+![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-referentes-v1.png)
 
 
 
@@ -480,7 +485,8 @@ Hasta aquí  Inaturalis se presentaba como el software que podría incluir aspec
 
 
 
-<img src="/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/poster-mipais-v2.png" style="zoom:10%;" />
+<img src="https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/poster-mipais-v2.png" style="zoom:10%;" />
+![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/poster-mipais-v2.png)
 
 Milpaís [^12]
 
@@ -556,7 +562,7 @@ Los metadatos en particular, como instrumentos de captura de información, de es
 
 El punto aquí no es su negación o llamar al desuso, si no la posibilidad de que confluyan estándares con metadatos propios y que esto posibilite la negociación entre diferentes ontologías (Verran et al. 2007) o espacios de reinvidicaión de lugares de la no existencia (Santos 2006), eso que no es lo culto, ni lo estándar, ni lo aprobado por un sector, en este caso los sistemas de información. Es decir, un espacio digital en el que puedan convivir diferentes modelos de metadatos estandarizados con otros que no lo son pero que son pertinentes localmente. Igualmente se puede recurrir a entornos que no condicionen el conocimiento ni la experiencia de los usuarios, con su conocimiento y con la experiencia de la interfaz a formularios, etiquetas predefinidas. Este es el caso de TAMI (Texto Audio, Video e Imagen), sistema de administración de archivos para una comunidad indígena, que se pensó por investigadores bajo la premisa de ontologías fluidas en la que cada usuario decide qué metadatos definir, como agrupar y qué compartir o no (IKRMNA - Making Collective Memory with Computers n.d.) (Ver: imagen 3)
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/TAMI-gestor.png)
+![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/TAMI-gestor.png)
 
 
 
@@ -582,15 +588,17 @@ Nota de Camilo:  Relacionado a lo CCTT y lo de Australia <!-- Aquí hay un a dis
 
  
 
-[Cofechas](/Users/juanaespinosa/Tesis/001-tesis- git/Cofechas/index.html)
+[Cofechas](https://github.com/mjespinosam/botsque-doc/blob/master/Cofechas/index.html)
 
 
 
 
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/cofechas-logo-v1.png)
+![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/cofechas-logo-v1.png)
 
-<img src="/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esque-cofechas-v1.png" style="zoom:150%;" />
+<img src="https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esque-cofechas-v1.png" style="zoom:150%;" />
+
+![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esque-cofechas-v1.png)
 
 
 
@@ -610,7 +618,7 @@ Nota de Camilo:  Relacionado a lo CCTT y lo de Australia <!-- Aquí hay un a dis
 
 #### Prototipar para pensar los problemas en HD
 
-![img](file:///Users/juanaespinosa/Tesis/001-tesis-%20git/esquemas/esqu-metodologia-002.jpeg?lastModify=1598650040)
+![img](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-metodologia-002.jpeg)
 
 Gráfico 12
 
@@ -623,7 +631,7 @@ Figura 8. Creación propia
 
 ###### La mesa huerta: un prototipo especulativo
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/mesa-huerta-6.jpg)
+![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/mesa-huerta-6.jpg)
 
 
 
