@@ -24,7 +24,7 @@ Las imágenes que tengo en mi archivo .md no quedan en el archivo .md de Github 
 
 
 
-
+ventiundiasdeamor
 
 **Objetivos**: 
 
@@ -41,6 +41,12 @@ La ruta para adjuntar en marcdown es: []! () 1[Nombre de la imagen] https://gith
 Es decir Github+usuario+repositorio+blob+master+carpeta+nombre de archivo
 
 ![prueba](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/Esque-metod-003-1.png)
+
+Hice el cambio y no hubo problemas. En todo caso solo se ve en Git por lo que decidí
+
+Dejar el vínculo de la imagen en el archivo .md del equipo y vincular en git con la ruta de la carpeta git. 
+
+También leí esto [Vincular imagenes](https://www.disturbancesinthewash.net/journal/2012/8/11/how-to-add-an-image-with-link-in-markdown.html)
 
 
 

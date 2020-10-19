@@ -1,0 +1,4 @@
+Pulso;Rango;Color;Velocidad aparición imagen;Sonido;Velocidad aparición sonido;Nombramiento
+Lenta;Frecuencia cardiaca -80;Azul;Lento;Corazón-azul-lento;Lento;sonido-azul-lento.wav
+Normal;Frecuencia cardiaca entre  80-100 latidos;Azul;Normal;Corazón-azul-normal;Normal;sonido-azul-normal.wav
+Rápida;Frecuencia cardiaca entre 100 y más latidos;Azul;Rápido;Corazón-azul-rápido;Rápido;sonido-azul-rapido.wav

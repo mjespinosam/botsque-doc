@@ -1,0 +1,4 @@
+Electricidad;Rango;Color;Velocidad aparición imagen;Sonido;Velocidad aparición sonido;Nombramiento
+Baja;1- en adelante;Azul;Lento;Sonido-azul-eléctrico;Lento;sonido-azul-lento.wav
+Media;Más electricidad;Azul;Más rápido;Sonido-azul-eléctrico;Normal;sonido-azul-normal.wav
+Alta;Más electricidad;Azul;Más rápido;Sonido-azul-eléctrico;Rápido;sonido-azul-rapido.wav
