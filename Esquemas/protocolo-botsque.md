@@ -72,7 +72,7 @@ Comunicación postsimbólica: Por ejemplo, en lugar de decir "Tengo hambre; vaya
 
 Los humanos pensamos mucho en nosotros mismos como especie; tenemos la tendencia a suponer que la forma en que pensamos es la única forma de pensar. Quizás necesitemos pensar de nuevo.
 
-Referentes
+**Referentes**
 
 [Pulsum Plantae](http://interspecifics.cc/work/pulsum-plantae-2012/) (2011-2014)
 
@@ -143,9 +143,14 @@ https://www.musicoftheplants.com/es/#eluid0e42bc3a
 6. Conctrucción conversacional del bot
 
 1. Registre a las personas y las plantas
+
 2. Propiciar estados de contemplación y escucha entre plantas y personas
+
 3. Vincular personas con plantas similares y permitirles escuchar y hablar sobre ellas en salas alternas
+
 4. Recuperar conocimiento de lo que se ha hablado sobre las plantas y sobre lo que las plantas han enseñado a las personas
+
+   
 
 3. Fujo de conversación
 
@@ -219,15 +224,9 @@ Acciones
 
 /Ver tu planta
 
-
-
-
-
 **Resultados y análisis** Resultados obtenidos del procedimiento junto a esquemas, tablas o soportes ( capturas de pantalla, videos, etc) que den cuenta de los resultados. 
 
 **Ideas emergentes**: conclusiones e ideas que emergen del proceso
-
-**Referencias**: normas APA. 
 
 _____
 
