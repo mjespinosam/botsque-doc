@@ -1,4 +1,0 @@
-Luz;Rango;Color;Sonido;Fecuencia sonido;Nombramiento
-Poca;Luz indirecta - 6 horas;Naranja;Sonido-luz-naranja;6 x minuto;sonido-naranja.wav
-Suficiente;Luz directa + 6 horas;Verde;Sonido-luz-verde;12 por minuto;sonido-verde.wav
-Insuficiente;Sin luz;Negro;Sin sonido;;
