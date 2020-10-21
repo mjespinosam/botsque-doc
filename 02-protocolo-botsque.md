@@ -197,19 +197,55 @@ El primer día que @nika instala la infraestructura y se registra hace dos cosas
 
 #### Escenario 1
 
-@bitsque le notifica que el día
+Notificaciones del bot
+
+@botsque le notifica 
+
+Botsque notifica las conversaciones del dia
+
+Malestar en albahaca
+
+Ortiga y sus usos en huertas y remedios
+
+Suculentas para interior
+
+@Nika revisa las conversaciones. Se interesa por la de la ortiga
+
+En la pantalla se ve toda la conversación del día
+
+@Nika da volver. @Botsque le pregunta ¿Quieres conocer más sobre la ortiga? Si--No
+
+Al dar si es posible: 
+
+Escuchar las ortigas de la comunidad y ver sus colores e imágenes
+
+Revisar los parámetros de bienestar de cada ortiga según el lugar donde está
+
+Revisar temas de los que se han hablado sobre la ortiga
+
+Revisar las imágenes de las ortigas
+
+Leer conversaciones
+
+Hacer preguntas a las personas que hablan sobre las ortigas específicamente. [Digamos que como ya se sabe quién tiene estas plantas, les llega a ellos una notificación. Alguien está preguntando sobre mis plantas, sus conocimientos y los mios.]
+
+Hacer preguntas a toda la comunidad
 
 #### Escenario 2 
 
-@botsque hablar ella con su planta
+Escuchar a la planta
 
+Encender el sistema de cosechamiento de datos planta seres humanos
 
+Escuchar
 
-#### Escenario 3
+Al finalizar recibe una notificación. Tu cosechamiento ha sido compartido en la comunidad. ¿Quisieras sembrar algún conocimiento? [Se siembra conocimiento si hay la personas escuchó algo que quisera compartir con la comunidad]
 
- Cosecha datos, siembra conocimiento
+si
 
+[Has pasado días y la planta no se siente mal si no le doy agua. Suena bien aunque la apariencia de la tierra sigue estando seca]
 
+¿Quieres conversar sobre este conocimiento que sembraste? [ En la aplicación se notifica que alguien sembró un conocimiento]
 
 **Resultados y análisis** Resultados obtenidos del procedimiento junto a esquemas, tablas o soportes ( capturas de pantalla, videos, etc) que den cuenta de los resultados. 
 
