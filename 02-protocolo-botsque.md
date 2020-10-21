@@ -100,6 +100,8 @@ https://www.instagram.com/p/CGT4hn9HlNj/?igshid=18bjt9h5fqemn
 
 https://www.musicoftheplants.com/es/#eluid0e42bc3a
 
+**FOAF **
+
 
 
 **Descripción del procedimiento**: 
@@ -165,9 +167,19 @@ https://elmau.net/posts/mi-primer-bot-en-telegram-con-python/
 
 ## Descripción del sistema
 
+**Principios**
+
+El lenguaje del botsque no impone ontologías para el conocimiento de las plantas. Las entidades a partir de las cuales se estructura la información: persona, planta, lugar, nombre común y nombre científico, solo son entidades para el relacionamiento entre seres humanos y no humanos y conocimientos. 
+
+En el lenguaje del botsque se desconoce la minería de datos y en cambio se propone la siembra y cosechamiento de datos y conocimiento. 
+
+El lenguaje del botsque reconoce el saber sobre las plantas como bien común de todos los seres humanos y no humanos. No es un saber expropiable y el acceso al mismo se debe hacer de manera respetuosa y ética. 
+
+La relación de los humanos con las plantas se constituye como una puerta para el conocimiento de la vida y otras formas de pensamiento y aprendizaje aún poco exploradas y comprendidas por los modelos occidentales. El lenguaje es entonces una posibilidad para pensar y sentir esos modos de conocer y ser conocido.
 
 
-**Usuarios**  Personas que tienen acceso a la tecnología: personas que viven con plantas, personas que trabajan en el campo, personas que hacen medicina con plantas, personas que estudian las plantas, personas que siembran en sus casas.
+
+**Usuarios**  Personas que tienen acceso a la tecnología: personas que viven con plantas, personas que trabajan en el campo, personas que se relacionan con las plantas desde la salud y la medicina, personas que estudian las plantas, personas que siembran en sus casas.
 
 **Característica usuario**: tienen relaciones o que quieren tener relaciones con las plantas con las que conviven en su casa o en su territorio.
 
@@ -195,57 +207,47 @@ El primer día que @nika instala la infraestructura y se registra hace dos cosas
 
 @botsque_bot cada día le notifica temas de los que se han estado hablando y en especial si hay temas sobre su planta amiga, que es su interés específico aunque en general le gustaría conocer sobre otras plantas.Entonces entra a leer otros temas sobre todo de las plantas que dan fruto. ¿Podría cultivar en la casa ? se pregunta . En el sistema ella puede ir a esas conversaciones puntuales e ir conociendo lo que otras personas han aprendido de las plantas y lo que las plantas les han enseñado. 
 
-#### Escenario 1
 
-Notificaciones del bot
 
-@botsque le notifica 
+#### ¿Quién es @botsque_bot?
 
-Botsque notifica las conversaciones del dia
+@Botsque_bot es un bot bibliotecario que media en el aprendizaje entre las plantas y los seres humanos. Este bot aprende de la comunidad y es el gran referencista que al "escuchar" las conversaciones permite a quien le pregunta
 
-Malestar en albahaca
+Recuperar temas de las conversaciones 
 
-Ortiga y sus usos en huertas y remedios
+Organizar los temas y las imágenes
 
-Suculentas para interior
+Identificar patrones comunes en los sonidos de las plantas
 
-@Nika revisa las conversaciones. Se interesa por la de la ortiga
+Ver la actividad de plantas y personas según sus lugares
 
-En la pantalla se ve toda la conversación del día
+Notificar cuáles han sido los temas de cada día
 
-@Nika da volver. @Botsque le pregunta ¿Quieres conocer más sobre la ortiga? Si--No
+Notificar las plantas y las personas que están pasando por un momento de malestar y activar la conversación
 
-Al dar si es posible: 
+Enviar notificaciones personalizadas 
 
-Escuchar las ortigas de la comunidad y ver sus colores e imágenes
+Notificar a la comunidad cuando nuevo conocimiento se "siembre"
 
-Revisar los parámetros de bienestar de cada ortiga según el lugar donde está
+Vincular personas  y plantas con saberes e intereses comunes en conversaciones activadas por un usuario
 
-Revisar temas de los que se han hablado sobre la ortiga
+Limpiar y compilar las conversaciones para poder entregarlas como un archivo de lectura personal
 
-Revisar las imágenes de las ortigas
 
-Leer conversaciones
 
-Hacer preguntas a las personas que hablan sobre las ortigas específicamente. [Digamos que como ya se sabe quién tiene estas plantas, les llega a ellos una notificación. Alguien está preguntando sobre mis plantas, sus conocimientos y los mios.]
+#### Escenario 1 / Notificaciones del día
 
-Hacer preguntas a toda la comunidad
 
-#### Escenario 2 
 
-Escuchar a la planta
+#### Escenario 2 / Vincular personas y plantas para la conversación
 
-Encender el sistema de cosechamiento de datos planta seres humanos
 
-Escuchar
 
-Al finalizar recibe una notificación. Tu cosechamiento ha sido compartido en la comunidad. ¿Quisieras sembrar algún conocimiento? [Se siembra conocimiento si hay la personas escuchó algo que quisera compartir con la comunidad]
+#### Escenario 3 /Contemplar plantas y personas
 
-si
 
-[Has pasado días y la planta no se siente mal si no le doy agua. Suena bien aunque la apariencia de la tierra sigue estando seca]
 
-¿Quieres conversar sobre este conocimiento que sembraste? [ En la aplicación se notifica que alguien sembró un conocimiento]
+
 
 **Resultados y análisis** Resultados obtenidos del procedimiento junto a esquemas, tablas o soportes ( capturas de pantalla, videos, etc) que den cuenta de los resultados. 
 
