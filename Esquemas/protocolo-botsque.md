@@ -76,7 +76,7 @@ Los humanos pensamos mucho en nosotros mismos como especie; tenemos la tendencia
 
 [Pulsum Plantae](http://interspecifics.cc/work/pulsum-plantae-2012/) (2011-2014)
 
-Proyecto de Leslie García (México)
+**Proyecto de Leslie García (México)**
 
 Este proyecto analiza los mecanismos que utilizan las plantas para comunicarse y cómo sus propios proceso biológicos se manifiestan pasando desapercibidos para nuestros sentidos. El proyecto crea una "prótesis de sonudo" basado en el biofeedback el cual conciste en recopilar información sobre las funciones fisiológicas de un cuerpo, utilizando instrumentos. A través de un proceso de transducción, es decir pasar una tipo de energía en señal eléctrica, que le da "voz a las plantas". Los patrones obtenidos, señala la artista, podrían ser la base para un diseño de comunicación codificada basada en el sonido.
 
@@ -86,9 +86,7 @@ Este proyecto analiza los mecanismos que utilizan las plantas para comunicarse y
 
 Comentario: El proyecto de Leslie García permite identificar una infraestructura electróncia que permite la transducción. Replicar su sistema para poder hacer el análisis de código comunicacional de las plantas en contexto es prometedor. En todo caso el sistema botsque prima la escucha sobre el habla y el habla la determinar como el resultado de interacciones contextuales: humedad, luz, etc. Interacciones que se dan con un otro ser (humano) quien también se dispone a compartir su pulso y respiración como parte de la relación. 
 
-
-
-El autor de la semilla de acacia
+**El autor de la semilla de acacia**
 
 Ursula L Guin
 
@@ -104,35 +102,43 @@ https://www.musicoftheplants.com/es/#eluid0e42bc3a
 
 
 
-
-
-
-
 **Descripción del procedimiento**: 
 
 1. Boceto del sistema: creé un boceto de cómo imagino que puede ser un sistema en el que se pueda escuchar
 
-2. Infraestructura para cosecha de datos
+![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esque-prototipo-sistema-02.png)
+
+
+
+El sistema se prototipa con arduino, una raspberry donde está la BD y un bot en telegram
+
+1. Infraestructura para cosecha de datos
 
    En una planta de compañía instalo tres sensores: humedad relativa, luz y electricidad
 
-   A partir de la observación defino el esato de bienestar o "buen vivir de la planta"
+   A partir de la observación defino el estado de bienestar o "buen vivir de la planta".
 
    Ingreso las variables de bienestar en el sistema para poder cosechar los datos
 
    Asigno un sonido y un color a las variables. Cuando no hay condiciones de bienestar hay silencio, no hay color.
 
-3. Modelado de la base de datos
+   
+
+2. Modelado  para la siembra de datos en la BD
 
    Entidades: planta, persona, lugar, nombre común, nombre científico.
 
    Establecer los atributos y las relaciones 1 a 1 / 1 a muchos / muchos a muchos
 
-4. Interfaz de equivalencias
+   
+
+3. Interfaz de equivalencias
 
    Interfaz para poder visualizar o escuchar el estado de las plantas y el de las personas en estado de escucha/ contemplación
 
-5. Programación del sistema
+   
+
+4. Programación del sistema
 
    IP: Claves
 
@@ -140,73 +146,78 @@ https://www.musicoftheplants.com/es/#eluid0e42bc3a
 
    Apis de nombres científicos: 
 
-6. Conctrucción conversacional del bot
-
-1. Registre a las personas y las plantas
-
-2. Propiciar estados de contemplación y escucha entre plantas y personas
-
-3. Vincular personas con plantas similares y permitirles escuchar y hablar sobre ellas en salas alternas
-
-4. Recuperar conocimiento de lo que se ha hablado sobre las plantas y sobre lo que las plantas han enseñado a las personas
-
    
 
-3. Fujo de conversación
+5. Conctrucción conversacional del bot
 
-Un bot que 
+   Requerimientos del bot 
 
-1. 
+1. Registre a las personas y las plantas
+2. Propiciar estados de contemplación y escucha entre plantas y personas
+3. Vincular personas con plantas similares y permitirles escuchar y hablar sobre ellas en salas alternas
+4. Recuperar conocimiento de lo que se ha hablado sobre las plantas y sobre lo que las plantas han enseñado a las personas
+
+¿Cómo hacer un bot con Phyton?
+
+https://elmau.net/posts/mi-primer-bot-en-telegram-con-python/
+
+**Mouckup** 
+
+El lenguaje del botsque es un sistema conversacional o de mensajería en telegram en el que vive botsque_bot. 
+
+![]()
+
+Cuando una persona llega al bot el bot lo saluda  
+
+hola @juanaloga bienvenida al botsque una comunidad de escucha, contacto y conversación para establecer relaciones entre plantas y personas, para sembrar conocimientos entre todos. Para poder conocernos tenemos el lenguaje del botsque. Si no lo conoces mira este video. Si ya lo conoces y quieres conectarte tu y  tus plantas al botsque regístrate aquí. Si quieres registrar otra amiga planta regístrala aquí. Si ya eres parte de la comunidad ingresa aquí. 
 
 
 
+ ¿ Podrías confirmarme si te conectas desde Novotá?
 
+ (si) 
 
-Conversación
-
-/Hola
-
-Hola @lamisma. Bienvenida a la comunidad del botsque. ¿Ya te registraste?
-
-Si.  ¿Quieres registrar otra planta? No.
-
-No. ¿Podrías confirmarnos si nos escribes desde Bogotá, Colombia?
-
-Si
-
-¿Tienes alguna discapacidad?
-
-No
-
-Si
+Varias plantas y personas son de novotá. Ya las conocerás poco a poco. Cuéntanos,  ¿Tienes alguna de estas discapacidades?
 
 Soy ciega
 
 Soy sorda
 
-Soy disléxica
+Gracias por tu respuesta. En esta comunidad la escucha y el habla van más allá de nuestros sentidos. Todas las personas y todas las plantas son bienvenidas. Cuéntame ¿Cómo están tus plantas @juanáloga?  
 
-¿Vas a registrar una  o unas plantas?
+Felices
 
-Si
+ Alguna de tus plantas felices ¿Ya vinculaste algunas de tus plantas a nuestro botsque? 
 
 No
 
-Si. Sube una imagen de tu planta en la que se pueda ver lo más completa posible.
+Puedes vincular a la comunidad cuantas plantas quieras. Empieza por una. Elige aquella con quien quieres compartir la escucha y de quien quisieras hablar con otras personas de la comunidad. ¿Cómo la llamas?
 
-¿Sabes el nombre científico de la planta? 
+Planta como de desierto 
 
-Si. Identifícalo en este banco de nombres.
+¿Podrías subir una imagen de ella que pese hasta 100 KB?
 
-No. ¿Tienes algún nombre común?
+¿Sabes el nombre común de ella?  
 
-Si. Podrías escribirlo por favor
+Cactus tropical
 
-¿Qué te ha enseñado esta planta?
+¿Sabes el nombre científico?
 
-¿Qué quisieras saber sobre ella?
+No
 
-Acciones
+Cuentanos un poco de tu planta como de desierto. ¿Que te ha enseñado ella? 
+
+Es una planta noble. De poca agua y de poca luz. Cada cierto tiempo florece por un par de semanas y sus flores son bellísimas. Pienso que es del desirto por que es dura y no tiene tallo y hojas.Son como láminas una que crece donde termina la otra. Carnuditas pero planas. Es muy bella. Sus flores crecen justo en la punta. Se que es del trópico, que hay muchas en brasil. En general es tranquila y no resiente que me vaya de la casa varios días. 
+
+Vas conociendo a tu amiga @juanáloga. ¿Qué te gustaría saber de ella?
+
+Historia
+
+Podrías contarnos ¿cómo sabes cuando ella está bien?
+
+En general se siente bien. Pero cuando más le presto atención, cuando su tierra está húmeda pero no mucho, cuando la pongo al sol, toda ella se pone muy verde y se levanta. Cuando va a florecer empiezan a salir en las puntas de sus ramas-hojas unos capullitos de donde brotan esas lindas flores rosadas. Esas ramas-hojas cuando están bien tienen apariencia dura pero son fleixibles. Es curioso pero nunca está buscando el sol. Con la luz que hay en la casa es suficiente. 
+
+Nuevamente bienvenidas @juanaloga y @plantacomodedesierto. Los datos que cosechamos entre todos nos permiten que el lenguaje del botsque cresca sin prisas. Todos los datos cosechados dan cuenta de la relación entre ustedes y pueden compartir sus  sonidos, sus colores y sus conversaciones con toda la comunidad. En radiolaria puedes sintonizarnos 24 horas.  
 
 /contemplar-escuchar tu planta y otras plantas similares
 
@@ -223,6 +234,18 @@ Acciones
 /Escuchar tu planta
 
 /Ver tu planta
+
+
+
+**/contemplar-escuchar tu planta y otras plantas similares**
+
+Puedes escuchar en tiempo real o diferido. ¿Cómo quieres escuchar/ver?
+
+En tiempo real es preciso que permitas al sistema cosechar tus datos. Pon tu manilla, busca un lugar cerca a tu planta y dispon del tiempo que quieras para escucharse. Procura quietud y atención. Procura que cada sonido como llegue se vaya. Espera. Conoce. Trasnmite. 
+
+
+
+
 
 **Resultados y análisis** Resultados obtenidos del procedimiento junto a esquemas, tablas o soportes ( capturas de pantalla, videos, etc) que den cuenta de los resultados. 
 
