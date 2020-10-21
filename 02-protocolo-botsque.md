@@ -207,31 +207,33 @@ El primer día que @nika instala la infraestructura y se registra hace dos cosas
 
 @botsque_bot cada día le notifica temas de los que se han estado hablando y en especial si hay temas sobre su planta amiga, que es su interés específico aunque en general le gustaría conocer sobre otras plantas.Entonces entra a leer otros temas sobre todo de las plantas que dan fruto. ¿Podría cultivar en la casa ? se pregunta . En el sistema ella puede ir a esas conversaciones puntuales e ir conociendo lo que otras personas han aprendido de las plantas y lo que las plantas les han enseñado. 
 
+Parece que tu curiosidad no ha sido resuelta mmm. ¿Que tal si conversamos sobre ello? Seguro alguien te puede sorprender! Vamos al chat! 
+
 
 
 #### ¿Quién es @botsque_bot?
 
-@Botsque_bot es un bot bibliotecario que media en el aprendizaje entre las plantas y los seres humanos. Este bot aprende de la comunidad y es el gran referencista que al "escuchar" las conversaciones permite a quien le pregunta
+@Botsque_bot es un bot bibliotecario que media en el aprendizaje entre las plantas y los seres humanos. Este bot aprende de la comunidad y es el gran referencista que al "escuchar" las conversaciones permite a quien le pregunta rastrear información pasada o vincularse con las personas más activas en la comunidad en relación a su tema. Es un bot curioso y amistoso que quiere vincular los conocimientos de cada una de las partes del sistema. Es un bot que escucha con calma y que quiere conocer a cada una de las personas y plantas del sistema para que broten más amistades. Es cordial, siempre tiene datos para compartir con todos y hace resúmenes estupendos de lo que se ha conversado. Así es posible ver las constelaciones en un cielo muy estrellado. 
 
-Recuperar temas de las conversaciones 
+* Recuperar temas de las conversaciones 
 
-Organizar los temas y las imágenes
+* Organizar los temas y las imágenes
 
-Identificar patrones comunes en los sonidos de las plantas
+* Identificar patrones comunes en los sonidos de las plantas
 
-Ver la actividad de plantas y personas según sus lugares
+* Ver la actividad de plantas y personas según sus lugares
 
-Notificar cuáles han sido los temas de cada día
+* Notificar cuáles han sido los temas de cada día
 
-Notificar las plantas y las personas que están pasando por un momento de malestar y activar la conversación
+* Notificar las plantas y las personas que están pasando por un momento de malestar y activar la conversación
 
-Enviar notificaciones personalizadas 
+* Enviar notificaciones personalizadas 
 
-Notificar a la comunidad cuando nuevo conocimiento se "siembre"
+* Notificar a la comunidad cuando nuevo conocimiento se "siembre"
 
-Vincular personas  y plantas con saberes e intereses comunes en conversaciones activadas por un usuario
+* Vincular personas  y plantas con saberes e intereses comunes en conversaciones activadas por un usuario
 
-Limpiar y compilar las conversaciones para poder entregarlas como un archivo de lectura personal
+* Limpiar y compilar las conversaciones para poder entregarlas como un archivo de lectura personal
 
 
 
