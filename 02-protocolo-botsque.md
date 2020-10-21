@@ -161,89 +161,53 @@ El sistema se prototipa con arduino, una raspberry donde está la BD y un bot en
 
 https://elmau.net/posts/mi-primer-bot-en-telegram-con-python/
 
-**Mouckup** 
 
-El lenguaje del botsque es un sistema conversacional o de mensajería en telegram en el que vive botsque_bot. 
 
-![]()
-
-Cuando una persona llega al bot el bot lo saluda  
-
-hola @juanaloga bienvenida al botsque una comunidad de escucha, contacto y conversación para establecer relaciones entre plantas y personas, para sembrar conocimientos entre todos. Para poder conocernos tenemos el lenguaje del botsque. Si no lo conoces mira este video. Si ya lo conoces y quieres conectarte tu y  tus plantas al botsque regístrate aquí. Si quieres registrar otra amiga planta regístrala aquí. Si ya eres parte de la comunidad ingresa aquí. 
+## Descripción del sistema
 
 
 
- ¿ Podrías confirmarme si te conectas desde Novotá?
+**Usuarios**  Personas que tienen acceso a la tecnología: personas que viven con plantas, personas que trabajan en el campo, personas que hacen medicina con plantas, personas que estudian las plantas, personas que siembran en sus casas.
 
- (si) 
+**Característica usuario**: tienen relaciones o que quieren tener relaciones con las plantas con las que conviven en su casa o en su territorio.
 
-Varias plantas y personas son de novotá. Ya las conocerás poco a poco. Cuéntanos,  ¿Tienes alguna de estas discapacidades?
+**Tipos de usuarios**
 
-Soy ciega
+Persona activa: se conecta a todo el sistema
 
-Soy sorda
+Comenta: interactúa con la información
 
-Gracias por tu respuesta. En esta comunidad la escucha y el habla van más allá de nuestros sentidos. Todas las personas y todas las plantas son bienvenidas. Cuéntame ¿Cómo están tus plantas @juanáloga?  
+Mira: solo mira los casos
 
-Felices
+**Caso de uso**
 
- Alguna de tus plantas felices ¿Ya vinculaste algunas de tus plantas a nuestro botsque? 
+@nika escucha desde hace más de un año radiolaria.net. Esta emisora online creada bajo el concepto de radiovisuales, trasnmire en directo datos sonoros y visuales, así como fragmentos de conversaciones de las personas y plantas que ocurren en diferentes lugares y que son parte de la comunidad del Botsque. Esta comunidad fue ideada por un grupo de personas que descubrieron que mediante la trasncodificación de datos contextuales de las plantas y las personas, se podía crear un sistema sonoro y visual muy elemental que permite a las personas entrar en estados contemplativos con las plantas y recibir conocimiento sobre ellas de manera directa. Es decir que la relación entre las plantas y las personas se da mediante una escucha contemplativa, activada por los sonidos y las imágenes. Estos sonidos e imágenes son trasnmitidos por internet para que muchas personas puedan entrar en estados de contemplación de sus plantas. 
 
-No
+@Nika tuvo curiosidad por esta radio porque desde muy niña ha tenido plantas en su casa y tiene algunas incluso que tienen tantos años como ella, o muchos más, pues hay plantas que su abuelita le dejó cuando fue a vivir sola.  A @nika le gustaría ser parte de la comunidad y construir un poco de ese lenguaje del botsque. Para ello @Nika tuvo que acceder a una infraestructura de comunicación para poder entrar en contacto con sus plantas y poder compartirlas con la comunidad. En la casa @nika eligió una de sus plantas. Una que tiene más años que ella, por lo menos 30 años, y que parece una planta del desierto. Ella la llama el cactus sin espinas que florece. Esta planta de flores tropicales está siempre junto a su escritorio y ha tenido retoños y ahora esa planta es muchas plantas. Para poder establecer la conexión con ella ambas deben entregar datos al sistema del botsque. Lo que llaman en el lenguaje del botsque el cosechamiento de datos es el cálculo de datos contextuales de la planta: humedad y luz que recibe y datos del ser humano con quien vive: pulso y frecuencia de respiración. Los datos de la planta son cosechados diariamente cada dos horas, mientras que los datos de los seres humanos solo se cosechan cuando se quiere establecer una comunicación directa con la planta. 
 
-Puedes vincular a la comunidad cuantas plantas quieras. Empieza por una. Elige aquella con quien quieres compartir la escucha y de quien quisieras hablar con otras personas de la comunidad. ¿Cómo la llamas?
+El sistema lo integran unos sensores contextuales que debe conectar a una de sus plantas. Estos sensores están conectados a un micoromponente que cosecha los datos. Los datos cosechados son enviados a una BD a partir de la cual la interfaz de radiolaria transcodifica en sonidos y colores.  Los datos cosechados de las planta de @Nika y de  ella misma deben dar cuenta de si su planta está en estado de bienestar o no. En la aplicación @nika debe establecer este bienestar a partir de preguntas. Según los datos expuestos ¿Está bien tu planta? ¿No está bien tu planta? ¿Podría estar mejor tu planta? Cada una de estas preguntas permite construir unas variables para poder traducirlas en el sistema. Las variables humanas ya están calculadas según pulsasiones y frecuencias respiratoria. Para ello @Nika tiene un wearable que se pone en su pecho cada vez que quiere cosechar datos para entrar en comunicación. Estos datos están conectados vía wifi a la BD y también son traducidos en sonidos y colores en la relación "estar bien". Cuando plantas o personas no están bien según estos datos no suena nada, no hay colores. La aplicación no señala qué está mal. Solo anuncia que hay algo mal. La comunidad sabe que solo a través de la contemplación y la escucha se pueden encontrar las causas de ese malestar. 
 
-Planta como de desierto 
+Así, @Nika conectó todo el sistema y se unió al grupo de conversación en telegram. En este grupo están todas las personas que trasnmiten en radiolaria y que quieren escuchar las plantas de otros así como hablar sobre las relaciones con sus plantas. Al entrar a la aplicación ella, como su planta amiga, se registran con sus alias, y de ser posible con unos datos para poder encontrar otras plantas parientes y otras personas amigas de las mismas planta de @nika.Es decir nombre común y nombre científico. Ya que cada planta tiene sus particularidades, así como cada persona, conocer personas que son amigas de su cactus sin espinas que florece puede que le ayude a conocer y escucharla mejor. A ella le gustaría saber de dónde es, por que tiene esas formas tan extrañas y si tiene animales amigos, plantas amigas. En su casa está en una suerte de cautiverio sin conexión por tierra con otras plantas aunque cerca hay muchas otras, incluso hijas de ella.  
 
-¿Podrías subir una imagen de ella que pese hasta 100 KB?
+Una vez están registradas @nika puede volver a radiolaria y escuchar todas las plantas o escuchar las plantas que son parientes de las suyas inlcuída la suy. Esto gracias a @botsque-bot, un bot que le ayuda recuperar conocimientos que se han construido en el chat bot. @botsque bot organiza, rucupera y comparte estas conversaciones sobre temas diversos de las plantas amigas. También puede hablar con personas que son amigas de plantas que son como cactus sin espinas  e incluso puede conocer conversaciones anteriores sobre estas plantas. En estas salas de conversación  las personas cuentan sobre sus relaciones con las plantas y lo que las plantas les han enseñado de manera directa. @Nika quiere conocer más de esos modos de conocer y quiere conocer de esa manera. Sabe por lo que ha escuchado en radiolaria que hay personas a quienes las plantas les cuentan que son medicinales y otras aprenden lo que ellas necesitan para estar bien en sus casas. Y esto dicen los de la comunidad del botsque ocurre a través de una contemplación directa y una transcodificación que permite a los humanos entrar en un estado de escucha profunda de la naturaleza. 
 
-¿Sabes el nombre común de ella?  
+El primer día que @nika instala la infraestructura y se registra hace dos cosas. Cosecha datos para la comunidad durante 5 minutos. En esos 5 minutos se sienta cerca a su planta, enciende su wearable y contempla la planta mientras respira normalmente. La aplicación le permite escuchar los sonidos de ella y de la planta transcodificados. Uan serie de bits que está lejos de entender pero que es información traducida del pulso, la respiración, la humedad y la luz. Juega un poco y respira rápido. Desaparecen unos sonidos. Pone poco a poco agua y cambian los sonidos pero al poner demasiada agua se van otros sonidos. Demasiada agua, piensa, ahoga. En seguida entra a la sala de conversación de @botsque_bot. Quisiera conversar sobre el malestar de las plantas. Sobre el agua. Encuentra una comunidad de plantas como cactus, que dicen son unas plantas que los catalogadores de plantas de la comunidad de científicos llaman Rhipsalis. En la sala de Rhipsalis ella empieza por ver las imágenes. Algunas son como su planta, otras tienen unas flores de otros colores o son de otros tipo. Decide escuchar las que son como las de ella. ¿Sonarán como la mia? Se pregunta. Así, con sus audífonos escucha por un tiempo las plantas. En seguida @botsque_bot le notifica que hay varias personas en línea que viven con plantas como la de ella. Entonces decide conversar.
 
-Cactus tropical
+@botsque_bot cada día le notifica temas de los que se han estado hablando y en especial si hay temas sobre su planta amiga, que es su interés específico aunque en general le gustaría conocer sobre otras plantas.Entonces entra a leer otros temas sobre todo de las plantas que dan fruto. ¿Podría cultivar en la casa ? se pregunta . En el sistema ella puede ir a esas conversaciones puntuales e ir conociendo lo que otras personas han aprendido de las plantas y lo que las plantas les han enseñado. 
 
-¿Sabes el nombre científico?
+#### Escenario 1
 
-No
+@bitsque le notifica que el día
 
-Cuentanos un poco de tu planta como de desierto. ¿Que te ha enseñado ella? 
+#### Escenario 2 
 
-Es una planta noble. De poca agua y de poca luz. Cada cierto tiempo florece por un par de semanas y sus flores son bellísimas. Pienso que es del desirto por que es dura y no tiene tallo y hojas.Son como láminas una que crece donde termina la otra. Carnuditas pero planas. Es muy bella. Sus flores crecen justo en la punta. Se que es del trópico, que hay muchas en brasil. En general es tranquila y no resiente que me vaya de la casa varios días. 
-
-Vas conociendo a tu amiga @juanáloga. ¿Qué te gustaría saber de ella?
-
-Historia
-
-Podrías contarnos ¿cómo sabes cuando ella está bien?
-
-En general se siente bien. Pero cuando más le presto atención, cuando su tierra está húmeda pero no mucho, cuando la pongo al sol, toda ella se pone muy verde y se levanta. Cuando va a florecer empiezan a salir en las puntas de sus ramas-hojas unos capullitos de donde brotan esas lindas flores rosadas. Esas ramas-hojas cuando están bien tienen apariencia dura pero son fleixibles. Es curioso pero nunca está buscando el sol. Con la luz que hay en la casa es suficiente. 
-
-Nuevamente bienvenidas @juanaloga y @plantacomodedesierto. Los datos que cosechamos entre todos nos permiten que el lenguaje del botsque cresca sin prisas. Todos los datos cosechados dan cuenta de la relación entre ustedes y pueden compartir sus  sonidos, sus colores y sus conversaciones con toda la comunidad. En radiolaria puedes sintonizarnos 24 horas.  
-
-/contemplar-escuchar tu planta y otras plantas similares
-
-/buscar personas con la misma planta y conversar
-
-/Conversar con personas sobre cualquier planta
-
-/Conocer otras conversaciones sobre esta planta
-
-/Escuchar esta planta en otro lugares
-
-/Ver esta planta
-
-/Escuchar tu planta
-
-/Ver tu planta
+@botsque hablar ella con su planta
 
 
 
-**/contemplar-escuchar tu planta y otras plantas similares**
+#### Escenario 3
 
-Puedes escuchar en tiempo real o diferido. ¿Cómo quieres escuchar/ver?
-
-En tiempo real es preciso que permitas al sistema cosechar tus datos. Pon tu manilla, busca un lugar cerca a tu planta y dispon del tiempo que quieras para escucharse. Procura quietud y atención. Procura que cada sonido como llegue se vaya. Espera. Conoce. Trasnmite. 
-
-
+ Cosecha datos, siembra conocimiento
 
 
 
