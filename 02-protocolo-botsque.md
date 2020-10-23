@@ -249,6 +249,10 @@ Parece que tu curiosidad no ha sido resuelta mmm. ¿Que tal si conversamos sobre
 
 
 
+**Desarrollo del bot**
+
+El bot se está creado con python y telegram. 
+
 
 
 **Resultados y análisis** Resultados obtenidos del procedimiento junto a esquemas, tablas o soportes ( capturas de pantalla, videos, etc) que den cuenta de los resultados. 

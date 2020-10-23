@@ -1,4 +1,4 @@
-# El lenguaje del botsque: pensar los prototipos para integrar las plantas como agentes no humanos en entornos colaborativos
+# El lenguaje del botsque: pensar las relaciones plantas seres humanos en entornos digitales de aprendizaje colaborativo mediado por agentes virtuales. Una aproximación desde el diseño especulativo
 
 
 
@@ -57,9 +57,7 @@ Toda la documentación de esta tesis queda en Github y todos los esquemas, ideas
 
 ## I. Plantar
 
-
-
-> _Debes preguntar de otro modo, debes sentirlo y quererlo, debes contemplarlo con un espíritu tan grande como aquél por que existe, antes de poder conocer la ley.  Emerson (1836)_
+> _¿Buscabas la causa en la naturaleza? Esto se refiere a eso, y eso a aquello, y aquello a lo otro, y todo se refiere a algo. Debes preguntar de otro modo, debes sentirlo y quererlo, debes contemplarlo con un espíritu tan grande como aquél por que existe, antes de poder conocer la ley. No podrá ser conocida, pero sí alegremente amada y disfrutada. Emerson (2008 [1896]p.101)_
 
 Ante la pregunta de qué manera dar cuenta de las relaciones plantas seres humanos en una plataforma colaborativa de tal modo que las plantas sean consideradas actores y partícipes de ese conocimiento que se da en la relación, es preciso establecer un marco teórico y conceptual que nos permita partir de una perspectiva de la realidad no objetivamente, que supere las nociones sujeto objeto y que integre lo no humano en la constitución del conocimiento. Esto implica reconocer y hacer participe de la experiencia del conocimiento a todo lo que no sea humano pero sobre todo, implica conocer la manera como otros entienden y conocen lo no humano, en este caso las plantas, para comprender, dialogar y vincularse con esas otras epistemologías. Pero, ¿cómo abordar la participación de lo no humano en la construcción de conocimiento colaborativo en un entorno digital? En lo que sigue, me gustaría recoger tres reflexiones que superan el paradigma científico dominante que desconoce lo no humano y que pueden dar pistas sobre el debate en las humanidades digitales:  la hermeneútica intercultural y la ecosofía de Raimon Panikkar,la Semiótica de Pierce y el pensamiento de las plantas de Michael Marder.A partir de estos tres autores construyo el principio de realidad desde el cual abordo esta investigación, más allá del antropocentrismo para indagar en una experiencia de la realidad de manera tripartita o como la define Panikkar, intuición cosmoteándrica. Realidad que responde a la relación entre lo inefable, divino, Theos; lo terrenal, el cuerpo, la materia, kosmos y, el pensamiento, la razón, el logos. Como anotaré más adelante para estos tres autores el pensamiento no es una cualidad humana sino que ocurre en el universo por ejemplo en la naturaleza.  De ahí que es preciso comprender la planta como ser pensante, agente y comunicador. Estas tres cualidades han sido investigadas por Mónica Gagliano desde la biología de plantas ( Gagliano,2017).  Estas aproximaciones permiten ver los desafios que tienen las herramientas colaborativas digitales al querer integrar las plantas en relación a lo humano.  Para inscribir la pluralidad de modos de conocerse y relacionarse con ellas implica pensar otras epistemologías tanto a la hora de diseñar implementar software colaborativo. 
 
@@ -132,7 +130,7 @@ Esto nos permitirá más adelante identificar cómo la comunicación entre las p
 
 A esta capacidad de comunicar y la impronta de su memoria se inscribe la del aprendizaje. Las plantas nos cuenta Gagliano, bióloga especializada en el pensamiento de las plantas,  hasta hace muy poco la ciencia se  ocupó del aprendizaje asociativo vegetal. Es decir, el aprendizaje que ocurre a partir de un experiencia repetida de un mismo estímulo o suceso. Las plantas aprenden asociativamente con fines ecológicos que van desde buscar comida hasta cuidarse de los peligros que por el suelo o por el aire las acechan: "un estudio de 2014 demostró que las plantas pueden detectar el sonido de las orugas que se alimentan y las causadas por viento o por insectos cantores" (Gagliano, 2017, p.2). Señales acústicas que refuerzan la eficacia de otros sistemas de señalización de las plantas como las de los COV. Esto llevó a la investigadora a insinuar que las planas tienen conciencia y subjetividad. Todo el proceso de evaluación que realiza la planta la lleva a utilizar "sus propias experiencias y y sentimientos como estados funcionales que motivan sus elecciones"(p.3). En cuanto a la conciencia la investigadora aboga por una conciencia básica que se logró a través del aprendizaje asociativo y de los sistemas de valores. Marder no aborda la conciencia en los términos de Gagliano sino que habla es de la intención  y trata de la no -indentidad de la planta, que plantea más la intersubjetividad que la subjetividad en las plantas. Sin embargo, tanto la filosofía como la biología y la semiótica coinciden en que el pensamiento no se da en una mente humana y que el aprendizaje y la comunicación también se puede dar en lo no humano, en este caso en las plantas. 
 
-#### Diseño crítico y especulativo para pensar las plantas desde las Humanidades Digitales
+### Diseño crítico y especulativo para pensar las plantas desde las Humanidades Digitales
 
 Formulada la discusión de las plantas como seres pensante que son protagonistas de su propio aprendizaje queda la pregunta sobre el cómo dar cuenta de ello en una plataforma digital. En tanto las infraestructuras exploradas en esta investigación develaron más los problemas de los presupuestos epistemológicos subyacentes al diseño del software como a su implementación ( ver capítulo: metodologias injertas para pensar las humanidades digitales), propongo vincular el diseño especulativo como una metodología para las humanidades digitales. El diseño especulativo es una herramienta que permite desligarse de la utilidad y viabilidad de los prototipos para idear posibles respuestas tecnológicas en escenarios distópicos, utópicos o paralelos. No con el fin de continuar procesos de diseño para el desarrollo sino para activar discusiones. En este caso puntual esta metodología me permite idear un escenario de comunicación interespecies basado en la escucha, la hermeneútica diatópica/vegetal, la equivalencia homeomórfica y el habla en entornos colaborativos mediados por un agente virtual. Todo esto será desarrollado en el prototipo. Por ahora me permito contestar ¿qué es y por qué el diseño especulativo es una metodología apropiada?  
 
@@ -156,8 +154,7 @@ No queda más que concluir con la importancia que tuvo conocer este diseño para
 
 Ahora bien, ¿cuál es el escenario especulativo que me permite pensar como piensan las plantas para establecer un sistema de relaciones con ellas basados en la escucha y el habla? 
 
-
- ##### ¿Hablan las plantas? ¿Escuchamos a las plantas? Apuntes metodológicos para pensar la comunicación interespecie
+#### ¿Hablan las plantas? ¿Escuchamos a las plantas? Apuntes metodológicos para pensar la comunicación interespecie
 
 “_La sabiduría de las plantas: incluso cuando tienen raíces, siempre hay un exterior donde forman un rizoma con algo más, con el viento, un animal, los seres humanos_." _Michael Marder_
 
@@ -175,7 +172,7 @@ Al respecto propongo las siguientes acciones desde el diseño especulativo como 
 4. La traducción de los signos mutuos en señales acústicas
 5. La contemplación mediante la escucha profunda y compartida
 
-###### Las analogías homeomórficas seres humanos -plantas
+#### Las analogías homeomórficas seres humanos -plantas
 
 La comprensión no consiste en encontrar lo que compartimos con ellas y traducirlo a nuestro lenguaje. No es una equivalencia conceptual. Es la comprensión contextual es transplantar "el contexto que les da significado y que les confier el horizonte de ese contexto en el cual pueden ser comprendidos" (Panikkar citado por Gómez, 2015, p.30). El conocimiento del contexto permite que no haya deformación en la comprensión. 
 
@@ -185,9 +182,7 @@ Una hermeneútica interespecies seres humanos - plantas puede estar impedida por
 
 Esta simulación de escucha y habla busca dar cuenta de esa relación seres humanos plantas no extractivista sino de amistad.  En esta relación la naturaleza le habla al ser humano tras escuchar sus preguntas y necesidades. Así, el cuidado y medicina que dan las plantas es una revelación para el bienestar de todos, para la comprensión misma de la vida.  
 
-
-
-##### Referentes
+#### Referentes
 
 [Pulsum Plantae](http://interspecifics.cc/work/pulsum-plantae-2012/) (2011-2014)
 
@@ -201,486 +196,19 @@ Este proyecto analiza los mecanismos que utilizan las plantas para comunicarse y
 
 El proyecto de Leslie García permite identificar una infraestructura electróncia que permite la transducción. Replicar su sistema para poder hacer el análisis de código comunicacional de las plantas en contexto es prometedor. En todo caso el sistema botsque prima la escucha sobre el habla y el habla la determinar como el resultado de interacciones contextuales: humedad, luz, etc. Interacciones que se dan con un otro ser (humano) quien también se dispone a compartir su pulso y respiración como parte de la relación. 
 
-
-
 El autor de la semilla de acacia
 
 Ursula L Guin
 
 Acacia Seeds esta compuesta por tres breves extractos de la futura revista Therolinguistics, el campo que estudia los lenguajes no humanos. El primer fragmento, titulado *MS. Encontrado en un hormiguero*, trara sobre los intentos de descifrar los mensajes dejados por las hormigas en las semillas de acacia. Un terolingüista está convencido de que una de esas declaraciones, traducida aproximadamente como "¡Arriba la reina!", es en realidad un llamado de un trabajador a la rebelión, porque en el mundo de una hormiga y la mente "arriba" representa la muerte y el exilio. La segunda parte es sobre una exploración al país de los pingüinos para entender su lenguaje " silencioso y ciego". La última parte  es una editorial escrita por el presidente de la asociación que hace un llamado a que se exploren los lenguajes de las plantas cuyo descuido da cuenta de la falta de imaginación. La exploración del lenguaje dice, debe expandirse a las artes pasivas por que no puede restringirse al movimiento y al tiempo sino que debe incluir nociones de recepción y respuesta. Mirar retrospectiva y prospectivamente cuando no se entendían los lenguajes de los animales pero también cuando en el futuro se burlen de quienes no comprende " la letra delicada y pasajera del liquen", la "poesía totalmente atemporal, fría y volcánica de la roca", incluso las palabras de la tierra " en su inmensa soledad, dentro de la comunidad más inmensa del espacio" (*El autor de las semillas de acacia y otros extractos del diario de la Sociedad de Zoolingüístas - La Púrpura de Tiro*, s. f.)
 
+## Prototipo: El lenguaje del botsque : prototipo para pensar una hermenéutica interespecie: seres humanos-plantas en un entorno colaborativo mediado por un agente virtual
 
 
-##### El lenguaje del Botsque
+
+
 
 ![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esque-lenguajebotsque.png)
-
-
-
-### Metodología para plantar el problema
-
-![]((https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-metodologia-003.jpeg)
-
-##### Las raíces del problema
-
-Pero, ¿cómo llegué a formular este problema? Como podré mostrar en el siguiente capítulo, llegar al problema que acabo de formular y al marco teórico que lo acompaña, fue el resultado de una serie de prototipos desde los que emergieron preguntas y se refinó el problema. Este trayecto, que da cuenta de un proceso de documentación de construcción de pensamiento interdisciplinario, me permite debatir las limitaciones del prototipo Milpaís. Este prototipo que cumplió con los objetivos del problema con el que empecé el proceso de tesis fue el detonante para cuestionar todos los presupuestos bajo los cuales daba cuenta de las relaciones plantas-seres humanos. En este sentido el problema pese a que en esta estructura aparece la pregunta, el problema y los referentes asociados al inicio, estos son resultados del proceso y no los antencedentes del proyecto en sí. 
-
-Al menos son dos los propósitos de las humanidades digitales: 1) implementar y desarrollar herramientas digitales para la investigación y transferencia de conocimiento de las disciplinas y 2) dialogar con las herramientas para dar discusiones conceptuales y teóricas.[^1]. La primera perspectiva se desarrolla a partir de conocimientos de las ciencias de la información, bibliotecología, archivística, ingenierías de sistemas, informática, electrónica, desarrollo de software, etc. Estas disciplinas disponen de metodologías que permiten a los humanistas organizar corpus de datos, hacer análisis de los mismos, visualizarlos, crear y gestionar colecciones o desarrollar software específico para analizar, comprender o resolver sus problemas particulares. A este modelo de implementación o desarrollo de herramientas desde perspectivas y necesidades humanistas se suma la posibilidad de hacer investigación sobre el diálogo entre los diversos campos de las humanidades y las tecnologías o herramientas digitales[^2]. Aunque una perspectiva no excluye a la otra, es claro que la primera busca implementar o validar un prototipo para resolver un problema. La segunda perspectiva por su parte, busca mediante la implementación y el prototipado experimentar para dar cuenta de las tensiones y posibilidades entre herramientas y conocimientos disciplinares [^3].
-
-En este sentido, esta tesis explora la segunda perspectiva, al discutir cómo la implementación de herramientas colaborativas, en particular una wiki semántica etnobotánica (relaciones seres humanos-plantas) [^4] , me permitió reconocer en el prototipo un dispositivo experimental para pensar tanto el problema de las herramientas colaborativas, como las relaciones seres humanos-plantas. Es decir, las tensiones y diálogos entre herramientas digitales y conocimiento etnobotánico. Durante la investigación el prototipado de las herramientas, en sus diferentes fases e iteraciones, pasaron de metodologías de diseño participativo o centrado en usuarios a una metodología de diseño centrado en conceptos problema. De ahí que en el proceso emergieron todos los actores humanos y no humanos involucrados en dar cuenta de las relaciones plantas-seres humanos. A esta altura de la experimentación se refinó el problema, se precisaron los actores involucrados y emergió la pregunta de qué condiciones son necesarias para que las herramientas colaborativas se configuren como un espacio en el que humanos y no humanos -en este caso plantas- se integren como actores del conocimiento colaborativo. Esta pregunta, que parte del reconocimiento de las plantas como partícipes en la construcción de conocimiento sobre ellas mismas y cuya relación con los seres humanos puede modelarse mediante herramientas digitales colaborativas, solo fue posible una vez recorrí la perspectiva de implementación de herramientas colaborativas para una necesidad de una comunidad y me encontré con una perspectiva crítica del diseño, que replanteó los dos elementos transversales a la tesis: las plantas, el software colaborativo e introdujo -sin saberlo- la experiencia como eje articulador. 
- 
-[^1]: Las relaciones entre tecnologías digitales y humanidades han trasegado desde la computación humanista, la informática comunitaria, la informática educativa y las humanidades digitales. Si bien en ninguna de estos campos existen definiciones disciplinares con programas teóricos y metodológicos claros, todas emergen dentro de la cultura digital o cibercultura. Los abordajes para su definición presentan un campo múltiple de aproximaciones en las que prima lo heterogéneo, interdisciplinario. Ver: del Rio Riande, M. G., & González Garcí Blanco, B. (2015). Introducción a las Humanidades Digitales. Material Didáctico Sistematizado. 103. https://www.aacademica.org/gimena.delrio.riande/115 Cuartas-Restrepo, J. M. (2017). Humanidades digitales, dejarlas ser. Revista Colombiana de Educación, 72(1), 65-78. https://doi.org/10.17227/01203916.72rce65.78 Galina Russell, I. (s. f.). ¿Qué son las humanidades digitales? 1 Julio de 2012, 12(7). Recuperado 4 de diciembre de 2016, de http://132.248.9.34/hevila/Revistadigitaluniversitaria/2011/vol12/no7/5.pdf Rueda Ortiz, R. (Ed.). (2013). Ciberciudadanías, cultura política y creatividad social (Primera edición). Universidad Pedagógica Nacional. 
-
-[^2]: Los estudios de las tecnologías tiene por objeto de estudio la tecnología y si bien da cuenta de las relaciones de los actores humanos y no humanos su objetivo no es pensar el problema mismo desde el uso o experimentación con la tecnología. Esta manera de investigar por medio del hacer con una tecnología está más cerca de las metodologías del diseño. 
-[^3]: Como elaboraré en la metodología esta perspectiva coincide con lo que los diseñadores han llamado "Investigación como diseño" (Simon, 2015).
-[^6]:La etnobotánica es la disciplina en la que confluyen la botánica y la antropología para aboradar las perspctivas de uso y aprovechamiento del entorno vegetal por parte de comunidades indígenas. Como disciplina nación en el siglo XIX y ha estado vinculada desde un inicio con la etnofarmacología. El interés como disciplina se ha enfocado en la capitalización de los saberes tradicionales por parte de farmacéuticas e industrias quienes la mayor parte se benefician de estos saberes para emprender investigaciones, crear fármacos. Una perspectiva más humanista de estas disciplinas busca descentran la nocion de la naturaleza como un objeto suceptible de explotación para pensarlo como una participante de la vida de las comunidades. Ver Zuluaga 2008 **Verificar definiciones y buscar la bibliografía
-[^7]:  Lo no humano en las humanidades se desarrollará en el apartado II. La filosofía permite un marco para el reconocimiento ontológico a lo vegetal (Ver: Michael Marder),  la antropología un abordaje de la construcción de realidad, sentido y comunicación con lo no humano (Ver :Latour (2014), Kohn (2013)) y la biología una expansión de sus preguntas sobre inteligencia y comunicación vegetal (Ver Gagliano (2017), Mancuso (2015) ↩
-
-
-**Notas al pie**
-
-[1^]: Intuición que es preciso aclarar, supera la la dialéctica pues descrubre la relación trinitaria, visión que ya enunciaba Peirce en su teoría semiótic que es tripartita y en la que al igual que Panikkar, descubre la acción creativa del universo, su libertad.  
-
-[2^]: Ante el señalamiento de que esta es un discurso filosófico teologizante dice Jose Meza Rueda (2010) " no habría que olvidar su anclaje a la antropología teológica que lo salva de ser una simple cosmología antropológica en una ontología cósmica. De hecho, si por la religión el hombre se vincula con la realidad, por este mismo “religare” rompe los límites de un grupo humano particulardentro de la tensión no-dual inmanencia-trascendencia" (p.7)
-
-**Referencias**
-
-
-
-2 PANIKKAR, RAIMON. La intuición cosmoteándrica. Las tres dimensiones de la realidad, Trotta, Madrid 1999, 82.
-
-PANIKKAR, Ecosofía, o. c., 114.
-
-###  Saberes adventicios: perspectivas del diseño para las humanidades digitales
-
-¿Qué hacer cuando una vez logrado el objetivo inicial de una investigación emergen aspectos problémicos? ¿Es posible que una tesis refute la tesis que la originó? ¿De qué manera relato, construyo, discuto y comparto las vicisitudes y los hallazgos de un proyecto? Pero sobre todo, ¿cómo llegué a saber más cosas sobre el problema de las relaciones seres humanos-plantas mediante la obervación, experimentación, análisis y reflexión de los prototipos logrados en el tiempo? 
-
-La pregunta de cómo investigué lo que investigué y sobre todo cómo llegué a refinar el problema me llevó a observar un modo particular en el hacer: investigar como diseño, investigar con diseño. La investigación como diseño es una propuesta que tiene sus orígenes en los años ochentas con las reflexiones que hizo en su momento Zeisel. El autor aborda los puntos en común entre diseñadores e investigadores a la hora de afrontar una situación a indagar o investigar. Allí, dice Zeisel (1984), ambos crean conceptos o imágenes, formulan hipótesis o presentan los conceptos y luegos los ponen a prueba. La investigación como diseño es en todo caso más que un paralelismo en los pasos o procesos para investigar de las ciencias. Es una ruta para pensar los problemas desde la creación de artefactos, prototipos (Dunne y Raby 2013). Es una manera de resolver los problemas (Gray y Malins 2004) o, una ruta para encontrarlos. Una ruta que involucra el pensamiento visual y práctico al pensamiento conceptual, del modo que lo hace la ingeniería, por ejemplo (Grand & Wiedmer, 2010). Los prototipos por lo tanto son una representación de las hipótesis que permiten desde sí mismos, comprender o -simular- las maneras como se comportan los problemas en una materialización. Es decir, pensamos con los prototipos y por ello, podemos hablar de sus funciones epistémicas.
-
-Posicionar a los prototipos como instrumentos con funciones epistémicas y que por ello nos ayuda a pensar y desarrollar el pensamiento, nos lleva a la pregunta de cómo ocurre ello. Si bien esta pregunta tendría que ser respondida desde las ciencias cognitivas o los estudios de la creatividad, la etnografía de los procesos creativos en la ciencia también nos permite precisar algunas vías para comprender este asunto. Latour en sus etnografías de laboratorio y la constitución de la teoría actor red (TAR), discute el principio de simetría como horizonte para integrar tanto a lo humano como lo no humano en la producción del conocimiento. Por ejemplo las tecnologías de inscripción, por ejemplo la escritura, el experimento, etc., son participes y protagonistas de procesos del pensamiento. 
-
-> Cada vez más analistas conciben la tecnología de inscripción (procedimientos para escribir, enseñar, imprimir y registrar) como la causa principal de lo que en tiempos pasados se atribuía a fenómenos "cognitivos" o "vagamente culturales". Los libros de Jack Goody (1977) y, sobre todo, de Elizabeth Eisenstein (1979) muestran muy bien la extraordinaria fecundidad de centrarse en este nivel material que ha escapado a la atención tanto de epistemólogos, historiadores, sociólogos y antropólogos, porque la tecnología de inscripción les parecía demasiado obvia y demasiado simple. (Latour, 1983)
->
->
-
- Así, además de la acción humana sobre el hecho a investigar, los dispositivos, artefactos y experimentos son actores que propician en sus interacciones, el conocimiento mismo. Latour habla de actantes y no de agentes entendidos estos como "cualquier entidad que produzca una relación o adquiera valor de significación [...], y éste podrá ser humano o no humano. El actante se definirá por su capacidad de producir una acción dentro de una trama" ( Tirado y Doménech, 2005 citado por Moreira,2012, p.64). Si bien esa tesis es objeto de múltiples controversias, como se tratará la segunda parte en el apartado _plantar la discusión_,  la teoría actor red nos permite indagar sobre el lugar del prototipo como "actante" en la construcción de conocimientos en humanidades digitales, una discusión que ya se viene dando.
-
-En el artículo  Developing Things: Notes toward an Epistemology of Building in the Digital Humanities Stephen Ramsay and Geoffrey Rockwell (2012) postulan las herramientas digitales como "telescopios para la mente", instrumentos hermeneúticos a través de los cuales  -y con los cuales- interpretamos fenómenos. Esta analogía, utilizada originalmente por la lingüista computacional Margaret Masterman, no solo es provocativa sino polémica. ¿Pueden las herramientas ser en el ejercicio investigativo parte de la discusión y de la explicación por que en sí mismas tienen elementos que discuten, problematizan, explican lo que se está  investigando?  Aunque su integración como argumento esté mediado por un discurso -pensemos en la mediación del curador de arte y la obra de arte- las herramientas, artefactos, modelos y obras cuentan con argumentoss que pueden ser leídos  por quienes dominan su lenguaje. De ahí que se requieran procesos de traducción. Pero, ¿cómo contar estas historias, como traducirlas? ¿Cuál el esquema narrativo de una tesis que quiere dar cuenta de estos procesos? 
-
-La traducción en la TAR proviene de la conceptulización de Callón. Para este autor la traducción se basa en "describir las acciones de los humanos y no humanos que intervienen en la fabricación de un hecho científico"(García Díaz, 2008, pág. 59). Estas acciones emergen para la comprensión y experimentación de un problema. Allí, en el encuentro con otros actores humanos o no, el problema toma nuevas formas. Por lo anterior, en esta tesis emprendí una búsqueda -podría decir que fui a las raíces- para dar cuenta de las tecnologías de inscripción mediante las cualés refiné, comprendí y expliqué las preguntas y los problemas para llegar a una formulación del problema final. 
-
-##### Refinar preguntas y problemas
-
-¿Qué es de la planta lo que una base de datos dice que es la planta? ¿Cuál es la participación de la planta en lo que sobre ella se dice en una plataforma colaborativa? ¿Puede ella colaborar en lo que de sí se dice y se construye en una plataforma que quiere poner de manifiesto las relaciones que tiene ella con los seres humanos? ¿Las plataformas colaborativas pueden dar cuenta de las relaciones plantas-seres humanos? La aparición de cada una de estas preguntas en esta tesis no fue un asunto a priori, si no el resultado de un proceso de investigación a partir de la consulta y estudio de referentes y el prototipado de plataformas colaborativas. Así, las preguntas fueron develando el problema subyacente al problema inicial. Pero, ¿es posible hacer una investigación sin un problema acotado? 
-
-En las humanidades es usual que nuevas categorías aparezcan en el curso del desarrollo de la investigación. Generalmente se parte con unas categorías predeterminadas y aparecen nuevas categorías metodológicas o conceptuales en la medida que se expande el corpus teórico y se analizan datos (Rico de Alonso, 2005). Sin embargo, no es usual, ni metodológicamente deseable, que el problema cambie en el transcurso de la investigación. El problema responde a la identificación de vacios del conocimiento y su investigación tiene por objeto comprender, explicar y ampliar los conocimientos. Sin embargo, en esta investigación desde las Humanidades Digitales (HD) el problema fue un problema. Las rutas metodológicas de diseño de investigación de las humanidades, excepto los estudios culturales o la etnohistoria [^5] , no piensan en la confluencia de disciplinas para el abordaje de los problemas si bien en muchas investigaciones confluyen varias disciplinas. Por ello es usual que las investigadoras encontremos tensiones metodológicas antes los vacios del saber y el saber hacer en diversas disciplinas. Así, en esta investigación, como suele suceder en el diseño y en las artes, el problema tomó diversas materialidades -prototipos- y la investigación misma se encaminó a construir el problema interdisciplinariamente [6^]. Por lo tanto, el acotamiento del problema y su matertialización en un prototipo es el resultado de la investigación misma. Un recorrido que aporta a las discusiones de la investigación como diseño (Grand, 2010; Jonas, 2010), una metodología que fue determinante para todo el proceso (ver gráfico 4). Pero, ¿qué es investigar como diseño?
-
-![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu_problema_21.png)
-
-![Esquema problema de investigación](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu_problema_21.png)
-
-Gráfico 4. Los prototipos en la investigación en Humanidades Digitales 
-
-[5^]: La emergencia de las interdisciplinas en las humanidades ha permitido explorar metodologías y métodos mixtos para poder observar y dar cuenta de problemas desde diversas ópticas. La etnohistoria por ejemplo, ha recurrido tanto a la historia como la antropología y la arqueología para establecer diálogos transtemporales. Por su cuenta los estudios culturales son la intersección de prácticas investigativas de la economía, los mass media y disciplinas como la antropología, la sociología, el psicoanálisis. 
-
-[6^]:  En las Humanidades Digitales confluyen discusiones, metodologías y métodos de las ciencias de la información, la bibliotecología, el diseño, las artes, la comunicación, las ingenierías de desarrollo de software y las humanidades, entre otros campos. 
-
-##### La investigación como diseño
-
-En las reflexiones sobre las metodologías de investigación en las artes y el diseño se  marca la diferencia entre la investigación en diseño y el diseño como investigación. La investigación en diseño hace uso de métodos mixtos para responder una pregunta problema comunmente relacionada con el desarrrollo de un producto [^7]. La investigación como diseño, a su vez, piensa en las maneras como se investiga en diseño y las conexiones con la investigación científica. Ambas improvisan, experimentan, crean artefactos e imágenes y finalmente llegan a conclusiones. En este punto es donde se discute la función epistémica de los prototipos pues a través de ellos, desde su diseño, se piensa el problema en sí. En el artículo *Design Fiction: A Method Toolbox for Design Research in a Complex World*  los autores Simon Grand y Martin Wiedmer (2010) presentan la discusión de las prácticas de la investigación científica como diseño y a su vez el diseño como práctica de investigación que desarrolla conocimiento.
-
-> "Otra observación interesante es que las controversias en los estudios científicos sobre la investigación científica en general enfatizan cada vez más la naturaleza inherentemente constructivista e imaginativa de la práctica científica (Galison, 1997; Knorr Cetina, 1999; 2002), la importancia de la improvisación (Knorr Cetina, 2002) y experimentación (Rheinberger, 2001) para el proceso de investigación en general, o el papel principal de los artefactos (Knorr Cetina, 1999), las imágenes (Jones & Galison, 1998) o la materialidad (Galison, 1997) y su diseño en la práctica investigadora" (Grand y Wiedmer, 2010, pág.2 ).
-
- Al respecto, la observación del proceso de experiementación de esta tesis me permitió reconocer una manera de abordar un problema de conocimiento en el cual la investigación como diseño me permitió refinar el problema y generar al menos dos situaciones:
-
-> Mientras el tema general se mantuvo (construcción de conocimiento colaborativo-relaciones seres humanos-plantas-plataforma digital) el problema y por consecuencia la pregunta de investigación y los objetivos empezaron a iterar, alimentados por abordajes conceptuales y experimentos técnicos nuevos.
->
-> Los prototipos en tanto objetos observables se presentaron como medios  observar y refinar el   problema.  
-
-Por refinar me refiero al esclarecimiento o descubirmiento de los problemas subyacentes a la formulación inicial(Ver: gráfico:6).  De ahí que en la investigación como diseño el refinamiento implicó procesos de resolución de problemas de al menos cuatro tipos:
-
-1. Resolución por pensamiento lateral. Es decir el despliegue de todas las opciones posibles para resolver el problema sin apelar a la  lógica ni a la linealidad. Y esto como procesos de ideación. 
-2. Resolución heurística de problemas es decir la utilización de reglas empíricas para llegar a una solución. Según Polya intervienen cuatro operaciones 1- entender el problema, 2- trazar el plan, 3- ejecutar el plan (resolver) 4- revisar. Este proceso, anota Juan Carlos López García  en su texto *Algoritmos y programaicón. Guía para docentes.* (2009 no es un proceso lineal sino dinámico y cíclico (Ver: gráfico 5)
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-resolucionheuristica-v1.png)
-
-Gráfico 5: Interpretacion dinámica y cíclica de las etapas propuesta por Polya.
-
-3. Ensayo y error: como estrategia para el aprendizaje de la implementación de las herramientas: omeka, wiki semántica, git, etc.
-
-4. Algorítmica: aplicación de pasos detallados para resolver un problema. Por ejemplo en el diseño de los experimentos y en la implementación de formularios en la wiki semántica.  
-
-Cabe anotar que estos modos de resolución de problemas estuvieron muy relacionados con las metodologías de Soft System las cuales se derivan de los sistemas de información sobre todo basados en computadoras. Estos sistemas buscan mejorar una situación problémica aprendiendo del procesos de resolución del problema mismo desde una visión sistémica. Esta visión holística del problema permite ver el problema como un todo. Para ello se usan técnicas visuales de mapeo como gráficos, diagramas, ilustraciones, animaciones, etc. ([Gray and Malins 2004:92](zotero://open-pdf/library/items/GL9D93DZ?page=92)). 
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-resolucionprobl-v3.png)
-
-Gráfico 6: Esquema del proceso de resolución de problemas.
-
-Finalmente estos modelos de resolución de problemas también se traducen en la creación de instrumentos de recolección de información. Ese es el caso del [protocolo para los laboratorios de prototipado](https://github.com/mjespinosam/botsque-doc/blob/master/05-protocolo_prototipo.md).  El protocolo integra un modelo de informe de laboratorio con un modelo de resolución de problemas heurístico el cual busca que se comprenda el problema, se cree un plan, se ejecute y se analice. El asunto es poder dar cuenta del proceso dinámico, iterativo y cíclico sin perder detalles, procedimientos y aprendizajes. Pero, ¿qué es documentar?
-
-[^7]: usualmente el diseño se concentra en el desarrollo de productos más no es el único interés del diseño. Como se aborda más adelante hay diseño centrado en creación de productos pero también diseño centrado en conceptos.  Como trabajaré en el apartado de diseño crítico y especulativo poara las humanidades digitales y siguiendo a Dunne y Raby (2013) el diseño conceptual trasgrede la idea de utilidad y mercado desde la creación de artefactos especulativos para pensar el presente. 
-
-##### La experiencia en la investigación
-
- "En este sentido, Hegel no pretendió nunca plantear la losofía como una doctrina abstracta, extraña a la vida, sino que buscó involucrarla siempre en el amplio mundo de la experiencia humana corriente." ([Gama :26](zotero://open-pdf/library/items/RFPVEIC5?page=3))
-
-"La describe, en Fenomenología efecto, el tránsito de la experiencia humana a través de diversas conguraciones de sentido o acepciones de mundo, que no son meros constructos teóricos, sino que tienen un correlato real en formas sociales de vida histórico-concretas, pero al mismo tiempo muestra que este camino de la experiencia sigue una estructura racional determinada por el absoluto, con lo que se hace posible conceptualizar la experiencia real de la conciencia en los términos especulativos del sistema." ([Gama :28](zotero://open-pdf/library/items/RFPVEIC5?page=5))
-
-El propósito de poner en consonancia una razón universal absoluta con las formas concretas de la experiencia humana encuentra muy pronto serios obstáculos para su cumplimiento. En primera instancia, una interrelación tal parece ir en contravía con la experiencia más inmediata del sentido común, para la que no hay una única dimensión de la experiencia, sino múltiples ámbitos de realización de la misma, y para la que dichos ámbitos parecen" ([Gama :28](zotero://open-pdf/library/items/RFPVEIC5?page=5))
-
-"Así, espontáneamente tendemos a considerar como cualitativamente distintos los tipos de experiencia que hacemos frente al arte del tipo de experiencia cientíca, religiosa o de la experiencia intersubjetiva. Si esto es así, ¿cómo, entonces, defender que es una y la misma razón la que en todos estos campos se hace presente?" ([Gama :29](zotero://open-pdf/library/items/RFPVEIC5?page=6))
-
-"Además, esta variedad de las formas de experiencia se complica aún más si se introduce la dimensión de la historia, pues resulta evidente que, aun en el interior de un mismo ámbito de la realidad, la experiencia humana ha asumido conguraciones diferentes en distintas épocas." ([Gama :29](zotero://open-pdf/library/items/RFPVEIC5?page=6))
-
-"Pero el absoluto hegeliano no es solo sustancia en este sentido, sino que es sustancia viva o sujeto, es decir, no un fundamento estático ya acabado, sino un principio en desarrollo que va determinándose progresivamente en un movimiento de mediaciones internas, similar al que realiza un sujeto -el sujeto individual o el yo trascendental de Fichteen su proceso de autoapropiación. La" ([Gama :30](zotero://open-pdf/library/items/RFPVEIC5?page=7))
-
-"De modo que cuando Hegel arma que «el absoluto ya está en nosotros», no se trata de algo así como una armación mística según la cual podemos buscar en nuestra interioridad, mediante alguna suerte de intuición mágica, el contacto con una esfera trascendente. Todo lo que arma es que en nuestras experiencias de mundo, aun en las más elementales, se hace presente una forma de racionalidad, que no debe ser vista en oposición a otras formas histórico-culturales distintas con las que ella sería irreconciliable ni tampoco como la racionalidad ya denitiva y suprema, sino, al contrario, como un estadio más en el desarrollo progresivo del absoluto" ([Gama :30](zotero://open-pdf/library/items/RFPVEIC5?page=7))
-
-"El absoluto se presenta, pues, en cada conguración histórica de la experiencia humana encarnado en la racionalidad que es inherente a cada una de ellas y que determina sus particulares criterios de conocimiento y de acción." ([Gama :31](zotero://open-pdf/library/items/RFPVEIC5?page=8))
-
-Quienes arman que la verdad se descubre a través del método cientíco no están en mejor posición, ya que, como hoy bien sabemos, todo el instruy los procedimientos de la ciencia no dejan inalterado mentarium el objeto, sino que buscan más bien ajustarlo a modelos explicativos preconcebidos." ([Gama :38](zotero://open-pdf/library/items/RFPVEIC5?page=15))
-
-"Se verá ya claro cómo esta idea de experiencia dista mucho de las concepciones empiristas o cientícas que equiparan la experiencia con la percepción sensible o la normativizan en procedimientos metódicos." ([Gama :40](zotero://open-pdf/library/items/RFPVEIC5?page=17))
-
-Lo que sucede es que en el lenguaje corriente solemos llamar experiencia tanto a la posesión de un saber como al proceso por el cual se ganó ese saber." ([Gama :41](zotero://open-pdf/library/items/RFPVEIC5?page=18))
-
-"Hegel quiere llamar la atención sobre el proceso de la realización de la experiencia" ([Gama :41](zotero://open-pdf/library/items/RFPVEIC5?page=18))
-
-"El verdadero hombre con experiencia no es aquel que por haber vivido mucho sabe de todo, sino justamente aquel que por haber vivido mucho sabe que su saber siempre es falible y susceptible de derrumbarse, del mismo modo que el hombre que tiene experiencia con las mujeres es quizás también aquel que ha sufrido más decepciones con ellas." ([Gama :41](zotero://open-pdf/library/items/RFPVEIC5?page=18))
-
-"Frente al esquema instrumentalista, la estructura hegeliana del movimiento de la experiencia, o, lo que es igual, del proceso del conocimiento (esto es, la experiencia como inversión de la conciencia o negación determinada), no resulta una invención arti- ciosa, sino que, si bien solemos olvidarlo, se encuentra a la base de nuestras vivencias cotidianas, porque el conocimiento es metódico o instrumental solo en situaciones y ante objetos muy especícos, pero las experiencias corrientes, donde advertimos que ganamos en conocimiento, no funcionan aplicando un procedimiento externo, sino que surgen del convencimiento interior de que ahora vemos con claridad donde antes solo veíamos a medias." ([Gama :44](zotero://open-pdf/library/items/RFPVEIC5?page=21))
-
-"El verdadero conocimiento de otro ser humano, para poner otro ejemplo, no se da al modo como uno acumula informaciones sobre un extraño, sino en tanto que, partiendo de los prejuicios que sobre él tengo, voy reformulando y precisando mi imagen de él a medida que hacemos experiencias comunes." ([Gama :45](zotero://open-pdf/library/items/RFPVEIC5?page=22)
-
-##### Documentar los procesos de pensamiento
-
-Tanto la retrospección como la prospección son acciones involucradas en la documentación, un ejercicio de desandar para seguir andando, un método como es el caso de la etnohistoria, que permite viajar en el tiempo para detallar descripciones, encontrar rutas, comprender decisiones y cuestionar la presencia de actores como pueden ser narrativas e incluso artefactos. Así, documentar entendido como un arte (Lafuente et al., 2018) se inscribe como ejercicio para hacer visible procesos de aprendizaje, confluencia de experiencias y procesos creativos. 
-
-¿Cómo se llegó a un aprendizaje? ¿Cómo ese nuevo conocimiento emerge durante el proceso y de que maneras apoya o cuestiona otros conocimientos previos? Las respuestas por parte de cualquier persona inmersa en un proceso de investigación o de creación puede ser sucinta, vaga, difusa. “Se nos ocurrió así no más”, “ estaba en un salón de té y vi un objeto que me pareció que podía ser perfecto para desarrollar la idea”, “no se, simplemente sucedió después de muchas horas de estar trabajando allí”. Si bien se construye una suerte de milagro en el aprendizaje que también denominan resolución de problemas por "iluminación" (López García, 2009), es claro que un análisis retrospectivo de múltiples elementos presentes en el proceso puede dar cuenta de cuáles fueron las asociaciones, conversaciones, rutas, rupturas, artefactos, etc., que permitieron llegar a ese “no se, simplemente sucedió”.
-
-Como ejercicio documental revisé todos los apuntes, diagramas, esquemas e informes para dar cuenta del proceso. Este proceso descriptivo de las prácticas que realicé en las diferentes fases del proyecto lo abordo desde el enfoque “tecno-etnográfico” que resulta de la lectura de Latour y perspectiva de la Antropología de la ciencia. El abordaje “técno—auto-etnográfico” implicó ejercicios de revisión y tamizase de información. Al respecto, opté por esquematizar los momentos de manera gráfica y análoga ( Imagen 1), como ejercicio de síntesis de los diferentes momentos, actores e insumos con los que fui desarrollando cada momento de la investigación. Un ejercicio para reconocer lo que Latour denomina las masas perdidas o inviables que más adelante sería apoyada por Git el sistema de control de cambios. 
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/esque-proceso-analogo.png)
-
-
-Imágen 1: Esquema análogo de momentos de la investigación. 
-
-> Latour, en cambio, sólo parece preocupado por estudiar el conjunto de actores
-> humanos y no-humanos que co-participan en todos los procesos por los que atraviesa la
-> fabricación y estabilización de un hecho científico o un dispositivo técnico. Este
-> conjunto de actantes, lo que se corresponde con el criterio acumulativo tratado
-> anteriormente, se denomina “las masas perdidas” o invisibles (the missing masses).  _Latour, Mixing Humans and Nonhumans Together: The Sociology of a Door Closer._(García Díaz, 2008)
-
-
-
-##### Git: software de control de versiones
-
- Apoyada en la herramienta de control de versiones Git creada por Linus Torvals (2005), y ampliamente utilizada en el mundo del desarrollo del software, ideé una estrategia para organizar, categorizar y narrar los cambios que ocurrieron entre la creación de los prototipos y la revisión de los referentes. Esta narrativa permite hacer seguimiento a la persistencia del tema investigado -relaciones plantas-seres humanos- y la emergencia de preguntas, problemas e ideas así como, la integración de conceptos y referentes. Basada en el esquema annálogo (Imagen 1), desarrollé un experimento que emandó sistematizar todos mis archivos de versiones del proyecto y las notas de cuadernos, esquemas, etc. Ver: [Informe de laboratorio: Experimento Git](https://github.com/mjespinosam/ruta-metodologia/wiki/Experimento-GIT)
-
-Ver grafico 7.
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu_git_v1.png)
-
-
-
-
-Gráfico 7: Esquema control de versiones. Proceso investigativo y de prototipado. María Juana Espinosa.
-
-El control de versiones Git permite registrar momentos en el tiempo de un proceso. Cada momento referenciado se registra a partir de un commit que es un comentario textual que resumen el avance, cambio, edición, adición etc., sobre el proyecto. Esto permit a quien desarrolla un software regresar a momentos del desarrollo anteriores al presente, apoyado por estas frases clave y visualizando los cambios sobre los archivos. Otro elemento que se destaca son las ramas. Desarrollos paralelos que se desprenden del desarrollo principal pero que no interfieren y que pueden volver a la rama princial una vez se resuelvan los problemas o desarrollen las funciones. Esta acción de unión de una rama se denomina merge. Si bien todo el flujo de trabajo en git está pensado para desarrollo de software, para el caso del control de cambios de un proyecto de investigación académica estimé necesario definir:
-
->1. La rama principal o Master / Tema transversal del proyecto.
->2. Los temas para hacer el seguimiento / Pregunta, Problema, conceptos integrados, ideas Integradas, prototipos, esquemas.
->3. Las ramas que se desprenden / Cada tema de seguimiento es una rama que se une a la rama principal en un prototipo del que a su vez se desprenden los nuevos temas de seguimiento.
->4. Los puntos de cambio en la rama principal / Cada prototipo es un punto de control de versiones donde se unen - o se hace merge en términos de git- los temas a los que se les hace seguimiento. 
->5. Merge final / una vez el problema está refinado y la pregunta del proyecto se desarrolla en un prototipo se realiza el merge. 
->
->
-
-Como se puede observar en el gráfico 8,  cuatro fueron los prototipos del proyecto: wiki semántica, app cofechas, mesa huerta y finalmente el lenguaje del botsque. En los primeros dos prototipos las plantas no fueron asumidas como actores o actantes en la contrucción del conocimiento sobre sí mismas, pese a intuir su protagonismo. El giro metodológico se concretó en un artefacto "La mesa huerta", que implicó la discusión de las infraestructuras, herramientas y postulados ontológicos de los dos prototipos anteriores. ¿Que son las plantas? ¿Como se representan en sistemas informáticos? ¿Cómo se dan y cuáles son las relaciones plantas-seres humanos? ¿De qué manera ellas contribuyen al conocimiento que de sí mismas se registra en un entorno colaborativo? Estas preguntas me permitieron problematizar las herramientas y metodologías así como los presupuestos que subyacen a ellas.
-
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-rutainvestiva-v2.png)
-
-Gráfico 8: Esquema ruta investigativa.
-
-El seguimiento en Git se realiza desde la terminal, con el uso de comandos específicos que permiten además conectarse remotamente con una copia de respaldo en Github. Github es un repositorio remoto que visualiza los procesos de control de versiones y permite trabajar colaborativamente en un proyecto de software o en este caso, para la discusión y refinamiento de ideas y problemas de un proyecto de investigación. Desde Github entonces, se completa la documentación de los prototipos y la escritura de la tesis. En el repositorio [Botsque-documento](https://github.com/mjespinosam/botsque-doc) está el control de versiones de la escritura de la tesis y como un submódulo anidado está el repositorio [ruta-metodológica](https://github.com/mjespinosam/ruta-metodologia). Los submódulos es una función de Git para tener en un repositorio otro repositorio de referencia conservando control de versiones separados. En el repositorio principal se pueden consultar los "issues" un espacio en el que trabajamos las discusiones del proceso concpetual, técnico y de escritura de la tesis. En el submódulo se encuentra la [Wiki](https://github.com/mjespinosam/ruta-metodologia/wiki), espacio en el que quedan detallados cada uno de los referentes del proyecto según unas categorías de análisis y los protocolos de los prototipos (ver: gráfico 9). Finalmente en el [readme.md](https://github.com/mjespinosam/botsque-doc/blob/master/readme.md)se presenta el proyecto y en la pestaña insights/networks se registran las rutas de los commits. Todo esto permite simular en la plataforma un trabajo de desarrollo de código pero con un desarrollo de la tesis. 
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-marcoreferentes-v1.png)
-
-Gráfico 9. Marco analítico de referentes para los prototipos de la investigación. María 
-
-Ahora bien, el uso de Git como experimento narrativo, es un correlato del esquema análogo. Su uso no responde solo a una necesidad de control de versiones de un documento sino también al registro de un proceso de construcción de pensamiento, de documentación. El que durante más de dos años las preguntas hayan detonado nuevos experimentos y que además,  el problema después de todo ese tiempo se hubiese refinado al punto de llegar a intuiciones para un sistema comunicativo seres humanos-plantas es resultado del proceso en el que participaron actores humanos y no humanos. Con el uso de git se puede identificar los momentos del proyecto y los cambios en las formulaciones de las preguntas, el problema, la aparición de referentes. Este contro por lo tanto, desvirtua la idea de que todo proyecto es el desarrollo de una idea ya clara que tiende a reafirmar lo que allí se establece como hipótesis. Cuando lo que sucede es que dicha hipótesis es el resultado de la refinación del problema en  múltiples discusiones y hallazgos. En campos como las Humanidades Digitales en particular, documentar estas versiones nos permite identificar cómo las hipotesis tienen una serie de problemas conexos. Y es que al ser un área multi e interdisciplinaria, los aspectos a tener en cuenta emergen en el proceso mismo e inciden en los prototipos así como los prototipos inciden en los problemas. Pasemos ahora a ver este recorrido para entender cómo se refinó el problema y cómo llegué a el. 
-
-### Metodologías de investigación exploradas  
-
-En la búsqueda de dar respuesta disciplinar de cómo conocemos desde las HD la intersección entre las artes, el diseño, las tecnologías, las humanidades e incluso las ciencias  nos dan una primera respuesta: desde la mixtura. Es usual que en contextos investigativos de áreas interdisciplinarias o en el arte se de una apropiación y adpatación de metodologías y métodos de otras disciplinas (Gray & Malins, 2004). De ahí que el diseño dialogue con la etnografía, la investigación acción participativa, por ejemplo. En todo caso y como he venido mostrando la investigación diseño nos permite rastrear el cómo conocemos y diseñar caminos para conocer. Al respecto hago una diferencia entre metodologías mixtas que desarrollan herramientas para la investigación en HD (gráfico 10), metodologías centradas en comunidades e infraestructuras digitales  (gráfico 11)  y las metodologías centradas en pensar el problema en HD desde el prototipado (gráfico 12). 
-
-Las dos primeras se dan en diálogo con las ciencias y las humanidades y fueron desarrolladas en dos de los prototipos, Milpaís y Cofechas, mientras que la tercera es una metodología propia de las artes y el diseño que implementé intuitiva y luego sistemáticamente en los dos siguientes prototipos: Mesa Huerta y Lenguaje del Botsque. 
-
-#### Herramientas para las Humanidades Digitales (HD)
-
-Los proyectos en HD suelen desarrollar o implementar herramientas digitales para poder explorar campos difícilmente abordables a través de la estructuración y análisis manuales de la información. Arqueología, lingüística (computacional) estudios literarios, sociología, entre otras áreas, han impulsado el desarrollo o la implementación de herramientas digitales que permiten trabajar con un corpus considerable y así, reconocer hipótesis de trabajo, hacer hallazgos. Bases de datos, exposiciones virtuales, visualización, geo-referenciación, mapeo, corpus lingüísticos, ocurrencia de palabras y contextos de uso, referencias textuales, análisis figurativos-semióticos de pictogramas, jeroglíficos, etc, son algunas de los resultados de estas implementaciones o desarrollos que son en alguna manera herramientas de recolección, organización y análisis de datos. Desde allí es claro emergen hipótesis y es posible hacer lecturas que difícilmente se podrían hacer por metodologías fenomenológicas. Esta perspectiva tiende más al racionalismo y dialoga con los métodos de las ciencias duras, metodologías cuantitativas. Trabajo de laboratorio, prueba de hipótesis y experimentaciones a partir de diseño de protocolos. 
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-metodologia-007.jpeg)
-
-￼
-Grafíco 10. Creación  propia.
-
-###### Los primeros experimentos con OMEKA
-
-En esta investigación este modelo ha sido utilizado en diversos momentos. Sobre todo para empezar a identificar los requerimientos y las posibilidades para su prototipado en herramientas digitales disponibles. Para entenderlo, volvamos al inicio de los tiempos. El hilo conductor de todo el proceso han sido las relaciones seres humanos plantas. Inicialmente la investigación tuvo por objetivo la implementación de un software colaborativo etnobotánico - tipo wiki- . En ese primer momento el interés estaba dirigido a construir un referente para la adecuación de la [Base de Datos del Centro de Estudios de Medicina intercultural](https://github.com/mjespinosam/ruta-metodologia/wiki/CEMI). Un proyecto etnobotánico centrado en la construccion colaborativa de usos y aprovechamiento de las plantas. El preproyecto titulado "Savias wiki, una wiki etnobotánica" (2017)  estaba formulado desde el trabajo realizados con anterioridad en el colectivo Savias Sabias y desde una perspectiva bibliotecológica, ámbito en el que había trabajado por varios años.  El proyecto primigenio tenía por objetivos secundarios: 
-
->* Estructurar  semántica de la información para una recuperación efectiva. 
->
->* Catalogar  los saberes etnobotánicos a partir de vocabularios controlados.
->
->* Incluir el lenguaje común -folksonomías- para aumentar o precisar vocabularios controlados.
->
->* Construir de manera colaborativa y democrática el conocimiento sobre las plantas y su aprovechamiento. 
->
->*  Georefereniciar conocimientos y plantas.
-
-Estos requerimientos implicaban que debía aprender de la estructuración de información, el conocimiento de las bases de datos y las posibilidad de las plataformas wiki. En su momento este saber era rudimentario así que desde el Laboratorio de HD empecé por pequeños experimentos en Omeka, guiados por Camilo Martínez. [Omeka](https://omeka.org/about/project/) es un software libre creado por  el Centro de Historia y Nueva Media Roy Rosenzweig para la admnistración y y gestión de colecciones de objetos digitales[^8]  para museos, archivos y bibliotecas. En este software, propuesto por la maestría como herramienta para experimientos, fue la primera vez que noté las dificultades para definir las plantas en un entorno digital. En ese entonces estaba frente al dilema de cómo crear una "planta" en Omeka:  ¿Podía capturar o crear digitalmente una planta como se hace en un proceso de digitalización desde un soporte análogo o en la creación de un libro, imagen, sonido digital? Para poder hacer un proceso análogo debía en principio crear la planta como un item en Omeka. Los items types en este software se corresponden a las entidades en las bases de datos. Es decir "cualquier objeto (real o abstracto) sobre el cual queremos tener información en la base de datos" (Conabio, s.f). En esta plataforma las entidades estan pensadas por tipos -types- que se corresponden a tipos de documentos digitales (textos, sonidos, imágenes, representaciones visuales) o digitalizados (libros, fotografías, música, etc.), recursos (páginas web, historia oral, eventos), individuos (personas), entre otras entidades. Fue así que creé "Planta" como un item que además decribí como "individuo". (Ver: imagen 2)
-
-<img src=" https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/img-item-planta.png" style="zoom:150%;"/>
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/img-item-planta.png)
-
-Imagen 2: creación de la entidad "planta" en Omeka.
-
-Si bien esto era un proceso que pasaba por una acción técnica, al crear una entidad es preciso establecer los atributos y es un acto de nombramiento y descripción de la realidad de la manera como yo, o un comunidad, concibe que es. Una decisión ontológica. ¿Cuáles los atributos de una planta? ¿Nombre? ¿Forma? ¿Partes? ¿Componentes? En este software los atributos de todo objeto digital están estandarizados por un conjunto de metadados denominados Dublin Core. Este estandar de metadatos "datos que estructuran un dato" [^9] están pensados para objetos digitales más que para individuos: personas o plantas. Es decir que allí existía una segunda dificultad. Al tomar una fotografía de una planta y subirla a la plataforma el interés descriptivo no estaba sobre el "objeto digital imagen" sino sobre el objeto retratado "la planta". ¿Cómo adecuarme a esos metadatos o encontrar metadatos alternos? Pero más allá del uso de uno y otro metadato ¿Qué son de la planta los metadados? ¿Son los metadatos universales? 
-
-En el [experimento desarrollado](https://github.com/mjespinosam/ruta-metodologia/wiki/Omeka) creé entradas para plantas, las describí con los  campos de Dublin Core, utilicé vocabularios para la descripción y establecí una georeferenciación para cada item. Entre los problemas que surgieron apareció la dificultad para poder hacer el relacionamiento entre entidades de muchos a muchos. El nombre de una planta corrresponde a muchas plantas diferentes y una planta puede tener muchos nombres comunes e incluso científicos. En este punto aunque el nombre científico se establece como un identificador único o clave primaria, no es necesariamente la manera como se busca una planta ni su uso es generalizado entre las comunidades que se relacionan con las plantas. Como refernte estudié la base de datos de [Nombres comunes de plantas de Colombia](http://www.biovirtual.unal.edu.co/nombrescomunes/es/). Esta base de datos relacional se modeló para dar cuenta de las particularidades del nombramiento de las plantas: los nombres corresponden a una sola especie (nombre unívocos), los nombres se aplican a dos o más especies ( nombres equívocos) o en muy poca frecuencia los nombres se aplican a una sola especie y para esa especie es el único nombre reportado (biunivocos) (Nombres Comunes Plantas de Colombia, s. f.). Construída a partir de una amplia bibliografía, documentos de herbarios y trabajo de campo, esta base de datos no se organizó a partir del nombre científico sino a partir de un _nombre común referente_ asociado a todos los otros nombres comunes o científicos reportados. En todo caso se puede hacer la búsqueda por ambos nombres: común científico. Esta base de datos no cuenta con un API (Application Programming Interface), sistema de comunicación de aplicaciones que permite compartir información para otros desarrollos. Además, no es una base de datos abiertos reutilizables, ni tiene especificaciones de su documentación. A eso se sua que su creación y crecimiento no es colaborativo. Por todo lo anterior, pese a ser un exelente referente, el proyecto ya tenía una tarea pendiente: modelar lo que podría ser una base de datos relacional de muchos a muchos que permitiera los nombres unívocos, equívocos y biunívocos georeferenciados al modo de plantas comundes de colombia. Aprendizajes y experimentos que fueron realizándose con los prototipos que vinieron desde una perspectiva de implementación de infraestructuras digitales para comunidades. 
-
-
-
-[8^]: Se entiende por objeto digital (Digital like Objetct- DLO) el producto intelectual cuya materialidad digital-codificación numérica de la información- permite que sea publicado y accedido en tecnologías informáticas. "Frente a los DLOs están los no-DLOs, entendiendo como tales, por ejemplo, experiencias virtuales, bases de datos que generan "documentos como resultados" (Document-Like Outputs), o aplicaciones interactivas que pueden tener un contenido diferente según qué usuarios las utilicen". (96) Este concepto permite establecer sistemas de recuperación de información a partir de metadatos asignados a los DLO no-DLO o Documents-like Outputs.
-
-[9^]:  Los metadatos son informaciones que hacen útiles los datos. Están destinados a ordenar y describir la información contenida en un documento entendido como objeto (DLO), de tal forma que se erigen como reveladores tanto de la descripción formal, como del análisis de contenido, en aras a mejorar el acceso a los objetos de información de la Red. (Rodríguez Méndez, 2001, pág. 100)
-
-
-
-#### Comunidades e infraestructuras digitales 
-
-El segundo modelo de metodología responde más a proyectos que trabajan factual o hipotéticamente con una comunidad de usuarios que pueden necesitar o serles útil una herramienta digital. Al reconocer una comunidad usuaria eso implica un abordaje en el cual el problema a resolver debe necesariamente dialogar e incluir claridades legales, éticas y de gestión (sobre todo sostenibilidad) del proyecto. Redes sociales temáticas, diseño de video juegos, proyectos transmedia, páginas interactivas, wikis, son algunos de los proyectos que resultan de estas metodologías. En este modelo tanto la informática comunitaria como la informática educativa tienen un papel importante pues están enfocadas en resolver problemas mediante la tecnología como puede ser el aprendizaje. Es por así decirlo una solución técnica a un problema social. La falencia de este modelo es su determinismo tecnológico y la ausencia crítica de las tecnologías en sí. Está estrechamente relacionado con el diseño centrado en el usuario y metodologías participativas de diseño, investigación acción y métodos etnográficos. Así como la informática comunitaria, computación social e  informática educativa.  
-
-
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-metodologia-001.jpeg)￼
-
-Gráfico 11. Creación propia.
-
- Poner la atención en tecnologías o sistemas informáticas al servicio o para la resolución de un problema de índole social es una tendencia que desde los años 80´s congrega a aficionados y profesionales de la computación, u otras áreas. Cuando Grunstein publicó *Community Informatics: Enabling Communities with Information and Communications Technologies* (Idea Group, 2000) ya existían al menos 20 años de experiencias localizadas de informática comunitaria (IC). Este campo que no cuenta con metodologías propias para ser definido como disciplina, "se preocupa por mejorar la sociedad civil y fortalecer comunidades para la autogestión y para el medio ambiente y el sostenimiento económico,poder, desarrollo, asegurando que muchos. que de otro modo quedarían excluidos, puedan aprovechar las enormes oportunidades que presentan las nuevas tecnologías" (Gurstein, 2000, pág.2). Por lo tanto, allí discurren los conceptos de comunidad e implementación y diseño de tecnologías y aplicaciones. 
-
-Si bien el acceso a las tecnologías y las herramientas implican que las sociedades salgan de lo que se denomina brecha digital, su implementación no necesariamente implica la apropiación y la comprensión de lo que implica la tecnología misma. La informática comunitaria siguiendo a Gurstein (2000),  incluye el acceso al hardware, el software, la conectividad y la información en contextos donde la tecnología sea aplicada a comunidades "físicas".  Esto implica que los usuarios como las comunidades deben ser parte del proceso de diseño de las implementaciones que se van a realizar. Pero, ¿incluye el diseño la dicusión de las implicaciones de las tecnologías en las comunidades? No necesariamente y por ello el tercer modelo metodológico que exploraremos más adelante.
-
-En todo caso este segundo modelo fue el utilizado en dos prototipos Milpaís y Cofechas. La implementación de la herramienta colaborativa dialogó con un paradigma fenomenológico -naturalista-  dede el cual se fundamentaron las metodologías investigación acción, provenientes de las humanidades que luego se fundamentó con discusiones del diseño participativo de corte etnometodológico (Srinivasan, 2007). Ambos prototipos estaban pensados para trabajar con ARAC, una comunidad de productores agroecológicos de Subachoque, Colombia. 
-
-
-
-##### Savia wiki: una wiki de saberes sobre las plantas
-
-A partir de los experimentos en Omeka la necesidad de trabajar con una plataforma colaborativa era apremiente. Si bien el proyecto quería aportar a la dinamización de la Base de Datos del Centro de Estudios en Medicina Intercultura CEMI, era claro que no podía trabajar desde la BD misma. Debía crear un prototipo que dialogara con los requerimientos de partida y los que citaba CEMI. Para ellos era indispensable 
-
-> 1) Recopilar y documentar la información disponible sobre plantas medicinales, en especial los conocimientos tradicionales que existen sobre ellas y las consideraciones sobre su aplicación para el cuidado de la salud. 2) Permitir el acopio incremental de información, su alimentación colaborativa y el fácil acceso de personas interesadas a través de Internet y 3) Integrar a las personas interesadas en las plantas medicinales a través de una red de colaboración.
-
-
-
-Si bien esos eran sus propósitos era clato que aún no tenía una comunidad que la alimentara y no contaban con un sistema de curaduría que permitiera verificar la calidad y pertinencia de la información dispuesta allí. Dos de los problemas que tienen por lo general todos los sistemas colaborativos pues responsabilidad generalmente recae sobre unos cuantos. En conversaciones con quien en su momento era el gerente de proyectos de CEMI, Iván Sarmiento, establecí algunos compromisos frente al proyecto que en principio declaraban que mis intereses no eran económicos, que toda la información y  la Base de Datos era propiedad de la organización y que mi aporte estaría en el marco de una recomendación. El análisis de esta BD requirió de la lectura de los términos y condiciones y la conversación con la abogada experta en propiedad intelectual y conocimientos tradicionales Cristina Matiz Mejía. A partir de las conversaciones que tuve con ellos empecé a conocer las discusiones sobre propiedad intelectual y conocimientos tradicionales y de paso empecé a conocer  las bibliotecas digitales que trabajaban temas etnobotánicos, las aplicaciones que en colombia abordaban este tema y otros sistemas colaborativos. (Ver: gráfico 13)
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-referentes-2017/esqu-referentes-2017.001.jpeg)
-
-Gráfico 13. Primeros referentes y fuentes indagadas para el proyecto. Marzo de 2017.
-
- El primer y más importante referente para crear el prototipo  fue [Inaturalist]( https://www.inaturalist.org/pages/what+is+it). Este software libre creado en el marco de una maestría de ciencias de la información de la universIdad de Berkley es actualmente una plataforma tipo red social que integra a la ciudadanía en la captura de datos sobre la biodiversidad. De este modo, información sobre especies animales, vegetales u hongos son reportados mediante imágenes o sonidos, y debidamente georeferenciados en la plataforma. Allí, una comunidad de expertos hace la verificación del nombramiento de tal modo que, se asegure la estructuración debida de los datos. Esta curaduría junto a una opción de oscurecimiento de información son dos de los elementos a destacar. La curaduría permite que la comunidad de expertos verifique la información y lo ajuste a los estándares científicos y estructuración de datos. Todos los datos están estructuradas bajos las categorías del estandar de metadatos Darwin Core. Este estandar  permite estructurar la información por  elementos de registro -¿qué se observa o escucha?-, registro biológico -¿cuáles son sus atributos?-, evento -¿a qué horas se realizó el registro?-, ubicación -¿dónde se realizó el registro?- y taxón -¿cuál es la especificación taxonómica?-,  excepto identificación que es una categoría que organiza los ID de la base de datos internamente y el contexto geológico.  En cuanto al oscurecimiento de la información esto permite que especies en peligro de extinción puedan reportarse pero mantenerse ocultos para protegerlas de traficantes, por ejemplo. Esta decisión es tomada tanto por quienes hacen las observaciones como por los curadores. El rol de los curadores es asignado por los administrados a partir de su participación o experiencia demostrada. Los curadores trabajan sobre la taxonomías, que pueden modificar una vez se establezca el debate. Los curadores tienen potestad sobre lo que se obscurece a partir de criterios de riesgo y toda la información sobre cómo ser curadores está en la [guía  para curadores](https://www.inaturalist.org/pages/curator+guide). 
-
-Ver [Observación inaturalist](https://www.inaturalist.org/observations/20189776)
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-referentes-v1.png)
-
-
-
-La posibilidad de ocultar informacion y el sistema curatorial de la información, respondían a dos problemas emergentes en el proceso de la investigación de Milpaís:  los riesgos para la salud de información de plantas medicinales sin verificación famaceútica, médica, etc. y la necesidad de resguardar cierta información etnobotánica dentro de plataformas digitales para protegerlas de apropiación indebida de conocimiento tradicionales. En cuanto a la curaduría inaturalist me permitió identificar un esquema de relacionamiento entre expertos y aficionados para la estabilización de la información. Sus criterios de evaluación de calidad de datos, los procedimientos colaborativos para rectificar o asignar nombramientos son dos estrategias que funcionarian perfectamente en una paltaforma etobotánica para verificar correspondencia con literatura científica. Ello aseguraría la democratización en la construcción del conocimiento y la fiabilidad de los datos. De tal modo se controlarían los riesgos de toxicidad, interacciones entre componentes y tratamientos, entre otras cosas. En cuanto a la posibilidad de obscurecimiento de información es claro que ante la inexistencia de legislación respecto a la protección de saberes tradicionales, los saberes etnobotánicos son propensos a la apropiación indebida o la biopiratería. ¿Qué quiere decir esto? ¿Cómo prevenirlo?
-
-La información etnobotánica, según reporta la Organización Mundial de la Propiedad Intelectual (OMPI), está en riesgo de apropiación indebida(Organización Mundial de la Propiedad Intelectual, 2015). El riesgo yace en las falencias para el establecimiento de legislaciones nacionales sobre derechos tradicionales de propiedad colectiva y la posibilidad de la usurpación de saberes tradicionales mediante patentes y por parte de particulares con intereses económicos. En este contexto la [Biblioteca digital de medicinas tradicionales de la India](http://www.tkdl.res.in/tkdl/langdefault/common/Home.asp) (TDK) fundamentó en el proyecto de Milpais la necesidad de establecer una discusión con la situación legal de dicho conocimiento en entronos digitales. La TDK es además un  modelo de estructuración de información para la protección y prevención de biopiratería [^10] Tras descubrir que varias de las plantas y prácticas medicinales tradicionales estaban siendo patentadas -la cúrcuma por ejemplo- el gobierno Indio decidió crear esta biblioteca. Allí se recopila el saber de varias tradiciones de medicina hindúes en sus lenguas originales y traducidas em 5 idiomas. El propósito es que las oficinas de patentes de todo el mundo verifiquen antes de conceder una patente. Como se puede revisar en la [wiki de referentes en github](https://github.com/mjespinosam/ruta-metodologia/wiki) la TDK estructura la información siguiendo el modelo de clasificación internacional de patentes(CIP) pero añadiento campos de descripción. En la CIP
-
-> "hasta 2005, solo había un subgrupo –el A61K35/78– correspondiente a plantas medicinales, lo que significaba que los examinadores de patentes no disponían de los recursos óptimos para revisar solicitudes de patentes basadas en medicinas tradicionales" (La protección de los conocimientos tradicionales de la India, s. f.) 
-
-Por lo que con el trabajo de la TDK se establecieron 207 subgrupos nuevos además de los 27 mil subgrupos presentados por la TDK en lo que denominaron: Clasificación de recursos de conocimientos tradicionales en sus siglas en inglés TKRC. Este modelo de clasificación "sistémica de diseminación y recuperación del conocimiento tradicional en un entorno digital" es un referente mundial. Países como china consideran oportuno crear un sistema armónico con el CIP pese a que la clasificación TKRC no responde a las particularidades de sus medicinas. En todo caso el TKRC constituye un esfuerzo por dar cuenta del dominio etnobotánico. Si es o no una clasificación aplicable a todo los saberes etnobotánicos es una discusión que daré más adelante. Lo que si es cierto es que gracias a esta plataforma un sistema de conocimiento milenario vivo es catalogado, divulgado y protegido a través del  acceso restringido de ciertas informaciones 
-
-Hasta aquí  Inaturalis se presentaba como el software que podría incluir aspectos culturales a la taxonomía vegetal y presentar así una mixtura entre enciclopedia y red social. Allí se podría integrar los saberes etnobotánicos a partir de la estructuración de los datos al modo de la TDK que pudiesen servir para la protección preventiva del conocimiento. Para ello procedimos con Camilo Martínez [^11] a la instalación de este software y prototipar desde allí el entorno colaborativo. Dos aspectos se interpusieron para poder llevarlo a cabo: el software, según comunicó via email el desarrollador del software Ken-*ichi* Ueda, no estaba documentado en sus últimas versiones y según reportaba Karen Socha, encargada de ciencia ciudadana y referente de inaturalist desde el Instituto Humbold en su momento, implementar esta plataforma era demandante y costoso. Al respecto la investigadora comentó sobre la experiencia de España en donde decidieron hacer un Fork  -bifurcación- de inaturalist llamada [Natusfera](https://natusfera.gbif.es/pages/about), que integra además la wikipedia. Este proyecto -reiteró- ha sobrepasado las capacidades humanas y los recursos del equipo. Lo mejor en todos los casos dijo la investigadora - es trabajar desde la que ya existe implementada- . Pero esto era inviable: inaturalist no contempla información etnobotánica,  ni los sistemas de información sobre biodiversidad integran campos culturales como parte de la biodiversidad, por ejemplo nombres comunes, usos, preparaciones, etc. Por ello, cualquir reporte de caracter cultural que se suba a la plataforma como pueden ser imágenes de plantas en códices, cuadros, canciones, etc, son datos que se notifican para dar de baja pues interfiere en la estructuración conceptual de la Base de Datos. En cierta medida es posible hacerlo a riesgo de ser censurado. Esta imposibilidad curatorial sumada a la imposibilidad técnica de poder hacer un prototipo con este software, nació Milpaís, una wiki semántica etnobotánica. 
-
-
-
-##  Milpaís: una wiki semántica para recuperar, compartir y construir colaborativamente las relaciones entre plantas, seres humanos, comunidades y entornos
-
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/poster-mipais-v2.png)
-
-Milpaís [^12]
-
-##### Lecturas
-
-
-
-
-
-
-
-Una intención que ya estaba clara en la pregunta del proyecto de la wiki etnobotánica "Mil país"
-
-> ¿De qué manera se puede articular ciencia y conciencia ciudana bajo principios éticos, en comunidades que usan, ivestigan, producen y defienden saberes etnobotánicos mediante la implementación de una wiki semántica pensada para diversas comunidades que permita la apropiación de la tecnología, el acceso recuperación del conocimiento y verificación de la información?
-
-Y así ocurrió en el primer año [5^]. La investigación acción como una metodología de investigación centrada en las relaciones de las personas con el problema,  me permitió mediante el diseño de instrumentos y consulta a comunidades y expertos construir un prototipo inicial. La realización de entrevistas a tres expertos en etnobotánica, propiedad intelectual y ciencia ciudadana, la participación en las reuniones de la comunidad ARAC (productores agroecológicos de Subachoque), la realización de un grupos focal con ellos, la observación participante, las conversaciones, más las matrices de análisis de referentes y exploración conceptual permitieron consolidar un prototipo bajo incipientes metodologías ágiles. Pero ¿Cuáles habían sido los referentes (software) para consolidar este prototipo?
-
- Al respecto en Milpas pude notar dos aspectos:
-
-1. En ningún momento había pensado en la manera como se estructuraba el conocimiento para el modelado de una base de datos
-2. Tenía la plena convicción de que las wikis al ser colaborativas ya eran herramientas suficientes para democratizar la construcción y recuperación del conocimiento además de mapear las relaciones seres humanos plantas. 
-
-En cuanto a los aspectos legales emergió la vulnerabilidad de los conocimientos tradicionales sobre plantas ante el riesgo de ser patentados. Esta cuestión que parece impensable es el motivo por el que paises como la  India. Como se puede consultar en el referentes Biblioteca Digital de Medicinas tradicionales de la India por sus siglas en inglés TKDL (Ver: wiki en GitHub), existen escazos pero importantes rmodelos de bibliotecas digitales que previenen la bioperiatería o apropiación indebida de conocimientos tradicionales vinculados a recursos biológicos. Este asunto que no es menor cuestiona la procedencia ética de una plataforma etnobotánica. En tanto no exista una legislación nacional, toda informacion que circule en internet está en riesgo de ser apropiada indebidamente. Y esto implica un riesgo para la existencia de las plantas como para las comunidades donde habitan y comparten sus beneficios. Para aclarar el tema: quien patente un  
-
-Frente al asunto de las relaciones de las plantas con los seres humanos, mi perspectiva, como los preceptos ontológicos de los modelos subyacentes a los prototipos: modelado de bases de datos e infraestructuras, no consideraban ni integraban a las plantas como agentes en el sistema mismo. Sin embargo, la oportunidad de desarrollar un laboratorio de micro huertas [x^] me permitió explorar la intuición de dichas relaciones. Intuiciones que más adelante identificaría como metodologías del diseño crítico y  especulativo. Desde allí, como desarrollaré más adelante, me pregunté sobre la agencia de las plantas, su relación -de amistad- con los seres humanos, su estatuto ontológico y la experiencia que teníamos los participantes con ellas. Aquí, el diseño crítico es el detonante del giro de esta investigación pues me permitió reconocer perspectivas multidisciplinarias para abordar un problema de investigación desde las Humanidades Digitales y ver en el prototipo un artefacto para pensar [2]. 
-
-En este punto el problema emergió en la necesidad de hacer el modelado de datos como prerequisito para poder hacer prototipos en diferentes software. Pero este problema que era en apariencia un asunto técnico devino en una exploración sobre los tipos de bases de datos, la creación de las mismas y los conceptos subyacentes. De ahí que la pregunta de cómo dar cuenta de las relaciones seres humanos plantas en una plataforma colaborativo tipo wiki, desecandenó en una serie de preguntas sobre la naturaleza de diferentes software, los presupuestos sobre las relaciones seres humanos plantas, los aspectos éticos y jurídicos a tener en cuenta y las discusiones conceptuales sobre las plantas. ¿Qué es al final de cuentas una planta y cuáles las relaciones que ella tiene con nosotros? Si la entidad planta se describía como un individuo ¿Q
-ué implica definirla como individuo? ¿Cómo se puede evidenciar la agencia que tiene la planta en la construcción de conocimiento que sobre ella se trasnfiere a un entorno digital? 
-
-
-
-
-
-Esta perspectiva pone en escena las tensiones entre las realidades comunitarias y el acceso. Además de condiciones técnicas específicas para poder tener por ejemplo tele llamadas hay demandas educativas que deben acompañar ese acceso
-
-
-
-Si bien desde esta perspectiva se aboga por la inclusión y superación de lo que ahora reconocemos 
-
-Informática comunitaria
-
-Informática educativa
-
-Diseño participativo 
-
-Presupuesto
-
-1. Trasnferir la existencia de un ser vivo a una base de datos es un ejercicio de descripción que no acarrea problemas concpetuales. Muchas plataformas tienen información útil y conveniente sobre las plantas. Ya hay preexistencias de estos modelos.
-2. Las herramientas no modelan el conocimiento sino que a través de las herramientas modelamos los conocimientos.
-3. Existen relaciones entre los seres humanos y las plantas.
-
-Por lo tanto pensar las representaciones de las plantas u otros elementos de los entornos vivos en las herramientas nos permite identificar sus limites y los retos en el desarrollo de software. Pero no solamente en clave de desarollo sino de pertinencia. ¿Para qué queremos un otro software? ¿Cómo el software media con las representaciones que tenemos de la realidad y en este caso de las plantas? 
-
-El *prototipo* *se* *desarrolla* *a* *partir* *de* *una* *wiki* *semántica* *del* *software* *libre* *Media* *Wiki* (*semantic*-*mediawiki*.*org*, 2018) para la gestión del conocimiento etnobotánico de comunidades que usan, defienden y comparten saberes sobre las plantas. Diseñada a partir de una reflexión ética y legal de lo que implica documentar, catalogar y difundir conocimientos tradicionales y locales, el prototipo parte de una estrategia para visibilizar las relaciones plantas-personas-comunidades con cuidado de no exponer contenidos susceptibles de expropiación indebida (componentes, fórmulas, técnicas, rituales). Es así que en este prototipo me interesa conectar qué lugares, qué personas (comunidades) y de qué maneras se construyen las relaciones con las plantas, entendidas estas como uno de los bienes comunes que sostienen y equilibran entornos como el cuerpo y el medio ambiente (Lafuente, 2007).
-
-En términos técnicos, la SMW permite estructurar una Base de Datos Relacional (BDR) mediante el uso de plantillas que integran notación semántica y vocabularios controlados. Para esta wiki utilizamos el estándar de metadatos FOAF(*The* *FOAF* *Project*, 2018) y un conjunto de metadatos propios y vocabularios controlados alimentados de diversas fuentes de catalogación etnobotánica (Royal Museum From Central Africa, 2017; *BRIT* - *Native* *American* *Ethnobotany* *Database*, 2003). Igualmente, se ha tenido y se tendrá en cuenta la información que colaboradores y posibles usuarios han reportado necesaria. Para recuperar la información y que se integre la notación semántica, el prototipo implementa los formularios de Semantic Media Wiki (*Page* *Forms* - *MediaWiki*, 2018). Estos formularios permiten a los colaboradores/creadores de la wiki ingresar la información mediante una interfaz amable sin necesidad de hacer notación semántica manual. Una vez se ingresa la información la SMW permite recuperar información relacional (qué personas son amigos de una planta, qué plantas sirven a las personas para hacer artesanía, qué comunidades resguardan una semilla en particular, quiénes y dónde hay médicos tradicionales, yerbateras, investigadores, médicos alópatas que trabajan con plantas, etc.) así como visualizar datos tales como los geográficos.
-
-
-
-##### La Wiki semántica: la caja negra de la clasificación de las plantas y sus relaciones
-
-La organización mundial de la propiedad intelectual (OMPI) desde hace más de dos décadas discute y prepara documentos que permitan incorporar en su paradigma del derecho y la propiedad intelectual (PI) y los conocimientos tradicionales (CCTT). La OMPI los define como, **“**conocimiento como tal, en particular el conocimiento que produce la actividad intelectual en un contexto tradicional, e incluye la experiencia, práctica y aptitudes así como las innovaciones” (OMPI, n.d.) A la fecha existe una guía de la organización para la catalogación de los CCTT no sin advertir que deben ser las propias comunidades quienes cataloguen y preferiblemente administren dicho conocimiento (Organización Mundial de la Propiedad Intelectual (OMPI 2017) Señalan también que no es suficiente con proteger las Bases de Datos (BD) pues los conocimientos allí incluidos, si no están protegidos por una legislación nacional pertinente, no están protegidos en sí. Su gran discusión es si es posible que los Derechos Colectivos puedan ser reconocidos en su modelo de Derechos. Autoras como Andressa Caldas discute las distancias epistemológicas del modelo del derecho occidental y la imposibilidad de que lo común, lo colectivo, lo tradicional, puedan ser incorporados en el paradigma de la PI (Caldas 2004) y por lo tanto, la vulnerabilidad a la que están expuestos al no ser respetados sus propios modos de circular. Detrás de todo este debate avanza por el mundo entero la biopiratería, la apropiación indebida de conocimientos y los intereses privados sobre bienes comunes a la vez que se presentan iniciativas para crear bases de datos con este tipo de conocimientos (Lafuente 2007) (Biopirateria – Iniciativa Andino Amazónica Para La Prevención de La Biopiratería n.d.) (CEMI n.d.) Es preciso entonces, abordar desde las Humanidades Digitales las implicaciones legales y sociales de la conservación de dichos conocimientos a través de BD y el software. Este abordaje debe partir de las maneras como las propias comunidades, en las que circula como conocimiento y práctica dichos CCTT, consideran que deben integrarse estrategias digitales que permitan administrar, catalogar o no, compartir o resguardar estos saberes. 
-
-Una aproximacion desde  la antropología me permite discutir la necesidad de contemplar la arquitectura de la información, las Bases de Datos de conocimientos tradicionales, locales y comunitarios y el uso/desarrollo del software como iniciativas que si no parten de un ejercicio reflexivo y ético pueden desconocer la pluralidad de ontologías de las comunidades, el sentido en sí del conocimiento y de paso convertirse en prácticas colonialistas enmarcadas en el extractivismo de información o la vulneración de los derechos colectivos (Vargas 2010).
-
-En las humanidades las discusiones sobre la relación entre lenguaje y realidad-cultura así como los sistemas de clasificación han sido recurrentes. Levy Strauss en el Pensamiento Salvaje (Lévi-Strauss and González Aramburo 2014) aborda la clasificación como práctica humana que puede darse de manera “mítica” o “científica”. El pensamiento mítico, señala, no utiliza modelos estructurados para clasificar el mundo, mientras el pensamiento científico parte de sus hipótesis y teorías. Si bien Levy Strauss no nos está hablando de pluralidad sino de una diferencia en dos modelos, es claro que existen en los “pensamientos míticos” muchos modos de clasificar el mundo relacionados con el lenguaje mismo, con las palabras. Siguiendo la hipótesis de Sapir- Whorf (Carr 2018) el lenguaje construye las realidades particulares que coincide con lo que en la última década, y para hablar de las pluralidades, la antropología empezó a trabajar con las ontologías “mundos desde los que se habla” y que se denomina el “giro ontológico” (Varela 2015). Así, las ontologías están estrechamente relacionadas con las palabras y los conceptos de cada comunidad pues son constituyentes de mundos desde los que se habla, se determina su realidad y que son enclave para pensar su conocimiento e información. Estos permite prever la importancia de explorar, investigar, pensar-negociar y definir con las comunidades los modos de clasificar, la creación de metadatos y en sí mismo los principios ontológicos. Al respecto Christies y sus colegas (2008) , hablan de la co creación con y para las comunidades, de la relación entre palabras y ontologías y de la necesidad de interrogarlas, para hacer la mejor construcción o uso.  Preguntas como ¿Comparten las comunidades las mismas taxonomías que los investigadores? Y si no ¿Cuáles consideran las comunidades que son pertinentes? ¿Los metadatos a utilizar dan cuenta de las necesidades de información de un grupo? ¿Tiene en cuenta el diseño del software la experiencia de las personas, la necesidad de la comunidad? ¿Están los investigadores informados y sensibilizados sobre las maneras de estructurar el conocimiento de su comunidad? 
-
-En Australia el grupo investigador de la universidad Charles Darwin ha trabajado por años con la comunidad indígena Yolngu en proyectos que van de la lingüística a la etnobotánica y a partir de los resultados de investigación, e implementación de diversas soluciones digitales, no solo han reconocido que la “arquitectura de la información refleja y representa políticas del conocimiento” si no que es una práctica colonialista que puede ser desmontada desde la negociación y diseño del software (Christie 2006). La manera como un grupo de académicos, una agencia de cooperación o una institución (por ejemplo la OMPI) pueden llegar a determinar las buenas prácticas para catalogar, archivar, crear interfaces sin incluir a las comunidades, puede en muchos casos imponer –con la mejor de las intenciones- modelos que no le sirven a la comunidad, no revitalizan sus relaciones, su memoria y no ayudan –por ejemplo- a la apropiación del patrimonio  (Srinivasan 2007) (Christie 2006). En este sentido la formulación de los proyectos con comunidades y sobre todo con CCTT requieran de una reflexión ética y política-legal sobre la pertinencia o no de las estrategias digitales a usar.  
-
-Los metadatos en particular, como instrumentos de captura de información, de estructuración de los mismos, privilegian la interoperabilidad sobre el uso real, contextual y cultural de los datos que pueden no necesitar dichos modelos. ¿Para qué comunidad/usuarios se quiere garantizar la interoperabilidad? ¿Qué metadatos son más pertinentes según las comunidades? Como señala Srinivasan:
-
-> “What is clear when one begins to analyze these metadata models is that they are built around a system of logic that follows traditional notions of rationality. These are systems that do not seem to be concerned primarily with the community or specific cultural group’s authorship, epistemology or ontology”(Srinivasan 2006)
-
-El punto aquí no es su negación o llamar al desuso, si no la posibilidad de que confluyan estándares con metadatos propios y que esto posibilite la negociación entre diferentes ontologías (Verran et al. 2007) o espacios de reinvidicaión de lugares de la no existencia (Santos 2006), eso que no es lo culto, ni lo estándar, ni lo aprobado por un sector, en este caso los sistemas de información. Es decir, un espacio digital en el que puedan convivir diferentes modelos de metadatos estandarizados con otros que no lo son pero que son pertinentes localmente. Igualmente se puede recurrir a entornos que no condicionen el conocimiento ni la experiencia de los usuarios, con su conocimiento y con la experiencia de la interfaz a formularios, etiquetas predefinidas. Este es el caso de TAMI (Texto Audio, Video e Imagen), sistema de administración de archivos para una comunidad indígena, que se pensó por investigadores bajo la premisa de ontologías fluidas en la que cada usuario decide qué metadatos definir, como agrupar y qué compartir o no (IKRMNA - Making Collective Memory with Computers n.d.) (Ver: imagen 3)
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/TAMI-gestor.png)
-
-
-
-Iamgen 3: [TAMI](https://www.cdu.edu.au/centres/ik/db_TAMI.html#). Administrador de conocimiento etnobotánico. 
-
-Ahora bien, si las palabras-conceptos de un estándar de metadatos u ontologías están allí modelando y delimitando no solo un conocimiento si no un grupo humano y su experiencia con los conocimientos, estos se aplican a entornos que son el resultado de un diseño y desarrollo de Software. Para Chrities ( 2005) el software “is not ontologically neutral, it is invested by the expectations of the programmers about both the nature of the world and the nature of work to be done upon it.” (Pág.6). Esta aparente neutralidad la cuestiona también Lev Manovich (Manovich 2017) para quien estudiar el software es una deuda de las Humanidades Digitales en tanto el software como el habla “hacen cosas”: modelan pensamientos, crean experiencias sociales, culturales, etc. A esto le llama el autor “actos de software” haciendo un paralelo lingüístico. Esos “actos de software” pueden entonces abordarse desde nuestro campo en dos vías: una, haciendo una lectura (próxima o lejana) del código para analizar sus modos de crear experiencias y modelar o dos, creando software –comunitario- que permita modelar colaborativamente para dar respuesta a las inquietudes y necesidades de las mismas comunidades. 
-
-Este tipo de creación colaborativa del software es nombrada por Ramesh Srinivasan informática comunitaria (Srinivasan 2007) y es la apuesta a que la misma comunidad esté implicada en el diseño y sea  “information architects and ontology creators of their own systems. (Pág. 3). Esta inclusión permite una nueva comprensión del rol profesional de los Humanistas Digitales como “Facilitadores del conocimiento orientados al proceso. En lugar de ingenieros de información orientados al producto. (Albrechtsen y Jacob, 1995, p. 30, citado en Srinivasan). 
-
-Este tipo de iniciativas cabe aclarar, son el resultado de trabajos interdisciplinarios en los que por ejemplo, el diseño dialoga con las humanidades y sus métodos: etnografía, etnometodología. La etnografía permite la observación directa y la interacción con la comunidad mientras la etnometodología “entendida como, la investigación empírica (logía) de los métodos (método) que utiliza la gente (etno) para dar sentido y producir, al mismo tiempo, la actividad social cotidiana, es decir, el estudio de los procedimientos constitutivos de la inteligibilidad social”. (Diccionario Crítico de Ciencias Sociales | Etnometodología n.d.) En este sentido, estas metodologías aplicadas al trabajo de ideación, prototipado y versiones beta, permite según Srinivisan, crear puentes para que las comunidades creen sus contenidos, sus propios sistemas de información, diseñen las arquitecturas de sus bases de datos en integren los sistemas en sus comunidades. 
-
-Finalmente y volviendo al tema de los conocimientos tradicionales, hay que reparar que dada su vulnerabilidad, el estado de pérdida en el que muchos se encuentran y la urgencia institucional por conservarlos, es preciso replantear los modos y los medios como se establecen los puentes para que el trabajo con los mismos esté al servicio de las comunidades y que permita la apropiación, revitalización, cuidado y defensa de dichos saberes. Igualmente, esto implica que se debe tener aclarar el lugar ético e investigativo frente a la elección e implementación de los modelos de gestión del conocimiento en la era digital (Van der Velden 2005). Rescato la importancia de métodos etnográficos y la etnometodológicos como puntos de partida para poder idear y diseñar con los otros, propuestas digitales, rutas metodológicas. La apropiación depende en gran medida de los niveles de involucramiento y decisión que tienen las comunidades sobre lo que se diseña y prototipa. 
-
-
-
-Nota de Camilo:  Relacionado a lo CCTT y lo de Australia <!-- Aquí hay un a discusión importante que también hace referencia a la estandarización como una forma de normalización.  Estandarizar implica normalizar, describir y usar categorías comunes, pero cuando las categorías han sido formuladas desde una parte con poder, para una comunidad estandarizar y normalizar su conocimiento implica eliminar lo particular de ese conocimiento, por ejemplo eliminar la agencia espiritual o mágica de una planta en ese proceso de estandarización/normalizacón.  Interoperabilidad es un término que evoca una relación bidireccional horizontal, por lo tanto oculta las relaciones de poder implícitas en el término
-
-
-
-<!--En este párrafo se despliega una idea interesante, yo creo que también es posible reconocer estos procesos de informática comunitaria como procesos bidireccionales de tranferencia de conocimiento, una comunidad aprende a modelas, por lo tanto tiene que etender conceptos de las ciencias de la computación (colonialistas y hegemónicas, como ya lo has planteado) pero también implica que las ciencias de la computación y las humanidades son transformadas por estas formas de conocimiento. El humanista digital debería ser capaz de actual en estos dos procesos o direcciones -->
-
-##### Diseño para las comunidades: Cofechas
-
- 
-
-[Cofechas](https://github.com/mjespinosam/botsque-doc/blob/master/Cofechas/index.html)
-
-
-
-
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/cofechas-logo-v1.png)
-
-<img src="https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esque-cofechas-v1.png" style="zoom:150%;" />
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esque-cofechas-v1.png)
-
-
-
-
-
-[^10]: La biopiratería es entendida como la apropiación indebida de saberes tradicionales relacionados con recursos naturales. La TDK alerta sobre el riesgo de que intrusos aprovechen saberes ancestrales para registrarlos en oficinas de patentes que al no tener vías de verificación de la existencia de estos saberes proceden a otorgar patentes. Un litigio en defensa de un saber tradicional es costoso y lleva años. Casos como el de la cúrcuma, nema, arroz basmati, quinoa, ayahuasca, hoodia son emblemáticos por haber sido ganados a favor de las comunidades o por haber sido patentados. 
-[^11]: Esta tesis es el resultado del trabajo con Camilo Martinez quien además de ser el director de este proyecto fue el profesor encargado del laboratorio de Humanidades Digitales. Es claro que las Huamanidades Digitales son el resultado de trabajos colaborativos y que de las relaciones entre campos de conocimientos y personas estos proyectos suelen abrir nuevas discusiones y propuestas.
-[^12]: El proyecto recibió una financiación de la Facultad de Artes y Humanidades de los Andes a partir de la cual se desarrolló el trabajo de campo en la comunidad de ARAC 
-
-
-
-[x^] Tanto las aplicaciones de la IC como los modelos de servicios, tienen una clara vinculación con los procesos que se han adelantado o se pueden adelantar en las Bibliotecas Públicas. Y es claro que en este marco las tecnologias son las mediadoras de procesos para las comunidades. Pero ¿cuál es la incidencia de las tecnologías en las mismas comunidades?
-
-
-
-
-
-#### Prototipar para pensar los problemas en HD
-
-![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esqu-metodologia-002.jpeg)
-
-![img](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-metodologia-002.jpeg)
-
-Gráfico 12
-
-El tercer modelo permite salir de la lista de requerimientos a cuestionar las instancias fundacionales de las herramientas desde la experimentación con ellas mismas. Probar las diferentes plataforma e indagar críticamente las maneras como han sido diseñadas y las maneras como presentan el problema del o la investigadora. Latour llama la atención sobre estos casos de mediación que nombra como cajanegrización. En referencia a las cajas negras de los aviones, el autor señala la opacidad de ciertos actantes como pueden ser las herramientas o tecnologías digitales. Tras la implementación de una herramienta se oscurecen todas las redes que la constituyeron lo que no permite ver la complejidad interna.  Este modelo por lo tanto puede ser usado para traer a la luz las redes de una tecnología diseñada o implementada para un problema o una comunidad. Así, se parte del posible diseño, uso y apropiación de una herramienta pero se cuestiona el cómo, para qué, entre quienes se va a diseñar o diseñó esta herramienta. Es preciso señalar que aquí el prototipo no es solo el resultado sino un elemento que permite mediante la iteración, refinar el proceso, evidenciarlo de manera crítica (Ver: gráfico 8). Este modelo dialoga directamente con la investigación en diseño crítico y el especulativo. Desde allí se propone el diseño de dispositivos de reflexión sobre conceptos sociales problémicos en un mundo neoliberal que se apoya muchas veces en tecnologías. 
-
-￼
-Figura 8. Creación propia
-
-Antecedente del lenguaje del bosque
-
-###### La mesa huerta: un prototipo especulativo
-
-![](/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/mesa-huerta-6.jpg)
-
-![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/mesa-huerta-6.jpg)
-
-
-
-[APARTADO EN PROCESO DE ESCRITURA]
-
-Como parte del resultado del primer laboratorio de creación colectiva de Microhuertas “Crear/criar espacios vivos en casa” realizado en Bogotá (2018) un grupo interdisciplinario de creadores de la ciencia el arte y la tecnología prototipamos una “ Mesa-microhuerta” en la que se integramos sensores electrónicos con el fin de activar la comunicación entre seres humanos-plantas-agente virtual (bot). A partir de un ejercicio especulativo cuestionamos la integración de los sensores como dispositivos de control a los espacios vivos si bien reconocemos la huerta como espacio semiótico en el que se da la interacción entre sensores personas y plantas. Esta interacción construye y devela signos a partir de una experiencia corporal y emocional. Por lo tanto, la integración de los sensores más que sustituir labores de cuidado de la huerta se integran en la mediación comunicativa para la conexión con lo vivo. Bajo la pregunta ¿Cuál es el bienestar de la microhuerta y de qué manera los sensores dan cuenta de ello? Trabajamos con 4 sensores: el cuerpo como sensor primario que desde la observación determina condiciones para las plantas, y los sensores de humedad de tierra, humedad relativa y luz. Estos sensores están dispuestos de tal modo que se relaciones con la mesa a través de canales de bienestar contruídos inicialmente con tinta conductora y luego con cinta de cobre. Sobre cada canal habitan un conjunto de insectos benéficos para el entorno y elaborados de materiales electrónicos que se encienden si cada canal: agua, luz, humedad, son los propicios para el bienestar. Los datos a su vez son entregados vía wi fi a telegram desde donde se archivan mediante un bot que comunica a la comunidad de microhuertas el estado de bienestar de las huertas. 
-
-##### Lenguaje del Botsque hacia una hermeneútica vegetal interespecie
-
-## El lenguaje del botsque : prototipo para pensar una hermenéutica interespecie: seres humanos-plantas en un entorno colaborativos
-
-
-
-_¿Buscabas la causa en la naturaleza? Esto se refiere a eso, y eso a aquello, y aquello a lo otro, y todo se refiere a algo. Debes preguntar de otro modo, debes sentirlo y quererlo, debes contemplarlo con un espíritu tan grande como aquél por que existe, antes de poder conocer la ley. No podrá ser conocida, pero sí alegremente amada y disfrutada. Emerson (2008 [1896]p.101)_
-
-
 
 Bajo la premisa de una naturaleza que comunica y es parte de la creación de conocimiento sobre ella misma esta aproximacion especulativa se vincula con la hermenéuticas intercultural cosmoteándrica al afirmar que la naturaleza como símobolo es parte del paradigma ser-hablar-pensar. Esto quiere decir que si bien la naturaleza habla, no por poseer un   lenguaje, sino que el ser humano "participa de su habla, escuchándola y siendo su intérprete, si sabe escuchar. (Sepúlveda) Como señala Panikkar (2011a) la relación entre escuchar y hablar es de tipo a-dual: “No hablaríamos si primero no hubiéramos escuchado, y no escucharíamos si nuestro ser no participara del Ser que habla”202 
 
@@ -699,41 +227,7 @@ Ahora bien, en cuanto al primer punto, la converción al pensamiento vegetal est
 
 Bienestar: bajo la pregunta de ¿qué es estar bien para un ser humano y para una planta? Integro la idea de un ser humano que pese a sus circunstancias sabe mantener la calma y la ecuanimidad. Estar bien es poder vivir sin que el cuerpo produzca un exceso de hormonas como el cortisol que producen estrés, depresión, ansiedad. Pero ¿qué es estar bien desde las plantas? Si bien funciono como interprete y traductora al respecto, son una serie de signos sobre todo "indices" es decir que están en relación de una causa y un efecto, las que me permiten dar cuenta del bienestar. Una semiótica de la planta revela un estado general de bienestar a través de su color y su entereza. La despigmentación, la falta de fuerza en sus tallo o sus hojas caída manifietan que algo no está en orden. El bienestar según mi relación con ellas también está vinculado al crecimiento de otras plantas amigas cercanas como tréboles, su florecimiento estacional, el aspecto de la tierra. Así, el bienestar como dos estados análogos  que responden a situaciones contextuales de la planta y mias, son variables que se establecen desde mi concepción personal de mi bienestar y desde la relación con mis plantas frente a los que es estar bien. Ambos estados de bienestar son por lo tanto, una suerte de variables que se determinan en la relación entre las partes. Las variables de bienestar para mi y las plantas con que habito no son transferibles necesarimente a la relación de otra persona con sus plantas. 
 
-
-
-Las variables que constitiuyen el bienestar de mi relación como ser humano con las plantas con quienes vivo son:
-
-Generación de electricidad
-
-Humedad relativa
-
-Luz relativa
-
-Estos datos van a ser cosechado
-
-![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esque-prototipo-sistema-02.png)
-
-Requerimientos del sistema
-
-Ontologías planas. Toda estructuración de la información es por parte de la comunidad.
-
-Se establecen relacione
-
-### Sistema de comunicación plantas sere humanos -Prototipo-
-
-"Si al principio existía la palabra el Principio es el Silencio, de donde nace la Palabra. La palabra re-vela cubriendo con su sonido al Silencio. En este sentido, el Silencio es ausencia de Palabra y desde un punto de vista lógico es "anterior", porque es lo que la hace posible" ([Sepúlveda Pizarro 2015:49](zotero://open-pdf/library/items/FD4XPIM8?page=49))
-
  
-
- ## Conclusiones
-
-De la extracción a la siembra de datos 
-
-
-
-[PROCESO DE ESCRITURA]
-
-Explorar las maneras como los seres humanos resolvemos problemas de manera algoritmica, heurística, etc.  es fundamental para abordar los problemas en las humanidades digitales donde confluyen disciplinas y metodologías. Hay aspectos de los problemas que se resuelven algoritmicamente pero hay otros que requieren de pensamiento paralelo o enfoques heurísticos. En esta tesis en particular el pensamiento paralelo entendido como la confluencia de múltiples soluciones a un problema me permitieron explorar el problema e identificar todos los aspectos relacionados. Sin embargo, hice uso del pensamiento algoritmico para solucionar problemas de las herramientas y diseñar experimentos. 
 
 ## Referencias
 
