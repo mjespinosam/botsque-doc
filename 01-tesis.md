@@ -4,27 +4,7 @@
 
 
 
-Pero si Dios es los árboles y las flores                                                 
-
-y los montes y la luz de la luna y el sol,                                                            
-
-¿para qué le llamo Dios?                                                                    
-
- Le llamo flores y árboles y montes y luz de la luna;                
-
-porque si él se hizo, para que yo lo vea,                                                             
-
-sol y luz de la luna y flores y árboles y montes,             
-
-si se me aparece en figura de árboles y montes  
-
-y luz de luna y sol y flores,                                                                 
-
- es que quiere que le conozca                                                                  
-
-como árboles y montes y flores y luz de luna y sol.
-
-​                                                      *El guardador de rebaños. Fernando Pessoa*
+_¿Buscabas la causa en la naturaleza? Esto se refiere a eso, y eso a aquello, y aquello a lo otro, y todo se refiere a algo. Debes preguntar de otro modo, debes sentirlo y quererlo, debes contemplarlo con un espíritu tan grande como aquél por que existe, antes de poder conocer la ley. No podrá ser conocida, pero sí alegremente amada y disfrutada. Emerson (2008 [1896]p.101)_
 
 
 
@@ -57,7 +37,7 @@ Toda la documentación de esta tesis queda en Github y todos los esquemas, ideas
 
 ## I. Plantar
 
-> _¿Buscabas la causa en la naturaleza? Esto se refiere a eso, y eso a aquello, y aquello a lo otro, y todo se refiere a algo. Debes preguntar de otro modo, debes sentirlo y quererlo, debes contemplarlo con un espíritu tan grande como aquél por que existe, antes de poder conocer la ley. No podrá ser conocida, pero sí alegremente amada y disfrutada. Emerson (2008 [1896]p.101)_
+
 
 Ante la pregunta de qué manera dar cuenta de las relaciones plantas seres humanos en una plataforma colaborativa de tal modo que las plantas sean consideradas actores y partícipes de ese conocimiento que se da en la relación, es preciso establecer un marco teórico y conceptual que nos permita partir de una perspectiva de la realidad no objetivamente, que supere las nociones sujeto objeto y que integre lo no humano en la constitución del conocimiento. Esto implica reconocer y hacer participe de la experiencia del conocimiento a todo lo que no sea humano pero sobre todo, implica conocer la manera como otros entienden y conocen lo no humano, en este caso las plantas, para comprender, dialogar y vincularse con esas otras epistemologías. Pero, ¿cómo abordar la participación de lo no humano en la construcción de conocimiento colaborativo en un entorno digital? En lo que sigue, me gustaría recoger tres reflexiones que superan el paradigma científico dominante que desconoce lo no humano y que pueden dar pistas sobre el debate en las humanidades digitales:  la hermeneútica intercultural y la ecosofía de Raimon Panikkar,la Semiótica de Pierce y el pensamiento de las plantas de Michael Marder.A partir de estos tres autores construyo el principio de realidad desde el cual abordo esta investigación, más allá del antropocentrismo para indagar en una experiencia de la realidad de manera tripartita o como la define Panikkar, intuición cosmoteándrica. Realidad que responde a la relación entre lo inefable, divino, Theos; lo terrenal, el cuerpo, la materia, kosmos y, el pensamiento, la razón, el logos. Como anotaré más adelante para estos tres autores el pensamiento no es una cualidad humana sino que ocurre en el universo por ejemplo en la naturaleza.  De ahí que es preciso comprender la planta como ser pensante, agente y comunicador. Estas tres cualidades han sido investigadas por Mónica Gagliano desde la biología de plantas ( Gagliano,2017).  Estas aproximaciones permiten ver los desafios que tienen las herramientas colaborativas digitales al querer integrar las plantas en relación a lo humano.  Para inscribir la pluralidad de modos de conocerse y relacionarse con ellas implica pensar otras epistemologías tanto a la hora de diseñar implementar software colaborativo. 
 
