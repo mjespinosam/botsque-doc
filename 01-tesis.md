@@ -186,7 +186,7 @@ Acacia Seeds esta compuesta por tres breves extractos de la futura revista Thero
 
 
 
-
+![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esque-lenguajebotsque.png)
 
 ![](/Users/juanaespinosa/Tesis/001-tesis- git/esquemas/esque-lenguajebotsque.png)
 
@@ -206,6 +206,8 @@ Para poder aplicar especulativamente estas acciones hago una transposición de l
 Ahora bien, en cuanto al primer punto, la converción al pensamiento vegetal este es un acto que ocurre mediante la contemplación de su quietud-inquietud, su pensamiento contextual: tierra, insectos, plantas, humedad, luz, oscuridad y lo que Marder señala como "pensar antes del pensar".  Es decir, una consciencia no reflexiva. Esa consciencia de la meditación en la que solo se está y todo lo que aparece se deja ir.  Respecto a la identificación de los presupuestos procedo a pensar como pienso las plantas, pensar como otros piensan las plantas y pensar nopensar como ellas. Es decir, reflexionar desde el logos e mi cultura para luego contemplar el ser y estar de las plantas mediante  la escucha. Durante estos momentos doy cuenta de las analogías homeomórficas:
 
 Bienestar: bajo la pregunta de ¿qué es estar bien para un ser humano y para una planta? Integro la idea de un ser humano que pese a sus circunstancias sabe mantener la calma y la ecuanimidad. Estar bien es poder vivir sin que el cuerpo produzca un exceso de hormonas como el cortisol que producen estrés, depresión, ansiedad. Pero ¿qué es estar bien desde las plantas? Si bien funciono como interprete y traductora al respecto, son una serie de signos sobre todo "indices" es decir que están en relación de una causa y un efecto, las que me permiten dar cuenta del bienestar. Una semiótica de la planta revela un estado general de bienestar a través de su color y su entereza. La despigmentación, la falta de fuerza en sus tallo o sus hojas caída manifietan que algo no está en orden. El bienestar según mi relación con ellas también está vinculado al crecimiento de otras plantas amigas cercanas como tréboles, su florecimiento estacional, el aspecto de la tierra. Así, el bienestar como dos estados análogos  que responden a situaciones contextuales de la planta y mias, son variables que se establecen desde mi concepción personal de mi bienestar y desde la relación con mis plantas frente a los que es estar bien. Ambos estados de bienestar son por lo tanto, una suerte de variables que se determinan en la relación entre las partes. Las variables de bienestar para mi y las plantas con que habito no son transferibles necesarimente a la relación de otra persona con sus plantas. 
+
+[Protocolo del prototipo](https://github.com/mjespinosam/botsque-doc/blob/master/02-protocolo-botsque.md)
 
  
 
