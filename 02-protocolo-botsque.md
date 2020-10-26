@@ -1,4 +1,4 @@
-# Protocolo sistema del botsque
+# DCEProtocolo sistema del botsque
 
 ____
 
@@ -23,6 +23,8 @@ _____
 **Palabras clave**: hermeneútica interespecies, arduino, analogías homeomórficas, 
 
 **Problema**:  De qué manera vincular la escucha y el habla en un sistema que permita dar cuenta de las relaciones seres humanos plantas donde las plantas son agentes en el proceso de construcción de dicho conocimiento? 
+
+¿De qué manera se ve reflejada esta discusión en la arquitectura, funcionalidad, estética, del prototipo? 
 
 Parto de la idea de que la naturaleza habla, el ser humano escucha y revela eso que escuchó a través de la conversación. La naturaleza habla al ser humano en condiciones de contemplación y escucha profunda, estados relacionados con estados meditativos que pueden darse desde la quietud o desde la atención mientras se ejecuta una acción: por ejemplo la jardinería. Este estado contemplativo es un estado similar al pensamiento de las plantas que es un pensar antes del pensar, una intención sin conciencia reflexiva. A su vez, según reportan investigaciones (Gagliano, 2015), las plantas escuchan, aprenden, recuerdan. Por lo anterior imagino un sistema que permita "cosechar" información contextual de la planta. Esta información como señala Marder es uno de sus principios delmodo en que las plantas piensan: ellas piensan con otros: tierra, luz, humedad, microorganismos.  El cosechamiento de datos son de tres tipos
 
@@ -193,7 +195,7 @@ Mira: solo mira los casos
 
 **Caso de uso**
 
-@nika escucha desde hace más de un año radiolaria.net. Esta emisora online creada bajo el concepto de radiovisuales, trasnmire en directo datos sonoros y visuales, así como fragmentos de conversaciones de las personas y plantas que ocurren en diferentes lugares y que son parte de la comunidad del Botsque. Esta comunidad fue ideada por un grupo de personas que descubrieron que mediante la trasncodificación de datos contextuales de las plantas y las personas, se podía crear un sistema sonoro y visual muy elemental que permite a las personas entrar en estados contemplativos con las plantas y recibir conocimiento sobre ellas de manera directa. Es decir que la relación entre las plantas y las personas se da mediante una escucha contemplativa, activada por los sonidos y las imágenes. Estos sonidos e imágenes son trasnmitidos por internet para que muchas personas puedan entrar en estados de contemplación de sus plantas. 
+@nika escucha desde hace más de un año radiolaria.net. Esta emisora online creada bajo el concepto de radiovisuales, transmire en directo datos sonoros y visuales,  así como fragmentos de conversaciones de las personas y plantas que ocurren en diferentes lugares y que son parte de la comunidad del Botsque. Esta comunidad fue ideada por un grupo de personas que descubrieron que mediante la trasncodificación de datos contextuales de las plantas y las personas, se podía crear un sistema sonoro y visual muy elemental que permite a las personas entrar en estados contemplativos con las plantas y recibir conocimiento sobre ellas de manera directa. Es decir que la relación entre las plantas y las personas se da mediante una escucha contemplativa, activada por los sonidos y las imágenes. Estos sonidos e imágenes son trasnmitidos por internet para que muchas personas puedan entrar en estados de contemplación de sus plantas. 
 
 @Nika tuvo curiosidad por esta radio porque desde muy niña ha tenido plantas en su casa y tiene algunas incluso que tienen tantos años como ella, o muchos más, pues hay plantas que su abuelita le dejó cuando fue a vivir sola.  A @nika le gustaría ser parte de la comunidad y construir un poco de ese lenguaje del botsque. Para ello @Nika tuvo que acceder a una infraestructura de comunicación para poder entrar en contacto con sus plantas y poder compartirlas con la comunidad. En la casa @nika eligió una de sus plantas. Una que tiene más años que ella, por lo menos 30 años, y que parece una planta del desierto. Ella la llama el cactus sin espinas que florece. Esta planta de flores tropicales está siempre junto a su escritorio y ha tenido retoños y ahora esa planta es muchas plantas. Para poder establecer la conexión con ella ambas deben entregar datos al sistema del botsque. Lo que llaman en el lenguaje del botsque el cosechamiento de datos es el cálculo de datos contextuales de la planta: humedad y luz que recibe y datos del ser humano con quien vive: pulso y frecuencia de respiración. Los datos de la planta son cosechados diariamente cada dos horas, mientras que los datos de los seres humanos solo se cosechan cuando se quiere establecer una comunicación directa con la planta. 
 
@@ -250,6 +252,13 @@ Parece que tu curiosidad no ha sido resuelta mmm. ¿Que tal si conversamos sobre
 
 
 **Desarrollo del bot**
+
+Notas de instalación
+
+WARNING: You are using pip version 20.2.1; however, version 20.2.4 is available.
+You should consider upgrading via the '/Users/juanaespinosa/mibot/bin/python3 -m pip install --upgrade pip' command.
+
+
 
 El bot se está creado con python y telegram. 
 
