@@ -290,11 +290,9 @@ Observador/Escucha: solo escucha o lee.
 
 ### Caso de uso
 
-Ver anexo: [Caso de uso]()  
+Ver anexo: [Caso de uso](https://github.com/mjespinosam/botsque-doc/blob/master/04-caso-de-uso.md)  
 
 ### Escenarios de uso en seudocódigo
-
-
 
 ### Modelado de datos bajo algunos de los estándares de FOAF
 
