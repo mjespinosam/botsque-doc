@@ -2,6 +2,24 @@
 
 
 
+Variables
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Escenario 1 / Conexión
 
 La usuaria conecta el sistema de transmisión a la planta y a sí misma
