@@ -282,10 +282,6 @@ Variables de transcodificación
 
 
 
-
-
-
-
 Seudocódigo de las interacciones personas-bot-plantas
 
 Desarrollo del bot con phyton
