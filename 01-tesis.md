@@ -4,7 +4,7 @@
 
 
 
-_¿Buscabas la causa en la naturaleza? Esto se refiere a eso, y eso a aquello, y aquello a lo otro, y todo se refiere a algo. Debes preguntar de otro modo, debes sentirlo y quererlo, debes contemplarlo con un espíritu tan grande como aquél por que existe, antes de poder conocer la ley. No podrá ser conocida, pero sí alegremente amada y disfrutada. Emerson (2008 [1896]p.101)_
+_¿Buscabas la causa en la naturaleza? Esto se refiere a eso, y eso a aquello, y aquello a lo otro, y todo se refiere a algo. Debes preguntar de otro modo, debes sentirlo y quererlo, debes contemplarlo con un espíritu tan grande como aquél por que existe, antes de poder conocer la ley. Emerson (2008 [1896], p.101)_
 
 
 
@@ -120,7 +120,9 @@ Esto nos permitirá más adelante identificar cómo la comunicación entre las p
 
 A esta capacidad de comunicar y a la impronta de su memoria se le suma la del aprendizaje.  Nos cuenta Gagliano, bióloga especializada en el pensamiento de las plantas, que desde hasta hace muy poco la ciencia comenzó a ocuparse del aprendizaje asociativo vegetal. Es decir, el aprendizaje que ocurre a partir de un experiencia repetida de un mismo estímulo o suceso. Las plantas aprenden asociativamente con fines ecológicos que van desde buscar comida hasta cuidarse de los peligros que por el suelo o por el aire las acechan: "un estudio de 2014 demostró que las plantas pueden detectar el sonido de las orugas que se alimentan y las causadas por viento o por insectos cantores" (Gagliano, 2017, p.2), señales acústicas que refuerzan la eficacia de otros sistemas de señalización de las plantas como las de los COV. Esto llevó a la investigadora a insinuar que las plantas tienen conciencia y subjetividad. Todo el proceso de evaluación que realiza la planta la lleva a utilizar "sus propias experiencias y sentimientos como estados funcionales que motivan sus elecciones"(p.3). En cuanto a la conciencia la investigadora aboga por una conciencia básica que se logró a través del aprendizaje asociativo y de los sistemas de valores. Marder no aborda la conciencia en los términos de Gagliano, sino que habla de la intención y la no -identidad de la planta, lo cual se inclina más a la intersubjetividad que la subjetividad en las plantas. Sin embargo, tanto la filosofía como la biología y la semiótica coinciden en que el pensamiento no solo se da en una mente humana y que el aprendizaje y la comunicación también se puede dar en lo no humano, en este caso en las plantas. 
 
-### Metodología                                                                                            Diseño crítico y especulativo para pensar las plantas desde las Humanidades Digitales
+### Metodología                                                                                           
+
+###  Diseño crítico y especulativo para pensar las plantas desde las Humanidades Digitales
 
 Formulada la discusión de las plantas como seres pensantes que son protagonistas de su propio aprendizaje, queda la pregunta sobre cómo dar cuenta de ello en una plataforma digital. En tanto las infraestructuras exploradas en esta investigación contribuyeron a revelar los problemas de los presupuestos epistemológicos subyacentes tanto en el diseño del software como a su implementación propongo vincular el diseño especulativo como una metodología para las humanidades digitales. ( Ver apartado _Saberes adventicios: metodologías del diseño para las Humanidades Digitales_). El diseño especulativo es una herramienta que permite desligarse de la utilidad y viabilidad de los prototipos, para idear posibles respuestas tecnológicas en escenarios distópicos, utópicos o paralelos. Esto no se hace con el fin de continuar procesos de diseño para el desarrollo sino para activar discusiones. En este caso puntual esta metodología me permite idear un escenario de comunicación interespecies basado en la escucha, la hermeneútica diatópica/vegetal, la equivalencia homeomórfica y el habla en entornos colaborativos mediados por un agente virtual. Todo esto será desarrollado en el prototipo. Por ahora me permito contestar ¿qué es y por qué el diseño especulativo es una metodología apropiada?  
 
@@ -244,44 +246,6 @@ Modelado de datos bajo algunos de los estándares de FOAF
 
 Variables de transcodificación
 
-
-
-|        | **Humeda**     |                   | **Rango** | **Frecuencia** | **Color** | **Sonido eléctrico**       |
-| ------ | -------------- | ----------------- | --------- | -------------- | --------- | -------------------------- |
-| **1**  | **Seco**       | **1023-700 / 50** | 1023-1000 |                | #000000   | Clumk Mid_bip.wav          |
-| **2**  | **Seco**       |                   | 999-975   |                | #151515   | Buzz 1_bip.wav             |
-| **3**  | **Seco**       |                   | 974-950   |                | #1C1C1C   | Cosmic Clay 2_bip.wav      |
-| **4**  | **Seco**       |                   | 949-925   |                | #2E2E2E   | Cosmic Clay 3_bip.wav      |
-| **5**  | **Seco**       |                   | 899-875   |                | #42424    | Cosmic Clay 4_bip.wav      |
-| **6**  | **Seco**       |                   | 874-850   |                | #585858   | Cosmic Clay_bip.wav        |
-| **7**  | **Seco**       |                   | 849-825   |                | #6E6E6E   | Clave Hard_bip.wav         |
-| **8**  | **Seco**       |                   | 824-799   |                | #848484   | Conga Big_bip.wav          |
-| **9**  | **Seco**       |                   | 798-775   |                | #A4A4A4   | Floor Tom_bip.wav          |
-| **10** | **Seco**       |                   | 774-750   |                | #BDBDBD   | High Tom_bip.wav           |
-| **11** | **Seco**       |                   | 749-725   |                | #D8D8D8   | Kick 1_bip.wav             |
-| **12** | **Seco**       |                   | 724-700   |                | #E6E6E6   | Kick 2_bip.wav             |
-| **13** | **Bienestar**  | **700-300 /45**   | 699-654   |                | #DBA901   | Mid Tom _bip.wav           |
-| **14** | **Bienestar**  |                   | 653-608   |                | #868A08   | Tabla 1_bip.wav            |
-| **15** | **Bienestar**  |                   | 607-563   |                | #0B4C5F   | Tabla 5_bip.wav            |
-| **16** | **Bienestar**  |                   | 562-518   |                | #610B5E   | Tabla 6_bip.wav            |
-| **17** | **Bienestar**  |                   | 517-472   |                | #DF7401   | Tabla 7_bip.wav            |
-| **18** | **Bienestar**  |                   | 471-426   |                | #380B61   | Tabla 9_bip.wav            |
-| **19** | **Bienestar**  |                   | 425-380   |                | #088A85   | Tabla 10_bip.wav           |
-| **20** | **Muy húmedo** | **379-0 /31**     | 379-348   |                | #E6E6E6   | Tabla 11_bip.wav           |
-| **21** | **Muy húmedo** |                   | 347-316   |                | #D8D8D8   | Click Buzz_bip.wav         |
-| **22** | **Muy húmedo** |                   | 315-284   |                | #BDBDBD   | Alien Zip_bip.wav          |
-| **23** | **Muy húmedo** |                   | 283-252   |                | #A4A4A4   | Electronic Tabla a_bip.wav |
-| **24** | **Muy húmedo** |                   | 251-220   |                | #848484   | Glong_bip.wav              |
-| **25** | **Muy húmedo** |                   | 219-188   |                | #6E6E6E   | Mall Drum_bip.wav          |
-| **26** | **Muy húmedo** |                   | 187-156   |                | #585858   | Tabla 2_bip.wav            |
-| **27** | **Muy húmedo** |                   | 155-124   |                | #42424    | Tabla 3_bip.wav            |
-| **28** | **Muy húmedo** |                   | 123-92    |                | #2E2E2E   | Tabla 4_bip.wav            |
-| **29** | **Muy húmedo** |                   | 91-60     |                | #1C1C1C   | Tabla 8_bip.wav            |
-| **30** | **Muy húmedo** |                   | 59-28     |                | #151515   | Wood Block_bip.wav         |
-| **31** | **Muy húmedo** |                   | 28-0      |                | #000000   | Woodblock 2_bip.wav        |
-
-
-
 Seudocódigo de las interacciones personas-bot-plantas
 
 Desarrollo del bot con phyton
@@ -336,6 +300,79 @@ Ver anexo: [Caso de uso](https://github.com/mjespinosam/botsque-doc/blob/master/
 
 ### Variables de transcodificación
 
+
+
+Las varibales para la vidualización sonora del  prototipo inicial se crean a partir de las variables: humedad en la planta y respiración en el ser humano. Se establecen dos estados de equivalencia: Desequilibrio y Bienestar. Los rangos pertenecen al estado de una planta que llamo camándula de arvejitas, cuyo nombre científico es Senecio rowleyanus. Los rangos de respiración en seres humanos están basados en la literatura (*Signos vitales*, s. f.). 
+
+
+
+
+
+|        | **Estado**                      |                   | **Rango** | **Frecuencia** | **Color** | **Sonido eléctrico**       |
+| ------ | ------------------------------- | ----------------- | --------- | -------------- | --------- | -------------------------- |
+| **1**  | **Seco/Desequilibrio**          | **1023-700 / 50** | 1023-1000 |                | #000000   | Clumk Mid_bip.wav          |
+| **2**  | **Seco/Desequilibrio**          |                   | 999-975   |                | #151515   | Buzz 1_bip.wav             |
+| **3**  | **Seco/Desequilibrio**          |                   | 974-950   |                | #1C1C1C   | Cosmic Clay 2_bip.wav      |
+| **4**  | **Seco/Desequilibrio**          |                   | 949-925   |                | #2E2E2E   | Cosmic Clay 3_bip.wav      |
+| **5**  | **Seco/Desequilibrio**          |                   | 899-875   |                | #42424    | Cosmic Clay 4_bip.wav      |
+| **6**  | **Seco/Desequilibrio**          |                   | 874-850   |                | #585858   | Cosmic Clay_bip.wav        |
+| **7**  | **Seco/Desequilibrio**          |                   | 849-825   |                | #6E6E6E   | Clave Hard_bip.wav         |
+| **8**  | **Seco/Desequilibrio**          |                   | 824-799   |                | #848484   | Conga Big_bip.wav          |
+| **9**  | **Seco/Desequilibrio**          |                   | 798-775   |                | #A4A4A4   | Floor Tom_bip.wav          |
+| **10** | **Seco/Desequilibrio**          |                   | 774-750   |                | #BDBDBD   | High Tom_bip.wav           |
+| **11** | **Seco/Desequilibrio**          |                   | 749-725   |                | #D8D8D8   | Kick 1_bip.wav             |
+| **12** | **Seco/Desequilibrio**          |                   | 724-700   |                | #E6E6E6   | Kick 2_bip.wav             |
+| **13** | **Bienestar**                   | **700-300 /45**   | 699-654   |                | #DBA901   | Mid Tom _bip.wav           |
+| **14** | **Bienestar**                   |                   | 653-608   |                | #868A08   | Tabla 1_bip.wav            |
+| **15** | **Bienestar**                   |                   | 607-563   |                | #0B4C5F   | Tabla 5_bip.wav            |
+| **16** | **Bienestar**                   |                   | 562-518   |                | #610B5E   | Tabla 6_bip.wav            |
+| **17** | **Bienestar**                   |                   | 517-472   |                | #DF7401   | Tabla 7_bip.wav            |
+| **18** | **Bienestar**                   |                   | 471-426   |                | #380B61   | Tabla 9_bip.wav            |
+| **19** | **Bienestar**                   |                   | 425-380   |                | #088A85   | Tabla 10_bip.wav           |
+| **20** | **Muy húmedo/Desequilibrio**    | **379-0 /31**     | 379-348   |                | #E6E6E6   | Tabla 11_bip.wav           |
+| **21** | **Muy húmedo/Desequilibrio**    |                   | 347-316   |                | #D8D8D8   | Click Buzz_bip.wav         |
+| **22** | **Muy húmedo/Desequilibrio**    |                   | 315-284   |                | #BDBDBD   | Alien Zip_bip.wav          |
+| **23** | **Muy húmedo/Desequilibrio**    |                   | 283-252   |                | #A4A4A4   | Electronic Tabla a_bip.wav |
+| **24** | **Muy húmedo/Desequilibrio**    |                   | 251-220   |                | #848484   | Glong_bip.wav              |
+| **25** | **Muy húmedo /Desequilibrio**** |                   | 219-188   |                | #6E6E6E   | Mall Drum_bip.wav          |
+| **26** | **Muy húmedo/Desequilibrio****  |                   | 187-156   |                | #585858   | Tabla 2_bip.wav            |
+| **27** | **Muy húmedo/Desequilibrio****  |                   | 155-124   |                | #42424    | Tabla 3_bip.wav            |
+| **28** | **Muy húmedo/Desequilibrio****  |                   | 123-92    |                | #2E2E2E   | Tabla 4_bip.wav            |
+| **29** | **Muy húmedo/Desequilibrio****  |                   | 91-60     |                | #1C1C1C   | Tabla 8_bip.wav            |
+| **30** | **Muy húmedo/Desequilibrio****  |                   | 59-28     |                | #151515   | Wood Block_bip.wav         |
+| **31** | **Muy húmedo/Desequilibrio****  |                   | 28-0      |                | #000000   | Woodblock 2_bip.wav        |
+
+
+
+
+
+| **Frecuencia de respiración** | **Numero de respiraciones por minuto** | **Sonido**                 | **Frecuencia sonido** |
+| ----------------------------- | :------------------------------------- | -------------------------- | --------------------- |
+| **Calma extrema/ Bienestar**  | 1                                      | Mid Tom _bip.wav           | 1 x min               |
+| **Calma extrema/ Bienestar**  | 2                                      | Tabla 1_bip.wav            | 2 x min               |
+| **Calma extrema/ Bienestar**  | 3                                      | Tabla 5_bip.wav            | 3 x min               |
+| **Calma extrema/ Bienestar**  | 4                                      | Tabla 6_bip.wav            | 4 x min               |
+| **Calma extrema/ Bienestar**  | 5                                      | Tabla 7_bip.wav            | 5 x min               |
+| **Calma extrema/ Bienestar**  | 6                                      | Tabla 9_bip.wav            | 6 x min               |
+| **Calma extrema/ Bienestar**  | 7                                      | Tabla 10_bip.wav           | 7 x min               |
+| **Calma extrema/ Bienestar**  | 8                                      | Mid Tom _bip.wav           | 8 x min               |
+| **Calma extrema/ Bienestar**  | 9                                      | Tabla 1_bip.wav            | 9 x min               |
+| **Calma extrema/ Bienestar**  | 10                                     | Tabla 5_bip.wav            | 10 x min              |
+| **Calma extrema/ Bienestar**  | 11                                     | Tabla 6_bip.wav            | 11 x min              |
+| **Normal/Bienestar**          | 12                                     | Tabla 7_bip.wav            | 12 x min              |
+| **Normal/Bienestar**          | 13                                     | Tabla 9_bip.wav            | 13 x min              |
+| **Normal/Bienestar**          | 14                                     | Tabla 10_bip.wav           | 14 x min              |
+| **Normal/Bienestar**          | 15                                     | Mid Tom _bip.wav           | 15 x min              |
+| **Agitación/Desequilibrio**   | 16                                     | Tabla 1_bip.wav            | 16 x min              |
+| **Agitación/Desequilibrio**   | 17                                     | Tabla 5_bip.wav            | 17 x min              |
+| **Agitación/Desequilibrio**   | 18                                     | Tabla 6_bip.wav            | 18 x min              |
+| **Agitación/Desequilibrio**   | 19                                     | Tabla 11_bip.wav           | 19 x min              |
+| **Agitación/Desequilibrio**   | 20                                     | Click Buzz_bip.wav         | 20 x min              |
+| **Agitación/Desequilibrio**   | 21                                     | Alien Zip_bip.wav          | 21 x min              |
+| **Agitación/Desequilibrio**   | 22                                     | Electronic Tabla a_bip.wav | 22 x min              |
+| **Agitación/Desequilibrio**   | 23                                     | Glong_bip.wav              | 23 x min              |
+| **Agitación/Desequilibrio**   | 24                                     |                            |                       |
+
 ### Seudocódigo 
 
 ### Desarrollo del bot con phyton
@@ -348,7 +385,7 @@ Vínculo al bot en telegram: @Botsque_bot
 
 ## Saberes Adventicios
 
-## Conlcusiones
+## Conclusiones
 
 ## Referencias
 
@@ -359,5 +396,3 @@ Vínculo al bot en telegram: @Botsque_bot
 
 
  
-
-## 
