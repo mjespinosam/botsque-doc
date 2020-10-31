@@ -20,51 +20,9 @@ Variables
 
 
 
-#### Escenario 1 / Conexión
-
-La usuaria conecta el sistema de transmisión a la planta y a sí misma
-
-Conecta los auriculares
-
-No escucha sonidos de la planta
-
-Escucha sonidos en las plantas
-
-Verifica el estado de la planta y le proporciona cuidados en busca del silencio
-
-Escucha sonidos de sí misma
-
-Respira lentamente 
-
-No escucha sonidos
-
-Transmite sonidos  transcodificados de desequilibrio de si misma
-
-Trasnmite sonidos transcodificados de desequilibrio de la planta
-
-Transcodifica los sonidos de bienestar y los transmite
-
-Trans-codifica sonidos del bienestar
-
-
-
-#### Escenario 2/ Notificaciones del día
-
-
-
-#### Escenario 2 / Vincular personas y plantas para la conversación
-
-
-
-#### Escenario 3 /Contemplar plantas y personas
-
 
 
 **Desarrollo del bot**
-
-
-
-
 
 El bot se está creado con python y telegram. 
 

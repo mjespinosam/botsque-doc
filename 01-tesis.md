@@ -200,7 +200,9 @@ performace que utiliza in sensor de actividad cerebral comercial para manifestar
 
 María Juana Espinosa David Ariza
 
-Como parte del resultado del primer laboratorio de creación colectiva de Microhuertas “Crear/criar espacios vivos en casa” realizado en Bogotá (2018) un grupo interdisciplinario de creadores de la ciencia el arte y la tecnología prototipamos una “ Mesa-microhuerta” en la que se integramos sensores electrónicos con el fin de activar la comunicación entre seres humanos-plantas-agente virtual (bot). A partir de un ejercicio especulativo cuestionamos la integración de los sensores como dispositivos de control a los espacios vivos si bien reconocemos la huerta como espacio semiótico en el que se da la interacción entre sensores personas y plantas. Esta interacción construye y devela signos a partir de una experiencia corporal y emocional. Por lo tanto, la integración de los sensores más que sustituir labores de cuidado de la huerta se integran en la mediación comunicativa para la conexión con lo vivo. Bajo la pregunta ¿Cuál es el bienestar de la microhuerta y de qué manera los sensores dan cuenta de ello? Trabajamos con 4 sensores: el cuerpo como sensor primario que desde la observación determina condiciones para las plantas, y los sensores de humedad de tierra, humedad relativa y luz. Estos sensores están dispuestos de tal modo que se relaciones con la mesa a través de canales de bienestar contruídos inicialmente con tinta conductora y luego con cinta de cobre. Sobre cada canal habitan un conjunto de insectos benéficos para el entorno y elaborados de materiales electrónicos que se encienden si las condiciones son óptimas. Cada canal representa un sensor: agua, luz, humedad. Los datos son entregados vía wifi a telegram desde donde se archivan mediante un bot que comunica a la comunidad de microhuertas el estado de bienestar de las huertas. 
+<img src="/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/mesa-huerta-6.jpg" style="zoom:40%;" />
+
+Como parte del resultado del primer laboratorio de creación colectiva de Microhuertas [“Crear/criar espacios vivos en casa”](https://vimeo.com/299020396) realizado en Bogotá (2018) un grupo interdisciplinario de creadores de la ciencia el arte y la tecnología prototipamos una “ Mesa-microhuerta” en la que se integramos sensores electrónicos con el fin de activar la comunicación entre seres humanos-plantas-agente virtual (bot). A partir de un ejercicio especulativo cuestionamos la integración de los sensores como dispositivos de control a los espacios vivos si bien reconocemos la huerta como espacio semiótico en el que se da la interacción entre sensores personas y plantas. Esta interacción construye y devela signos a partir de una experiencia corporal y emocional. Por lo tanto, la integración de los sensores más que sustituir labores de cuidado de la huerta se integran en la mediación comunicativa para la conexión con lo vivo. Bajo la pregunta ¿Cuál es el bienestar de la microhuerta y de qué manera los sensores dan cuenta de ello? Trabajamos con 4 sensores: el cuerpo como sensor primario que desde la observación determina condiciones para las plantas, y los sensores de humedad de tierra, humedad relativa y luz. Estos sensores están dispuestos de tal modo que se relaciones con la mesa a través de canales de bienestar contruídos inicialmente con tinta conductora y luego con cinta de cobre. Sobre cada canal habitan un conjunto de insectos benéficos para el entorno y elaborados de materiales electrónicos que se encienden si las condiciones son óptimas. Cada canal representa un sensor: agua, luz, humedad. Los datos son entregados vía wifi a telegram desde donde se archivan mediante un bot que comunica a la comunidad de microhuertas el estado de bienestar de las huertas. 
 
 ## Prototipo                                                                                           
 
@@ -228,9 +230,9 @@ El sistema cosecha datos a través de arduino y los trans-codifica a través de 
 - Sensor humedad
 - Sensor Luz
 - Raspberry
-- Phyton para programar el bot
+- Phyton 
 - BD SQL
-- Pure data
+- Telegram
 
 
 
@@ -242,11 +244,11 @@ Esquema del sistema
 
 Caso de uso 
 
-Modelado de datos bajo algunos de los estándares de FOAF
+Escenarios de uso del bot en seudocódigo 
+
+Modelado de datos 
 
 Variables de transcodificación
-
-Seudocódigo de las interacciones personas-bot-plantas
 
 Desarrollo del bot con phyton
 
@@ -290,13 +292,129 @@ Observador/Escucha: solo escucha o lee.
 
 ### Esquema del sistema
 
+![](/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/esquema-lenguaje-1.png)
+
+
+
+### Video del sistema
+
+![]()
+
 ### Caso de uso
 
 Ver anexo: [Caso de uso](https://github.com/mjespinosam/botsque-doc/blob/master/04-caso-de-uso.md)  
 
 ### Escenarios de uso en seudocódigo
 
-### Modelado de datos bajo algunos de los estándares de FOAF
+#### Escenario 1 / Conexión
+
+Inicio
+
+Usuaria **conecta** al sistema la transmisión de datos de la planta y de si misma
+
+Sistema **recopila** datos
+
+El sistema **"trans-codifica"** datos en sonidos
+
+El sistema **transmite** los sonidos
+
+Usuaria y plantas escuchan sonidos. Si hay sonidos rápidos es que hay algun desequilibrio en si misma o en las plantas. 
+
+Usuaria no escucha sonidos. Si los sonidos se dilatan y tienden al silencio es indicador de bienestar. 
+
+Fin
+
+#### Escenario 2 / Escuchar plantas y personas en vivo 
+
+Inicio
+
+El bot **identifica** que una persona y su amiga planta están transmitiendo
+
+El bot **notifica** en el chat grupal que hay transmisión
+
+El bot **comparte** los datos de la transmisión: lugar, persona, planta
+
+Las personas que desean **escuchan** a la transmisión
+
+Fin
+
+#### Escenario 3 / Notificaciones del día
+
+Inicio
+
+El sistema **conoce** las plantas amigas de cada persona 
+
+El sistema **identifica** las plantas sobre las que se conversa en el chat durante las últimas 24 horas
+
+El sistema **notifica** a la comunidad en horas de la noche los temas generales de las últimas 24 horas 
+
+Fin 
+
+#### Escenario 4 / Notificaciones personalizadas
+
+Inicio
+
+El sistema conoce la planta amiga de cada persona 
+
+El sistma conoce otras plantas de interés de una persona
+
+El sistema identifica plantas sobre las que se conversa en el chat
+
+El sistema envía notificaciones personalizadas, mientras se conversa sobre una planta, a las personas interesadas en ella.
+
+
+
+#### Escenario 5 / Vincular personas y plantas para la conversación
+
+Inicio
+
+La usuaria consulta sobre una planta 
+
+El sistema identifica las personas que son amigas y viven con esas plantas
+
+El sistema notifica en el chat grupal a las personas y plantas amigas que hay alguien interesado en conversar sobre esa planta
+
+La usuaria realiza preguntas en el chat grupal
+
+Fin
+
+#### Escenario 6 / Contemplar plantas y personas
+
+Inicio
+
+La usuaria quiere escuchar plantas 
+
+El sistema le da la opción de escuchar plantas de su misma familia, de otra familia, o aleatoriamente. 
+
+El sistema le da la opción de escuchar de manera individual o combinada las plantas elegidas
+
+El sistema transmite
+
+La usuaria escucha
+
+Fin
+
+#### Escenario 7 / Conocer sobre plantas
+
+Inicio
+
+La usuaria quiere saber sobre una planta en específico y consulta al sistema
+
+El sistema verifica en el historial de las conversaciones 
+
+El sistema recupera las conversaciones
+
+El sistema entrega las conversaciones
+
+El sistema da la opción de descargar las conversaciones en PDF
+
+Fin
+
+
+
+### Modelado de datos 
+
+![](/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/bd_botsque.png)
 
 ### Variables de transcodificación
 
@@ -371,9 +489,9 @@ Las varibales para la vidualización sonora del  prototipo inicial se crean a pa
 | **Agitación/Desequilibrio**   | 21                                     | Alien Zip_bip.wav          | 21 x min              |
 | **Agitación/Desequilibrio**   | 22                                     | Electronic Tabla a_bip.wav | 22 x min              |
 | **Agitación/Desequilibrio**   | 23                                     | Glong_bip.wav              | 23 x min              |
-| **Agitación/Desequilibrio**   | 24                                     |                            |                       |
+| **Agitación/Desequilibrio**   | 24                                     | Mall Drum_bip.wav          | 24x min               |
 
-### Seudocódigo 
+
 
 ### Desarrollo del bot con phyton
 
@@ -381,9 +499,13 @@ Las varibales para la vidualización sonora del  prototipo inicial se crean a pa
 
 Vínculo al bot en telegram: @Botsque_bot
 
-
+Ver documentación del Bot en el repositorio [Botsque_bot]()
 
 ## Saberes Adventicios
+
+
+
+
 
 ## Conclusiones
 
