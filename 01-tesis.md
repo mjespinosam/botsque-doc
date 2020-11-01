@@ -616,7 +616,7 @@ Fin
 
 
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/bd_botsque.png)
+![](/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/BD-botsque-2.png)
 
 
 
