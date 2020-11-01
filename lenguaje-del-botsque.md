@@ -3,9 +3,7 @@
 
 
 
-_Cualquiera que sea el objeto, su perfección es un defecto. Dejad las cosas inacabadas, tal como son, sin refinarlas, me interesaré por ellas y me sentiré contento. Se me ha dicho: Cuando se construye una morada imperial, es costumbre dejar un lugar inacabado. En los textos religioso, búdicos u otros, escritos por los sabios de antaño, ¿no es cierto que se encuentran ejemplos de capítulos que faltan?  El libro del Ocio. Urake Kenko_
-
-
+_Cualquiera que sea el objeto, su perfección es un defecto. Dejad las cosas inacabadas, tal como son, sin refinarlas, me interesaré por ellas y me sentiré contento. Se me ha dicho: Cuando se construye una morada imperial, es costumbre dejar un lugar inacabado. En los textos religioso, búdicos u otros, escritos por los sabios de antaño, ¿no es cierto que se encuentran ejemplos de capítulos que faltan?  El libro del Ocio. Urake Kenko_.
 
 
 
@@ -304,7 +302,7 @@ Ver anexo: [Caso de uso](https://github.com/mjespinosam/botsque-doc/blob/master/
 
 
 
-Ver anexo: [Escenario]()
+Ver anexo: [Escenario](https://github.com/mjespinosam/botsque-doc/blob/master/Anexos/escenarios.md)
 
 1. Registro Humano
 2. Registro de planta
@@ -319,17 +317,8 @@ Ver anexo: [Escenario]()
 
 #### Modelado de datos 
 
-
-
-<<<<<<< HEAD
-![](/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/BD-botsque-2.png)
-=======
 ![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/BD-botsque-2.png)
 #### Variables de transcodificación
-
-#### ![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/bd_botsque.png)
-
-### Variables de transcodificación
 
 Las varibales para la vidualización sonora del  prototipo inicial se crean a partir de las variables: humedad en la planta y respiración en el ser humano. Se establecen dos estados de equivalencia: Desequilibrio y Bienestar. Los rangos pertenecen al estado de una planta que llamo camándula de arvejitas, cuyo nombre científico es Senecio rowleyanus. Los rangos de respiración en seres humanos están basados en la literatura (*Signos vitales*, s. f.). 
 
