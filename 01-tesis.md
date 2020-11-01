@@ -2,9 +2,9 @@
 
 
 
-```
-Cualquiera que sea el objeto, su perfección es un defecto. Dejad las cosas inacabadas, tal como son, sin refinarlas, me interesaré por ellas y me sentiré contento. Se me ha dicho: Cuando se construye una morada imperial, es costumbre dejar un lugar inacabado. En los textos religioso, búdicos u otros, escritos por los sabios de antaño, ¿no es cierto que se encuentran ejemplos de capítulos que faltan?  El libro del Ocio. Urake Kenko
-```
+
+_Cualquiera que sea el objeto, su perfección es un defecto. Dejad las cosas inacabadas, tal como son, sin refinarlas, me interesaré por ellas y me sentiré contento. Se me ha dicho: Cuando se construye una morada imperial, es costumbre dejar un lugar inacabado. En los textos religioso, búdicos u otros, escritos por los sabios de antaño, ¿no es cierto que se encuentran ejemplos de capítulos que faltan?  El libro del Ocio. Urake Kenko_
+
 
 
 
@@ -616,10 +616,10 @@ Fin
 
 
 
+<<<<<<< HEAD
 ![](/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/BD-botsque-2.png)
-
-
-
+=======
+![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/BD-botsque-2.png)
 #### Variables de transcodificación
 
 #### ![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/bd_botsque.png)
