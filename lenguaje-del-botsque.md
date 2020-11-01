@@ -317,85 +317,24 @@ Ver anexo: [Escenario](https://github.com/mjespinosam/botsque-doc/blob/master/An
 
 #### Modelado de datos 
 
+La base de datos da cuenta de cinco entidades: Planta, Persona, Lugar, Nombre común y Nombre científico. A estos dos nombres se suma el atributo de alias, que es el nombre familiar que le dan las personas a sus plantas. Estas entidades buscan dar cuenta de las relaciones de amistad y pertenencia entre las personas, las plantas y los lugares y que denomino aleloempatía. Una palabra en la que vinculo tanto la alelopatía como la empatía. La primera se refiere al fenómeno biológico en el que una planta al estar junto a otra influye en el crecimiento, reproducción, etc. Tradicionalmente los sembradores reconocen estas interacciones y suelen relacionar las plantas para mejorar las cosechas y mantener el equilibrio en sus entornos. Y la empatía entendida -en ese caso- como la afinidad con el mundo vegetal.  Así, la alelompatía da cuenta de una relación profunda y empática entre las personas y el mundo vegetal que media la elección y preferencias por ciertas plantas: medicinales, alimenticias, ornamentales, etc. Esta categoria emergente apareció en  las conversaciones y visitas a huertas con Ana María Mahecha con quien observamos y escuchamos las maneras como las personas se refieren a sus plantas, los detalles que reconocen en el crecimiento y reproducción y las preferencias por unas u otras plantas, así como los relatos sobre las plantas "que si se les dan y las que no".  Esta idea la integro acá como la integra ella en su tesis doctoral sobre circuitos de producción agroecológica en Bogotá Región (2020).
+
 ![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/BD-botsque-2.png)
 #### Variables de transcodificación
 
-Las varibales para la vidualización sonora del  prototipo inicial se crean a partir de las variables: humedad en la planta y respiración en el ser humano. Se establecen dos estados de equivalencia: Desequilibrio y Bienestar. Los rangos pertenecen al estado de una planta que llamo camándula de arvejitas, cuyo nombre científico es Senecio rowleyanus. Los rangos de respiración en seres humanos están basados en la literatura (*Signos vitales*, s. f.). 
+Las varibales para la visualización sonora del  prototipo se crean a partir de las variables: humedad en la planta y respiración en el ser humano. Se establecen dos estados de equivalencia para las analogías homeomórficas: Desequilibrio y Bienestar. Los rangos pertenecen al estado de una planta con quien vivo, camándula de arvejitas y cuyo nombre científico es _Senecio rowleyanus_. Los rangos de respiración en seres humanos están basados en la literatura (*Signos vitales*, s. f.).
 
+Los rangos y frecuencias del sonido se incrementan a medida que el desequilibrio aumenta. Estos rangos deben ser calibrados según las plantas y las personas pues lo que es una condición de desequilibrio para una planta no lo tiene que ser para otra. El sistema busca que en algún momento el lenguaje del botsque lleve a los seres humanos a ser plantas, a no-pensar como ellas. Esa acción ocurre en la medida en que se empiezan a hacer imperceptibles los sonidos y ambas partes pueden entregarse a una escucha contemplativa desde el bienestar y el equilibrio. La especulación de esta trans-codificación ha sido parte de las conversaciones con @ebmgo artista sonoro y @c405 ingeniero electrónico. 
 
-
-
-
-|        | **Estado**                      |                   | **Rango** | **Frecuencia** | **Color** | **Sonido eléctrico**       |
-| ------ | ------------------------------- | ----------------- | --------- | -------------- | --------- | -------------------------- |
-| **1**  | **Seco/Desequilibrio**          | **1023-700 / 50** | 1023-1000 | 1023 x min     | #000000   | Clumk Mid_bip.wav          |
-| **2**  | **Seco/Desequilibrio**          |                   | 999-975   | 999 x min      | #151515   | Buzz 1_bip.wav             |
-| **3**  | **Seco/Desequilibrio**          |                   | 974-950   | 974 x min      | #1C1C1C   | Cosmic Clay 2_bip.wav      |
-| **4**  | **Seco/Desequilibrio**          |                   | 949-925   | 949 xmin       | #2E2E2E   | Cosmic Clay 3_bip.wav      |
-| **5**  | **Seco/Desequilibrio**          |                   | 899-875   | 899 x min      | #42424    | Cosmic Clay 4_bip.wav      |
-| **6**  | **Seco/Desequilibrio**          |                   | 874-850   | 874 x min      | #585858   | Cosmic Clay_bip.wav        |
-| **7**  | **Seco/Desequilibrio**          |                   | 849-825   | 379 x min      | #6E6E6E   | Clave Hard_bip.wav         |
-| **8**  | **Seco/Desequilibrio**          |                   | 824-799   | 347  x min     | #848484   | Conga Big_bip.wav          |
-| **9**  | **Seco/Desequilibrio**          |                   | 798-775   | 315  x min     | #A4A4A4   | Floor Tom_bip.wav          |
-| **10** | **Seco/Desequilibrio**          |                   | 774-750   | 283 x min      | #BDBDBD   | High Tom_bip.wav           |
-| **11** | **Seco/Desequilibrio**          |                   | 749-725   | 251 x min      | #D8D8D8   | Kick 1_bip.wav             |
-| **12** | **Seco/Desequilibrio**          |                   | 724-700   | 219  x min     | #E6E6E6   | Kick 2_bip.wav             |
-| **13** | **Bienestar**                   | **700-300 /45**   | 699-654   | 187  x min     | #DBA901   | Mid Tom _bip.wav           |
-| **14** | **Bienestar**                   |                   | 653-608   | 155 x min      | #868A08   | Tabla 1_bip.wav            |
-| **15** | **Bienestar**                   |                   | 607-563   | 123x min       | #0B4C5F   | Tabla 5_bip.wav            |
-| **16** | **Bienestar**                   |                   | 562-518   | 91 x min       | #610B5E   | Tabla 6_bip.wav            |
-| **17** | **Bienestar**                   |                   | 517-472   | 59 x min       | #DF7401   | Tabla 7_bip.wav            |
-| **18** | **Bienestar**                   |                   | 471-426   | 0  x min       | #380B61   | Tabla 9_bip.wav            |
-| **19** | **Bienestar**                   |                   | 425-380   | 0 x min        | #088A85   | Tabla 10_bip.wav           |
-| **20** | **Muy húmedo/Desequilibrio**    | **379-0 /31**     | 379-348   | 155 x min      | #E6E6E6   | Tabla 11_bip.wav           |
-| **21** | **Muy húmedo/Desequilibrio**    |                   | 347-316   | 251 x min      | #D8D8D8   | Click Buzz_bip.wav         |
-| **22** | **Muy húmedo/Desequilibrio**    |                   | 315-284   | 283 x min      | #BDBDBD   | Alien Zip_bip.wav          |
-| **23** | **Muy húmedo/Desequilibrio**    |                   | 283-252   | 315 x min      | #A4A4A4   | Electronic Tabla a_bip.wav |
-| **24** | **Muy húmedo/Desequilibrio**    |                   | 251-220   | 347 x min      | #848484   | Glong_bip.wav              |
-| **25** | **Muy húmedo /Desequilibrio**** |                   | 219-188   | 379 x min      | #6E6E6E   | Mall Drum_bip.wav          |
-| **26** | **Muy húmedo/Desequilibrio****  |                   | 187-156   | 874 x min      | #585858   | Tabla 2_bip.wav            |
-| **27** | **Muy húmedo/Desequilibrio****  |                   | 155-124   | 899 x min      | #42424    | Tabla 3_bip.wav            |
-| **28** | **Muy húmedo/Desequilibrio****  |                   | 123-92    | 949 x min      | #2E2E2E   | Tabla 4_bip.wav            |
-| **29** | **Muy húmedo/Desequilibrio****  |                   | 91-60     | 974 x min      | #1C1C1C   | Tabla 8_bip.wav            |
-| **30** | **Muy húmedo/Desequilibrio****  |                   | 59-28     | 999x min       | #151515   | Wood Block_bip.wav         |
-| **31** | **Muy húmedo/Desequilibrio****  |                   | 28-0      | 1023 x min     | #000000   | Woodblock 2_bip.wav        |
-
-
-
-
-
-| **Frecuencia de respiración** | **Numero de respiraciones por minuto** | **Sonido**                 | **Frecuencia sonido** |
-| ----------------------------- | :------------------------------------- | -------------------------- | --------------------- |
-| **Calma extrema/ Bienestar**  | 1                                      | Mid Tom _bip.wav           | 1 x min               |
-| **Calma extrema/ Bienestar**  | 2                                      | Tabla 1_bip.wav            | 2 x min               |
-| **Calma extrema/ Bienestar**  | 3                                      | Tabla 5_bip.wav            | 3 x min               |
-| **Calma extrema/ Bienestar**  | 4                                      | Tabla 6_bip.wav            | 4 x min               |
-| **Calma extrema/ Bienestar**  | 5                                      | Tabla 7_bip.wav            | 5 x min               |
-| **Calma extrema/ Bienestar**  | 6                                      | Tabla 9_bip.wav            | 6 x min               |
-| **Calma extrema/ Bienestar**  | 7                                      | Tabla 10_bip.wav           | 7 x min               |
-| **Calma extrema/ Bienestar**  | 8                                      | Mid Tom _bip.wav           | 8 x min               |
-| **Calma extrema/ Bienestar**  | 9                                      | Tabla 1_bip.wav            | 9 x min               |
-| **Calma extrema/ Bienestar**  | 10                                     | Tabla 5_bip.wav            | 10 x min              |
-| **Calma extrema/ Bienestar**  | 11                                     | Tabla 6_bip.wav            | 11 x min              |
-| **Normal/Bienestar**          | 12                                     | Tabla 7_bip.wav            | 12 x min              |
-| **Normal/Bienestar**          | 13                                     | Tabla 9_bip.wav            | 13 x min              |
-| **Normal/Bienestar**          | 14                                     | Tabla 10_bip.wav           | 14 x min              |
-| **Normal/Bienestar**          | 15                                     | Mid Tom _bip.wav           | 15 x min              |
-| **Agitación/Desequilibrio**   | 16                                     | Tabla 1_bip.wav            | 16 x min              |
-| **Agitación/Desequilibrio**   | 17                                     | Tabla 5_bip.wav            | 17 x min              |
-| **Agitación/Desequilibrio**   | 18                                     | Tabla 6_bip.wav            | 18 x min              |
-| **Agitación/Desequilibrio**   | 19                                     | Tabla 11_bip.wav           | 19 x min              |
-| **Agitación/Desequilibrio**   | 20                                     | Click Buzz_bip.wav         | 20 x min              |
-| **Agitación/Desequilibrio**   | 21                                     | Alien Zip_bip.wav          | 21 x min              |
-| **Agitación/Desequilibrio**   | 22                                     | Electronic Tabla a_bip.wav | 22 x min              |
-| **Agitación/Desequilibrio**   | 23                                     | Glong_bip.wav              | 23 x min              |
-| **Agitación/Desequilibrio**   | 24                                     | Mall Drum_bip.wav          | 24x min               |
+Ver anexo:[variables-transcodificacion](https://github.com/mjespinosam/botsque-doc/blob/master/Anexos/variables-trasncodificacion.md)
 
 #### Desarrollo del bot con phyton
 
+Botsque_bot es un bot bibliotecario que media en la construcción del aprendizaje colaborativo. En la comunidad su rol es el de rastrear las vinculaciones entre plantas y seres humanos y ayudar a resguardar, organizar y recuperar el conocimiento. @Bostsque_bot tiene relaciones directas con cada persona de la comunidad y planta, a la vez que es un escucha en el grupo de la comunidad. El bot se está desarrollando en Phyton, como parte de un proyecto colaborativo y de formación de mujeres en la programación, impartido por Mauricio Baeza, desarrollador mexicano y amigo de la comunidad edición libre y bibliotecología DIY @MIAU. El propósito es lograr a mediano plazo un bot que pueda mediar en diferentes comunidades de aprendizaje.
+
 Vínculo al bot en telegram: @Botsque_bot
 
-Ver documentación del Bot en el repositorio [Botsque_bot]()
+Ver documentación del Bot en el repositorio [Botsque_bot](https://github.com/mjespinosam/botsque_bot)
 
 ## III. Plantar el problema : saberes adventicios
 
