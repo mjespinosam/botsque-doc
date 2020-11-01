@@ -193,6 +193,7 @@ performace que utiliza in sensor de actividad cerebral comercial para manifestar
 María Juana Espinosa David Ariza
 
 <img src="/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/mesa-huerta-6.jpg" style="zoom:40%;" />
+<img src="https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/mesa-huerta-6.jpg" style="zoom:40%;"/>
 
 Como parte del resultado del primer laboratorio de creación colectiva de Microhuertas [“Crear/criar espacios vivos en casa”](https://vimeo.com/299020396) realizado en Bogotá (2018) un grupo interdisciplinario de creadores de la ciencia el arte y la tecnología prototipamos una “ Mesa-microhuerta” en la que se integramos sensores electrónicos con el fin de activar la comunicación entre seres humanos-plantas-agente virtual (bot). A partir de un ejercicio especulativo cuestionamos la integración de los sensores como dispositivos de control a los espacios vivos si bien reconocemos la huerta como espacio semiótico en el que se da la interacción entre sensores personas y plantas. Esta interacción construye y devela signos a partir de una experiencia corporal y emocional. Por lo tanto, la integración de los sensores más que sustituir labores de cuidado de la huerta se integran en la mediación comunicativa para la conexión con lo vivo. Bajo la pregunta ¿Cuál es el bienestar de la microhuerta y de qué manera los sensores dan cuenta de ello? Trabajamos con 4 sensores: el cuerpo como sensor primario que desde la observación determina condiciones para las plantas, y los sensores de humedad de tierra, humedad relativa y luz. Estos sensores están dispuestos de tal modo que se relaciones con la mesa a través de canales de bienestar contruídos inicialmente con tinta conductora y luego con cinta de cobre. Sobre cada canal habitan un conjunto de insectos benéficos para el entorno y elaborados de materiales electrónicos que se encienden si las condiciones son óptimas. Cada canal representa un sensor: agua, luz, humedad. Los datos son entregados vía wifi a telegram desde donde se archivan mediante un bot que comunica a la comunidad de microhuertas el estado de bienestar de las huertas. 
 
@@ -285,6 +286,7 @@ Observador/Escucha: solo escucha o lee.
 
 
 ![](/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/esquema-lenguaje-1.png)
+![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/esquema-lenguaje-1.png)
 
 #### Video del sistema
 
@@ -408,7 +410,15 @@ Fin
 
 ![](/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/bd_botsque.png)
 
+<<<<<<< HEAD
 #### Variables de transcodificación
+=======
+![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/bd_botsque.png)
+
+### Variables de transcodificación
+
+
+>>>>>>> 6123a14652774eac94540f3989087af59ed8e039
 
 Las varibales para la vidualización sonora del  prototipo inicial se crean a partir de las variables: humedad en la planta y respiración en el ser humano. Se establecen dos estados de equivalencia: Desequilibrio y Bienestar. Los rangos pertenecen al estado de una planta que llamo camándula de arvejitas, cuyo nombre científico es Senecio rowleyanus. Los rangos de respiración en seres humanos están basados en la literatura (*Signos vitales*, s. f.). 
 
