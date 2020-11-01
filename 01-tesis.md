@@ -302,49 +302,255 @@ Ver anexo: [Caso de uso](https://github.com/mjespinosam/botsque-doc/blob/master/
 
 #### Escenarios de uso en seudocódigo
 
-**Escenario 1 / Conexión**
+**Escenario 1 / Registro humano** 
 
 Inicio
 
-Usuaria **conecta** al sistema la transmisión de datos de la planta y de si misma
+Usuaria ingresa en telegram a @botsque_bot e ingresa  y da unirse al bot
 
-Sistema **recopila** datos
+La usuaria ingresa el comando /start y el bot saluda con el user o username de la usuaria y despliega menú con seis 
 
-El sistema **"trans-codifica"** datos en sonidos
+opciones: 1) registrarse 2) registrar plantas 2) unirse y conversar en la comunidad 3) personalizar notificaciones 4) 
 
-El sistema **transmite** los sonidos
+transmitir 5) escuchar plantas 6) recuperar conocimientos 
 
-Usuaria y plantas escuchan sonidos. Si hay sonidos rápidos es que hay algun desequilibrio en si misma o en las plantas. 
+La usuaria elige 1, registrarse
 
-Usuaria no escucha sonidos. Si los sonidos se dilatan y tienden al silencio es indicador de bienestar. 
+El bot le da tres opciones 1) registrar persona o, 2) registrar planta 3) Volver al menú
+
+La usuaria elige 1) registrarse como persona
+
+El bot confirma si es la ciudad x donde se encuentra. El bot reconoce la ip y establece un lugar. El lugar debe ser 
+
+confirmado o establecido por la usuaria.
+
+El bot consulta si  1) quiere mantener su usuario  2) quiere cambiar usuario 
+
+La usuaria elige 1 y cambia el usuario
+
+El bot verifica. Tu nuevo usurio es x? 1) si 2) cambiarlo
+
+La usuaria confirma 1, ese es su usuario nuevo
+
+El bot confirma que está registrada e indica que puede corregir el perfil en la opción 7 del menú.  Pregunta si quiere 1) Corregir registro 2) Finalizar registro, volver al menú. 
 
 Fin
 
-Escenario 2 / Escuchar plantas y personas en vivo 
 
-Inicio
 
-El bot **identifica** que una persona y su amiga planta están transmitiendo
+ **Escenario 2 / Registro plantas**
 
-El bot **notifica** en el chat grupal que hay transmisión
+ Usuaria ingresa en telegram a @botsque_bot e ingresa  y da unirse al bot
 
-El bot **comparte** los datos de la transmisión: lugar, persona, planta
+La usuaria ingresa el comando /start y el bot saluda con el user o username de la usuaria y despliega menú con s
 
-Las personas que desean **escuchan** a la transmisión
+Siete opciones: 1) registrarse 2) registrar plantas 2) unirse y conversar en la comunidad 3) personalizar 
+
+notificaciones 4) 
+
+transmitir 5) escuchar plantas 6) recuperar conocimientos 7) Ajustar perfil personal y de plantas
+
+La usuaria elige 1, registrarse
+
+El bot le da tres opciones 1) registrar persona o, 2) registrar planta 3) Volver al menú
+
+La usuaria ingres 2
+
+El bot confirma ¿quieres registrar una planta? 1) si 2) Volver al menú
+
+La usuaria confirma 1
+
+El bot consulta ¿Qué nombre le das a tu planta?
+
+La usuaria ingresa el nombre
+
+Tu planta se llama x. 1) si 2) corregir
+
+La usuaria ingres 1
+
+El bot pregunta ¿Conoces un nombre común para tu planta? 1) si 2) 
+
+La usuaria indica 1. 
+
+El bot le solicita escribir el nombre común 
+
+La usuaria escribe el nombre común
+
+El bot confirma ¿El nombre común es x?  1) Si, continuar 2) corregir
+
+La usuaria ingresa 1.
+
+El bot pregunta si desea ingresar otros nombres comunes 1) si 2) continuar
+
+La usuaria ingresa 2
+
+El bot consulta sobre nombre científico ¿Conoces el nombre científico de esta planta? 1) si 2) no
+
+La usuaria elige 1) si
+
+El bot despliega una lista para que pueda elegirla de allí. La lista tiene la opción no lo encuentro, continuar registro
+
+La usuaria encuentra el nombre y lo elige
+
+El bot verifica ¿El nombre científico es X? 1) si, continuar, 2) no, elegir otro 3) ingresarlo luego
+
+La usuaria elige 1.
+
+El bot solicita una imagen de la planta de máximo de 300 KB. 1) Subir imagen 2) Subirla después, continuar
+
+La usuaria sube la imagen
+
+El bot confirma que se subió la imagen y pregunta ¿Quisieras contarnos un poco sobre tu relación con la planta) 1) 
+
+Si 2) No continuar
+
+La usuaria elige 1) 
+
+EL bot confirma elegiste 1. 1)Continuar 2) Finalizar registro 
+
+La usuaria elige 1. 
+
+El bot pregunta ¿Qué puedes contarnos de la planta?
+
+La usuaria escribe un párrafo sobre la planta
+
+El bot confirma. Escribiste una descripción. Puedes editar la descripción y los datos de la planta cuando quieras en      
+
+la opción 7  del menú. Ya terminaste el registro. 1) Volver al menú 2)Registrar otra planta
+
+
+
+ **Escenario 3 / Transmitir**
+
+Usuaria ingresa en telegram a @botsque_bot e ingresa  y da unirse al bot
+
+La usuaria ingresa el comando /start y el bot saluda con el user o username de la usuaria y despliega menú con 
+
+Siete opciones: 1) registrarse 2) registrar plantas 2) unirse y conversar en la comunidad 3) personalizar 
+
+notificaciones 4) transmitir 5) escuchar plantas 6) recuperar conocimientos 7) Ajustar perfil personal y de plantas
+
+La usuaria elige 4 
+
+El bot pregunta ¿Tienes los dispositivos de transmisión conectados a la base de datos? 1) si 2) no
+
+La usuaria escribe 2
+
+El bot regresa la respuesta. Para conectarte debes completar un tutorial. Debes tener todos los dispositivos. Tardas 
+
+entre 15 y 30 minutos. 1) Verficar dispositivos 2) Conectar 3) Transmitir luego. Volver al menú.
+
+La usuaria elige 1. 
+
+El bot confirma ¿Quieres verificar tus dispositivos para conectarte al sistema? 1. Si 2.No. Pasar a la conección. 3.
+
+verificar luego. Volcer al menú.
+
+La usuaria elige 1. 
+
+El bot despliega el listado de todos los dispositivos. 
+
+El bot pregunta. Si tienes dudas sobre los dispositivos puedes visitar esta página. Https:// .En caso de tenerlos
+
+todos. ¿Quieres pasar al tutorial de la conexión? 1. Si. 2. No hacer después el tutorial. Volver al menún-
+
+La usuaria elige 2. 
+
+El bot confirma. Tu respuesta es 2. 1)Ver el tutoría 2) Ver el tutorial luego. Volver al menú
+
+La usauria digita 1.
+
+El bot entrega el enlace del video tutorial
+
+Y hace una pregunta.  Cuando termines el  video tutorial puedes regresar aquí para pasar a la transmisión. 1) Si.
+
+Transmitir. 2) Transmitir luego. Volver al menú. 
+
+La usuaria tras hacer el tutorial regresa y digita 1. 
+
+El bot pregunta ¿Deseas transmitir? 1. Si, ya está todo listo  2. Mejor en otro momento. Volver al Menú
+
+La usuaria elige 1. 
+
+El bot solicita la información de la ip del dispositivo para conectarse. Podrías indicarnos la ip para la conección 1).
+
+Si. 2) Mejor no, luego tranmito
+
+La usuaria digita 1
+
+El bot pregunta ¿Quieres ingresar el número de ip?  1) Si, si quiero transmitir 2) No, mejor después. Volver al menú.
+
+La usuaria escribe 1
+
+El bot solicita escribir el número de ip
+
+La usuaria lo registra
+
+El bot verifica. Es este el número de tu ip xxxx? 1) Si 2) No, corregir 3) Ingresarlo luego, regresar al menú.
+
+La usuaria ingresa 1.
+
+El bot pregunta ¿Quieres guardar esta ip como predefinida para otras conecciones?  1) Si. 2) No, ahora no. 
+
+La usuaria elige 1. 
+
+El bot verifica. Tu ip fue almacenada en tu perfil. Puedes hacer cambios en la opción 7 del menú. ¿Estás lista para
+
+transmitir? 1. Si. 2. No, mejor después. Volver al menú.
+
+La usuaria ingresa 1
+
+Por favor verifica que tienes los sensores puestos. Ahora vamos a esperar comunicacion con tu servidor. Esto
+
+tardará unos minutos. Espera. El bot se conecta con el servidor que internamente ya recibió los datos de la usuaria
+
+y los "transcodifica".
+
+El bot anuncia, ya empieza la transmisión
+
+La usuaria empieza a escuchar los sonidos de las plantas y suyos
+
+El bot notifica a la comunidad que hay x planta y x usuaria en x lugar trasnmitiendo por si alguien quiere escuchar. 
+
+La transmisión se resguarda en una base de datos de sonidos con todos los registros de identificación.Hora, día,
+
+lugar, planta, persona. 
+
+El bot notifica a la usuaria. Cuando quieras detener la transmisión da 1) Volver al menú.
+
+La usuaria finaliza la transmisión y da 1) volver al menú.
 
 Fin
 
-**Escenario 3 / Notificaciones del dí**
+
+
+**Escenario 4 / Escuchar plantas y personas en vivo**
 
 Inicio
 
-El sistema **conoce** las plantas amigas de cada persona 
+Una vez el bot empieza a transmitir sonidos en directo de una planta y una persona, envía una notificación al grupo para escucha en directo e indica quién, con quién y dónde está ocurriendo la transmisión.
 
-El sistema **identifica** las plantas sobre las que se conversa en el chat durante las últimas 24 horas
+La usuaria recibe una notificación en el grupo de la comunidad de que hay alguien transmitiendo. Dice el bot: ¿Si quieres escuchar en directo sigue este link?
 
-El sistema **notifica** a la comunidad en horas de la noche los temas generales de las últimas 24 horas 
+El link la redirije a una plataforma de estreaming donde se pueden leer todos los datos de la acción que se está transmitiendo. 
+
+Fin
+
+
+
+**Escenario 3 / Notificaciones del día**
+
+Inicio
+
+El bot reconoce todos los nombres de las plantas de las que se ha hablado en un lapso de 24 horas y etiqueta las conversaciones realizadas por las personas. El bot sabe así de quién se está hablando y quién está hablando. Identifica otras palabras claves asociada a la conversación. Todo esto lo registra en la BD. Como el bot @adversarybot
+
+Al finalizar el día envía una notificación en el grupo  en el que recupera plantas se habló durante el día y qué personas estuvieron más activas. 
+
+Las personas que tienen en sus preferencias notificaciones personalizadas reciben notificaciones si están relacionadas con las plantas de las que quieren saber que se habla en la comunidad.  Esta notificación llega al chat personal. 
 
 Fin 
+
+
 
 **Escenario 4 / Notificaciones personalizadas**
 
@@ -357,6 +563,8 @@ El sistema **localiza** otras plantas de interés de una persona
 El sistema **identifica** plantas sobre las que se conversa en el chat
 
 El sistema **envía** notificaciones personalizadas, mientras se conversa sobre una planta, a las personas interesadas en ella.
+
+
 
 **Escenario 5 / Vincular personas y plantas para la conversación**
 
@@ -410,15 +618,13 @@ Fin
 
 ![](/Users/juanaespinosa/Tesis/001-tesis- git/imagenes/bd_botsque.png)
 
-<<<<<<< HEAD
+
+
 #### Variables de transcodificación
-=======
-![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/bd_botsque.png)
+
+#### ![](https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/bd_botsque.png)
 
 ### Variables de transcodificación
-
-
->>>>>>> 6123a14652774eac94540f3989087af59ed8e039
 
 Las varibales para la vidualización sonora del  prototipo inicial se crean a partir de las variables: humedad en la planta y respiración en el ser humano. Se establecen dos estados de equivalencia: Desequilibrio y Bienestar. Los rangos pertenecen al estado de una planta que llamo camándula de arvejitas, cuyo nombre científico es Senecio rowleyanus. Los rangos de respiración en seres humanos están basados en la literatura (*Signos vitales*, s. f.). 
 
@@ -428,37 +634,37 @@ Las varibales para la vidualización sonora del  prototipo inicial se crean a pa
 
 |        | **Estado**                      |                   | **Rango** | **Frecuencia** | **Color** | **Sonido eléctrico**       |
 | ------ | ------------------------------- | ----------------- | --------- | -------------- | --------- | -------------------------- |
-| **1**  | **Seco/Desequilibrio**          | **1023-700 / 50** | 1023-1000 |                | #000000   | Clumk Mid_bip.wav          |
-| **2**  | **Seco/Desequilibrio**          |                   | 999-975   |                | #151515   | Buzz 1_bip.wav             |
-| **3**  | **Seco/Desequilibrio**          |                   | 974-950   |                | #1C1C1C   | Cosmic Clay 2_bip.wav      |
-| **4**  | **Seco/Desequilibrio**          |                   | 949-925   |                | #2E2E2E   | Cosmic Clay 3_bip.wav      |
-| **5**  | **Seco/Desequilibrio**          |                   | 899-875   |                | #42424    | Cosmic Clay 4_bip.wav      |
-| **6**  | **Seco/Desequilibrio**          |                   | 874-850   |                | #585858   | Cosmic Clay_bip.wav        |
-| **7**  | **Seco/Desequilibrio**          |                   | 849-825   |                | #6E6E6E   | Clave Hard_bip.wav         |
-| **8**  | **Seco/Desequilibrio**          |                   | 824-799   |                | #848484   | Conga Big_bip.wav          |
-| **9**  | **Seco/Desequilibrio**          |                   | 798-775   |                | #A4A4A4   | Floor Tom_bip.wav          |
-| **10** | **Seco/Desequilibrio**          |                   | 774-750   |                | #BDBDBD   | High Tom_bip.wav           |
-| **11** | **Seco/Desequilibrio**          |                   | 749-725   |                | #D8D8D8   | Kick 1_bip.wav             |
-| **12** | **Seco/Desequilibrio**          |                   | 724-700   |                | #E6E6E6   | Kick 2_bip.wav             |
-| **13** | **Bienestar**                   | **700-300 /45**   | 699-654   |                | #DBA901   | Mid Tom _bip.wav           |
-| **14** | **Bienestar**                   |                   | 653-608   |                | #868A08   | Tabla 1_bip.wav            |
-| **15** | **Bienestar**                   |                   | 607-563   |                | #0B4C5F   | Tabla 5_bip.wav            |
-| **16** | **Bienestar**                   |                   | 562-518   |                | #610B5E   | Tabla 6_bip.wav            |
-| **17** | **Bienestar**                   |                   | 517-472   |                | #DF7401   | Tabla 7_bip.wav            |
-| **18** | **Bienestar**                   |                   | 471-426   |                | #380B61   | Tabla 9_bip.wav            |
-| **19** | **Bienestar**                   |                   | 425-380   |                | #088A85   | Tabla 10_bip.wav           |
-| **20** | **Muy húmedo/Desequilibrio**    | **379-0 /31**     | 379-348   |                | #E6E6E6   | Tabla 11_bip.wav           |
-| **21** | **Muy húmedo/Desequilibrio**    |                   | 347-316   |                | #D8D8D8   | Click Buzz_bip.wav         |
-| **22** | **Muy húmedo/Desequilibrio**    |                   | 315-284   |                | #BDBDBD   | Alien Zip_bip.wav          |
-| **23** | **Muy húmedo/Desequilibrio**    |                   | 283-252   |                | #A4A4A4   | Electronic Tabla a_bip.wav |
-| **24** | **Muy húmedo/Desequilibrio**    |                   | 251-220   |                | #848484   | Glong_bip.wav              |
-| **25** | **Muy húmedo /Desequilibrio**** |                   | 219-188   |                | #6E6E6E   | Mall Drum_bip.wav          |
-| **26** | **Muy húmedo/Desequilibrio****  |                   | 187-156   |                | #585858   | Tabla 2_bip.wav            |
-| **27** | **Muy húmedo/Desequilibrio****  |                   | 155-124   |                | #42424    | Tabla 3_bip.wav            |
-| **28** | **Muy húmedo/Desequilibrio****  |                   | 123-92    |                | #2E2E2E   | Tabla 4_bip.wav            |
-| **29** | **Muy húmedo/Desequilibrio****  |                   | 91-60     |                | #1C1C1C   | Tabla 8_bip.wav            |
-| **30** | **Muy húmedo/Desequilibrio****  |                   | 59-28     |                | #151515   | Wood Block_bip.wav         |
-| **31** | **Muy húmedo/Desequilibrio****  |                   | 28-0      |                | #000000   | Woodblock 2_bip.wav        |
+| **1**  | **Seco/Desequilibrio**          | **1023-700 / 50** | 1023-1000 | 1023 x min     | #000000   | Clumk Mid_bip.wav          |
+| **2**  | **Seco/Desequilibrio**          |                   | 999-975   | 999 x min      | #151515   | Buzz 1_bip.wav             |
+| **3**  | **Seco/Desequilibrio**          |                   | 974-950   | 974 x min      | #1C1C1C   | Cosmic Clay 2_bip.wav      |
+| **4**  | **Seco/Desequilibrio**          |                   | 949-925   | 949 xmin       | #2E2E2E   | Cosmic Clay 3_bip.wav      |
+| **5**  | **Seco/Desequilibrio**          |                   | 899-875   | 899 x min      | #42424    | Cosmic Clay 4_bip.wav      |
+| **6**  | **Seco/Desequilibrio**          |                   | 874-850   | 874 x min      | #585858   | Cosmic Clay_bip.wav        |
+| **7**  | **Seco/Desequilibrio**          |                   | 849-825   | 379 x min      | #6E6E6E   | Clave Hard_bip.wav         |
+| **8**  | **Seco/Desequilibrio**          |                   | 824-799   | 347  x min     | #848484   | Conga Big_bip.wav          |
+| **9**  | **Seco/Desequilibrio**          |                   | 798-775   | 315  x min     | #A4A4A4   | Floor Tom_bip.wav          |
+| **10** | **Seco/Desequilibrio**          |                   | 774-750   | 283 x min      | #BDBDBD   | High Tom_bip.wav           |
+| **11** | **Seco/Desequilibrio**          |                   | 749-725   | 251 x min      | #D8D8D8   | Kick 1_bip.wav             |
+| **12** | **Seco/Desequilibrio**          |                   | 724-700   | 219  x min     | #E6E6E6   | Kick 2_bip.wav             |
+| **13** | **Bienestar**                   | **700-300 /45**   | 699-654   | 187  x min     | #DBA901   | Mid Tom _bip.wav           |
+| **14** | **Bienestar**                   |                   | 653-608   | 155 x min      | #868A08   | Tabla 1_bip.wav            |
+| **15** | **Bienestar**                   |                   | 607-563   | 123x min       | #0B4C5F   | Tabla 5_bip.wav            |
+| **16** | **Bienestar**                   |                   | 562-518   | 91 x min       | #610B5E   | Tabla 6_bip.wav            |
+| **17** | **Bienestar**                   |                   | 517-472   | 59 x min       | #DF7401   | Tabla 7_bip.wav            |
+| **18** | **Bienestar**                   |                   | 471-426   | 0  x min       | #380B61   | Tabla 9_bip.wav            |
+| **19** | **Bienestar**                   |                   | 425-380   | 0 x min        | #088A85   | Tabla 10_bip.wav           |
+| **20** | **Muy húmedo/Desequilibrio**    | **379-0 /31**     | 379-348   | 155 x min      | #E6E6E6   | Tabla 11_bip.wav           |
+| **21** | **Muy húmedo/Desequilibrio**    |                   | 347-316   | 251 x min      | #D8D8D8   | Click Buzz_bip.wav         |
+| **22** | **Muy húmedo/Desequilibrio**    |                   | 315-284   | 283 x min      | #BDBDBD   | Alien Zip_bip.wav          |
+| **23** | **Muy húmedo/Desequilibrio**    |                   | 283-252   | 315 x min      | #A4A4A4   | Electronic Tabla a_bip.wav |
+| **24** | **Muy húmedo/Desequilibrio**    |                   | 251-220   | 347 x min      | #848484   | Glong_bip.wav              |
+| **25** | **Muy húmedo /Desequilibrio**** |                   | 219-188   | 379 x min      | #6E6E6E   | Mall Drum_bip.wav          |
+| **26** | **Muy húmedo/Desequilibrio****  |                   | 187-156   | 874 x min      | #585858   | Tabla 2_bip.wav            |
+| **27** | **Muy húmedo/Desequilibrio****  |                   | 155-124   | 899 x min      | #42424    | Tabla 3_bip.wav            |
+| **28** | **Muy húmedo/Desequilibrio****  |                   | 123-92    | 949 x min      | #2E2E2E   | Tabla 4_bip.wav            |
+| **29** | **Muy húmedo/Desequilibrio****  |                   | 91-60     | 974 x min      | #1C1C1C   | Tabla 8_bip.wav            |
+| **30** | **Muy húmedo/Desequilibrio****  |                   | 59-28     | 999x min       | #151515   | Wood Block_bip.wav         |
+| **31** | **Muy húmedo/Desequilibrio****  |                   | 28-0      | 1023 x min     | #000000   | Woodblock 2_bip.wav        |
 
 
 
