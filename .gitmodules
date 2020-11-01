@@ -1,3 +1,6 @@
 [submodule "metodologia-git"]
 	path = metodologia-git
 	url = https://github.com/mjespinosam/metodologia-git
+[submodule "botsque_bot"]
+	path = botsque_bot
+	url = https://github.com/mjespinosam/botsque_bot
