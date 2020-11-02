@@ -336,15 +336,15 @@ Vínculo al bot en telegram: @Botsque_bot
 
 Ver documentación del Bot en el repositorio [Botsque_bot](https://github.com/mjespinosam/botsque_bot)
 
-## III. Las raíces del problema: control de versiones y perspectivas del diseño para la construcción de problemas en Humanidades Digitales
+## III. Las raíces del problema: metodologías implícitas para la construcción del problema 
 
 
 
 ![](/Users/juanaespinosa/Tesis/001-tesis- git/Anexos/esquemas/esqu-rutainvestiva-v2.png)
 
-Las rutas que recorrí para llega a este prototipo están relatadas y discutidas en el anexo plantar las metodologías. Allí expongo las discusiones que 
+Las rutas que recorrí para llega al lenguaje del botsque están relatadas y discutidas en el anexo raíces del problema. Allí, propongo el uso de control de versiones como una metodología de documentación en la construcción del problema a la vez que una narraitva para trazar las rutas mediante las cuales se refina el problema. Igualmente, discuto las posibilidades que ofrecen las metodologías del diseño en las investigaciones de Humanidades Digitales. Para ello analizo cada uno de los prototipos precedentes al Lenguaje del Botsque en clave de las metodologías y reparando en las posibilidades o limitaciones de cada perspectiva. En particular,  desarrollo el giro metodológico de la investigación. Hito clave en el que pasé de un diseño centrado en el usuario a un diseño centrado en los conceptos y en lo que desarrollé en el marco teórico, una aproximación a un diseño centrado en el ecosistema.  
 
-En el anexo: 
+En el anexo: [raíces del problema]()
 
 
 
