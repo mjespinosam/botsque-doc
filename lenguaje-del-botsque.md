@@ -343,9 +343,35 @@ Ver documentación del Bot en el repositorio [Botsque_bot](https://github.com/mj
 
 ![](/Users/juanaespinosa/Tesis/001-tesis- git/Anexos/esquemas/esqu-rutainvestiva-v2.png)
 
-Las rutas que recorrí para llega al lenguaje del botsque están relatadas y discutidas en el anexo raíces del problema. Allí, propongo el uso de control de versiones como una metodología de documentación en la construcción del problema a la vez que una narrativa para visualizar los asuntos emergergentes mediante las cuales se refinó el problema en la medida en que prototipaba. Igualmente, discuto las posibilidades que ofrecen las metodologías del diseño en las investigaciones de Humanidades Digitales. Para ello analizo cada uno de los prototipos precedentes al _Lenguaje del Botsque_ en clave de las posibilidades o limitaciones que se me presentaron desde cada perspectiva. Este recorrido da cuenta del giro metodológico de la investigación. Hito clave en el que pasé de un diseño centrado en el usuario a un diseño centrado en los conceptos y en lo que desarrollé en el marco teórico, una aproximación a un diseño centrado en el ecosistema. Un cambio que está estrechamente relacionado con un cuestionamiento sobre el quién, para qué y cómo se investiga desde nuestro campo. 
+Las rutas que recorrí para llega al lenguaje del botsque están relatadas y discutidas en el anexo raíces del problema. Allí, propongo el uso de control de versiones como una metodología de documentación en la construcción del problema, a la vez que una narrativa para visualizar los asuntos emergergentes. Este camino permite situar los momentos en que se refinó el problema una vez se prototipaba las herramientas. Igualmente, discuto las posibilidades que ofrecen las metodologías del diseño en las investigaciones de Humanidades Digitales. Para ello analizo cada uno de los prototipos precedentes al _Lenguaje del Botsque_ en clave de las posibilidades o limitaciones que se presentaron desde cada perspectiva. Finalmente doy cuenta del giro metodológico de la investigación. En el apartado de discusión _ Milpaís, la caja negra de la clasificación de las plantas y sus relaciones_ discuto por qué  el prototipo es improcedente pero al mismo tiempo necesario para entender el giro metodológico. Hito clave que me permitió, parrafraseando a Albrechtsen y Jacob, 1995 (Srinivasa, 2007),  pasar de ser una humanista digital orientada al producto a una facilitadores del conocimiento orientado a procesos. Así, El diseño centrado en conceptos me permitio abordar las relaciones plantas seres humanos al punto de especular sobre un diseño centrado en el ecosistema. Una exploracion sobre el lugar de la investigación en relación con lo no humano y que desarrollo aquí en _El Lenguaje del Botsque_.Estos son los apartados que desarrollo en el anexo:
 
-En el anexo: [raíces del problema]()
+**La investigación como diseño**
+
+**Documentar procesos de pensamiento**
+
+**Git: software de control de versiones**
+
+**Investigar con diseño**
+
+**Abordaje prelimares a las relaciones seres humanos en plataformas digitales**
+
+**Prototipos y referentes**
+
+**Inaturalis**
+
+**Wiki semántica**
+
+**Discusión: Milpaís, la caja negra de la clasificación de las plantas y sus relaciones con los** 
+
+**seres humanos**
+
+**Conclusiones**
+
+**Referentes**
+
+Ver anexo: [raíces del problema]()
+
+➜  ~ pandoc raices-problema.md --bibliography mi_biblioteca.bib -o out6.pdf
 
 ## IV. Conclusiones
 
