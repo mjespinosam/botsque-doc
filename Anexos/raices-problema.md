@@ -1,10 +1,12 @@
 ###  III. Plantar metodologías: saberes adventicios sobre el diseño en las Humanidades Digitales
 
+[TOC]
+
 
 
 ¿Qué hacer cuando una vez logrado el objetivo inicial de una investigación emergen aspectos problémicos? ¿Es posible que una tesis refute la tesis que la originó? ¿De qué manera relato, construyo, discuto y comparto las vicisitudes y los hallazgos de un proyecto? Pero sobre todo, ¿cómo llegué a saber más cosas sobre el problema de las relaciones seres humanos-plantas mediante la obervación, experimentación, análisis y reflexión de los prototipos logrados en el tiempo? 
 
-La pregunta de cómo investigué lo que investigué y sobre todo cómo llegué a refinar el problema me llevó a observar un modo particular en el hacer: investigar como diseño, investigar con diseño. La primera es una propuesta que tiene sus orígenes en los años ochentas con las reflexiones que Zeisel [@zeiselInquiryDesignTools1984]. El autor aborda los puntos en común entre diseñadores e investigadores a la hora de investigar. Allí, dice Zeisel, ambos crean conceptos o imágenes, formulan hipótesis o presentan los conceptos y luego los ponen a prueba. Una reflexión que va más allá del paralelismo con las ciencias, para pensar los problemas desde la creación de artefactos y prototipos [@dunneSpeculativeEverythingDesign2013] en un circuito iterativo. (Ver diagrama: ) Una manera de resolver los problemas [@grayVisualizingResearchGuide2004] o, una ruta para encontrarlos mediante la vinculación del pensamiento visual y práctico al pensamiento conceptual, del modo que lo hace la ingeniería, por ejemplo [@grandDesignFictionMethod2010]. Los prototipos por lo tanto, permiten explorar los conceptos y en consecuencia la manera como se comportan los problemas a través de una materialización.  Es decir que podemos pensar con los prototipos y por ello, podemos hablar de sus funciones epistémicas.
+La pregunta sobre cómo investigué lo que investigué y  cómo llegué a refinar el problema me llevó a observar un modo particular en el hacer: investigar como diseño, investigar con diseño. La primera es una propuesta que tiene sus orígenes en los años ochentas con las reflexiones que Zeisel [@zeiselInquiryDesignTools1984]. El autor aborda los puntos en común entre diseñadores e investigadores a la hora de investigar. Allí, dice Zeisel, ambos crean conceptos o imágenes, formulan hipótesis o presentan los conceptos y luego los ponen a prueba. Una reflexión que va más allá del paralelismo con las ciencias, para pensar los problemas desde la creación de artefactos y prototipos [@dunneSpeculativeEverythingDesign2013] en un circuito iterativo. (Ver diagrama: ) Una manera de resolver los problemas [@grayVisualizingResearchGuide2004] o, una ruta para encontrarlos mediante la vinculación del pensamiento visual y práctico al pensamiento conceptual, del modo que lo hace la ingeniería, por ejemplo [@grandDesignFictionMethod2010]. Los prototipos por lo tanto, permiten explorar los conceptos y en consecuencia la manera como se comportan los problemas a través de una materialización.  Es decir que podemos pensar con los prototipos y por ello, podemos hablar de sus funciones epistémicas.
 
 
 
@@ -20,15 +22,21 @@ Posicionar a los prototipos como instrumentos con funciones epistémicas nos cue
 
  Así, los dispositivos, artefactos y experimentos aparecen como actores que propician en sus interacciones, el conocimiento mismo. Para Latour estas tecnologías de inscripción son actantes y no agentes, entendidos  como "cualquier entidad que produzca una relación o adquiera valor de significación [...], y éste podrá ser humano o no humano. El actante se definirá por su capacidad de producir una acción dentro de una trama" [@moreiraConceptoMediacionTecnica2012,p.64]. En el artículo  Developing Things: Notes toward an Epistemology of Building in the Digital Humanities Stephen Ramsay and Geoffrey Rockwell [@ramseyDevelopingThingsNotes2012] postulan las herramientas digitales como "telescopios para la mente", instrumentos hermeneúticos a través de los cuales  -y con los cuales- interpretamos fenómenos. Esta analogía, utilizada originalmente por la lingüista computacional Margaret Masterman, no solo es provocativa sino polémica. ¿Pueden las herramientas ser en el ejercicio investigativo parte de la discusión y de la explicación por que en sí mismas tienen elementos que discuten, problematizan, explican lo que se está  investigando?  Aunque su integración como argumento esté mediado por un discurso -pensemos en la mediación del curador de arte y la obra de arte- las herramientas, artefactos, modelos y obras cuentan con argumentoss que pueden ser leídos  por quienes dominan su lenguaje. De ahí que se requieran procesos de traducción. Pero, ¿cómo contar estas historias, como traducirlas? ¿Cuál el esquema narrativo de una tesis que quiere dar cuenta de estos procesos? 
 
+![](/Users/juanaespinosa/Tesis/001-tesis- git/Anexos/esquemas/esqu_problema_v2.png)
+
+
+
+
+
+
+
 Desde la teoría actor red la traducción se comprende cuando se [describen]" las acciones de los humanos y no humanos que intervienen en la fabricación de un hecho científico"(García Díaz, 2008, pág. 59) y que, permiten la comprensión y experimentación de un problema. Allí, en el encuentro con los actores el problema toma nuevas formas. Por lo anterior, en esta tesis emprendí una búsqueda de las traducciones que ocurrieron en el proceso. Todo ello para dar cuenta tanto de las tecnologías de inscripción así como, las acciones que me permitieron refinar, comprender y explicar las preguntas y  problemas precedentes  problema final. A continuación presento la metodología que utilicé para documentar la  traducción y luego doy paso a un análisis de los prototipos. 
 
-<img src="/Users/juanaespinosa/Tesis/001-tesis- git/Anexos/imagenes/esque-proceso-analogo.png" style="zoom:450%;" />
+<img src="/Users/juanaespinosa/Tesis/001-tesis- git/Anexos/esquemas/esque-proceso-analogo.png" style="zoom:200%;" />
 
 Esquema 2.  Ruta para la comprensión de las traducciones durante el proceso de investigación.
 
-![](/Users/juanaespinosa/Tesis/001-tesis- git/Anexos/esquemas/esqu_problema_21.png)
-
-#### La investigación como diseño
+### La investigación como diseño
 
 Existen claras diferencias entre las metodologías  la investigación en diseño y el diseño como investigación. La investigación en diseño hace uso de métodos mixtos para responder una pregunta problema comunmente relacionada con el desarrrollo de un producto. La investigación como diseño, por el contrario, piensa en las maneras como se investiga en diseño y las conexiones con la investigación científica. Ambas improvisan, experimentan, crean artefactos e imágenes y finalmente llegan a conclusiones. En el artículo *Design Fiction: A Method Toolbox for Design Research in a Complex World*  Simon Grand y Martin Wiedmer [@grandDesignFictionMethod2010] reconocen estas relaciones a partir de la revisión de la literatura que da cuenta de  la naturaleza constructivista e imaginativa de la práctica cientifica, la importancia de la improvisacion, la experimentaicón, el papel de los artefactos, imágenes y materialidad y su diseño en las práctias investigativas (p.2) 
 
@@ -49,7 +57,7 @@ Estos modos de resolución de problemas se vinculan en metodologías de Soft Sys
 
 Gráfico 3: Esquema del proceso de resolución de problemas.
 
-#### Documentar los procesos de pensamiento
+####  Documentar los procesos de pensamiento
 
 Tanto la retrospección como la prospección son acciones que permiten en la documentación  hacer visible procesos de aprendizaje, confluencia de experiencias y procesos creativos.  [@lafuenteArteDocumentar2018]  ¿Cómo se llegó a un aprendizaje? ¿Cómo ese nuevo conocimiento emerge durante el proceso y de que maneras apoya o cuestiona otros conocimientos previos? Si bien hay una suerte de milagro en el aprendizaje y que se denomina resolución de problemas por "iluminación" [@lopezgagrciaAloritmosProgramaiconGuia2009], es claro que un análisis retrospectivo de múltiples elementos presentes en el proceso puede dar cuenta de cuáles fueron las asociaciones, conversaciones, rutas, rupturas, artefactos, etc., que permitieron llegar a ese “no se, simplemente sucedió”.
 
@@ -80,36 +88,32 @@ Ahora bien, el uso de Git como experimento narrativo, es un correlato del esquem
 
 
 
-### Metodologías de investigación exploradas  
+### Investigar con diseño  
 
-En la búsqueda de dar respuesta disciplinar de cómo conocemos desde las HD la intersección entre las artes, el diseño, las tecnologías, las humanidades e incluso las ciencias  nos dan una primera respuesta: desde la mixtura. Es usual que en contextos investigativos de áreas interdisciplinarias o en el arte se de una apropiación y adpatación de metodologías y métodos de otras disciplinas (Gray & Malins, 2004). De ahí que el diseño dialogue con la etnografía, la investigación acción participativa, por ejemplo. En todo caso y como he venido mostrando la investigación diseño nos permite rastrear el cómo conocemos y diseñar caminos para conocer. Al respecto hago una diferencia entre metodologías mixtas que desarrollan herramientas para la investigación en HD (gráfico 10), metodologías centradas en comunidades e infraestructuras digitales  (gráfico 11)  y las metodologías centradas en pensar el problema en HD desde el prototipado (gráfico 12). 
+En la búsqueda para dar respuesta disciplinar al cómo conocemos desde las HD la intersección entre las artes, el diseño, las tecnologías, las humanidades e incluso las ciencias  nos dan una primera respuesta: desde la mixtura. Es usual que en contextos investigativos de áreas interdisciplinarias o en el arte se de una apropiación y adpatación de metodologías y métodos de otras disciplinas [@grayProcedimientosMetodologiasInvestigacion2014]. De ahí que el diseño dialogue con la etnografía, la investigación acción participativa, la etnometodología, entre otras.  Así, al investigar con diseño las humanidades digitales exploran las posibilidades de los prototipos y las experiencias. Al respecto, en esta investigación reconocí el diseño como parte de las metodologías mixtas e identifiqué tres abordajes en los que orientan el proceso 1) Diseño de herramientas para la investigación en HD (Esquema 5),  Diseño centrado en el usuario para trabajar con comunidades e infraestructuras digitales  (Esquema 61)  y diseño centrado en problemas conceptuales en HD  (Esquema 7). 
 
-Las dos primeras se dan en diálogo con las ciencias y las humanidades y fueron desarrolladas en dos de los prototipos, Milpaís y Cofechas, mientras que la tercera es una metodología propia de las artes y el diseño que implementé intuitiva y luego sistemáticamente en los dos siguientes prototipos: Mesa Huerta y Lenguaje del Botsque. 
+Los dos primeros esquemas se dan en diálogo con las ciencias y las humanidades y fueron desarrolladas en dos de los prototipos, _Milpaís_ y _Cofechas_, mientras que la tercera es una metodología propia de las artes y el diseño que implementé intuitiva y luego sistemáticamente en los dos siguientes prototipos: _Mesa Huerta_ y _Lenguaje del Botsque_. 
 
 #### Herramientas para las Humanidades Digitales (HD)
 
-Los proyectos en HD suelen desarrollar o implementar herramientas digitales para poder explorar campos difícilmente abordables a través de la estructuración y análisis manuales de la información. Arqueología, lingüística (computacional) estudios literarios, sociología, entre otras áreas, han impulsado el desarrollo o la implementación de herramientas digitales que permiten trabajar con un corpus considerable y así, reconocer hipótesis de trabajo, hacer hallazgos. Bases de datos, exposiciones virtuales, visualización, geo-referenciación, mapeo, corpus lingüísticos, ocurrencia de palabras y contextos de uso, referencias textuales, análisis figurativos-semióticos de pictogramas, jeroglíficos, etc, son algunas de los resultados de estas implementaciones o desarrollos que son en alguna manera herramientas de recolección, organización y análisis de datos. Desde allí es claro emergen hipótesis y es posible hacer lecturas que difícilmente se podrían hacer por metodologías fenomenológicas. Esta perspectiva tiende más al racionalismo y dialoga con los métodos de las ciencias duras, metodologías cuantitativas. Trabajo de laboratorio, prueba de hipótesis y experimentaciones a partir de diseño de protocolos. 
+Los proyectos en HD suelen desarrollar o implementar herramientas digitales para explorar campos difícilmente abordables a través de la estructuración y análisis manual de la información. Arqueología, lingüística (computacional, estudios literarios, sociología, entre otras áreas, han impulsado el desarrollo o la implementación de herramientas digitales que permiten trabajar con un extensos corpus de datos y así, reconocer hipótesis de trabajo o hacer hallazgos. Bases de datos, exposiciones virtuales, visualización, geo-referenciación, mapeo, corpus lingüísticos, ocurrencia de palabras y contextos de uso, referencias textuales, análisis figurativos-semióticos de pictogramas, jeroglíficos, etc. son algunos de los resultados de estas implementaciones o desarrollos. Todas ellas funcionan para la recolección, organización y análisis de datos. 
 
-![](https://github.com/mjespinosam/botsque-doc/blob/master/Esquemas/esqu-metodologia-007.jpeg)
+
+
+![](/Users/juanaespinosa/Tesis/001-tesis- git/Anexos/esquemas/esqu-metodologia-007.jpeg)
 
 ￼
-Grafíco 10. Creación  propia.
+Grafíco 5. Herramientas digitales para las humanidades
 
-###### Los primeros experimentos con OMEKA
+En esta investigación este modelo lo utilicé en diversos momentos. Sobre todo para empezar a identificar los requerimientos y las posibilidades para su prototipado en herramientas digitales disponibles. Para entenderlo, volvamos al inicio de los tiempos. El hilo conductor de todo el proceso son las relaciones seres humanos plantas. Inicialmente la investigación tuvo por objetivo la implementación de un software colaborativo etnobotánico - tipo wiki- que permitiera pensar la adecuación de la [Base de Datos del Centro de Estudios de Medicina intercultural](https://github.com/mjespinosam/ruta-metodologia/wiki/CEMI). Un proyecto etnobotánico centrado en la construccion colaborativa de usos y aprovechamiento de las plantas. El preproyecto titulado "Savias wiki, una wiki etnobotánica" (2017)  estaba formulado desde el trabajo realizados con anterioridad en el colectivo Savias Sabias y desde una perspectiva bibliotecológica, ámbito en el que había trabajado por varios años.  Los requerimientos del proyecto eran:
 
-En esta investigación este modelo ha sido utilizado en diversos momentos. Sobre todo para empezar a identificar los requerimientos y las posibilidades para su prototipado en herramientas digitales disponibles. Para entenderlo, volvamos al inicio de los tiempos. El hilo conductor de todo el proceso han sido las relaciones seres humanos plantas. Inicialmente la investigación tuvo por objetivo la implementación de un software colaborativo etnobotánico - tipo wiki- . En ese primer momento el interés estaba dirigido a construir un referente para la adecuación de la [Base de Datos del Centro de Estudios de Medicina intercultural](https://github.com/mjespinosam/ruta-metodologia/wiki/CEMI). Un proyecto etnobotánico centrado en la construccion colaborativa de usos y aprovechamiento de las plantas. El preproyecto titulado "Savias wiki, una wiki etnobotánica" (2017)  estaba formulado desde el trabajo realizados con anterioridad en el colectivo Savias Sabias y desde una perspectiva bibliotecológica, ámbito en el que había trabajado por varios años.  El proyecto primigenio tenía por objetivos secundarios: 
+* Estructurar  semánticamente la información para una recuperación efectiva. 
+* Catalogar los saberes etnobotánicos a partir de vocabularios controlados.
+* Incluir el lenguaje común -folksonomías- para aumentar o precisar vocabularios controlados.
+* Construir de manera colaborativa y democrática el conocimiento sobre las plantas y su aprovechamiento. 
+* Georeferenciar conocimientos y plantas.
 
->* Estructurar  semántica de la información para una recuperación efectiva. 
->
->* Catalogar  los saberes etnobotánicos a partir de vocabularios controlados.
->
->* Incluir el lenguaje común -folksonomías- para aumentar o precisar vocabularios controlados.
->
->* Construir de manera colaborativa y democrática el conocimiento sobre las plantas y su aprovechamiento. 
->
->* Georefereniciar conocimientos y plantas.
-
-Estos requerimientos implicaban que debía aprender de la estructuración de información, el conocimiento de las bases de datos y las posibilidad de las plataformas wiki. En su momento este saber era rudimentario así que desde el Laboratorio de HD empecé por pequeños experimentos en Omeka, guiados por Camilo Martínez. [Omeka](https://omeka.org/about/project/) es un software libre creado por  el Centro de Historia y Nueva Media Roy Rosenzweig para la admnistración y y gestión de colecciones de objetos digitales[^8]  para museos, archivos y bibliotecas. En este software, propuesto por la maestría como herramienta para experimientos, fue la primera vez que noté las dificultades para definir las plantas en un entorno digital. En ese entonces estaba frente al dilema de cómo crear una "planta" en Omeka:  ¿Podía capturar o crear digitalmente una planta como se hace en un proceso de digitalización desde un soporte análogo o en la creación de un libro, imagen, sonido digital? Para poder hacer un proceso análogo debía en principio crear la planta como un item en Omeka. Los items types en este software se corresponden a las entidades en las bases de datos. Es decir "cualquier objeto (real o abstracto) sobre el cual queremos tener información en la base de datos" (Conabio, s.f). En esta plataforma las entidades estan pensadas por tipos -types- que se corresponden a tipos de documentos digitales (textos, sonidos, imágenes, representaciones visuales) o digitalizados (libros, fotografías, música, etc.), recursos (páginas web, historia oral, eventos), individuos (personas), entre otras entidades. Fue así que creé "Planta" como un item que además decribí como "individuo". (Ver: imagen 2)
+Estos requerimientos implicaban aprender sobre la estructuración de la información, el conocimiento de las bases de datos y las posibilidad de las plataformas wiki. En su momento este saber era rudimentario así que desde el Laboratorio de HD empecé por pequeños experimentos en Omeka, guiados por Camilo Martínez. [Omeka](https://omeka.org/about/project/) es un software libre creado por  el Centro de Historia y Nueva Media Roy Rosenzweig para la admnistración y y gestión de colecciones de objetos digitales[^8]  para museos, archivos y bibliotecas. En este software, propuesto por la maestría como herramienta para experimientos, fue la primera vez que noté las dificultades para definir las plantas en un entorno digital. En ese entonces estaba frente al dilema de cómo crear una "planta" en Omeka:  ¿Podía capturar o crear digitalmente una planta como se hace en un proceso de digitalización desde un soporte análogo o en la creación de un libro, imagen, sonido digital? Para poder hacer un proceso análogo debía en principio crear la planta como un item en Omeka. Los items types en este software se corresponden a las entidades en las bases de datos. Es decir "cualquier objeto (real o abstracto) sobre el cual queremos tener información en la base de datos" (Conabio, s.f). En esta plataforma las entidades estan pensadas por tipos -types- que se corresponden a tipos de documentos digitales (textos, sonidos, imágenes, representaciones visuales) o digitalizados (libros, fotografías, música, etc.), recursos (páginas web, historia oral, eventos), individuos (personas), entre otras entidades. Fue así que creé "Planta" como un item que además decribí como "individuo". (Ver: imagen 2)
 
 <img src="https://github.com/mjespinosam/botsque-doc/blob/master/imagenes/img-item-planta.png" style="zoom:150%;"/>
 
