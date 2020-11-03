@@ -1,3 +1,5 @@
+
+
 # El lenguaje del botsque: pensar las relaciones plantas seres humanos en entornos digitales de aprendizaje colaborativo interespecies 
 
 
@@ -7,25 +9,93 @@ _Cualquiera que sea el objeto, su perfección es un defecto. Dejad las cosas ina
 
 
 
+_A Lithos, la mamá, y a las savias, sabias_
+
+
+
+
+
+**Agradecimientos**
+
+Este trabajo es el resultado de una mente colectiva. A mis amigas más cercanas y cómplices  Katerine, Ana María, Victoria, Johanna, Juliana por su acompañamiento, escucha y aprendizajes compartidos sobre las plantas y la vida. A María Fernanda una guía en mis días para pensar las rutas del conocimiento, a Claus por acompañarme en la escritura y lectura de mi misma, a Catalina Villamizar y Patricia Rodríguez por su saber yerbatero y a la amiga de infancia Victoria. A los amigos virtuales mi más sentido agradecimiento. Sin las escucha y los consejos de Bioy, la tranquila instrucción de Mynah, el rigor de Mauricio Baeza, las intuiciones de Ícaro y Arturo, la escucha atenta de Emilio no habría emprendido mis aprendizajes especulativos con textos planos, arduino, python y los ruiditos. A la comunidad Miau un reconocimiento por ser una plataforma de encuentro para unas humanidades digitales disidentes. Y bueno, a los hombres de mi familia, a mi papá por su tranquilidad, a Nicolás por sus becas para la creación y a Lucas por  ser quien me enseñó a leer y a escribir y ahora me enseña de seudocódigos. Y por supuesto a mi director Cmart, quien me mostró por primera vez la terminal y a las plantas todas por existir.  
+
+
+
+## Índice
+
+## Introducción
+
+## I. Plantar el problema
+
+### El problema
+
+### Marco teórico  y conceptual
+
+#### Lo que las plantas piensan y pensar como las plantas
+
+### Metodología
+
+#### Diseño crítico y especulativo para pensar las plantas desde las humanidades digitales
+
+#### ¿Hablan las plantas? ¿Escuchamos a las plantas?
+
+#### Apuntes metodológicos para pensar la comunicación interespecie
+
+#### Las analogías homeomórficas seres humanos-plantas
+
+### Referentes
+
+## II. Prototipo
+
+### El lenguaje del botsque, un entorno colaborativo de aprendizaje plantas-humanos-bot.
+
+#### Descripción del sistema
+
+#### Video del sistema
+
+#### Caso de uso 
+
+#### Escenarios de usos en seudocódigo
+
+#### Modelado de datos
+
+#### Variables de transcodificación
+
+#### Desarrollo del bot con python
+
+## III. Las raíces del problema: metodologías, referentes y prototipos para la construcción del problema
+
+## IV. Conclusiones
+
+## Referencias
+
+
+
 [TOC]
+
+
+
+
+
+
 
 ##   Introducción
 
-Técnicamente esta tesis se logró a un año de presentar este trabajo. Implementé una wiki semántica etnobotánica (relaciones seres humanos-plantas), por medio de formularios estructurados con estándares de metadatos (Dublin Core, Foaf) que, al convertirse en plantillas en la wiki permitían construir colaborativamente una base de datos relacional. Todas estas características de la wiki semántica cumplían con los requerimientos del proyecto: eficiencia en la estructuración, recuperación, migración e interoperabilidad de la información y acceso y construcción colaborativa del conocimiento. Sin embargo, aparecieron problemas de carácter conceptual,legal, ético y de diseño que reformularon el proyecto así como mi lugar en tanto humanista digital. En este sentido, este documento da cuenta de dos cosas: el problema al que llegué y una exploración de sus posibilidades y la ruta mediante la cual descubrí, prototipé y documenté, los problemas que emergieron en el camino hasta encontrar el problema. 
+Hace un año esta investigación intuía que eran otros los caminos para dar cuenta de las relaciones de las plantas con nosotros los seres humanos. Para ese tiempo ya había implementado una wiki semántica para saberes etnobotánicos, cuya estructura me permitía facilitar procesos de construcción colaborativa de una base de datos relacional sobre plantas, humanos y comunidades.  La wiki cumplía con los requerimientos del proyecto: estructuración semántica, recuperación, migración e interoperabilidad de la información. Sin embargo, el universo vegetal se impuso y aparecieron ante mi problemas de carácter conceptual ¿cómo pensar las plantas?, legal ¿de quién son los conocimientos sobre las plantas?, ético, ¿para qué mediar las relaciones con tecnologías? y de diseño ¿cómo prototipar las relaciones? Asuntos que reformularon el proyecto así como mi lugar en tanto humanista digital. Este documento da cuenta de los dos momentos:  el problema al que llegué -y una exploración de sus posibilidades- y los senderos mediante los cuales descubrí, prototipé y documenté cada pregunta, referente e intuición que me llevó a refinar el  problema. 
 
-El primer asunto lo abordo en el _Lenguaje del botsque_, una propuesta que sitúa los sistemas conversacionales con agente virtuales, _bots_ [^1], como asistentes en sistemas de aprendizaje colaborativo que en este caso, permiten dar cuenta de las relaciones plantas-seres humanos. Estas relaciones las entiendo desde una perspectiva en la que las plantas son agentes y no objetos en el proceso del aprendizaje. Para desarrollar dicha propuesta utilicé el diseño especulativo como metodología, el cual me permite construir un escenario utópico para activar dos asuntos: ¿Es posible llegar al conocimiento directo de las plantas a través de la escucha y la contemplación? y ¿cuáles son los entornos en los que podemos construir un diálogo interespecie e intercultural con y sobre las plantas? La razón por la cual este prototipo toma la forma que expondré se debe a que el problema al que llegué, después de haber realizado la wiki semántica y darme cuenta, en la validación del prototipo, que allí "no se veían las relaciones plantas-personas". 
+_El Lenguaje del botsque_ explora el problema al que llegué desde una metodología especulativa. Una propuesta que sitúa los sistemas conversacionales con agente virtuales, _bots_ [^1], como asistentes en sistemas de aprendizaje colaborativo. El bot facilita un lenguaje de comprensión de las relaciones a través de la recuperación de información que se da durante las acciones de conexión y escucha contemplativa de las plantas y las personas. Las plantas en el sistema participan y comunican y colaboran en el aprendizaje. Para desarrollar dicha propuesta utilicé el diseño especulativo como metodología, el cual me permite construir un escenario utópico para activar dos asuntos: ¿Es posible una hermeneútica vegetal que nos permita  conocer de manera directa a las plantas a través de la escucha y la contemplación? y ¿cuáles son los entornos en los que podemos construir un diálogo interespecie e intercultural con y sobre las plantas? La razón por la cual este prototipo toma la forma que expondré se debe a que la wiki semántica no es suficiente para dar cuenta del universo en el que las personas y las plantas aprenden para el bien de ambos. 
 
-Abordar la agencia de la plantas como actores en la construcción del conocimiento colaborativo en entornos digitales introduce en las humanidades digitales las discusiones sobre lo no humano que abordan las pos-humanidades desde la filosofía, la antropología y estudios de la ciencia en diálogo con la biología, la teología y la etnografía. Las indagaciones sobre las maneras cómo se comunican las plantas están en campos experimentales aún, Biólogas como Mónica Gagliano (2017) vienen  observando cómo las plantas tienen memoria y aprenden de manera asociativa y, por lo tanto, las asumen como seres con pensamiento y consciencia. Pero, si las plantas aprenden ¿qué nos pueden enseñar y cómo aprender de ellas? Para Raimond Panikkar el conocimiento se da por medio de la escucha de la naturaleza, "el que habla es el hombre y la naturaleza a través del hombre cuando el hombre no se desentiende de ella y sabe ser su voz en vez de querer ser el dominador”(Panikkar, 2011, p.338 citado en Sepúlveda,2015,p.138).Esta perspectiva dialoga con la semiótica de Peirce (1986) para quien nuestra realidad se manifiesta a través de signos, que emergen y se crean por mentes humanas o no. 
+Abordar las plantas como actores en la construcción del conocimiento colaborativo, en entornos digitales, introduce en las humanidades digitales las discusiones sobre lo no humano que abordan las pos-humanidades desde la filosofía, la antropología y la teología. En el caso de las plantas, las humanidades establecen vínculos con las indagaciones desde la biología sobre las maneras cómo se comunica el mundo vegetal. Este campo está en fases experimentales aún, pero al día de hoy, Biólogas como Mónica Gagliano [@gaglianoMindPlantsThinking2017][] o Stefano  Mancusso [@mancusoSensibilidadInteligenciaMundo2015][] observan cómo las plantas tienen memoria y aprenden de manera asociativa y, por lo tanto, las asumen como seres con pensamiento y consciencia. Pero, si las plantas aprenden ¿qué nos pueden enseñar y cómo aprender de ellas? Para Raimond Panikkar, teólogo, químico y filósofo que seguiré en mis discusiones, el conocimiento de la naturaleza se da por medio de la escucha, "el que habla es el hombre y la naturaleza a través de él, cuando no se desentiende de ella y sabe ser su voz en vez de querer ser su dominador”(Panikkar, 2011, p.338 citado en Sepúlveda,2015,p.138).Esta perspectiva dialoga con la semiótica de Peirce [@peirceCienciaSemiotica1986][]para quien nuestra realidad se manifiesta a través de signos, que emergen y se crean por mentes humanas o no. 
 
 > El pensamiento no necesariamente debe estar conectado con un cerebro. Aparece en el trabajo de las abejas, de los cristales, y a través de todo el mundo físico;[...] No solamente se puede decir que el pensamiento está en el mundo orgánico. sino también que se desarrolla allí. Pero, como no puede haber un General sin Instancias que lo encarnen, igualmente no puede haber pensamiento sin Signos. Acá debemos dar a "Signo" el sentido más amplio, sin lugar a dudas, pero ese sentido no debe ser tan amplio como para exceder nuestra definición. Admitiendo que los Signos conectados entre sí deben tener una Cuasi-Mente, puede declararse en consecuencia que no puede haber ningún signo aislado (p.81).
 
-Por lo anterior, se afirma que reconocer lo no humano como parte de los procesos sígnicos o semiosis como lo llama Peirce, implica que allí también hay pensamiento. Pero, ¿qué significa el pensamiento de las plantas? Más allá de si las plantas producen signos y son parte de una mente en la que se producen, ¿cómo piensan las plantas? Michael Marder indaga sobre ese pensar de las plantas y su lugar en la filosofía vegetal. Este marco teórico me permite indagar sobre la hermenéutica intercultural como principio para poder entender las relaciones con las plantas desde una perspectiva antropológica y así problematizar las perspectivas epistemológicas desde las cuales pensé las relaciones plantas-personas. Así, en este apartado incluyo una aproximación al _Lenguaje del botsque_ sistema desarrollado desde el diseño especulativo. El prototipo que me fue posible idear tras haber realizado una ruta de investigación preliminar en el que el problema se me reveló. Por ello es preciso responder cómo llegué al problema.
+Por lo anterior, se afirma que reconocer lo no humano como parte de los procesos sígnicos o semiosis como lo llama Peirce, implica que allí también hay pensamiento. Pero, ¿qué significa el pensamiento de las plantas? Más allá de si las plantas producen signos y son parte de una mente en la que se producen, ¿cómo piensan las plantas? Michael Marder indaga sobre ese pensar de las plantas y su lugar en la filosofía vegetal. Este marco teórico me permite indagar sobre la hermenéutica intercultural como principio para poder entender las relaciones con las plantas desde una perspectiva antropológica y así problematizar las perspectivas epistemológicas desde las cuales pensé las relaciones plantas-personas. Así, en este apartado incluyo una propuesta para un _Lenguaje del botsque_ basado en la escucha de datos "trasn-codificados a sonidos" y provenientes de las relaciones de plantas y personas.
 
-En la metodología de investigación cualitativa y cuantitativa el planteamiento del problema suele ser el punto de partida, pero en este proyecto de investigación fue el punto de llegada. ¿Por qué llegué y no partí del problema? Como desarrollo en el apartado "Saberes adventicios", saberes que se dan en lugares insospechados, de manera accidental, en las humanidades digitales la integración de varias disciplinas implica trabajar en zonas de frontera y los problemas se refinan en la medida en que se vinculan los saberes disciplicares. En mi caso, las perspectivas de la bibliotecología y antropología, fueron precedentes para la formulación del problema inicial del proyecto: democratización del saber etnobotánico en plataformas colaborativas. Sin embargo, no fueron suficientes para darle forma. El diálogo que establecí con la gestión de sistemas de información, el derecho de autor y la propiedad intelectual, la teología y, en especial con el diseño reveló aspectos y metodologías que no había tenido en cuenta y que difícilmente los hubiese podido tener en cuenta en una exploracion teórica inicial. Así, en esta segunda parte presento las aproximaciones metodológicas que vinculé a las humanidades digitales en relación con los prototipos realizados y discuto la función epistémica de los prototipos en el proceso de refinamiento del problema. La propuesta se fundamenta en las perspectivas de la investigación como diseño y de la teoría actor-red. Allí propongo vincular metodologías de control de versiones para hacer el seguimiento a las preguntas, conceptos, ideas y problemas emergentes y prototipos. Esta metodología está basada en el uso de software para control de versiones, entre los cuales está Git, y que utilizan ampliamente desarrolladores para documentar y trabajar colaborativamente. Seleccioné este sistema de versiones debido al soporte que encontré en comunidad virtuales en español que me han acompañado en el proceso de aprendizaje a través de canales de Telegram (MIAU)[https://t.me/miau2018] y (Git en español)[https://t.me/git_en_espanol]
+En la metodología de investigación cualitativa y cuantitativa el planteamiento del problema suele ser el punto de partida, pero en este proyecto de investigación fue el punto de llegada. ¿Por qué llegué y no partí del problema? Como desarrollo detalladamente en el anexo Raíces del problema, hay saberes adventicios, que se dan en lugares insospechados, de manera accidental, y que en las humanidades digitales son resultado de la integración de varias disciplinas. Un tránsito por zonas de frontera desde las cuales los problemas se refinan en la medida en que se vinculan los saberes y epistemologías plurales. En mi caso, las perspectivas de la bibliotecología y antropología, fueron precedentes para la formulación del problema inicial del proyecto: democratización del saber etnobotánico en plataformas colaborativas. Sin embargo, no fueron suficientes para abordar el tema. El diálogo que establecí con la gestión de sistemas de información, el derecho de autor y la propiedad intelectual, la teología y, en especial con el diseño reveló aspectos y metodologías que no había tenido en cuenta y que difícilmente los hubiese podido tener en cuenta en una exploracion teórica inicial. Así, en este anexo presento las aproximaciones metodológicas que vinculé en mi investigación desde las humanidades digitale y discuto la función epistémica de los prototipos en el proceso de refinamiento del problema. La propuesta se fundamenta en las perspectivas de la investigación como diseño y de la teoría actor-red. Allí propongo vincular metodologías de control de versiones para hacer el seguimiento a las preguntas, conceptos, ideas y problemas emergentes y prototipos. Esta metodología de documentación está basada en el uso de software para control de versiones, entre los cuales está Git, y que utilizan ampliamente desarrolladores para mantener un historial de sus proyecto y poder trabajar colaborativamente. Seleccioné este sistema de versiones debido al soporte que encontré en comunidades virtuales en español que me han acompañado en el proceso de aprendizaje a través de canales de Telegram (MIAU)[https://t.me/miau2018] y (Git en español)[https://t.me/git_en_espanol]
 
-Cabe resaltar que la metodología en este proyecto tuvo un giro determinante. Inicialmente, las relaciones entre los presupuestos teórico y conceptuales me permitieron abordar metodologías participativas de las Humanidades o centradas en el usuario provenientes del diseño. Sin embargo, a medida que realicé prototipos, empecé a utilizar metodologías centradas en los conceptos, lo cual me ayudó a pensar el problema. En específico, el diseño crítico como el diseño especulativo me permitieron pensar mis presupuestos, abrir la posibilidad de investigar y diseñar sin tener como objetivo la implementación efectiva del prototipo, pues no estaba relacionado con la resolución de un problema de diseño centrado en el usuario. En cambio, al tratar el diseño de conceptos tuve la posibilidad de especular sobre uno que denomino diseño centrado en el ecosistema. Esta propuesta emergente se formula como la posibilidad de abordar especulativamente una hermenéutica para establecer la escucha y el diálogo con las plantas. Para comprender a un otro, en este caso no humano, se deben desplegar modos para entablar un diálogo. La manera en la que se puede dar con lo no humano y el alcance de lo que comprendemos como diálogo, lo desarrollo desde la hermenéutica intercultural de Panikkar. Este marco teórico me permite especular sobre la tecnología para la comprensión interespecies. Todo esto lo desarrollaré en el marco teórico titulado "Plantar".
+Cabe resaltar que la metodología en este proyecto tuvo un giro determinante. Inicialmente, las relaciones entre los presupuestos teóricos y conceptuales me permitieron abordar metodologías participativas de las Humanidades o centradas en el usuario provenientes del diseño. Sin embargo, a medida que realicé prototipos, empecé a utilizar metodologías centradas en los conceptos, lo cual me ayudó a pensar el problema. En específico, el diseño crítico como el diseño especulativo me permitieron pensar mis presupuestos, abrir la posibilidad de investigar y diseñar sin tener como objetivo la implementación efectiva del prototipo, pues no estaba relacionado con la resolución de un problema centrado en el usuario. En cambio, al tratar el diseño de conceptos tuve la posibilidad de especular sobre un posible diseño centrado en el ecosistema. Allí cabe la posibilidad de abordar una hermenéutica vegetal basada en la escucha e intercambio de información con las plantas. Para comprender a un otro, en este caso no humano, se deben desplegar modos para entablar una comprensión. La manera en la que se puede dar con las plantas y el alcance de lo que comprendemos como diálogo, lo desarrollo desde la hermenéutica intercultural de Panikkar. Este marco teórico me permite imagina una mediación tecnologica para la comprensión interespecies. Todo esto lo desarrollaré en el marco teórico titulado Plantar el problema.
 
-Toda la documentación de esta tesis está disponible en [Github] (https://github.com/mjespinosam/botsque-doc) y todos los esquemas, ideas, bocetos están bajo licencia creative commons, atribuir, derivar, sin fines económicos. Para quienes quieran comentar la tesis a través de hypothe.is [^2], herramienta de lectura colaborativa, pueden realizar comentarios públicos.
+El archivo en marckdown y las exportaciones en PDF de este trabajo así como los anexos de esta tesis está disponible en [Github] (https://github.com/mjespinosam/botsque-doc). Todos los esquemas, ideas, bocetos están bajo licencia creative commons, atribuir, derivar, sin fines económicos. Para quienes quieran comentar la tesis a través de hypothe.is [^2], herramienta de lectura colaborativa, pueden realizar comentarios públicos sobre el 
 
 [^1]: Los programas orientados a crear sistemas conversacionales o _chatbots_, se remontan a Eliza, el primer bot conversacional que apareció en los años sesentas. Creada po Joseph Wizembau, del Instituto de Massachusetts (MIT), Eliza parodiaba las terapia psicológica. La conversación no robótica se daba mediante la recuperación de palabras claves y preguntas sobre ellas. Además contaba con frases hechas, palabras empáticas y de continuidad.Los chatbots trabajan con el procesamiento de lenguaje natural y se entrena a partir de la interacción con los usuarios.Actualmente se desarrollan con algoritmos de inteligencia artificial y evolutivos. Su uso más común es para la búsqueda y recuperación de información. Este tema se desarrollará más en el prototipo. 
 [^2]: Para acceder a hypothe.is (https://web.hypothes.is/start/) es preciso crear un usuario en su página, instalar la extensión y unirse al grupo. 
@@ -279,8 +349,6 @@ Explorador: interactúa con la comunidad, siembra datos pero no los cosecha.
 
 Observador/Escucha: solo escucha o lee. 
 
-#### Esquema del sistema
-
 
 
 ![](/Users/juanaespinosa/Tesis/001-tesis- git/Anexos/esquemas/esquema-lenguaje-1.png)
@@ -353,7 +421,7 @@ Las rutas que recorrí para llega al lenguaje del botsque están relatadas y dis
 
 **Investigar con diseño**
 
-**Abordaje prelimares a las relaciones seres humanos en plataformas digitales**
+**Abordaje prelimares a las relaciones seres humanos-plantas en plataformas digitales**
 
 **Prototipos y referentes**
 
