@@ -14,7 +14,7 @@ La usuaria elige 1, registrarse
 
 El bot le da tres opciones 1) registrar persona o, 2) registrar planta 3) Volver al menú
 
-La usuaria elige 1) registrarse como persona
+La usaaria elige 1) registrarse como persona
 
 El bot confirma si es la ciudad x donde se encuentra. El bot reconoce la ip y establece un lugar. El lugar debe ser 
 
@@ -158,7 +158,7 @@ La usuaria elige 2.
 
 El bot confirma. Tu respuesta es 2. 1)Ver el tutoría 2) Ver el tutorial luego. Volver al menú
 
-La usauria digita 1.
+La usuaria digita 1.
 
 El bot entrega el enlace del video tutorial
 
